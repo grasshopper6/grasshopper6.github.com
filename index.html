@@ -1,74 +1,187 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+		<title>人口</title>
+		<link href="stylesheets/css1.css" rel="stylesheet" type="text/css">
+		<script Language="JavaScript" src="javascripts/Map.js"> </script>
+		<script type="text/javascript">   //<![CDATA[
+		window.onload = function() { 
+		rolinTab("rolin") } 
+		function rolinTab(obj) { 
+        var list = $(obj).getElementsByTagName("li"); 
+        var state = {show:false,hidden:false,showObj:false}; 
+        for (var i=0; i<list.length; i++) { 
+        var tmp = new rolinItem(list[i],state); 
+        //if (i == 0) tmp.pShow(); 
+		} 
+		var num=0;
+		magnifier.init({
+        cont : document.getElementById('magnifier'),
+        img : document.getElementById('magnifierImg'),
+        mag : document.getElementById('mag'),
+        scale : 20
+		
+        });
+		} 
+        function rolinItem(obj,state) { 
+        var speed = 1; 
+        var range = 1; 
+        var interval; 
+        var tarH; 
+        var tar = this; 
+        var head = getFirstChild(obj); 
+        var content = getNextChild(head); 
+        var isOpen = false; 
+        this.pHidden = function() { 
+        if (isOpen)
+		hidden(); 
+		} 
+        this.pShow = show; 
+        var baseH = content.offsetHeight; 
+        content.style.display = "none"; 
+        var isOpen = false; 
+        head.onmouseover = function() { 
+        this.style.background = "#EFEFEF"; } 
+        head.onmouseout = mouseout; 
+        head.onclick = function() { 
+        this.style.background = "#EFEFEF"; 
+        if (!state.show && !state.hidden) { 
+        if (!isOpen) { 
+        head.onmouseout = null; 
+        show(); 
+		} else { 
+        hidden(); 
+		} 
+		} 
+		} 
+        function mouseout() { 
+        this.style.background = "#FFF" 
+		} 
+        function show() { 
+        //head.style.borderBottom = "6px solid #DADADA"; 
+        state.show = true; 
+		if (state.openObj && state.openObj != tar ) { 
+        state.openObj.pHidden(); 
+		} 
+        content.style.height = "0px"; 
+        content.style.display = "block"; 
+        content.style.overflow = "hidden"; 
+        state.openObj = tar; 
+        tarH = baseH; 
+        interval = setInterval(move,10); } 
+        function showS() { 
+		isOpen = true; 
+        state.show = false; 
+		} 
+		function hidden() { 
+        state.hidden = true; 
+        tarH = 0; 
+        interval = setInterval(move,10); 
+		} 
+        function hiddenS() { 
+        //head.style.borderBottom = "none"; 
+        head.onmouseout = mouseout; 
+        head.onmouseout(); 
+        content.style.display = "none"; 
+        isOpen = false; 
+        state.hidden = false; 
+		} 
+        function move() { 
+        var dist = (tarH - content.style.height.pxToNum())*speed; 
+        if (Math.abs(dist) < 1) dist = dist > 0 ? 1: -1; 
+        content.style.height = (content.style.height.pxToNum() + dist) + "px"; 
+        if (Math.abs(content.style.height.pxToNum() - tarH) <= range ) { 
+        clearInterval(interval); 
+        content.style.height = tarH + "px"; 
+        if (tarH != 0) { 
+        showS() 
+		} 
+		else { 
+		hiddenS(); 
+		} 
+		} 
+		} 
+		} 
+        var $ = function($) {return document.getElementById($)}; 
+        String.prototype.pxToNum = function() {return Number(this.replace("px",""))} 
+        function getFirstChild(obj) { 
+        var result = obj.firstChild; 
+        while (!result.tagName) { 
+        result = result.nextSibling; 
+		} 
+        return result; 
+		}     
+        function getNextChild(obj) { 
+		var result = obj.nextSibling; 
+        while (!result.tagName) { 
+        result = result.nextSibling; 
+		} 
+        return result; 
+		} 
+		
+		function on_hide(n)
+		{
+        var svgViewer = document.getElementById("svgEmbed");
+		var SVGDoc = svgViewer.getSVGDocument();
+		var SVGRoot = SVGDoc.documentElement;
+		var rect = SVGDoc.getElementById("layer_"+n);
+		rect.style.display = (document.getElementById("checkbox_"+n).checked == true) ? "block" : "none";
+		
+		}
 
-  <head>
-    <meta charset='utf-8' />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="Grasshopper6.github.com : pages" />
+	//]]> 	
+	
+  </script>  
+		
+	</head>
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+	<body >
+	<div class="zhongzuo">
+	<ul class="rolinList" id="rolin"> 
+	<li> 
+	<h2>图层</h2> 
+	<div class="content">
+	<input id="checkbox_1" type="checkbox"  onclick="on_hide(1);" checked="checked"/>2000年各地（市）区人口<br/>
+	<input id="checkbox_3" type="checkbox"  onclick="on_hide(3);" />2010年各地（市）区人口<br/>
+	<input id="checkbox_2" type="checkbox"  onclick="on_hide(2);" checked="checked"/>市县人口<br/>
+	<input id="checkbox_4" type="checkbox"  onclick="on_hide(4);" />居民点分布（核密度表示）<br/>
+	</div> 
+	</li> 
+	<li> 
+	<h2>图例</h2> 
+	<div class="content">
+	<iframe width=230 height=262 src="images/renkoulegend.png" scrolling="auto"></iframe>
+	</div> 
+	</li> 
+	<li> 
+	<h2>功能</h2> 
+	<div class="content">
+	<input type="button" value="中心放大" onclick="zoomIn()"><br>
+    <input type="button" value="中心缩小" onclick="zoomOut()"><br>
+    <input type="button" value="全图" onclick="fullscreen()"><br>
+	<input type="button" value="漫游" onclick="mapPan()"><br>
+    <input type="button" value="拉框放大" onclick="mapRectZoom()"><br>
+	</div> 
+	</li> 
+	</ul> 
+	</div>
+	<div class="shang">
+	<div class="youshang">
+	<img  alt="2" src="images/fangda.png" width=58 height=30 border=0 onclick="zoomIn()" />
+	<img  alt="2" src="images/suoxiao.png" width=58 height=30 border=0 onclick="zoomOut()"/>
+	<img  alt="2" src="images/manyou.png" width=58 height=30 border=0  onclick="mapPan()"/>
+	<img  alt="2" src="images/quantu.png" width=58 height=30 border=0  onclick="fullscreen()"/>
+	<img  alt="2" src="images/yingyan.png" width=58 height=30 border=0 />
+	<img  alt="2" src="images/dayin.png" width=58 height=30 border=0 />
+	<img  alt="2" src="images/bangzhu.png" width=58 height=30 border=0 />
+	</div>
+	</div>
+	<div class="zhong">
+	<div class="zhongyou" id="mainmap"style="display:block">
+    <embed id="svgEmbed"  pluginspage=http://www.adobe.com/svg/viewer/install/ style=" width="1491px" height="1066px"" src="map/chen.svg"  type="image/svg+xml"/>
+	</div>
+	
 
-    <title>Grasshopper6.github.com</title>
-  </head>
-
-  <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/grasshopper6">View on GitHub</a>
-
-          <h1 id="project_title">Grasshopper6.github.com</h1>
-          <h2 id="project_tagline">pages</h2>
-
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>
-<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
-
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
-
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
-
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
-
-<h3>
-<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
-
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
-
-<h3>
-<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
-
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
-
-<h3>
-<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
-
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-<h3>
-<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-    
-
-  </body>
+	</body>
 </html>
