@@ -1,0 +1,9 @@
+.desSlideshow{
+    background-image: url(../images/loading.gif);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.desSlideshow .switchBigPic,.desSlideshow .nav{
+    display: none;
+}
+
