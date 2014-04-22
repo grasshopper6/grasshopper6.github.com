@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
-		<title>注记为曲线</title>
+		<title>全部为svg</title>
 		<link href="../stylesheets/css1.css" rel="stylesheet" type="text/css">
 
 		<script Language="JavaScript" src="js/jquery-1.9.1.js"> </script>
@@ -131,104 +131,7 @@
 		rect.style.display = (document.getElementById("checkbox_"+n).checked == true) ? "block" : "none";
 		
 		}
-		function ProgressBar(info){ 
-        var stem = {};// 此函数最后返回的代表进度条的对象。
-        var done = 0, length, outline, bar;// 声明内部变量。
-        bar = document.getElementById('done');// 进度条中绿色的变化部分。
-        length = 120; 
-                
-       // 重置进度到零。
-        function reset(){ 
-        return to(0); 
-        } 
-       // 设置进度到某个值。
-        function to(value){ 
-        if (value >= 120) { 
-        done = 120; 
-        bar.setAttribute('width', length); 
-        } 
-        else { 
-        done = value; 
-        bar.setAttribute('width', Math.round(done * length / 120)); 
-        } 
-        return stem; 
-        } 
-        // 进度变化某个值。
-        function advance(step){ 
-        return to(done + step); 
-        } 
-       // 以下给进度条对象添加方法。
-      // 获得当前进度值。
-        stem.getDone = function(){ 
-        return done 
-       }; 
-        stem.reset = reset; 
-        stem.to = to; 
-        stem.advance = advance; 
-        return stem;// 返回可供脚本使用的进度条对象。
-       } 
-       // 测试进度条对象。
-       function testBar(){ 
-       var bar = ProgressBar(); 
-       // 此内部函数每运行一次，增加进度值 1，直到进度值为 100。
-       function test(){ 
-       if (bar.getDone() === 120) { 
-       clearInterval(id); 
-       } 
-       else { 
-       bar.advance(1); 
-	   var svgViewer = document.getElementById("svgEmbed");
-	   var SVGDoc = svgViewer.getSVGDocument();
-	   if (bar.getDone() === 0){
-	   SVGDoc.getElementById("layer_1").style.display="block";
-	   SVGDoc.getElementById("layer_3").style.display="none";
-	   SVGDoc.getElementById("layer_5").style.display="none";}
-	   else if (bar.getDone() === 60){
-	  SVGDoc.getElementById('layer_1').style.display="none";
-	  SVGDoc.getElementById('layer_3').style.display="none";
-	  SVGDoc.getElementById('layer_5').style.display="block";}
-	  else if (bar.getDone() === 120){
-	  SVGDoc.getElementById('layer_1').style.display="none";
-	  SVGDoc.getElementById('layer_3').style.display="block";
-	  SVGDoc.getElementById('layer_5').style.display="none";   }
-       } 
-       } 
-       // 每十分之一秒改变一次进度。
-       var id = setInterval(test, 100); 
-       } 
-            // 页面载入后开始测试。
-       window.addEventListener('load', testBar, true); 
-	   function SetLength(length){
-	   document.getElementById('done').setAttribute('width', length);
-	   var svgViewer = document.getElementById("svgEmbed");
-	   var SVGDoc = svgViewer.getSVGDocument();
-	   
-	   switch(length)
-        {
-              case 0:
-			  {
-              SVGDoc.getElementById("layer_1").style.display="block";
-			  SVGDoc.getElementById("layer_3").style.display="none";
-			  SVGDoc.getElementById("layer_5").style.display="none";
-			  break;
-			  }
-              case 60:
-              {SVGDoc.getElementById('layer_1').style.display="none";
-			  SVGDoc.getElementById('layer_3').style.display="none";
-			  SVGDoc.getElementById('layer_5').style.display="block";
-			  break;
-			  }
-              case 120:
-             { 
-			 SVGDoc.getElementById('layer_1').style.display="none";
-			 SVGDoc.getElementById('layer_3').style.display="block";
-			 SVGDoc.getElementById('layer_5').style.display="none";   
-			 break;
-			 }
-			 default:
-             break;
-        }
-	   }
+		
 
 	//]]> 	
 	
@@ -275,13 +178,13 @@
 	<img  alt="2" src="../images/yingyan.gif" width=58 height=23 border=0 />
 	<a href="../index.html" target=_blank>
 	<img  alt="2" src="../images/shangyiye.gif" width=79 height=23 border=0 /></a>
-	<a href="../page/text.html" target=_blank>
+	<a href="../page/curves.html" target=_blank>
 	<img  alt="2" src="../images/xiayiye.png" width=79 height=23 border=0 /></a>
 	</div>
 	</div>
 	<div class="zhong">
 	<div class="zhongyou" id="mainmap"style="display:block">
-    <embed id="svgEmbed"  pluginspage=http://www.adobe.com/svg/viewer/install/ style=" width="1491px" height="1066px"" src="../map/curves.svg"  type="image/svg+xml"/>
+    <embed id="svgEmbed"  pluginspage=http://www.adobe.com/svg/viewer/install/ style=" width="1491px" height="1066px"" src="../map/economic.svg"  type="image/svg+xml"/>
 	<div id='svgDiv'> 
 	<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 140 100" style="width:140px; height:100px; "> 
     <g id='progBar'> 
@@ -305,8 +208,8 @@
 	<div class="Field" style="border:1px solid #DADADA;">
     <p style="font-size:18px;font-weight:bold;">测试：</p>
 	<div class="Field1" style="position:absolute;left:200px;top:10px;">
-	<a href="../page/text.html" target=_blank>
-    <p style="font-size:15px; cursor:pointer;">注记为text</p></a>
+	<a href="../page/curves.html" target=_blank>
+    <p style="font-size:15px; cursor:pointer;">注记为曲线</p></a>
 	</a>
 	</div>
 	
