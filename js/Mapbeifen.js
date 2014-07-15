@@ -1,7 +1,7 @@
 ﻿var svgDoc,Map,map,ttrelem,tttelem,tt,node,node1,imgg;
 var svgW,svgH,vbMaxW,vbMaxH;
 var vbCX,vbCY,vbCW,vbCH,WAmp,HAmp,currentAmp;
-var minAmp,maxAmp=0.45;
+var minAmp,maxAmp=2;
 var CMD=null;
 var isBusy=false;
 var panX,panY;
@@ -35,7 +35,7 @@ function Init(evt)
 {
 	svgDoc = evt.target.ownerDocument;
 	Map = svgDoc.rootElement;
-   // alert(Map.nodeName);
+    alert(Map.nodeName);
 	map= svgDoc.getElementById("map");
    // alert(map.nodeName);
 	initBasicParam();
@@ -50,7 +50,11 @@ function Init(evt)
     parentWnd = window.parent;//获得引用svg文件的父窗口
 	  
 }
+function slowshow(){
+  //  i=i+1;
+  //  svgDoc.getElementById("mysquare"+i).style.display ="block";
 
+}
 function doAnim()
      {    
      newX=newX+10;
@@ -86,17 +90,13 @@ function mapMouseDown(evt)
 		case null:
 			break;
 		case "PAN"://漫游
-			//addGraphicUnit1();
-		    if(minAmp==currentAmp) {alert("请先放大地图..."); map.removeChild(node); CMD = null;  break;}
+		    if(minAmp==currentAmp) {alert("请先放大地图...");break;}
 		    panX=evt.clientX;
 	        panY=evt.clientY;
 	        isBusy=true;
 		    break;
 		case"RECTZOOM"://拉框放大
-    		if(!checkAmp()) {
-			map.removeChild(node);
-			return;
-			}
+    		if(!checkAmp()) return;
 		   	getCurrentVB();
 			var x=evt.clientX*WAmp+vbCX;
 			var y=evt.clientY*HAmp+vbCY;
@@ -126,7 +126,6 @@ function mapMouseMove(evt)
 		case null:
 			break;
 		case "PAN"://漫游
-		
 		    getCurrentVB();
 			var x=-(evt.clientX-panX)*WAmp+vbCX;
 			var y=-(evt.clientY-panY)*HAmp+vbCY;
@@ -134,6 +133,7 @@ function mapMouseMove(evt)
 			y=Math.min(Math.max(y,0),vbMaxH-vbCH);
 			panX=evt.clientX; panY=evt.clientY;
 			Map.setAttributeNS(null,"viewBox",x+" "+y+" "+vbCW+" "+vbCH);
+			//parent.MiniRect_Refresh(vbCX/vbMaxW,vbCY/vbMaxH,vbCW/vbMaxW,vbCH/vbMaxH);	
 			break;
 		case"RECTZOOM"://拉框放大
 			var x=parseFloat(zoomRect.getAttributeNS(null,"x"));
@@ -158,9 +158,8 @@ function mapMouseUp(evt)
 			isBusy=false;
 			map.removeChild(node);
 			getCurrentVB();
-			//parent.MiniRect_Refresh(vbCX/vbMaxW,vbCY/vbMaxH,vbCW/vbMaxW,vbCH/vbMaxH);	
 		    break;
-			map.removeChild(node);	
+
 		case"RECTZOOM"://拉框放大
 		    	isBusy=false;
 			var x=parseFloat(zoomRect.getAttributeNS(null,"x"));
@@ -205,7 +204,7 @@ function setCMD(cmd)
 }
 function mapPan()
 {
-   addGraphicUnit1();
+    addGraphicUnit1();
     setCMD("PAN");
 }
 parent.mapPan = mapPan;
@@ -219,17 +218,13 @@ parent.mapRectZoom = mapRectZoom;
 
 function zoomIn()
 {
-	if(checkAmp()) 
-	{
-		zoomVal +=5;
-		zoomTo(zoomVal);
-	}
-	
+	zoomVal += 20;
+	zoomTo(zoomVal);
 }
 parent.zoomIn = zoomIn;
 function zoomOut()
 {
-	zoomVal -= 5;
+	zoomVal -= 20;
 	zoomVal = (zoomVal<=0)?0:zoomVal;
 	zoomTo(zoomVal);
 }
@@ -310,8 +305,75 @@ function getCurrentVB()
 	currentAmp = 1/WAmp;
 }
 
+function ShowTooltip(evt,txt)
+{  
+  var posx, posy, curtrans, ctx, cty;
+  posx = evt.clientX;
+  posy = evt.clientY;
+  curtrans = Map.currentTranslate;
+  ctx = curtrans.x;
+  cty = curtrans.y;
+  var obj = evt.target;  
+  obj.setAttribute("fill-opacity", "0.5");
+  obj.setAttribute("style", "fill: #33FFFF");
+  tttelem.childNodes.item(0).data = txt;
+  imgg.setAttribute("x", posx*WAmp+vbCX);
+  imgg.setAttribute("y", posy*HAmp+vbCY);
+  imgg.setAttribute("style", "visibility: visible");
+  ttrelem.setAttribute("x", posx*WAmp+vbCX);
+  ttrelem.setAttribute("y", posy*HAmp+vbCY-20);
+  tttelem.setAttribute("x", posx*WAmp+vbCX+5);
+  tttelem.setAttribute("y", posy*HAmp+vbCY-8);
+  var t=tttelem.getComputedTextLength();
+  if(tttelem.getComputedTextLength()<240)
+  { ttrelem.setAttribute("width", 165);}
+  else {ttrelem.setAttribute("width", 210);}
+  tttelem.setAttribute("style", "fill: #0000CC;font-family='Simhei'; font-size: 11px; visibility: visible");
+  ttrelem.setAttribute("style", "fill: #FFFFCC; stroke: #000000; stroke-width: 0.5px; visibility: visible");
+}
+function Recover(evt)
+{
+  var obj = evt.target;            
+  obj.setAttribute("fill-opacity", "0");
+  ttrelem.setAttribute("style", "visibility: hidden");
+  tttelem.setAttribute("style", "visibility: hidden");
+  imgg.setAttribute("style", "visibility: hidden");
+}
+function ShowTooltip1(evt,txt)
+{  
+  var posx, posy, curtrans, ctx, cty;
+  posx = evt.clientX;
+  posy = evt.clientY;
+  
+  tttelem.childNodes.item(0).data = txt;
+  ttrelem.setAttribute("x", posx*WAmp+vbCX);
+  ttrelem.setAttribute("y", posy*HAmp+vbCY-20);
+  tttelem.setAttribute("x", posx*WAmp+vbCX+5);
+  tttelem.setAttribute("y", posy*HAmp+vbCY-8);
+  var t=tttelem.getComputedTextLength();
+  if(tttelem.getComputedTextLength()<120)
+  { ttrelem.setAttribute("width", 90);}
+  else if(t>180&&tttelem.getComputedTextLength()<250)
+  { ttrelem.setAttribute("width", 170);}
+  
+  else {ttrelem.setAttribute("width", 270);}
+  tttelem.setAttribute("style", "fill: #0000CC;font-family='Simhei'; font-size: 11px; visibility: visible");
+  ttrelem.setAttribute("style", "fill: #FFFFCC; stroke: #000000; stroke-width: 0.5px; visibility: visible");
+}
 
-
+function HideTooltip(evt)
+{
+ 
+  ttrelem.setAttribute("style", "visibility: hidden");
+  tttelem.setAttribute("style", "visibility: hidden");
+  imgg.setAttribute("style", "visibility: hidden");
+}
+function ZoomControl()
+{
+  var curzoom;
+  curzoom = Map.currentScale;
+  svgDoc.getElementById("tooltip").setAttribute("transform","scale("+1/curzoom+")");
+}
    
 
   

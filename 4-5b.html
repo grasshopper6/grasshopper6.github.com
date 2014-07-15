@@ -1,0 +1,369 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>
+            西藏自治区地势
+        </title>
+        <link href="css/jiemiancss.css" rel="stylesheet" type="text/css">
+        <script Language="JavaScript" src="js/jiemians.js">
+
+        </script>
+        <script type="text/javascript">
+            //<![CDATA[
+            window.onload = function() {
+                rolinTab("rolin");
+                var oWin = document.getElementById("win");
+                var oLay = document.getElementById("overlay");
+                var oBtn = document.getElementById("button");
+                var oClose = document.getElementById("close");
+                var oH2 = oWin.getElementsByTagName("h2")[0];
+                var bDrag = false;
+                var disX = disY = 0;
+                oBtn.onclick = function() {
+                    oLay.style.display = "block";
+                    oWin.style.display = "block"
+                };
+                oClose.onclick = function() {
+                    oLay.style.display = "none";
+                    oWin.style.display = "none"
+                };
+                oClose.onmousedown = function(event) { (event || window.event).cancelBubble = true;
+                };
+                oH2.onmousedown = function(event) {
+                    var event = event || window.event;
+                    bDrag = true;
+                    disX = event.clientX - oWin.offsetLeft;
+                    disY = event.clientY - oWin.offsetTop;
+                    this.setCapture && this.setCapture();
+                    return false
+                };
+                document.onmousemove = function(event) {
+                    if (!bDrag) return;
+                    var event = event || window.event;
+                    var iL = event.clientX - disX;
+                    var iT = event.clientY - disY;
+                    var maxL = document.documentElement.clientWidth - oWin.offsetWidth;
+                    var maxT = document.documentElement.clientHeight - oWin.offsetHeight;
+                    iL = iL < 0 ? 0 : iL;
+                    iL = iL > maxL ? maxL: iL;
+                    iT = iT < 0 ? 0 : iT;
+                    iT = iT > maxT ? maxT: iT;
+                    oWin.style.marginTop = oWin.style.marginLeft = 0;
+                    oWin.style.left = iL + "px";
+                    oWin.style.top = iT + "px";
+                    return false
+                };
+                document.onmouseup = window.onblur = oH2.onlosecapture = function() {
+                    bDrag = false;
+                    oH2.releaseCapture && oH2.releaseCapture();
+                };
+            }
+function on_hide()
+	{
+ 
+    var svgViewer = document.getElementById("svgEmbed");
+    var SVGDoc = svgViewer.getSVGDocument();
+	var SVGRoot = SVGDoc.documentElement;
+	var rect = SVGDoc.getElementById("mountainr1");
+	rect.style.display = (document.getElementById("checkbox_1").checked == true) ? "block" : "none";
+	
+	var rect = SVGDoc.getElementById("mountainr2");
+	rect.style.display = (document.getElementById("checkbox_2").checked == true) ? "block" : "none";
+	var rect = SVGDoc.getElementById("mountainr3");
+	rect.style.display = (document.getElementById("checkbox_3").checked == true) ? "block" : "none";
+	var rect = SVGDoc.getElementById("peak1");
+	rect.style.display = (document.getElementById("checkbox_4").checked == true) ? "block" : "none";
+	
+	var rect = SVGDoc.getElementById("peak2");
+	rect.style.display = (document.getElementById("checkbox_5").checked == true) ? "block" : "none";
+	var rect = SVGDoc.getElementById("peak3");
+	rect.style.display = (document.getElementById("checkbox_6").checked == true) ? "block" : "none";
+
+	}
+            //]]>
+            
+        </script>
+    </head>
+    
+    <body>
+        <div class="box">
+            <div id="overlay">
+            </div>
+            <div id="win" style ="overflow:scroll" >
+                <h2>
+				地势概况
+                    <span id="close">
+                        ×
+                    </span>
+                </h2>
+				 &nbsp &nbsp 西藏高原位于青藏高原的主体部位，平均海拔4 500米，是世界上海拔最高、面积最大、形成最晚的高原，素有“地球第三极”和“世界屋脊”之称。
+西藏高原地貌格局复杂，其地势自西北向东南和缓降低。高原主体是海拔在4 000～5 200米之间的高原面，边缘高山环绕、峡谷深切。高原面上纵横延展着一系列巨大山脉，构成高原地貌的骨架，山系之间的网格中分布着次一级的山脉、山原、盆地和河谷，从而形成了西藏高原地貌的网状结构特征。
+			</div>
+			
+            <div class="title" style="background-color: #D7F29C">
+                <p style="color:#325E84">
+                    综合环境
+                </p>
+            </div>
+            <div class="title" style="float:left; width:300px">
+                <img alt="西藏综合自然与沙漠化地图集" style="width:300px;height:70px" src="images/4.png"
+                />
+            </div>
+            <div class="title" style="float:left; width:300px">
+                <img alt="西藏综合自然与沙漠化地图集" style="width:300px;height:70px" src="images/5.png"
+                />
+            </div>
+            <div class="title" style="float:left;width:300px">
+                <img alt="西藏综合自然与沙漠化地图集" style="width:300px;height:70px" src="images/6.png"
+                />
+            </div>
+            <div class="col" style="background-color: #EAF1DD;color:#516524">
+                自然环境
+            </div>
+            <div class="col" style="background-color: #87A93E;color:#FFFFFF">
+                社会经济环境
+            </div>
+            <div class="col" style="width:598px;border: 1px solid #FFFFFF;background-color:#DCE6F2E; color:#325E84">
+                <div class="shulibox">
+                    <div class="shuli anw ">
+					<a href="#">
+                        草地退化
+					</a>
+                    </div>
+                </div>
+                <div class="shulibox" >
+                    <div class="shuli anw">
+					<a href="#">
+                        水土流失
+						</a>
+                    </div>
+                </div>
+                <div class="shulibox">
+                    <div class="shuli anw">
+					<a href="#">
+                        生态环境
+						</a>
+                    </div>
+                </div>
+                <div class="shulibox">
+                    <div class="shuli anw ">
+					<a href="#">
+                        冰川冻土
+						</a>
+                    </div>
+                </div>
+                <div class="shulibox">
+                    <div class="shuli anw">
+					<a href="#">
+                        植被
+						</a>
+                    </div>
+                </div>
+                <div class="shulibox">
+                    <div class="shuli anw">
+					<a href="#">
+                        土壤
+						</a>
+                    </div>
+                </div>
+                <div class="shulibox">
+                    <div class="shuli anw">
+					<a href="#">
+                        水系
+						</a>
+                    </div>
+                </div>
+                <div class="shulibox">
+                    <div class="shuli anw">
+					<a href="#">
+                        气候
+						</a>
+                    </div>
+                </div>
+                <div class="shulibox">
+                    <div class="shuli anw">
+					<a href="#">
+                        地貌
+						</a>
+                    </div>
+                </div>
+                <div class="shulibox">
+                    <div class="shuli anw">
+					<a href="#">
+                        地质
+						</a>
+                    </div>
+                </div>
+                <div class="shulibox">
+                    <div class="shuli color">
+					<a href="#">
+                        地势地形
+						</a>
+                    </div>
+                </div>
+                <div class="shulibox">
+                    <div class="shuli anw">
+					<a href="2-3.html" target="_blank">
+                        卫星影像
+						</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col" style="background-color: #DAE5F1;width:598px;border: 1px solid #FFFFFF;">
+                <div class="shulibox">
+                    <div class="shuli">
+					<a href="#">
+                        土地利用
+						</a>
+                    </div>
+                </div>
+                <div class="shulibox">
+                    <div class="shuli ">
+					<a href="#">
+                        牧业
+						</a>
+                    </div>
+                </div>
+                <div class="shulibox">
+                    <div class="shuli ">
+					<a href="#">
+                        林业
+						</a>
+                    </div>
+                </div>
+                <div class="shulibox">
+                    <div class="shuli ">
+					<a href="#">
+                        农业
+						</a>
+                    </div>
+                </div>
+                <div class="shulibox">
+                    <div class="shuli ">
+					<a href="#">
+                        交通
+						</a>
+                    </div>
+                </div>
+                <div class="shulibox">
+                    <div class="shuli ">
+					<a href="#">
+                        工业
+						</a>
+                    </div>
+                </div>
+                <div class="shulibox">
+                    <div class="shuli ">
+					<a href="#">
+                        综合经济
+						</a>
+                    </div>
+                </div>
+                <div class="shulibox">
+                    <div class="shuli ">
+					<a href="#">
+                        人口
+						</a>
+                    </div>
+                </div>
+                <div class="shulibox">
+                    <div class="shuli ">
+					
+					<a href="6-7.html" target="_blank">
+                        政区
+						</a>
+                    </div>
+                </div>
+            </div>
+            <div class="menu">
+                <div id="nav">
+                    <ul>
+                       <li >
+                            <a href="#">
+                                自然环境
+                            </a>
+							
+                        </li>
+                        <li class="vline">
+                          >  
+                        </li>
+                        <li>
+                              <a href="#">
+                                地势、地形
+                            </a>
+							<ul>
+							 <li><a href="4-5a.html" title="ali" target="new">西藏自治区地势</a></li>
+							<li> &nbsp </li>
+							</ul>
+                        </li>
+						 <li class="vline">
+                          >  
+                        </li>
+                        <li>
+                            <a href="#">
+                               山峰、山脉分布
+                            </a>
+							
+                        </li>
+                    
+                        
+                    </ul>
+                </div>
+            </div>
+            <div class="main">
+                <div class="mapcontroll">
+
+                    <ul class="rolinList" id="rolin">
+                        <li>
+                            <h2>
+                                图层控制
+                            </h2>
+                            <div class="content" style="overflow:auto ">
+							<div  style="height:150px;overflow:auto ">
+                                 <input id="checkbox_1" type="checkbox" checked="checked" onclick="on_hide()"/> 一级山脉<br/>   
+							   <input id="checkbox_2" type="checkbox"  checked="checked" onclick="on_hide()"/> 二级山脉<br/>   
+							    <input id="checkbox_3" type="checkbox" checked="checked" onclick="on_hide()"/> 三级山脉<br/>   
+								<input id="checkbox_4" type="checkbox" checked="checked" onclick="on_hide()"/> 山峰>7000<br/>   
+							   <input id="checkbox_5" type="checkbox"  checked="checked" onclick="on_hide()"/> 山峰6000~7000m<br/>   
+							    <input id="checkbox_6" type="checkbox" checked="checked" onclick="on_hide()"/> 山峰5000~6000m<br/>   
+								 
+                            </div>
+							</div>
+                        </li>
+						
+                        <li>
+                            <h2 id="button">
+                                
+                                   地势概况
+                               
+                            </h2>
+                            <div class="content">
+							
+							
+							</div>
+                        </li>
+						
+						
+                    </ul>
+                </div>
+				<div class="map" style="overflow:scroll">
+			   <div id="FloatDiv" style="position:fixed; width:250px; height:40px; visibility:visible; right: 250px; top: 215px">
+				<div class="tool" style="background-image: url('images/fangda.gif')" onclick="zoomIn()"></div>
+				<div class="kx"> </div>
+                <div class="tool" style=";background-image: url('images/suoxiao.gif')" onclick="zoomOut()"></div>
+				<div class="kx"> </div>
+                <div class="tool" style=";background-image: url('images/manyou.gif')"onclick="mapPan()"></div>
+				<div class="kx"> </div>
+                <div class="tool" style=";background-image: url('images/quantu.gif')"onclick="fullscreen()"></div>
+				<div class="kx"> </div>
+                </div>
+				<embed id="svgEmbed" pluginspage=http://www.adobe.com/svg/viewer/install/ src="map/4-5b.svg" type="image/svg+xml"/>
+				</div>
+				<div class="copybottom" style="background-color: #D7F29C">
+				copyright
+				</div>
+				</div>
+				</div>
+				</body>
