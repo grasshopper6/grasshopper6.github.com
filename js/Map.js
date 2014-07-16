@@ -205,7 +205,9 @@ function setCMD(cmd)
 }
 function mapPan()
 {
+ if( node == null){
    addGraphicUnit1();
+   }
     setCMD("PAN");
 }
 parent.mapPan = mapPan;
