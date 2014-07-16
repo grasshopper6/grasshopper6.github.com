@@ -205,9 +205,11 @@ function setCMD(cmd)
 }
 function mapPan()
 {
+//防止多次点击漫游
  if( node == null){
    addGraphicUnit1();
    }
+   
     setCMD("PAN");
 }
 parent.mapPan = mapPan;
