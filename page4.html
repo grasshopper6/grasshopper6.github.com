@@ -6,7 +6,7 @@
         <title>
             西藏综合自然与沙漠化地图集
         </title>
-        <link href="css/jiemiancss.css" rel="stylesheet" type="text/css">
+        <link href="css/jiemiancssb.css" rel="stylesheet" type="text/css">
         <script Language="JavaScript" src="js/jiemian.js">
         </script>
         <script type="text/javascript">
@@ -21,7 +21,7 @@
     </head>
     
     <body>
-        <div class="box" style="height: 740px">
+        <div class="box" style="height: 715px">
             <div class="title" style="background-color: #FFD54F">
                 <p>
                     土地沙漠化
@@ -39,32 +39,27 @@
                 <img alt="西藏综合自然与沙漠化地图集" style="width:300px;height:70px" src="images/6.png"
                 />
             </div>
-            <div class="col" style="background-color: #FFD54F">
+            <div class="col" style="background-color: #fff6d7; color:#574301">
                 现状与变化
             </div>
-            <div class="col" style="background-color: #EBF1DE">
+            <div class="col" style="background-color: #EDAC09">
                 过程与成因
             </div>
-            <div class="col" style="font-size:14px;">
+            <div class="col" style="font-size:17px;">
                 <ul class="test_ul">
                     <li class="color">
                         <a href="#">
-                            现状
+                          <strong>  现状</strong>
                         </a>
                     </li>
-                    <li>
+                    <li class="anw">
                         <a href="#">
                             变化
                         </a>
                     </li>
-                    <li>
-                        <a href="#">
-                            （全区、典型区）
-                        </a>
-                    </li>
                 </ul>
             </div>
-            <div class="col" style="background-color: #B9CDE5;font-size:16px;">
+            <div class="col" style="background-color: #B9CDE5;font-size:17px;">
                 <ul class="test_ul">
                     <li>
                         <a href="#">
@@ -81,7 +76,7 @@
                                 成因分析
                             </a>
                         </li>
-                        <li class="color">
+                        <li >
                             <a href="#">
                                 趋势预测
                             </a>
@@ -170,23 +165,22 @@
                         </li>
                     </ul>
                 </div>
-				<div class="map">
-				<div class="toolbox" style="float:left;padding: 10px 0.25em 2ex 10px;">
-				<div class="tool" style="background-image: url('fangda.png')" onclick="bb()">放大</div>
-				<div class="kx"> </div>
-                <div class="tool" style=";background-image: url('suoxiao.png')" onclick="bb()">缩小</div>
-				<div class="kx"> </div>
-                <div class="tool" style=";background-image: url('manyou.png')"onclick="bb()">漫游</div>
-				<div class="kx"> </div>
-                <div class="tool" style=";background-image: url('quantu.png')"onclick="bb()">全图</div>
-				<div class="kx"> </div>
-                </div>
+				<div class="map" style="overflow:scroll">
+				<embed id="svgEmbed"  pluginspage=http://www.adobe.com/svg/viewer/install/  src="svg/6-7.svg"  type="image/svg+xml"/>
 				</div>
 				<div class="copybottom" style="background-color: #FFD54F">
 				copyright
 				</div>
 				</div>
-            </div>
-			
-        </div>
+				</div>
+				<div id="FloatDiv" style="position:fixed; width:250px; height:40px; visibility:visible; right: 250px; top: 150px">
+				<div class="tool" style="background-image: url('images/fangda.gif')" onclick="zoomIn()"></div>
+				<div class="kx"> </div>
+				 <div class="tool" style=";background-image: url('images/suoxiao.gif')" onclick="zoomOut()"></div>
+				<div class="kx"> </div>
+				 <div class="tool" style=";background-image: url('images/manyou.gif')"onclick="mapPan()"></div>
+				<div class="kx"> </div>
+				 <div class="tool" style=";background-image: url('images/quantu.gif')"onclick="fullscreen()"></div>
+				<div class="kx"> </div>
+				</div>
     </body>

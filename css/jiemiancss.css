@@ -34,8 +34,12 @@ body {
 	float:left;
 }
 .col a{
-color:#325E84}
-.anw a{color:#FFFFFF}
+color:#325E84
+}
+.anw a{
+font-family:ËÎÌו;
+color:#FFFFFF;
+}
 .shulibox {
 	float:left;
 	color:#FFFFFF;
@@ -100,6 +104,7 @@ li {
 .content {
 height:100px;
 	height:150px;
+	width:175px;
 	font-size:14px;
 	overflow-y:scroll;
 	background:#FAFAFA;

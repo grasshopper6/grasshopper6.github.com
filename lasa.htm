@@ -1,0 +1,60 @@
+﻿<!doctype html> 
+<html lang="en"> 
+<head> 
+<script type="text/javascript" src="http://cdn.hcharts.cn/jquery/jquery-1.8.3.min.js"></script>
+ <script type="text/javascript" src="http://cdn.hcharts.cn/highcharts/4.0.1/highcharts.js"></script>
+ <script> 
+ $(function () {
+    $('#container').highcharts({
+        title: {
+            text: '2000年-2012年拉萨地区生产总值及其构成',
+            x: -20 //center
+        },
+       
+        credits: {
+            enabled: false
+        },
+        xAxis: {
+            categories: ['2000', '2001', '2002', '2004', '2005','2006', '2007', '2008', '2009', '2010', '2011','2012']
+        },
+        yAxis: {
+            title: {
+                text: '单位 (亿元)'
+            },
+            plotLines: [{
+                value: 0,
+                width: 1,
+                color: '#808080'
+            }]
+        },
+        tooltip: {
+            valueSuffix: '亿元'
+        },
+        legend: {
+            layout: 'vertical',
+            align: 'right',
+            verticalAlign: 'middle',
+            borderWidth: 0
+        },
+        series: [{
+            name: '国内生产总值',
+            data: [40.36,47.17, 55.07, 76.14, 86.78, 102.39, 121.91, 142.05, 154.27, 178.91, 222.09, 260.04]
+        }, {
+            name: '第一产业',
+            data: [5.80, 5.94, 6.19, 5.99, 6.29, 6.80, 7.42, 8.12, 8.56, 9.14, 9.99, 10.78]
+        }, {
+            name: '第二产业',
+            data: [9.61, 11.37, 13.16, 17.77, 20.09, 25.26, 31.21, 40.98, 46.08, 55.76, 75.21, 90.70]
+        }, {
+            name: '第三产业',
+            data: [24.95, 29.86, 35.71, 52.39, 60.41, 70.32, 83.28, 92.95, 99.63, 114.01, 136.89, 158.56]
+        }]
+    });
+});
+				
+ </script> 
+ </head> 
+<body> 
+<div id="container" style="width:700px;height:400px"></div> 
+</body> 
+</html>

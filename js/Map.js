@@ -205,10 +205,7 @@ function setCMD(cmd)
 }
 function mapPan()
 {
- //if( node == null){
    addGraphicUnit1();
-  // }
-
     setCMD("PAN");
 }
 parent.mapPan = mapPan;
@@ -224,7 +221,7 @@ function zoomIn()
 {
 	if(checkAmp()) 
 	{
-		zoomVal +=5;
+		zoomVal +=1;
 		zoomTo(zoomVal);
 	}
 	
@@ -232,7 +229,7 @@ function zoomIn()
 parent.zoomIn = zoomIn;
 function zoomOut()
 {
-	zoomVal -= 5;
+	zoomVal -= 1;
 	zoomVal = (zoomVal<=0)?0:zoomVal;
 	zoomTo(zoomVal);
 }

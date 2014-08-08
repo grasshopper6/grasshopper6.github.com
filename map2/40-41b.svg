@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg onload="Init(evt)" xmlns:attrib="http://www.carto.net/attrib"
+xmlns="http://www.w3.org/2000/svg" xml:space="preserve"  x="0px" y="0px" width="1000px" height="709px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="10000 40000 80000 60909"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ 
+ <script  xlink:href="../js/Map.js"></script>
+<script  type="text/javascript" xlink:href="../js/mapApp.js"></script>
+<script  type="text/javascript" xlink:href="../js/helper_functions.js"></script>
+<script  type="text/javascript" xlink:href="../js/timer.js"></script>
+<script  type="text/javascript">
+	var myMapApp = new mapApp(false,undefined);//与tooltip相关
+	var obc;//
+	
+	window.onSVGLoad=initLater();
+	function initLater() {
+     	//this timeout is because of the bbox bug in Firefox which prevents to have access to bbox in onload scripts
+     	window.setTimeout("init()",100);
+    }
+	function init() {
+		
+	    /* 添加tooltip*/
+        //tooltip styles
+        var tooltipTextStyles = {"font-family":"Arial,Helvetica","fill":"dimgray","font-size":1300};
+        var tooltipRectStyles = {"fill":"white","stroke":"dimgray"};
+        myMapApp.initTooltips("toolTip",tooltipTextStyles,tooltipRectStyles,10,20,3);
+        //add tooltip to element
+		myMapApp.addTooltip("zt",undefined,true,false,"target","name");
+		
+	}
+	
+	
+	function Newlegend1(){
+	 document.getElementById('legend1').setAttribute("style", "visibility: visible");
+	 document.getElementById('legend11').setAttribute("style", "visibility: visible");
+	 document.getElementById('legend2').setAttribute("style", "visibility: hidden");
+	 document.getElementById('legend22').setAttribute("style", "visibility: hidden");
+	}
+	function Newlegend2(){
+	document.getElementById('legend2').setAttribute("style", "visibility: visible");
+	 document.getElementById('legend22').setAttribute("style", "visibility: visible");
+	 document.getElementById('legend1').setAttribute("style", "visibility: hidden");
+	 document.getElementById('legend11').setAttribute("style", "visibility: hidden");
+	}
+	function Changecolor(evt)
+	{
+	document.getElementById('Legend2').setAttribute("class", "str0");
+	document.getElementById('Legend1').setAttribute("class", "str0");
+	var obj = evt.target;           
+    obj.setAttribute("class", "str1"); 
+	}
+	function Recovercolor(evt){
+	var obj = evt.target;           
+    obj.setAttribute("class", "str0");
+	}
+</script>
+
+ 
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:13.8545}
+    .str3 {stroke:#332C2B;stroke-width:18.1818}
+    .str2 {stroke:#332C2B;stroke-width:18.1818;stroke-linejoin:round}
+    .str0 {stroke:#6D583D;stroke-width:18.1818;stroke-linejoin:round}
+    .str6 {stroke:#332C2B;stroke-width:21.8182}
+    .str5 {stroke:#332C2B;stroke-width:27.2727}
+    .str4 {stroke:#FEFEFE;stroke-width:145.455}
+    .str7 {stroke:#332C2B;stroke-width:21.8182;stroke-dasharray:109.090909 65.454545}
+    .fil3 {fill:none}
+    .fil2 {fill:#332C2B}
+    .fil19 {fill:#758FC8}
+    .fil15 {fill:#D9E483}
+    .fil1 {fill:#FEFEFE}
+    .fil0 {fill:#6D583D}
+    .fil24 {fill:#72AA9A}
+    .fil17 {fill:#79947E}
+    .fil11 {fill:#94A42F}
+    .fil16 {fill:#9CBDCF}
+    .fil22 {fill:#A5CCC3}
+    .fil4 {fill:#B72024}
+    .fil18 {fill:#B8D33C}
+    .fil8 {fill:#B9CA42}
+    .fil5 {fill:#BFD6E3}
+    .fil23 {fill:#C3D839}
+    .fil7 {fill:#C5B0CC}
+    .fil13 {fill:#CFD03B}
+    .fil21 {fill:#D8E9E1}
+    .fil20 {fill:#E0ECF2}
+    .fil25 {fill:#EADFE6}
+    .fil26 {fill:#EBE7F3}
+    .fil12 {fill:#EDF0B1}
+    .fil14 {fill:#EEE97E}
+    .fil6 {fill:#EFF8FD}
+    .fil9 {fill:#F4D87B}
+    .fil10 {fill:#F5E9AC}
+    .fnt2 {font-weight:normal;font-size:384.836px;font-family:'Times New Roman'}
+    .fnt3 {font-weight:normal;font-size:384.836px;font-family:'方正书宋简体'}
+    .fnt7 {font-weight:normal;font-size:384.855px;font-family:'Times New Roman'}
+    .fnt4 {font-weight:normal;font-size:448.982px;font-family:'宋体'}
+    .fnt5 {font-weight:normal;font-size:513.127px;font-family:'Arial'}
+    .fnt1 {font-weight:normal;font-size:513.127px;font-family:'方正书宋简体'}
+    .fnt0 {font-weight:normal;font-size:513.127px;font-family:'黑体'}
+    .fnt6 {font-weight:normal;font-size:641.418px;font-family:'方正准圆简体'}
+   ]]>
+  </style>
+ </defs>
+ <g id="map">
+<symbol id="符号42" viewBox="49927 35345 145 218">
+ <polygon class="fil0" points="49929,35564 49999,35345 50073,35564 49927,35564 "/>
+</symbol>
+<symbol id="符号41" viewBox="49964 35418 73 73">
+ <path class="fil0 str0" d="M50027 35455c0,-15 -12,-27 -27,-27 -15,0 -27,12 -27,27 0,15 12,27 27,27 15,0 27,-12 27,-27z"/>
+</symbol>
+<symbol id="符号35" viewBox="49958 35413 84 84">
+ <path class="fil0 str0" d="M50033 35455c0,-18 -15,-33 -33,-33 -18,0 -33,15 -33,33 0,18 15,33 33,33 18,0 33,-15 33,-33z"/>
+</symbol>
+<symbol id="符号33" viewBox="49793 35248 414 414">
+ <circle class="fil1 str1" cx="50000" cy="35455" r="200"/>
+ <circle class="fil2 str1" cx="50000" cy="35455" r="118"/>
+</symbol>
+<symbol id="符号32" viewBox="49757 35211 487 487">
+ <circle class="fil1 str1" cx="50000" cy="35455" r="236"/>
+ <circle class="fil3 str1" cx="50000" cy="35455" r="89"/>
+</symbol>
+<symbol id="符号31" viewBox="49882 35336 236 236">
+ <path class="fil1 str2" d="M50109 35455c0,-60 -49,-109 -109,-109 -60,0 -109,49 -109,109 0,60 49,109 109,109 60,0 109,-49 109,-109z"/>
+</symbol>
+<symbol id="符号39" viewBox="49793 35248 414 414">
+ <circle class="fil1 str1" cx="50000" cy="35455" r="200"/>
+ <circle class="fil2 str1" cx="50000" cy="35455" r="118"/>
+</symbol>
+<symbol id="符号40" viewBox="49884 35339 231 231">
+ <line class="fil3 str3" x1="49891" y1="35345" x2="50109" y2= "35564" />
+ <line class="fil3 str3" x1="49891" y1="35564" x2="50109" y2= "35345" />
+</symbol>
+<symbol id="符号34" viewBox="49830 35284 340 340">
+ <line class="fil3 str3" x1="49836" y1="35291" x2="50164" y2= "35618" />
+ <line class="fil3 str3" x1="49836" y1="35618" x2="50164" y2= "35291" />
+</symbol>
+<symbol id="符号38" viewBox="49884 35339 232 232">
+ <circle class="fil1 str1" cx="50000" cy="35455" r="109"/>
+ <circle class="fil3 str1" cx="50000" cy="35455" r="41"/>
+</symbol>
+<symbol id="符号1" viewBox="49882 35336 236 236">
+ <path class="fil1 str2" d="M50109 35455c0,-60 -49,-109 -109,-109 -60,0 -109,49 -109,109 0,60 49,109 109,109 60,0 109,-49 109,-109z"/>
+</symbol>
+<symbol id="符号37" viewBox="49882 35336 236 236">
+ <path class="fil1 str2" d="M50109 35455c0,-60 -49,-109 -109,-109 -60,0 -109,49 -109,109 0,60 49,109 109,109 60,0 109,-49 109,-109z"/>
+</symbol>
+<symbol id="符号36" viewBox="49915 35325 171 258">
+ <polygon class="fil0" points="49917,35584 49999,35325 50085,35584 49915,35584 "/>
+</symbol>
+<symbol id="符号2" viewBox="49890 35345 220 220">
+ <circle class="fil1 str1" cx="50000" cy="35455" r="103"/>
+ <circle class="fil3 str1" cx="50000" cy="35455" r="37"/>
+</symbol>
+ <g id="zt"    attrib:tooltipAttrib="name" attrib:tooltipParent="true" attrib:tooltip="Tooltip">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil1 str4" x="38351" y="49424" width="1814" height="13515"/>
+  <rect class="fil1 str4" x="34764" y="49443" width="1813" height="10048"/>
+  <polygon class="fil1 str4" points="20328,49443 22140,49443 22141,54907 20326,54931 "/>
+  <polygon class="fil1 str4" points="23913,49443 25731,49443 25731,54946 23913,54946 "/>
+  <rect class="fil1 str4" x="31183" y="49443" width="1817" height="9297"/>
+  <rect class="fil1 str4" x="27560" y="49443" width="1813" height="6823"/>
+  <text x="18600" y="49252"  class="fil4 fnt0">西北</text>
+  <text x="41657" y="49260"  class="fil4 fnt1"> </text>
+  <text x="41783" y="49260"  class="fil4 fnt0">东南</text>
+  <line class="fil3 str5" x1="40153" y1="49813" x2="40303" y2= "49813" />
+  <line class="fil3 str5" x1="40144" y1="51692" x2="40294" y2= "51692" />
+  <line class="fil3 str5" x1="40157" y1="53543" x2="40307" y2= "53543" />
+  <line class="fil3 str5" x1="40157" y1="55487" x2="40307" y2= "55487" />
+  <line class="fil3 str5" x1="40157" y1="57336" x2="40307" y2= "57336" />
+  <line class="fil3 str5" x1="40157" y1="59232" x2="40307" y2= "59232" />
+  <line class="fil3 str5" x1="40157" y1="61124" x2="40307" y2= "61124" />
+  <line class="fil3 str5" x1="40149" y1="62935" x2="40299" y2= "62935" />
+  <text x="40239" y="51823"  class="fil2 fnt2"> 6</text>
+  <text x="40623" y="51823"  class="fil2 fnt2">000</text>
+  <text x="40528" y="51823"  class="fil2 fnt3"> </text>
+  <text x="40239" y="53675"  class="fil2 fnt2"> 5</text>
+  <text x="40623" y="53675"  class="fil2 fnt2">000</text>
+  <text x="40528" y="53675"  class="fil2 fnt3"> </text>
+  <text x="40257" y="55617"  class="fil2 fnt2"> 4</text>
+  <text x="40640" y="55617"  class="fil2 fnt2">000</text>
+  <text x="40546" y="55617"  class="fil2 fnt3"> </text>
+  <text x="40257" y="57465"  class="fil2 fnt2"> 3</text>
+  <text x="40640" y="57465"  class="fil2 fnt2">000</text>
+  <text x="40546" y="57465"  class="fil2 fnt3"> </text>
+  <text x="40257" y="59361"  class="fil2 fnt2"> 2</text>
+  <text x="40640" y="59361"  class="fil2 fnt2">000</text>
+  <text x="40546" y="59361"  class="fil2 fnt3"> </text>
+  <text x="40257" y="61253"  class="fil2 fnt2"> 1</text>
+  <text x="40640" y="61253"  class="fil2 fnt2">000</text>
+  <text x="40546" y="61253"  class="fil2 fnt3"> </text>
+  <text x="40257" y="63064"  class="fil2 fnt2"> 0</text>
+  <rect id="_5"  attrib:name="亚高山常绿针叶林(冷杉)" class="fil5 str6" x="38353" y="55849" width="1813" height="1909"/>
+  <rect id="_20"    attrib:name="高山冰雪带"  class="fil6 str6" x="20328" y="49443" width="1812" height="1818"/>
+  <rect id="_17"  attrib:name="高山流石坡稀疏植被"  class="fil7 str6" x="20328" y="51261" width="1812" height="1383"/>
+  <line class="fil3 str7" x1="20328" y1="51909" x2="22140" y2= "51909" />
+  <path id="_14"   attrib:name="高山草原"  class="fil8 str6" d="M22140 52644l-1099 0c0,0 355,194 477,298 121,104 344,278 410,352 66,75 215,229 215,229l-3 -879z"/>
+  <path id="_16"   attrib:name="高山荒漠"  class="fil9 str6" d="M20328 52644l714 0c0,0 340,194 408,246 68,52 347,283 377,308 29,26 -1501,3 -1501,3l2 -557z"/>
+  <path id="_15"   attrib:name="亚高山荒漠"  class="fil10 str6" d="M20325 53202l1 1730 1815 -25 3 -1384c0,0 -30,-42 -174,-183 -143,-141 -143,-141 -143,-141l-1501 3z"/>
+  <rect id="_20_0"   attrib:name="高山冰雪带"  class="fil6 str6" x="23913" y="49443" width="1817" height="2273"/>
+  <rect id="_17_1"   attrib:name="高山流石坡稀疏植被"  class="fil7 str6" x="23913" y="51717" width="1817" height="1336"/>
+  <line class="fil3 str7" x1="23913" y1="52470" x2="25730" y2= "52470" />
+  <rect id="_14_2"   attrib:name="高山草原"  class="fil8 str6" x="23913" y="53053" width="1818" height="1893"/>
+  <path id="_11"   attrib:name="高山嵩草草甸"  class="fil11 str6" d="M25730 53053l-586 0c0,0 79,67 126,109 47,41 134,120 155,172 21,52 61,95 79,199 18,104 41,189 47,282 6,93 22,195 29,245 7,50 76,352 104,439 28,87 48,133 48,133l-1 -1578z"/>
+  <line class="fil3 str7" x1="23913" y1="53999" x2="25571" y2= "54000" />
+  <line class="fil3 str5" x1="22125" y1="49776" x2="22275" y2= "49776" />
+  <line class="fil3 str5" x1="22125" y1="51684" x2="22275" y2= "51684" />
+  <line class="fil3 str5" x1="22120" y1="53568" x2="22271" y2= "53568" />
+  <line class="fil3 str5" x1="25735" y1="49806" x2="25885" y2= "49806" />
+  <line class="fil3 str5" x1="25735" y1="51714" x2="25885" y2= "51714" />
+  <line class="fil3 str5" x1="25731" y1="53598" x2="25881" y2= "53598" />
+  <rect id="_20_3"   attrib:name="高山冰雪带"  class="fil6 str6" x="27561" y="49444" width="1813" height="3388"/>
+  <rect id="_17_4"   attrib:name="高山流石坡稀疏植被"  class="fil7 str6" x="27561" y="52832" width="1813" height="545"/>
+  <rect id="_11_5"   attrib:name="高山嵩草草甸"  class="fil11 str6" x="27556" y="53366" width="1813" height="1342"/>
+  <rect id="_10"   attrib:name="香柏灌丛"  class="fil12 str6" x="28729" y="53366" width="645" height="1342"/>
+  <rect id="_12"   attrib:name="亚高山草原"  class="fil13 str6" x="27561" y="54709" width="1813" height="807"/>
+  <rect id="_13"   attrib:name="干旱河谷灌丛"  class="fil14 str6" x="27561" y="55516" width="1813" height="750"/>
+  <line class="fil3 str5" x1="29369" y1="49804" x2="29519" y2= "49804" />
+  <line class="fil3 str5" x1="29369" y1="51712" x2="29519" y2= "51712" />
+  <line class="fil3 str5" x1="29365" y1="53596" x2="29515" y2= "53596" />
+  <line class="fil3 str5" x1="29362" y1="55459" x2="29512" y2= "55459" />
+  <rect id="_20_6"   attrib:name="高山冰雪带"  class="fil6 str6" x="31184" y="49445" width="1817" height="3760"/>
+  <rect id="_17_7"   attrib:name="高山流石坡稀疏植被"  class="fil7 str6" x="31184" y="53206" width="1817" height="744"/>
+  <rect id="_9"   attrib:name="高山灌丛草甸"  class="fil15 str6" x="31184" y="53949" width="1817" height="953"/>
+  <rect id="_4"   attrib:name="亚高山常绿针叶林(云杉)"  class="fil16 str6" x="31184" y="54901" width="1817" height="2436"/>
+  <path id="_19"   attrib:name="大果圆柏林"  class="fil17 str6" d="M31184 54900l0 1078c0,0 53,320 71,396 18,76 56,280 76,330 21,51 87,241 122,309 35,68 116,250 169,275 53,25 79,37 79,37l195 0c0,0 -72,-71 -118,-160 -46,-89 -84,-144 -138,-250 -54,-106 -104,-212 -132,-330 -28,-119 -82,-343 -112,-462 -29,-119 -95,-419 -116,-563 -21,-144 -41,-258 -62,-415 -21,-157 -35,-246 -35,-246z"/>
+  <path id="_8"   attrib:name="亚高山常绿针叶林(冷杉)"  class="fil18 str6" d="M32136 54901l865 0 -30 346 -530 4c0,0 -122,-152 -163,-190 -41,-38 -141,-161 -141,-161z"/>
+  <path id="_5_8"   attrib:name="亚高山常绿针叶林(冷杉)"  class="fil5 str6" d="M32971 55247l-530 4 58 77c0,0 34,78 58,97 24,19 87,116 100,140 13,23 129,224 157,247 28,23 108,140 108,140 0,0 -3,-313 6,-372 8,-59 20,-197 21,-222 1,-25 23,-110 23,-110z"/>
+  <path id="_18"  attrib:name="硬叶常绿阔叶林"   class="fil19 str6" d="M33001 54901c0,0 -41,198 -67,347 -25,148 -34,368 -48,470 -14,101 -17,402 -11,571 6,169 34,478 53,647 20,169 72,402 72,402l0 -2436z"/>
+  <rect id="_13_9"   attrib:name="干旱河谷灌丛"  class="fil14 str6" x="31182" y="57335" width="1817" height="1406"/>
+  <line class="fil3 str5" x1="32985" y1="49790" x2="33135" y2= "49790" />
+  <line class="fil3 str5" x1="32985" y1="51698" x2="33135" y2= "51698" />
+  <line class="fil3 str5" x1="32981" y1="53582" x2="33131" y2= "53582" />
+  <line class="fil3 str5" x1="32978" y1="55445" x2="33128" y2= "55445" />
+  <line class="fil3 str5" x1="32983" y1="57337" x2="33096" y2= "57337" />
+  <rect id="_20_10"   attrib:name="高山冰雪带"  class="fil6 str6" x="34764" y="49443" width="1813" height="4151"/>
+  <rect id="_17_11"   attrib:name="高山流石坡稀疏植被"  class="fil7 str6" x="34763" y="53594" width="1813" height="744"/>
+  <rect id="_9_12"   attrib:name="高山灌丛草甸"  class="fil15 str6" x="34764" y="54337" width="1813" height="953"/>
+  <rect id="_5_13"   attrib:name="亚高山常绿针叶林(冷杉)"  class="fil5 str6" x="34763" y="55292" width="1813" height="1606"/>
+  <polygon id="_8_14"   attrib:name="杜鹃矮林"  class="fil18 str6" points="34763,55292 35955,55292 36120,55388 36278,55466 36403,55542 34763,55547 "/>
+  <path id="_6"   attrib:name="亚高山落叶针叶林"  class="fil20 str6" d="M36577 55289l-798 0c0,0 35,25 129,88 93,63 185,97 257,165 72,68 127,93 215,199 88,106 197,262 197,262l0 -714z"/>
+  <rect id="_3"   attrib:name="山地常绿针叶林"  class="fil21 str6" x="34764" y="56897" width="1813" height="1412"/>
+  <rect id="_4_15"   attrib:name="亚高山常绿针叶林(云杉)"  class="fil16 str6" x="34763" y="56897" width="1813" height="494"/>
+  <path id="_18_16"   attrib:name="硬叶常绿阔叶林"  class="fil19 str6" d="M34764 57250c0,16 -11,128 0,255 5,55 -9,51 39,155 65,139 88,181 128,282 40,101 47,127 112,228 65,101 55,105 92,135l5 4 378 1c4,0 -111,-124 -166,-250 -55,-127 -110,-186 -177,-413 -67,-228 -165,-624 -207,-835 -42,-211 -70,-498 -107,-683 -37,-186 -97,-818 -97,-818l0 1940z"/>
+  <rect id="_2"   attrib:name="山地常绿阔叶林"  class="fil22 str6" x="34764" y="58310" width="1813" height="1181"/>
+  <line class="fil3 str5" x1="36572" y1="49836" x2="36722" y2= "49836" />
+  <line class="fil3 str5" x1="36572" y1="51707" x2="36722" y2= "51707" />
+  <line class="fil3 str5" x1="36570" y1="53592" x2="36720" y2= "53592" />
+  <line class="fil3 str5" x1="36566" y1="55504" x2="36717" y2= "55504" />
+  <line class="fil3 str5" x1="36569" y1="57390" x2="36719" y2= "57390" />
+  <line class="fil3 str5" x1="36568" y1="59289" x2="36718" y2= "59289" />
+  <rect id="_20_17"   attrib:name="高山冰雪带"  class="fil6 str6" x="38349" y="49424" width="1815" height="4508"/>
+  <rect id="_17_18"   attrib:name="高山流石坡稀疏植被"  class="fil7 str6" x="38351" y="53932" width="1813" height="599"/>
+  <rect id="_9_19"   attrib:name="高山灌丛草甸"  class="fil15 str6" x="38351" y="54529" width="1813" height="953"/>
+  <rect class="fil23 str5" x="38352" y="55482" width="1813" height="368"/>
+  <rect id="_3_20"   attrib:name="山地常绿针叶林"  class="fil21 str6" x="38351" y="57759" width="1813" height="1090"/>
+  <rect id="_2_21"   attrib:name="山地常绿阔叶林"  class="fil22 str6" x="38351" y="58849" width="1813" height="2269"/>
+  <rect id="_1"   attrib:name="热带常绿雨林和半常绿雨林"  class="fil24 str6" x="38351" y="61117" width="1813" height="1822"/>
+  <text x="20473" y="48758"  class="fil2 fnt1">极干旱</text>
+  <text x="23687" y="48758"  class="fil2 fnt1">     干旱</text>
+  <text x="27706" y="48758"  class="fil2 fnt1">半干旱</text>
+  <text x="31341" y="48758"  class="fil2 fnt1">半湿润</text>
+  <text x="34922" y="48759"  class="fil2 fnt1">  </text>
+  <text x="35175" y="48759"  class="fil2 fnt1">湿润</text>
+  <text x="38497" y="48756"  class="fil2 fnt1">  </text>
+  <text x="38750" y="48756"  class="fil2 fnt1">潮湿</text>
+  <text x="40118" y="49072"  class="fil2 fnt4"> (</text>
+  <text x="41016" y="49072"  class="fil2 fnt4">)</text>
+  <text x="40567" y="49072"  class="fil2 fnt4">米</text>
+  <text x="40231" y="49942"  class="fil2 fnt2"> 7</text>
+  <text x="40614" y="49942"  class="fil2 fnt2">000</text>
+  <text x="40520" y="49942"  class="fil2 fnt3"> </text>
+  <path id="_19_22"   attrib:name="大果圆柏林"  class="fil17" d="M29375 54366l0 1542c0,0 -274,-883 0,-1542z"/>
+  <path class="fil3 str6" d="M29375 55902c0,0 -274,-877 0,-1536"/>
+  <path class="fil25 str6" d="M40167 55666l0 588 -488 0c0,0 55,-185 133,-253 78,-69 355,-335 355,-335z"/>
+  <path id="_6_23"   attrib:name="亚高山落叶针叶林"  class="fil20 str6" d="M38353 55746l95 232c0,0 33,95 98,120 66,26 80,95 157,103 77,9 193,34 193,34 0,0 -80,43 -120,60 -40,17 -98,17 -149,17 -51,0 -98,-77 -149,-95 -51,-17 -124,-120 -124,-120l0 -353z"/>
+ </g>
+ <g id="图例">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <polygon id="_1_24" class="fil24 str3" points="10299,56628 10299,55991 11390,55991 11390,56628 "/>
+  <polygon id="_2_25" class="fil22 str3" points="10299,57551 10299,56915 11390,56915 11390,57551 "/>
+  <polygon id="_3_26" class="fil21 str3" points="10299,58475 10299,57838 11390,57838 11390,58475 "/>
+  <polygon id="_4_27" class="fil16 str3" points="10299,59397 10299,58761 11390,58761 11390,59397 "/>
+  <polygon id="_5_28" class="fil5 str3" points="10299,60321 10299,59685 11390,59685 11390,60321 "/>
+  <polygon id="_6_29" class="fil20 str3" points="10299,61247 10299,60610 11390,60610 11390,61247 "/>
+  <polygon id="_7" class="fil26 str3" points="10299,62170 10299,61534 11390,61534 11390,62170 "/>
+  <polygon id="_8_30" class="fil18 str3" points="10299,63058 10299,62422 11390,62422 11390,63058 "/>
+  <polygon id="_9_31" class="fil15 str3" points="10299,63981 10299,63344 11390,63344 11390,63981 "/>
+  <polygon id="_10_32" class="fil12 str3" points="10299,64904 10299,64268 11390,64268 11390,64904 "/>
+  <polygon id="_11_33" class="fil11 str3" points="20379,56628 20379,55991 21470,55991 21470,56628 "/>
+  <polygon id="_12_34" class="fil13 str3" points="20379,57551 20379,56915 21470,56915 21470,57551 "/>
+  <polygon id="_13_35" class="fil14 str3" points="20379,58475 20379,57838 21470,57838 21470,58475 "/>
+  <polygon id="_14_36" class="fil8 str3" points="20379,59397 20379,58761 21470,58761 21470,59397 "/>
+  <polygon id="_15_37" class="fil10 str3" points="20379,60321 20379,59685 21470,59685 21470,60321 "/>
+  <polygon id="_16_38" class="fil9 str3" points="20379,61247 20379,60610 21470,60610 21470,61247 "/>
+  <polygon id="_17_39" class="fil7 str3" points="20379,62170 20379,61534 21470,61534 21470,62170 "/>
+  <polygon id="_18_40" class="fil19 str3" points="20379,63058 20379,62422 21470,62422 21470,63058 "/>
+  <polygon id="_19_41" class="fil17 str3" points="20379,63981 20379,63344 21470,63344 21470,63981 "/>
+  <polygon id="_20_42" class="fil6 str3" points="20379,64904 20379,64268 21470,64268 21470,64904 "/>
+ </g>
+ <g id="图名">
+  <metadata id="CorelCorpID_2Corel-Layer"/>
+  <text x="18371" y="47027"  class="fil2 fnt5">            Vertical zonal spectrum of mountainous vegetations under different moisture conditions</text>
+  <text x="24827" y="47600"  class="fil2 fnt5"> (from the southeast to the northwest)</text>
+  <g transform="matrix(1.2 0 0 1 -30244.8 10871.2)">
+   <text x="43273" y="35455"  class="fil2 fnt6">  不同湿度下(从东南至西北)的山地植被垂直带谱</text>
+  </g>
+ </g>
+ <g id="文字">
+  <metadata id="CorelCorpID_3Corel-Layer"/>
+  <text x="11439" y="56279"  class="fil2 fnt4"> </text>
+  <text x="11664" y="56279"  class="fil2 fnt4">热带常绿雨林和半常绿雨林</text>
+  <text x="11671" y="56636"  class="fil2 fnt7">Tropical evergreen forests and half evergreen forest</text>
+  <text x="11664" y="57213"  class="fil2 fnt4">山地常绿阔叶林</text>
+  <text x="11669" y="57548"  class="fil2 fnt7">Mountainous evergreen broad-leaved forest</text>
+  <text x="11664" y="58132"  class="fil2 fnt4">山地常绿针叶林</text>
+  <text x="11669" y="58476"  class="fil2 fnt7">Mountainous evergreen coniferous forest</text>
+  <text x="11669" y="59061"  class="fil2 fnt4">亚高山常绿针叶林(云杉)</text>
+  <text x="11669" y="59398"  class="fil2 fnt7">Sub-alpine evergreen coniferous forest(spruce)</text>
+  <text x="11669" y="59985"  class="fil2 fnt4">亚高山常绿针叶林(冷杉)</text>
+  <text x="11669" y="60321"  class="fil2 fnt7">Sub-alpine evergreen coniferous forest(fir)</text>
+  <text x="11669" y="60915"  class="fil2 fnt4">亚高山落叶针叶林</text>
+  <text x="11669" y="61243"  class="fil2 fnt7">Sub-alpine deciduous coniferous forest</text>
+  <text x="11669" y="61845"  class="fil2 fnt4">落叶阔叶林</text>
+  <text x="11669" y="62220"  class="fil2 fnt7">Deciduous evebroad-leaved forest</text>
+  <text x="11669" y="62756"  class="fil2 fnt4">杜鹃矮林</text>
+  <text x="11669" y="63087"  class="fil2 fnt7">Cuckoo elfin forest</text>
+  <text x="11669" y="63641"  class="fil2 fnt4">高山灌丛草甸</text>
+  <text x="11669" y="63986"  class="fil2 fnt7">Alpine bush meadow</text>
+  <text x="11669" y="64587"  class="fil2 fnt4">香</text>
+  <text x="12118" y="64587"  class="fil2 fnt4">柏灌丛</text>
+  <text x="11669" y="64949"  class="fil2 fnt7">Cedar bush</text>
+  <text x="21743" y="56277"  class="fil2 fnt4">高山</text>
+  <text x="23090" y="56277"  class="fil2 fnt4">草草甸</text>
+  <text x="22641" y="56277"  class="fil2 fnt4">嵩</text>
+  <text x="21743" y="56644"  class="fil2 fnt7">Alpine kobresia meadow</text>
+  <text x="21743" y="57209"  class="fil2 fnt4">亚高山</text>
+  <text x="23539" y="57209"  class="fil2 fnt4">原</text>
+  <text x="23090" y="57209"  class="fil2 fnt4">草</text>
+  <text x="21743" y="57557"  class="fil2 fnt7">Sub-alpine grassland</text>
+  <text x="21743" y="58127"  class="fil2 fnt4">干旱河谷灌丛</text>
+  <text x="21743" y="58485"  class="fil2 fnt7">Arid valley bush</text>
+  <text x="21743" y="59051"  class="fil2 fnt4">高</text>
+  <text x="22192" y="59051"  class="fil2 fnt4">山草原</text>
+  <text x="21743" y="59408"  class="fil2 fnt7">Alpine grassland</text>
+  <text x="21743" y="59988"  class="fil2 fnt4">亚</text>
+  <text x="22192" y="59988"  class="fil2 fnt4">高山荒漠</text>
+  <text x="21743" y="60319"  class="fil2 fnt7">Sub-alpine desert</text>
+  <text x="21743" y="60902"  class="fil2 fnt4">高山</text>
+  <text x="23090" y="60902"  class="fil2 fnt4">漠</text>
+  <text x="22641" y="60902"  class="fil2 fnt4">荒</text>
+  <text x="21743" y="61256"  class="fil2 fnt7">Alpine desert</text>
+  <text x="21743" y="61831"  class="fil2 fnt4">高</text>
+  <text x="22192" y="61831"  class="fil2 fnt4">山流石坡稀疏植被</text>
+  <text x="21743" y="62174"  class="fil2 fnt7">Sparse vegetation in alpine flowstone hillside </text>
+  <text x="21743" y="62706"  class="fil2 fnt4">硬</text>
+  <text x="22192" y="62706"  class="fil2 fnt4">叶常绿阔叶林</text>
+  <text x="21743" y="63069"  class="fil2 fnt7">Sclerophyll evergreen broad-leaved forest</text>
+  <text x="21743" y="63632"  class="fil2 fnt4">大果圆柏林</text>
+  <text x="21743" y="63992"  class="fil2 fnt7">Big fruit China savin forest</text>
+  <text x="21743" y="64562"  class="fil2 fnt4">高山冰雪带</text>
+  <text x="21743" y="64911"  class="fil2 fnt7">Alpine snow and ice area</text>
+  <text x="18303" y="49660"  class="fil2 fnt7">Northwest</text>
+  <text x="20085" y="49100"  class="fil2 fnt2">Extremely arid</text>
+  <text x="24469" y="49131"  class="fil2 fnt2">Arid</text>
+  <text x="27772" y="49131"  class="fil2 fnt2">Semiarid</text>
+  <text x="31204" y="49131"  class="fil2 fnt2">Semihumid</text>
+  <text x="35135" y="49131"  class="fil2 fnt2">Humid</text>
+  <text x="38806" y="49131"  class="fil2 fnt2">Moist</text>
+  <text x="41525" y="49660"  class="fil2 fnt7">Southeast</text>
+  <text x="40536" y="49466"  class="fil2 fnt2">(m)</text>
+ </g>
+ <g id="toolTip">
+		
+	</g>
+ </g>
+</svg>

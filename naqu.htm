@@ -1,0 +1,60 @@
+﻿<!doctype html> 
+<html lang="en"> 
+<head> 
+<script type="text/javascript" src="http://cdn.hcharts.cn/jquery/jquery-1.8.3.min.js"></script>
+ <script type="text/javascript" src="http://cdn.hcharts.cn/highcharts/4.0.1/highcharts.js"></script>
+ <script> 
+ $(function () {
+    $('#container').highcharts({
+        title: {
+            text: '2000年-2012年那曲地区生产总值及其构成',
+            x: -20 //center
+        },
+       
+        credits: {
+            enabled: false
+        },
+        xAxis: {
+            categories: ['2000', '2001', '2002', '2004', '2005','2006', '2007', '2008', '2009', '2010', '2011','2012']
+        },
+        yAxis: {
+            title: {
+                text: '单位 (亿元)'
+            },
+            plotLines: [{
+                value: 0,
+                width: 1,
+                color: '#808080'
+            }]
+        },
+        tooltip: {
+            valueSuffix: '亿元'
+        },
+        legend: {
+            layout: 'vertical',
+            align: 'right',
+            verticalAlign: 'middle',
+            borderWidth: 0
+        },
+        series: [{
+            name: '国内生产总值',
+            data: [9.64, 11.54, 13.80, 24.28, 28.67, 32.65, 37.24, 42.19, 45.11, 51.15, 58.03, 65.16 ]
+        }, {
+            name: '第一产业',
+            data: [4.45, 5.55, 6.22, 6.04, 6.37, 7.30, 7.74, 8.73, 9.10, 9.72, 10.54, 11.45 ]
+        }, {
+            name: '第二产业',
+            data: [1.93, 2.22, 2.69, 3.63, 3.74, 7.44, 9.01, 10.21, 11.61, 14.19, 13.38, 16.45 ]
+        }, {
+            name: '第三产业',
+            data: [3.26, 3.77, 4.89, 14.61, 18.55, 17.91, 20.49, 23.25, 24.40, 27.24, 34.11, 37.26 ]
+        }]
+    });
+});
+				
+ </script> 
+ </head> 
+<body> 
+<div id="container" style="width:700px;height:400px"></div> 
+</body> 
+</html>

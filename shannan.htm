@@ -1,0 +1,60 @@
+﻿<!doctype html> 
+<html lang="en"> 
+<head> 
+<script type="text/javascript" src="http://cdn.hcharts.cn/jquery/jquery-1.8.3.min.js"></script>
+ <script type="text/javascript" src="http://cdn.hcharts.cn/highcharts/4.0.1/highcharts.js"></script>
+ <script> 
+ $(function () {
+    $('#container').highcharts({
+        title: {
+            text: '2000年-2012年山南地区生产总值及其构成',
+            x: -20 //center
+        },
+       
+        credits: {
+            enabled: false
+        },
+        xAxis: {
+            categories: ['2000', '2001', '2002', '2004', '2005','2006', '2007', '2008', '2009', '2010', '2011','2012']
+        },
+        yAxis: {
+            title: {
+                text: '单位 (亿元)'
+            },
+            plotLines: [{
+                value: 0,
+                width: 1,
+                color: '#808080'
+            }]
+        },
+        tooltip: {
+            valueSuffix: '亿元'
+        },
+        legend: {
+            layout: 'vertical',
+            align: 'right',
+            verticalAlign: 'middle',
+            borderWidth: 0
+        },
+        series: [{
+            name: '国内生产总值',
+            data: [9.65, 11.08, 13.00, 21.87, 24.47, 28.67, 33.18, 39.89, 45.48, 53.05, 63.37, 73.07 ]
+        }, {
+            name: '第一产业',
+            data: [2.85, 2.85, 2.90, 2.88, 2.95, 3.09, 3.36, 3.26, 3.42, 3.98, 4.39, 4.76 ]
+        }, {
+            name: '第二产业',
+            data: [2.23, 2.61, 3.18, 7.22, 7.89, 10.73, 12.41, 16.87, 19.36, 24.67, 29.36, 33.66 ]
+        }, {
+            name: '第三产业',
+            data: [4.57, 5.63, 6.92, 11.76, 13.64, 14.85, 17.41, 19.76, 22.70, 24.40, 29.62, 34.65 ]
+        }]
+    });
+});
+				
+ </script> 
+ </head> 
+<body> 
+<div id="container" style="width:700px;height:400px"></div> 
+</body> 
+</html>

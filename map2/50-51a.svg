@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg onload="Init(evt)" xmlns:attrib="http://www.carto.net/attrib" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="999px" height="628px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 99900 62794"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+  <script  xlink:href="../js/Map.js"></script>
+<script  type="text/javascript" xlink:href="../js/mapApp.js"></script>
+<script  type="text/javascript" xlink:href="../js/helper_functions.js"></script>
+<script  type="text/javascript" xlink:href="../js/timer.js"></script>
+
+  <script language="Javascript">
+    <![CDATA[
+	 var myMapApp = new mapApp(false, undefined); //与tooltip相关
+    var obc; //
+    window.onSVGLoad = initLater();
+    function initLater() {
+        //this timeout is because of the bbox bug in Firefox which prevents to have access to bbox in onload scripts
+        window.setTimeout("init()", 100);
+    }
+    function init() {
+
+         /* 添加tooltip*/
+         //tooltip styles
+         var tooltipTextStyles = {
+             "font-family": "Arial,Helvetica",
+            "fill": "dimgray",
+            "font-size": 1300
+        };
+        var tooltipRectStyles = {
+             "fill": "white",
+            "stroke": "dimgray"
+        };
+         myMapApp.initTooltips("toolTip", tooltipTextStyles, tooltipRectStyles, 10, 20, 3);
+         //add tooltip to element
+         myMapApp.addTooltip("layer_1", undefined, true, false, "target", "name");
+		 myMapApp.addTooltip("lunkuo", undefined, true, false, "target", "name");
+
+   
+
+    var lunkuo = document.getElementById("lunkuo");
+    var childa = lunkuo.firstChild;
+    while (childa != null) {
+        childa.addEventListener("mouseover", LevelHighlight, false);
+        childa.addEventListener("mouseout", LevelHighlightRecover, false);
+        childa = childa.nextSibling;
+    }
+	}
+	function LevelHighlight(evt) {
+	 	var obj = evt.target;
+	    obj.setAttributeNS(null,"style", "fill: #00FFFF");
+	    obj.setAttributeNS(null,"fill-opacity","0.5");
+		 var posx, posy, curtrans, ctx, cty;
+    posx = evt.clientX;
+    posy = evt.clientY;
+    document.getElementById("img1").setAttribute("x", posx * WAmp + vbCX);
+    document.getElementById("img1").setAttribute("y", posy * HAmp + vbCY);
+    document.getElementById("img1").setAttribute("style", "visibility: visible");
+	 }
+	 //鼠标移开后恢复
+	 function LevelHighlightRecover(evt) {
+	    var obj = evt.target;
+        obj.setAttributeNS(null,"fill-opacity","0");
+		 document.getElementById("img1").setAttribute("style", "visibility: hidden");
+	 }
+    
+
+     function Highlight(evt) {
+	 var obj = evt.target;
+     
+     obj.setAttribute("style", "stroke: #00FFFF; stroke-width: 150px");
+	 }
+	 //鼠标移开后恢复
+	 function HighlightRecover(evt) {
+	 var obj = evt.target;
+	 obj.setAttribute("style", "stroke: #FEFEFE; stroke-width: 28.3667");
+	 }
+    
+   ]]>
+	  
+    </script>
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:21.7497}
+    .str2 {stroke:#00A2E9;stroke-width:22.8343;stroke-linejoin:round}
+    .str4 {stroke:#332C2B;stroke-width:28.5429}
+    .str6 {stroke:#332C2B;stroke-width:28.5429}
+    .str3 {stroke:#332C2B;stroke-width:28.5429;stroke-linejoin:round}
+    .str1 {stroke:#6D583D;stroke-width:28.5429;stroke-linejoin:round}
+    .str5 {stroke:#823520;stroke-width:28.5429;stroke-linejoin:round}
+    .str8 {stroke:#332C2B;stroke-width:34.2514}
+    .str7 {stroke:#2F318B;stroke-width:42.8143}
+    .fil2 {fill:none}
+    .fil1 {fill:#332C2B}
+    .fil0 {fill:#FEFEFE}
+    .fil11 {fill:#2F318B}
+    .fil4 {fill:#00A2E9}
+    .fil3 {fill:#6D583D}
+    .fil5 {fill:#823520}
+    .fil13 {fill:#C7D2E1}
+    .fil10 {fill:#F0F4F6}
+    .fil6 {fill:#F3A158}
+    .fil8 {fill:#FACD95}
+    .fil7 {fill:#FCE2BB}
+    .fil9 {fill:#FFFDE5}
+    .fil12 {fill:#2F318B;fill-rule:nonzero;fill-opacity:0.7}
+    .fnt4 {font-weight:normal;font-size:704.837px;font-family:'Times New Roman'}
+    .fnt0 {font-weight:normal;font-size:805.537px;font-family:'Times New Roman'}
+    .fnt3 {font-weight:normal;font-size:805.537px;font-family:'方正书宋简体'}
+    .fnt6 {font-weight:normal;font-size:805.537px;font-family:'方正细圆简体'}
+    .fnt7 {font-weight:normal;font-size:855.886px;font-family:'方正书宋简体'}
+    .fnt1 {font-weight:normal;font-size:906.236px;font-family:'宋体'}
+    .fnt2 {font-weight:normal;font-size:1006.93px;font-family:'宋体'}
+    .fnt8 {font-weight:normal;font-size:1057.28px;font-family:'Arial'}
+    .fnt5 {font-weight:normal;font-size:352.419px;font-family:'Times New Roman';baseline-shift:super}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="10099" y="6774" width="81815" height="51873"/>
+   </clipPath>
+ </defs>
+<symbol id="符号54" viewBox="49625 31072 650 650">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="314"/>
+ <circle class="fil1 str0" cx="49950" cy="31397" r="186"/>
+</symbol>
+<symbol id="符号53" viewBox="49568 31015 764 764">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="371"/>
+ <circle class="fil2 str0" cx="49950" cy="31397" r="139"/>
+</symbol>
+<symbol id="符号48" viewBox="49625 31072 650 650">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="314"/>
+ <circle class="fil1 str0" cx="49950" cy="31397" r="186"/>
+</symbol>
+<symbol id="符号44" viewBox="49893 31340 114 114">
+ <path class="fil3 str1" d="M49993 31397c0,-24 -19,-43 -43,-43 -24,0 -43,19 -43,43 0,24 19,43 43,43 24,0 43,-19 43,-43z"/>
+</symbol>
+<symbol id="符号41" viewBox="49768 31215 364 364">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="171"/>
+ <circle class="fil2 str0" cx="49950" cy="31397" r="64"/>
+</symbol>
+<symbol id="符号26" viewBox="49736 31184 427 427">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="203"/>
+ <circle class="fil2 str0" cx="49950" cy="31397" r="76"/>
+</symbol>
+<symbol id="符号4" viewBox="49710 31294 468 206">
+ <polygon class="fil4" points="49885,31369 49886,31369 49890,31369 49896,31369 49904,31369 49914,31369 49925,31369 49938,31368 49951,31367 49964,31366 49978,31365 49992,31362 50005,31360 50018,31357 50030,31353 50040,31348 50049,31343 50057,31337 50065,31332 50073,31327 50081,31323 50089,31319 50097,31315 50105,31313 50112,31311 50120,31310 50128,31309 50136,31309 50144,31311 50153,31313 50161,31316 50178,31329 50178,31330 50176,31330 50171,31329 50165,31329 50159,31328 50151,31327 50142,31327 50133,31327 50123,31328 50113,31331 50103,31334 50093,31338 50084,31344 50074,31351 50065,31360 50051,31369 50037,31378 50023,31385 50010,31392 49996,31398 49982,31403 49969,31408 49957,31411 49946,31414 49936,31417 49918,31422 49912,31423 49905,31424 49900,31425 "/>
+ <path class="fil4 str2" d="M49906 31397c0,-50 -41,-91 -92,-91 -51,0 -92,41 -92,91 0,50 41,91 92,91 51,0 92,-41 92,-91z"/>
+</symbol>
+<symbol id="符号45" viewBox="49836 31226 228 343">
+ <polygon class="fil3" points="49839,31568 49949,31226 50064,31568 49836,31568 "/>
+</symbol>
+<symbol id="符号20" viewBox="49625 31072 650 650">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="314"/>
+ <circle class="fil1 str0" cx="49950" cy="31397" r="186"/>
+</symbol>
+<symbol id="符号11" viewBox="49625 31072 650 650">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="314"/>
+ <circle class="fil1 str0" cx="49950" cy="31397" r="186"/>
+</symbol>
+<symbol id="符号60" viewBox="49764 31212 371 371">
+ <path class="fil0 str3" d="M50121 31397c0,-95 -77,-171 -171,-171 -95,0 -171,77 -171,171 0,95 77,171 171,171 95,0 171,-77 171,-171z"/>
+</symbol>
+<symbol id="符号56" viewBox="49884 31331 131 131">
+ <path class="fil3 str1" d="M50001 31397c0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,28 23,51 51,51 28,0 51,-23 51,-51z"/>
+</symbol>
+<symbol id="符号36" viewBox="49683 31130 534 534">
+ <rect class="fil0" x="49693" y="31140" width="514" height="514"/>
+ <line class="fil2 str4" x1="49693" y1="31140" x2="50207" y2= "31654" />
+ <line class="fil2 str4" x1="49693" y1="31654" x2="50207" y2= "31140" />
+</symbol>
+<symbol id="符号2" viewBox="49893 31340 114 114">
+ <path class="fil5 str5" d="M49993 31397c0,-24 -19,-43 -43,-43 -24,0 -43,19 -43,43 0,24 19,43 43,43 24,0 43,-19 43,-43z"/>
+</symbol>
+<symbol id="符号55" viewBox="49683 31130 534 534">
+ <line class="fil2 str4" x1="49693" y1="31140" x2="50207" y2= "31654" />
+ <line class="fil2 str4" x1="49693" y1="31654" x2="50207" y2= "31140" />
+</symbol>
+<symbol id="符号15" viewBox="49769 31216 363 363">
+ <rect class="fil0" x="49779" y="31226" width="343" height="343"/>
+ <line class="fil2 str4" x1="49779" y1="31226" x2="50121" y2= "31568" />
+ <line class="fil2 str4" x1="49779" y1="31568" x2="50121" y2= "31226" />
+</symbol>
+<symbol id="符号12" viewBox="49710 31294 468 206">
+ <polygon class="fil4" points="49885,31369 49886,31369 49890,31369 49896,31369 49904,31369 49914,31369 49925,31369 49938,31368 49951,31367 49964,31366 49978,31365 49992,31362 50005,31360 50018,31357 50030,31353 50040,31348 50049,31343 50057,31337 50065,31332 50073,31327 50081,31323 50089,31319 50097,31315 50105,31313 50112,31311 50120,31310 50128,31309 50136,31309 50144,31311 50153,31313 50161,31316 50178,31329 50178,31330 50176,31330 50171,31329 50165,31329 50159,31328 50151,31327 50142,31327 50133,31327 50123,31328 50113,31331 50103,31334 50093,31338 50084,31344 50074,31351 50065,31360 50051,31369 50037,31378 50023,31385 50010,31392 49996,31398 49982,31403 49969,31408 49957,31411 49946,31414 49936,31417 49918,31422 49912,31423 49905,31424 49900,31425 "/>
+ <path class="fil4 str2" d="M49906 31397c0,-50 -41,-91 -92,-91 -51,0 -92,41 -92,91 0,50 41,91 92,91 51,0 92,-41 92,-91z"/>
+</symbol>
+<symbol id="符号52" viewBox="49764 31212 371 371">
+ <path class="fil0 str3" d="M50121 31397c0,-95 -77,-171 -171,-171 -95,0 -171,77 -171,171 0,95 77,171 171,171 95,0 171,-77 171,-171z"/>
+</symbol>
+<symbol id="符号46" viewBox="49764 31212 371 371">
+ <path class="fil0 str3" d="M50121 31397c0,-95 -77,-171 -171,-171 -95,0 -171,77 -171,171 0,95 77,171 171,171 95,0 171,-77 171,-171z"/>
+</symbol>
+<symbol id="符号42" viewBox="49625 31072 650 650">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="314"/>
+ <circle class="fil1 str0" cx="49950" cy="31397" r="186"/>
+</symbol>
+<symbol id="符号24" viewBox="49816 31194 268 405">
+ <polygon class="fil5" points="49819,31600 49948,31194 50084,31600 49816,31600 "/>
+</symbol>
+<symbol id="符号9" viewBox="49768 31215 364 364">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="171"/>
+ <circle class="fil2 str0" cx="49950" cy="31397" r="64"/>
+</symbol>
+<symbol id="符号50" viewBox="49884 31331 131 131">
+ <path class="fil3 str1" d="M50001 31397c0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,28 23,51 51,51 28,0 51,-23 51,-51z"/>
+</symbol>
+<symbol id="符号35" viewBox="49710 31294 468 206">
+ <polygon class="fil4" points="49885,31369 49886,31369 49890,31369 49896,31369 49904,31369 49914,31369 49925,31369 49938,31368 49951,31367 49964,31366 49978,31365 49992,31362 50005,31360 50018,31357 50030,31353 50040,31348 50049,31343 50057,31337 50065,31332 50073,31327 50081,31323 50089,31319 50097,31315 50105,31313 50112,31311 50120,31310 50128,31309 50136,31309 50144,31311 50153,31313 50161,31316 50178,31329 50178,31330 50176,31330 50171,31329 50165,31329 50159,31328 50151,31327 50142,31327 50133,31327 50123,31328 50113,31331 50103,31334 50093,31338 50084,31344 50074,31351 50065,31360 50051,31369 50037,31378 50023,31385 50010,31392 49996,31398 49982,31403 49969,31408 49957,31411 49946,31414 49936,31417 49918,31422 49912,31423 49905,31424 49900,31425 "/>
+ <path class="fil4 str2" d="M49906 31397c0,-50 -41,-91 -92,-91 -51,0 -92,41 -92,91 0,50 41,91 92,91 51,0 92,-41 92,-91z"/>
+</symbol>
+<symbol id="符号22" viewBox="49769 31216 363 363">
+ <rect class="fil0" x="49779" y="31226" width="343" height="343"/>
+ <line class="fil2 str4" x1="49779" y1="31226" x2="50121" y2= "31568" />
+ <line class="fil2 str4" x1="49779" y1="31568" x2="50121" y2= "31226" />
+</symbol>
+<symbol id="符号61" viewBox="49777 31224 345 345">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="162"/>
+ <circle class="fil2 str0" cx="49950" cy="31397" r="58"/>
+</symbol>
+<symbol id="符号21" viewBox="49710 31294 468 206">
+ <polygon class="fil4" points="49885,31369 49886,31369 49890,31369 49896,31369 49904,31369 49914,31369 49925,31369 49938,31368 49951,31367 49964,31366 49978,31365 49992,31362 50005,31360 50018,31357 50030,31353 50040,31348 50049,31343 50057,31337 50065,31332 50073,31327 50081,31323 50089,31319 50097,31315 50105,31313 50112,31311 50120,31310 50128,31309 50136,31309 50144,31311 50153,31313 50161,31316 50178,31329 50178,31330 50176,31330 50171,31329 50165,31329 50159,31328 50151,31327 50142,31327 50133,31327 50123,31328 50113,31331 50103,31334 50093,31338 50084,31344 50074,31351 50065,31360 50051,31369 50037,31378 50023,31385 50010,31392 49996,31398 49982,31403 49969,31408 49957,31411 49946,31414 49936,31417 49918,31422 49912,31423 49905,31424 49900,31425 "/>
+ <path class="fil4 str2" d="M49906 31397c0,-50 -41,-91 -92,-91 -51,0 -92,41 -92,91 0,50 41,91 92,91 51,0 92,-41 92,-91z"/>
+</symbol>
+<symbol id="符号17" viewBox="49836 31226 228 343">
+ <polygon class="fil5" points="49839,31568 49949,31226 50064,31568 49836,31568 "/>
+</symbol>
+<symbol id="符号7" viewBox="49625 31072 650 650">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="314"/>
+ <circle class="fil1 str0" cx="49950" cy="31397" r="186"/>
+</symbol>
+<symbol id="符号13" viewBox="49768 31215 364 364">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="171"/>
+ <circle class="fil2 str0" cx="49950" cy="31397" r="64"/>
+</symbol>
+<symbol id="符号27" viewBox="49625 31072 650 650">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="314"/>
+ <circle class="fil1 str0" cx="49950" cy="31397" r="186"/>
+</symbol>
+<symbol id="符号8" viewBox="49764 31212 371 371">
+ <path class="fil0 str3" d="M50121 31397c0,-95 -77,-171 -171,-171 -95,0 -171,77 -171,171 0,95 77,171 171,171 95,0 171,-77 171,-171z"/>
+</symbol>
+<symbol id="符号49" viewBox="49769 31216 363 363">
+ <line class="fil2 str4" x1="49779" y1="31226" x2="50121" y2= "31568" />
+ <line class="fil2 str4" x1="49779" y1="31568" x2="50121" y2= "31226" />
+</symbol>
+<symbol id="符号58" viewBox="49764 31212 371 371">
+ <path class="fil0 str3" d="M50121 31397c0,-95 -77,-171 -171,-171 -95,0 -171,77 -171,171 0,95 77,171 171,171 95,0 171,-77 171,-171z"/>
+</symbol>
+<symbol id="符号57" viewBox="49816 31194 268 405">
+ <polygon class="fil3" points="49819,31600 49948,31194 50084,31600 49816,31600 "/>
+</symbol>
+<symbol id="符号51" viewBox="49816 31194 268 405">
+ <polygon class="fil3" points="49819,31600 49948,31194 50084,31600 49816,31600 "/>
+</symbol>
+<symbol id="符号47" viewBox="49736 31184 427 427">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="203"/>
+ <circle class="fil2 str0" cx="49950" cy="31397" r="76"/>
+</symbol>
+<symbol id="符号40" viewBox="49764 31212 371 371">
+ <path class="fil0 str3" d="M50121 31397c0,-95 -77,-171 -171,-171 -95,0 -171,77 -171,171 0,95 77,171 171,171 95,0 171,-77 171,-171z"/>
+</symbol>
+<symbol id="符号38" viewBox="49750 31026 400 742">
+ <polygon class="fil5" points="49755,31768 49947,31026 50150,31768 49750,31768 "/>
+</symbol>
+<symbol id="符号32" viewBox="49764 31212 371 371">
+ <path class="fil0 str3" d="M50121 31397c0,-95 -77,-171 -171,-171 -95,0 -171,77 -171,171 0,95 77,171 171,171 95,0 171,-77 171,-171z"/>
+</symbol>
+<symbol id="符号30" viewBox="49884 31331 131 131">
+ <path class="fil5 str5" d="M50001 31397c0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,28 23,51 51,51 28,0 51,-23 51,-51z"/>
+</symbol>
+<symbol id="符号25" viewBox="49764 31212 371 371">
+ <path class="fil0 str3" d="M50121 31397c0,-95 -77,-171 -171,-171 -95,0 -171,77 -171,171 0,95 77,171 171,171 95,0 171,-77 171,-171z"/>
+</symbol>
+<symbol id="符号1" viewBox="49836 31226 228 343">
+ <polygon class="fil5" points="49839,31568 49949,31226 50064,31568 49836,31568 "/>
+</symbol>
+<symbol id="符号43" viewBox="49769 31216 363 363">
+ <line class="fil2 str4" x1="49779" y1="31226" x2="50121" y2= "31568" />
+ <line class="fil2 str4" x1="49779" y1="31568" x2="50121" y2= "31226" />
+</symbol>
+<symbol id="符号39" viewBox="49816 31194 268 405">
+ <polygon class="fil5" points="49819,31600 49948,31194 50084,31600 49816,31600 "/>
+</symbol>
+<symbol id="符号19" viewBox="49736 31184 427 427">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="203"/>
+ <circle class="fil2 str0" cx="49950" cy="31397" r="76"/>
+</symbol>
+<symbol id="符号5" viewBox="49764 31212 371 371">
+ <path class="fil0 str3" d="M50121 31397c0,-95 -77,-171 -171,-171 -95,0 -171,77 -171,171 0,95 77,171 171,171 95,0 171,-77 171,-171z"/>
+</symbol>
+<symbol id="符号63" viewBox="49777 31224 345 345">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="162"/>
+ <circle class="fil2 str0" cx="49950" cy="31397" r="58"/>
+</symbol>
+<symbol id="符号59" viewBox="49777 31224 345 345">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="162"/>
+ <circle class="fil2 str0" cx="49950" cy="31397" r="58"/>
+</symbol>
+<symbol id="符号6" viewBox="49768 31215 364 364">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="171"/>
+ <circle class="fil2 str0" cx="49950" cy="31397" r="64"/>
+</symbol>
+<symbol id="符号3" viewBox="49769 31216 363 363">
+ <rect class="fil0" x="49779" y="31226" width="343" height="343"/>
+ <line class="fil2 str4" x1="49779" y1="31226" x2="50121" y2= "31568" />
+ <line class="fil2 str4" x1="49779" y1="31568" x2="50121" y2= "31226" />
+</symbol>
+<symbol id="符号14" viewBox="49764 31212 371 371">
+ <path class="fil0 str3" d="M50121 31397c0,-95 -77,-171 -171,-171 -95,0 -171,77 -171,171 0,95 77,171 171,171 95,0 171,-77 171,-171z"/>
+</symbol>
+<symbol id="符号62" viewBox="49764 31212 371 371">
+ <path class="fil0 str3" d="M50121 31397c0,-95 -77,-171 -171,-171 -95,0 -171,77 -171,171 0,95 77,171 171,171 95,0 171,-77 171,-171z"/>
+</symbol>
+<symbol id="符号29" viewBox="49769 31216 363 363">
+ <rect class="fil0" x="49779" y="31226" width="343" height="343"/>
+ <line class="fil2 str4" x1="49779" y1="31226" x2="50121" y2= "31568" />
+ <line class="fil2 str4" x1="49779" y1="31568" x2="50121" y2= "31226" />
+</symbol>
+<symbol id="符号18" viewBox="49764 31212 371 371">
+ <path class="fil0 str3" d="M50121 31397c0,-95 -77,-171 -171,-171 -95,0 -171,77 -171,171 0,95 77,171 171,171 95,0 171,-77 171,-171z"/>
+</symbol>
+<symbol id="符号37" viewBox="49884 31331 131 131">
+ <path class="fil5 str5" d="M50001 31397c0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,28 23,51 51,51 28,0 51,-23 51,-51z"/>
+</symbol>
+<symbol id="符号34" viewBox="49625 31072 650 650">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="314"/>
+ <circle class="fil1 str0" cx="49950" cy="31397" r="186"/>
+</symbol>
+<symbol id="符号33" viewBox="49568 31015 764 764">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="371"/>
+ <circle class="fil2 str0" cx="49950" cy="31397" r="139"/>
+</symbol>
+<symbol id="符号31" viewBox="49816 31194 268 405">
+ <polygon class="fil5" points="49819,31600 49948,31194 50084,31600 49816,31600 "/>
+</symbol>
+<symbol id="符号23" viewBox="49884 31331 131 131">
+ <path class="fil5 str5" d="M50001 31397c0,-28 -23,-51 -51,-51 -28,0 -51,23 -51,51 0,28 23,51 51,51 28,0 51,-23 51,-51z"/>
+</symbol>
+<symbol id="符号16" viewBox="49893 31340 114 114">
+ <path class="fil5 str5" d="M49993 31397c0,-24 -19,-43 -43,-43 -24,0 -43,19 -43,43 0,24 19,43 43,43 24,0 43,-19 43,-43z"/>
+</symbol>
+<symbol id="符号10" viewBox="49625 31072 650 650">
+ <circle class="fil0 str0" cx="49950" cy="31397" r="314"/>
+ <circle class="fil1 str0" cx="49950" cy="31397" r="186"/>
+</symbol>
+<symbol id="符号28" viewBox="49710 31294 468 206">
+ <polygon class="fil4" points="49885,31369 49886,31369 49890,31369 49896,31369 49904,31369 49914,31369 49925,31369 49938,31368 49951,31367 49964,31366 49978,31365 49992,31362 50005,31360 50018,31357 50030,31353 50040,31348 50049,31343 50057,31337 50065,31332 50073,31327 50081,31323 50089,31319 50097,31315 50105,31313 50112,31311 50120,31310 50128,31309 50136,31309 50144,31311 50153,31313 50161,31316 50178,31329 50178,31330 50176,31330 50171,31329 50165,31329 50159,31328 50151,31327 50142,31327 50133,31327 50123,31328 50113,31331 50103,31334 50093,31338 50084,31344 50074,31351 50065,31360 50051,31369 50037,31378 50023,31385 50010,31392 49996,31398 49982,31403 49969,31408 49957,31411 49946,31414 49936,31417 49918,31422 49912,31423 49905,31424 49900,31425 "/>
+ <path class="fil4 str2" d="M49906 31397c0,-50 -41,-91 -92,-91 -51,0 -92,41 -92,91 0,50 41,91 92,91 51,0 92,-41 92,-91z"/>
+</symbol>
+<g id="map">
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image id="_50-51人口-chen_x0028_2_x0029_.png" x="10099" y="6774" width="81815" height="51873" xlink:href="50-51人口-chen(2)_ImgID1.png"/>
+  </g>
+ </g>
+ <g id="layer_1" attrib:tooltipAttrib="name" attrib:tooltipParent="true" attrib:tooltip="Tooltip">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <text x="78630" y="13455"  class="fil1 fnt0">0.5</text>
+  <text x="78630" y="14177"  class="fil1 fnt0">1</text>
+  <text x="78630" y="16400"  class="fil1 fnt0">4</text>
+  <text x="78630" y="18055"  class="fil1 fnt0">6</text>
+  <text x="78630" y="20000"  class="fil1 fnt0">8</text>
+  <text x="77851" y="10217"  class="fil1 fnt1">（万人）</text>
+  <rect class="fil6 str4" x="28191" y="51565" width="1998" height="1142"/>
+  <rect class="fil7 str4" x="28191" y="54419" width="1998" height="1142"/>
+  <rect class="fil8 str4" x="28191" y="52992" width="1998" height="1142"/>
+  <text x="74167" y="10219"  class="fil1 fnt2">市县人口</text>
+  <text x="24923" y="50401"  class="fil1 fnt2">人口密度</text>
+  <text x="28950" y="50401"  class="fil1 fnt1">（人/平方千米）</text>
+  <text x="24923" y="51162"  class="fil1 fnt0">Population</text>
+  <text x="28731" y="51162"  class="fil1 fnt0">density </text>
+  <text x="28413" y="51162"  class="fil1 fnt3">  </text>
+  <text x="31178" y="51162"  class="fil1 fnt4">(person/km</text>
+  <text x="34565" y="51162"  class="fil1 fnt4">)</text>
+  <text x="34389" y="50810"  class="fil1 fnt5">2</text>
+  <text x="78630" y="22254"  class="fil1 fnt0">10</text>
+  <text x="78630" y="25068"  class="fil1 fnt0">19</text>
+  <rect class="fil9 str4" x="28191" y="55846" width="1998" height="1142"/>
+  <rect class="fil10 str6" x="28191" y="57274" width="1998" height="1142"/>
+  <text x="30610" y="55190"  class="fil1 fnt0">1~1.9</text>
+  <text x="30610" y="53762"  class="fil1 fnt0">2~4.9</text>
+  <text x="30610" y="52335"  class="fil1 fnt0">5~19.9</text>
+  <text x="30610" y="56659"  class="fil1 fnt6">&lt;</text>
+  <text x="31138" y="56659"  class="fil1 fnt0">1</text>
+  <text x="30610" y="57801"  class="fil1 fnt7">无人居住区</text>
+  <circle class="fil12 str7" cx="76641" cy="16197" r="719"/>
+  <circle class="fil12 str7" cx="76641" cy="17852" r="881"/>
+  <circle class="fil12 str7" cx="76641" cy="19796" r="1019"/>
+  <circle class="fil12 str7" cx="76641" cy="22008" r="1140"/>
+  <circle class="fil12 str7" cx="76641" cy="13252" r="254"/>
+  <circle class="fil12 str7" cx="76641" cy="13974" r="359"/>
+  <path id="拉萨" attrib:name="440438万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M59598 40785c859,0 1554,695 1554,1554 0,859 -695,1554 -1554,1554 -859,0 -1554,-695 -1554,-1554 0,-859 695,-1554 1554,-1554l0 0z"/>
+  <path id="林周" attrib:name="56853万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M59969 40357c485,0 875,390 875,875 0,485 -390,875 -875,875 -484,0 -874,-390 -874,-875 0,-485 390,-875 874,-875l0 0z"/>
+  <path id="当雄" attrib:name="42758万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M59302 37836c423,0 767,344 767,767 0,423 -344,767 -767,767 -423,0 -767,-344 -767,-767 0,-423 344,-767 767,-767l0 0z"/>
+  <path id="尼木" attrib:name="29271万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M55739 42729c349,0 633,285 633,634 0,349 -285,633 -633,633 -349,0 -634,-285 -634,-633 0,-349 285,-634 634,-634l0 0z"/>
+  <path id="曲水" attrib:name="32907万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M57941 43030c366,0 662,296 662,662 0,366 -296,662 -662,662 -366,0 -662,-296 -662,-662 0,-366 296,-662 662,-662l0 0z"/>
+  <path id="堆龙德庆" attrib:name="42870万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M58901 41537c429,0 778,349 778,778 0,429 -349,778 -778,778 -430,0 -779,-349 -779,-778 0,-429 349,-778 779,-778l0 0z"/>
+  <path id="达孜" attrib:name="25658万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M60402 41618c337,0 614,276 614,614 0,337 -276,614 -614,614 -337,0 -614,-277 -614,-614 0,-337 277,-614 614,-614l0 0z"/>
+  <path id="墨竹工卡" attrib:name="43306万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M61848 40698c426,0 772,347 772,772 0,425 -346,772 -772,772 -425,0 -771,-347 -771,-772 0,-425 346,-772 771,-772l0 0z"/>
+  <path id="昌都" attrib:name="90998万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M82886 33383c594,0 1076,482 1076,1076 0,594 -482,1076 -1076,1076 -594,0 -1076,-482 -1076,-1076 0,-594 482,-1076 1076,-1076l0 0z"/>
+  <path id="江达" attrib:name="68987万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M86749 31497c552,0 1002,449 1002,1002 0,552 -449,1002 -1002,1002 -552,0 -1002,-449 -1002,-1002 0,-552 449,-1002 1002,-1002l0 0z"/>
+  <path id="贡觉" attrib:name="41624万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M87314 34682c403,0 728,324 728,728 0,403 -324,728 -728,728 -403,0 -728,-324 -728,-728 0,-403 325,-728 728,-728l0 0z"/>
+  <path id="类乌齐" attrib:name="41211万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M80582 33576c408,0 739,331 739,739 0,408 -331,739 -739,739 -408,0 -739,-331 -739,-739 0,-408 331,-739 739,-739l0 0z"/>
+  <path id="丁青" attrib:name="62716万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M76626 32670c502,0 910,408 910,910 0,502 -408,910 -910,910 -502,0 -910,-408 -910,-910 0,-502 408,-910 910,-910l0 0z"/>
+  <path id="察雅" attrib:name="53987万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M84595 35631c456,0 826,370 826,826 0,456 -370,826 -826,826 -456,0 -826,-370 -826,-826 0,-456 370,-826 826,-826l0 0z"/>
+  <path id="八宿" attrib:name="37146万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M82251 38762c406,0 734,329 734,734 0,406 -329,734 -734,734 -405,0 -734,-329 -734,-734 0,-406 329,-734 734,-734l0 0z"/>
+  <path id="左贡" attrib:name="43879万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M85970 40059c408,0 737,329 737,736 0,408 -329,736 -737,736 -408,0 -736,-329 -736,-736 0,-408 329,-736 736,-736l0 0z"/>
+  <path id="芒康" attrib:name="73392万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M88985 39575c577,0 1046,469 1046,1046 0,577 -469,1046 -1046,1046 -576,0 -1045,-469 -1045,-1046 0,-577 469,-1046 1045,-1046l0 0z"/>
+  <path id="洛隆" attrib:name="42447万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M77761 35803c406,0 734,329 734,734 0,406 -329,734 -734,734 -406,0 -734,-329 -734,-734 0,-406 329,-734 734,-734l0 0z"/>
+  <path id="边坝" attrib:name="30681万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M73302 35340c363,0 660,296 660,660 0,364 -296,660 -660,660 -364,0 -660,-296 -660,-660 0,-364 296,-660 660,-660l0 0z"/>
+  <path id="乃东" attrib:name="56860万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M62127 43340c480,0 871,390 871,871 0,480 -390,870 -871,870 -480,0 -871,-390 -871,-870 0,-480 390,-871 871,-871l0 0z"/>
+  <path id="扎囊" attrib:name="36527万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M60327 43469c392,0 710,318 710,710 0,392 -318,710 -710,710 -393,0 -710,-318 -710,-710 0,-393 318,-710 710,-710l0 0z"/>
+  <path id="贡嘎" attrib:name="46230万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M58990 43184c434,0 787,353 787,787 0,434 -353,787 -787,787 -434,0 -787,-353 -787,-787 0,-434 353,-787 787,-787l0 0z"/>
+  <path id="桑日" attrib:name="16111万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M63057 43384c256,0 464,208 464,465 0,257 -208,465 -464,465 -257,0 -465,-208 -465,-465 0,-257 208,-465 465,-465l0 0z"/>
+  <path id="琼结" attrib:name="18099万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M61723 44624c281,0 506,226 506,506 0,281 -226,506 -506,506 -280,0 -506,-226 -506,-506 0,-281 226,-506 506,-506l0 0z"/>
+  <path id="曲松" attrib:name="15974万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M63812 44409c260,0 471,211 471,472 0,261 -211,471 -471,471 -261,0 -472,-210 -472,-471 0,-261 211,-472 472,-472l0 0z"/>
+  <path id="加查" attrib:name="18018万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M65242 44038c276,0 502,226 502,502 0,276 -226,502 -502,502 -277,0 -502,-226 -502,-502 0,-276 226,-502 502,-502l0 0z"/>
+  <path id="隆子" attrib:name="32578万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M64917 47151c373,0 677,304 677,677 0,373 -304,677 -677,677 -373,0 -677,-304 -677,-677 0,-373 304,-677 677,-677l0 0z"/>
+  <path id="错那" attrib:name="14793万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M63014 49284c241,0 439,198 439,439 0,241 -198,439 -439,439 -241,0 -438,-198 -438,-439 0,-241 197,-439 438,-439l0 0z"/>
+  <path id="措美" attrib:name="13895万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M60896 47348c239,0 432,193 432,432 0,239 -193,432 -432,432 -239,0 -432,-193 -432,-432 0,-239 193,-432 432,-432l0 0z"/>
+  <path id="洛扎" attrib:name="18674万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M58515 47628c274,0 493,219 493,493 0,274 -219,493 -493,493 -274,0 -493,-219 -493,-493 0,-274 219,-493 493,-493l0 0z"/>
+  <path id="浪卡子" attrib:name="314114万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M56623 44784c375,0 679,305 679,680 0,375 -304,680 -679,680 -375,0 -680,-305 -680,-680 0,-375 304,-680 680,-680l0 0z"/>
+  <path id="日喀则市" attrib:name="94590万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M50585 43000c644,0 1168,524 1168,1168 0,644 -524,1168 -1168,1168 -644,0 -1169,-524 -1169,-1168 0,-644 524,-1168 1169,-1168l0 0z"/>
+  <path id="南木林" attrib:name="75102万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M51409 41190c568,0 1028,460 1028,1028 0,568 -460,1028 -1028,1028 -568,0 -1028,-460 -1028,-1028 0,-568 460,-1028 1028,-1028l0 0z"/>
+  <path id="定日" attrib:name="47904万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M43578 46049c445,0 805,360 805,805 0,445 -360,805 -805,805 -445,0 -805,-360 -805,-805 0,-445 360,-805 805,-805l0 0z"/>
+  <path id="萨迦" attrib:name="45248万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M47172 45021c430,0 779,349 779,778 0,429 -349,778 -779,778 -429,0 -778,-349 -778,-778 0,-429 349,-778 778,-778l0 0z"/>
+  <path id="拉孜" attrib:name="48672万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M45674 44144c445,0 805,360 805,805 0,445 -360,805 -805,805 -445,0 -805,-360 -805,-805 0,-445 360,-805 805,-805l0 0z"/>
+  <path id="昂仁" attrib:name="46468万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M44135 43196c434,0 785,350 785,785 0,434 -350,785 -785,785 -434,0 -785,-351 -785,-785 0,-434 351,-785 785,-785l0 0z"/>
+  <path id="谢通门" attrib:name="41795万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M48150 42659c421,0 762,342 762,763 0,421 -342,763 -762,763 -421,0 -763,-342 -763,-763 0,-421 342,-763 763,-763l0 0z"/>
+  <path id="定结" attrib:name="18335万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M46171 47714c272,0 491,219 491,491 0,272 -219,491 -491,491 -272,0 -491,-219 -491,-491 0,-272 219,-491 491,-491l0 0z"/>
+  <path id="仲巴" attrib:name="18814万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M31489 40908c285,0 517,232 517,518 0,285 -232,518 -517,518 -285,0 -518,-232 -518,-518 0,-285 232,-518 518,-518l0 0z"/>
+  <path id="吉隆" attrib:name="12510万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M36360 45293c232,0 419,186 419,419 0,232 -186,419 -419,419 -232,0 -419,-186 -419,-419 0,-232 186,-419 419,-419l0 0z"/>
+  <path id="聂拉木" attrib:name="14584万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M38929 48581c245,0 447,202 447,447 0,245 -202,447 -447,447 -245,0 -447,-202 -447,-447 0,-245 201,-447 447,-447l0 0z"/>
+  <path id="萨嘎" attrib:name="12398万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M36116 43099c228,0 413,184 413,412 0,228 -185,412 -413,412 -227,0 -412,-184 -412,-412 0,-228 185,-412 412,-412l0 0z"/>
+  <path id="江孜" attrib:name="62323万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M53547 44822c502,0 908,406 908,908 0,502 -406,907 -908,907 -501,0 -907,-405 -907,-907 0,-502 406,-908 907,-908l0 0z"/>
+  <path id="白朗" attrib:name="42681万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M52043 44106c421,0 763,342 763,763 0,421 -342,763 -763,763 -421,0 -763,-342 -763,-763 0,-421 342,-763 763,-763l0 0z"/>
+  <path id="仁布" attrib:name="31136万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M54378 43671c353,0 640,287 640,640 0,353 -287,640 -640,640 -353,0 -640,-287 -640,-640 0,-353 287,-640 640,-640l0 0z"/>
+  <path id="康马" attrib:name="20291万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M53922 46776c290,0 524,234 524,524 0,290 -234,524 -524,524 -290,0 -524,-234 -524,-524 0,-290 234,-524 524,-524l0 0z"/>
+  <path id="亚东" attrib:name="11836万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M50619 51837c221,0 401,180 401,401 0,221 -180,401 -401,401 -221,0 -401,-180 -401,-401 0,-221 180,-401 401,-401l0 0z"/>
+  <path id="岗巴" attrib:name="9662万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M49247 48362c202,0 366,164 366,366 0,202 -164,366 -366,366 -201,0 -366,-164 -366,-366 0,-202 165,-366 366,-366l0 0z"/>
+  <path id="那曲" attrib:name="87727万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M62912 32879c605,0 1096,491 1096,1096 0,605 -491,1096 -1096,1096 -605,0 -1095,-491 -1095,-1096 0,-605 491,-1096 1095,-1096l0 0z"/>
+  <path id="嘉黎" attrib:name="27245万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M67600 36888c339,0 616,276 616,616 0,340 -277,616 -616,616 -340,0 -616,-276 -616,-616 0,-340 277,-616 616,-616l0 0z"/>
+  <path id="比如" attrib:name="48897万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M69156 32777c462,0 837,375 837,838 0,462 -375,838 -837,838 -463,0 -838,-375 -838,-838 0,-462 375,-838 838,-838l0 0z"/>
+  <path id="聂荣" attrib:name="29912万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M63775 30426c362,0 653,291 653,653 0,362 -291,653 -653,653 -362,0 -653,-291 -653,-653 0,-362 291,-653 653,-653l0 0z"/>
+  <path id="安多" attrib:name="34920万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M61353 29778c379,0 686,307 686,686 0,379 -307,686 -686,686 -379,0 -686,-307 -686,-686 0,-379 307,-686 686,-686l0 0z"/>
+  <path id="申扎" attrib:name="17491万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M49976 36100c272,0 489,217 489,489 0,272 -217,489 -489,489 -272,0 -489,-217 -489,-489 0,-272 217,-489 489,-489l0 0z"/>
+  <path id="索县" attrib:name="37616万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M69490 31265c397,0 721,324 721,721 0,396 -324,721 -721,721 -396,0 -721,-325 -721,-721 0,-397 324,-721 721,-721l0 0z"/>
+  <path id="班戈" attrib:name="34720万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M55046 33925c381,0 692,311 692,693 0,382 -311,693 -692,693 -382,0 -693,-311 -693,-693 0,-382 311,-693 693,-693l0 0z"/>
+  <path id="巴青" attrib:name="38736万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M70603 30789c428,0 774,346 774,774 0,428 -346,774 -774,774 -428,0 -774,-346 -774,-774 0,-427 347,-774 774,-774l0 0z"/>
+  <path id="尼玛" attrib:name="35891万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M44384 31926c390,0 708,318 708,708 0,390 -318,708 -708,708 -390,0 -708,-318 -708,-708 0,-390 318,-708 708,-708l0 0z"/>
+  <path id="普兰" attrib:name="8233万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M20532 37998c191,0 346,155 346,346 0,191 -155,346 -346,346 -191,0 -347,-155 -347,-346 0,-191 156,-346 347,-346l0 0z"/>
+  <path id="札达" attrib:name="5690万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M15525 32362c167,0 301,134 301,300 0,167 -134,300 -301,300 -167,0 -300,-134 -300,-300 0,-167 134,-300 300,-300l0 0z"/>
+  <path id="噶尔" attrib:name="12944万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M17035 27667c235,0 423,188 423,423 0,234 -188,423 -423,423 -234,0 -423,-189 -423,-423 0,-235 189,-423 423,-423l0 0z"/>
+  <path id="日土" attrib:name="7711万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M16004 23742c185,0 336,152 336,336 0,184 -151,336 -336,336 -184,0 -335,-152 -335,-336 0,-184 151,-336 335,-336l0 0z"/>
+  <path id="革吉" attrib:name="13146万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M20989 28384c231,0 417,186 417,416 0,230 -186,416 -417,416 -230,0 -416,-186 -416,-416 0,-230 186,-416 416,-416l0 0z"/>
+  <path id="改则" attrib:name="19641万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M32134 29490c283,0 511,228 511,511 0,283 -228,511 -511,511 -283,0 -511,-228 -511,-511 0,-283 228,-511 511,-511l0 0z"/>
+  <path id="措勤" attrib:name="12400万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M36168 35512c226,0 410,185 410,410 0,226 -185,410 -410,410 -226,0 -410,-185 -410,-410 0,-226 185,-410 410,-410l0 0z"/>
+  <path id="林芝" attrib:name="35786万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M72807 41409c401,0 726,324 726,726 0,401 -325,726 -726,726 -401,0 -726,-324 -726,-726 0,-401 324,-726 726,-726l0 0z"/>
+  <path id="工布江达" attrib:name="25366万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M67803 40354c322,0 583,260 583,583 0,323 -261,583 -583,583 -322,0 -583,-260 -583,-583 0,-322 261,-583 583,-583l0 0z"/>
+  <path id="米林" attrib:name="18366万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M71830 43388c274,0 498,224 498,498 0,274 -224,498 -498,498 -274,0 -498,-224 -498,-498 0,-274 224,-498 498,-498l0 0z"/>
+  <path id="摩托" attrib:name="9990万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M76213 42786c209,0 377,169 377,377 0,208 -168,377 -377,377 -208,0 -377,-169 -377,-377 0,-208 168,-377 377,-377l0 0z"/>
+  <path id="波密" attrib:name="27893万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M77780 39976c335,0 605,270 605,605 0,336 -270,605 -605,605 -336,0 -605,-270 -605,-605 0,-336 270,-605 605,-605l0 0z"/>
+  <path id="察隅" attrib:name="25639万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M84899 44993c320,0 581,261 581,581 0,320 -261,581 -581,581 -320,0 -580,-261 -580,-581 0,-320 260,-581 580,-581l0 0z"/>
+  <path id="朗县" attrib:name="14682万人" onmouseover="Highlight(evt)" onmouseout="HighlightRecover(evt)" class="fil12 str7" d="M67275 44475c248,0 447,199 447,447 0,248 -199,447 -447,447 -248,0 -447,-199 -447,-447 0,-248 199,-447 447,-447l0 0z"/>
+  <path class="fil12 str7" d="M76641 14406c280,0 508,227 508,508 0,281 -228,508 -508,508 -281,0 -509,-227 -509,-508 0,-281 228,-508 509,-508l0 0z"/>
+  <path class="fil12 str7" d="M76641 23206c868,0 1570,702 1570,1570 0,868 -702,1570 -1570,1570 -868,0 -1570,-702 -1570,-1570 0,-868 702,-1570 1570,-1570l0 0z"/>
+  <text x="78630" y="15112"  class="fil1 fnt0">2</text>
+ </g>
+ <g id="图名" visibility="hidden">
+  <metadata id="CorelCorpID_2Corel-Layer"/>
+  <text x="30674" y="9203"  class="fil1 fnt8">Population density</text>
+  <text x="38103" y="10824"  class="fil1 fnt4">k</text>
+  <text x="38491" y="10824"  class="fil1 fnt4">m</text>
+  <text x="31669" y="10815"  class="fil1 fnt4">0</text>
+  <g transform="matrix(1.05226 0 0 1 -18265.7 -20622.3)">
+   <text x="49950" y="31397"  class="fil1 fnt4">70</text>
+  </g>
+  <text x="36867" y="10815"  class="fil1 fnt4">1</text>
+  <text x="37255" y="10815"  class="fil1 fnt4">4</text>
+  <text x="37643" y="10815"  class="fil1 fnt4">0</text>
+  <rect class="fil13 str8" x="31772" y="11005" width="2854" height="228"/>
+  <rect class="fil0 str8" x="34626" y="11005" width="2854" height="228"/>
+ </g>
+ <g id="toolTip">
+		
+	</g>
+	</g>
+</svg>
