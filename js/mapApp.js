@@ -240,7 +240,8 @@ mapApp.prototype.initTooltips = function(groupId,tooltipTextAttribs,tooltipRectA
 		this.yOffset = yOffset;
 		this.padding = padding;
 		if (!this.toolTipGroup) {
-			alert("Error: could not find tooltip group with id '"+groupId+"'. Please specify a correct tooltip parent group id!");
+			//alert("Error: could not find tooltip group with id '"+groupId+"'. Please specify a correct tooltip parent group id!");
+			alert("请按F5刷新网页");
 		}
 		else {
 			//set tooltip group to invisible
