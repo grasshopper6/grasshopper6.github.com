@@ -23,7 +23,7 @@ viewBox="10000 40000 80000 60909"
 		
 	    /* 添加tooltip*/
         //tooltip styles
-        var tooltipTextStyles = {"font-family":"Arial,Helvetica","fill":"dimgray","font-size":1300};
+        var tooltipTextStyles = {"font-family":"Arial,Helvetica","fill":"dimgray","font-size":800};
         var tooltipRectStyles = {"fill":"white","stroke":"dimgray"};
         myMapApp.initTooltips("toolTip",tooltipTextStyles,tooltipRectStyles,10,20,3);
         //add tooltip to element
