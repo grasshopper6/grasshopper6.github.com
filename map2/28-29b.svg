@@ -47,7 +47,7 @@ viewBox="0 0 100000 91667"
 		obcregion = objregion.getAttribute("class")||objregion.className;
 		objregion.setAttribute("class","str200 fil50");
 		t=objregion;
-		setTimeout("regionrecover()", 2000 );
+		setTimeout("regionrecover()", 3000 );
 		
 		//setTimeout("objregion.setAttribute("class",obcregion)",1000)
 		}
