@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW X6 -->
-<svg onload="Init(evt)" xmlns:attrib="http://www.carto.net/attrib" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="850px" height="425px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 85000 42500"
+<svg onload="Init(evt)" xmlns:attrib="http://www.carto.net/attrib" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1000px" height="500px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 100000 50000"
  xmlns:xlink="http://www.w3.org/1999/xlink">
   <script  xlink:href="../js/Map.js"></script>
    <script  type="text/javascript" xlink:href="../js/mapApp.js"></script>
