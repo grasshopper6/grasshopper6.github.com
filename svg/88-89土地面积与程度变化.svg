@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="800px" height="475px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 80000 47500"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#332C2B;stroke-width:38.1}
+    .str7 {stroke:#00A2E9;stroke-width:40;stroke-linejoin:round}
+    .str4 {stroke:#332C2B;stroke-width:50}
+    .str3 {stroke:#332C2B;stroke-width:50;stroke-linejoin:round}
+    .str0 {stroke:#6D583D;stroke-width:50;stroke-linejoin:round}
+    .str5 {stroke:#823520;stroke-width:50;stroke-linejoin:round}
+    .str8 {stroke:#332C2B;stroke-width:60}
+    .str1 {stroke:#FEFEFE;stroke-width:100}
+    .str6 {stroke:#FEFEFE;stroke-width:100;stroke-linejoin:round}
+    .fil1 {fill:none}
+    .fil3 {fill:#332C2B}
+    .fil2 {fill:#FEFEFE}
+    .fil9 {fill:black}
+    .fil5 {fill:#00A2E9}
+    .fil0 {fill:#6D583D}
+    .fil4 {fill:#823520}
+    .fil7 {fill:#D1D3CD}
+    .fil6 {fill:#F5F2E8}
+    .fil8 {fill:#FFFDE5}
+    .fnt14 {font-weight:normal;font-size:850px;font-family:'Times New Roman'}
+    .fnt12 {font-weight:normal;font-size:970.15px;font-family:'Times New Roman'}
+    .fnt11 {font-weight:normal;font-size:970.15px;font-family:'方正书宋简体'}
+    .fnt10 {font-weight:normal;font-size:1058.35px;font-family:'Times New Roman'}
+    .fnt8 {font-weight:normal;font-size:1200px;font-family:'方正书宋简体'}
+    .fnt7 {font-weight:normal;font-size:1234.7px;font-family:'宋体'}
+    .fnt3 {font-weight:normal;font-size:1234.7px;font-family:'黑体'}
+    .fnt9 {font-weight:normal;font-size:1411.1px;font-family:'Arial'}
+    .fnt5 {font-weight:normal;font-size:1411.1px;font-family:'Times New Roman'}
+    .fnt16 {font-weight:normal;font-size:1411.1px;font-family:'宋体'}
+    .fnt6 {font-weight:normal;font-size:1411.1px;font-family:'方正中等线简体'}
+    .fnt2 {font-weight:normal;font-size:1411.1px;font-family:'黑体'}
+    .fnt1 {font-weight:normal;font-size:1763.9px;font-family:'Arial'}
+    .fnt0 {font-weight:normal;font-size:1763.9px;font-family:'方正准圆简体'}
+    .fnt4 {font-weight:normal;font-size:4052.25px;font-family:'Arial'}
+    .fnt15 {font-weight:normal;font-size:425px;font-family:'Times New Roman';baseline-shift:super}
+    .fnt13 {font-weight:normal;font-size:485.1px;font-family:'Times New Roman';baseline-shift:super}
+   ]]>
+  </style>
+ </defs>
+<symbol id="符号67" viewBox="39885 23635 230 230">
+ <path class="fil0 str0" d="M40090 23750c0,-50 -40,-90 -90,-90 -50,0 -90,40 -90,90 0,50 40,90 90,90 50,0 90,-40 90,-90z"/>
+</symbol>
+<symbol id="符号45" viewBox="39779 23322 468 746">
+ <polygon class="fil1 str1" points="39827,24018 39998,23483 40178,24018 39823,24018 "/>
+ <polygon id="1" class="fil0" points="39827,24018 39998,23483 40178,24018 39823,24018 "/>
+</symbol>
+<symbol id="符号42" viewBox="39431 23181 1138 1138">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="550"/>
+ <circle class="fil3 str2" cx="40000" cy="23750" r="325"/>
+</symbol>
+<symbol id="符号5" viewBox="39675 23425 650 650">
+ <path class="fil2 str3" d="M40300 23750c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+</symbol>
+<symbol id="符号13" viewBox="39681 23431 638 638">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="300"/>
+ <circle class="fil1 str2" cx="40000" cy="23750" r="113"/>
+</symbol>
+<symbol id="符号55" viewBox="39794 23544 411 411">
+ <line class="fil1 str4" x1="39812" y1="23562" x2="40188" y2= "23938" />
+ <line class="fil1 str4" x1="39812" y1="23938" x2="40188" y2= "23562" />
+</symbol>
+<symbol id="符号32" viewBox="39800 23450 400 600">
+ <polygon class="fil0" points="39805,24050 39997,23450 40200,24050 39800,24050 "/>
+</symbol>
+<symbol id="符号29" viewBox="39431 23181 1138 1138">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="550"/>
+ <circle class="fil3 str2" cx="40000" cy="23750" r="325"/>
+</symbol>
+<symbol id="符号63" viewBox="39765 23395 470 710">
+ <polygon class="fil0" points="39771,24105 39997,23395 40235,24105 39765,24105 "/>
+</symbol>
+<symbol id="符号60" viewBox="39431 23181 1138 1138">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="550"/>
+ <circle class="fil3 str2" cx="40000" cy="23750" r="325"/>
+</symbol>
+<symbol id="符号19" viewBox="39913 23663 175 175">
+ <path class="fil4 str5" d="M40063 23750c0,-35 -28,-63 -62,-63 -35,0 -63,28 -63,63 0,35 28,63 63,63 35,0 62,-28 62,-63z"/>
+</symbol>
+<symbol id="符号40" viewBox="39800 23450 400 600">
+ <polygon class="fil0" points="39805,24050 39997,23450 40200,24050 39800,24050 "/>
+</symbol>
+<symbol id="符号37" viewBox="39431 23181 1138 1138">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="550"/>
+ <circle class="fil3 str2" cx="40000" cy="23750" r="325"/>
+</symbol>
+<symbol id="符号66" viewBox="39532 23282 935 935">
+ <line class="fil1 str4" x1="39550" y1="23300" x2="40450" y2= "24200" />
+ <line class="fil1 str4" x1="39550" y1="24200" x2="40450" y2= "23300" />
+</symbol>
+<symbol id="符号43" viewBox="39794 23544 411 411">
+ <line class="fil1 str4" x1="39812" y1="23562" x2="40188" y2= "23938" />
+ <line class="fil1 str4" x1="39812" y1="23938" x2="40188" y2= "23562" />
+</symbol>
+<symbol id="符号16" viewBox="39431 23181 1138 1138">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="550"/>
+ <circle class="fil3 str2" cx="40000" cy="23750" r="325"/>
+</symbol>
+<symbol id="符号10" viewBox="39431 23181 1138 1138">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="550"/>
+ <circle class="fil3 str2" cx="40000" cy="23750" r="325"/>
+</symbol>
+<symbol id="符号51" viewBox="39765 23395 470 710">
+ <polygon class="fil0" points="39771,24105 39997,23395 40235,24105 39765,24105 "/>
+</symbol>
+<symbol id="符号48" viewBox="39431 23181 1138 1138">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="550"/>
+ <circle class="fil3 str2" cx="40000" cy="23750" r="325"/>
+</symbol>
+<symbol id="符号30" viewBox="39682 23432 635 635">
+ <line class="fil1 str4" x1="39700" y1="23450" x2="40300" y2= "24050" />
+ <line class="fil1 str4" x1="39700" y1="24050" x2="40300" y2= "23450" />
+</symbol>
+<symbol id="符号61" viewBox="39682 23432 635 635">
+ <line class="fil1 str4" x1="39700" y1="23450" x2="40300" y2= "24050" />
+ <line class="fil1 str4" x1="39700" y1="24050" x2="40300" y2= "23450" />
+</symbol>
+<symbol id="符号18" viewBox="39794 23544 411 411">
+ <rect class="fil2" x="39812" y="23562" width="376" height="376"/>
+ <line class="fil1 str4" x1="39812" y1="23562" x2="40188" y2= "23938" />
+ <line class="fil1 str4" x1="39812" y1="23938" x2="40188" y2= "23562" />
+</symbol>
+<symbol id="符号68" viewBox="39765 23395 470 710">
+ <polygon class="fil0" points="39771,24105 39997,23395 40235,24105 39765,24105 "/>
+</symbol>
+<symbol id="符号65" viewBox="39425 23175 1150 1150">
+ <circle class="fil2 str4" cx="40000" cy="23750" r="550"/>
+ <circle class="fil3 str4" cx="40000" cy="23750" r="325"/>
+</symbol>
+<symbol id="符号38" viewBox="39682 23432 635 635">
+ <line class="fil1 str4" x1="39700" y1="23450" x2="40300" y2= "24050" />
+ <line class="fil1 str4" x1="39700" y1="24050" x2="40300" y2= "23450" />
+</symbol>
+<symbol id="符号58" viewBox="39675 23425 650 650">
+ <path class="fil2 str3" d="M40300 23750c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+ <circle class="fil3" cx="40000" cy="23750" r="75"/>
+</symbol>
+<symbol id="符号56" viewBox="39888 23638 225 225">
+ <path class="fil1 str6" d="M40063 23750c0,-35 -28,-63 -62,-63 -35,0 -63,28 -63,63 0,35 28,63 63,63 35,0 62,-28 62,-63z"/>
+ <path id="1" class="fil0" d="M40063 23750c0,-35 -28,-63 -62,-63 -35,0 -63,28 -63,63 0,35 28,63 63,63 35,0 62,-28 62,-63z"/>
+</symbol>
+<symbol id="符号27" viewBox="39675 23425 650 650">
+ <path class="fil2 str3" d="M40300 23750c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+</symbol>
+<symbol id="符号25" viewBox="39885 23635 230 230">
+ <path class="fil0 str0" d="M40090 23750c0,-50 -40,-90 -90,-90 -50,0 -90,40 -90,90 0,50 40,90 90,90 50,0 90,-40 90,-90z"/>
+</symbol>
+<symbol id="符号21" viewBox="39675 23425 650 650">
+ <path class="fil2 str3" d="M40300 23750c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+</symbol>
+<symbol id="符号49" viewBox="39682 23432 635 635">
+ <line class="fil1 str4" x1="39700" y1="23450" x2="40300" y2= "24050" />
+ <line class="fil1 str4" x1="39700" y1="24050" x2="40300" y2= "23450" />
+</symbol>
+<symbol id="符号28" viewBox="39681 23431 638 638">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="300"/>
+ <circle class="fil1 str2" cx="40000" cy="23750" r="113"/>
+</symbol>
+<symbol id="符号59" viewBox="39626 23376 748 748">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="355"/>
+ <circle class="fil1 str2" cx="40000" cy="23750" r="133"/>
+</symbol>
+<symbol id="符号35" viewBox="39675 23425 650 650">
+ <path class="fil2 str3" d="M40300 23750c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+</symbol>
+<symbol id="符号1" viewBox="39800 23450 400 600">
+ <polygon class="fil4" points="39805,24050 39997,23450 40200,24050 39800,24050 "/>
+</symbol>
+<symbol id="符号11" viewBox="39431 23181 1138 1138">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="550"/>
+ <circle class="fil3 str2" cx="40000" cy="23750" r="325"/>
+</symbol>
+<symbol id="符号52" viewBox="39675 23425 650 650">
+ <path class="fil2 str3" d="M40300 23750c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+</symbol>
+<symbol id="符号44" viewBox="39888 23638 225 225">
+ <path class="fil1 str6" d="M40063 23750c0,-35 -28,-63 -62,-63 -35,0 -63,28 -63,63 0,35 28,63 63,63 35,0 62,-28 62,-63z"/>
+ <path id="1" class="fil0" d="M40063 23750c0,-35 -28,-63 -62,-63 -35,0 -63,28 -63,63 0,35 28,63 63,63 35,0 62,-28 62,-63z"/>
+</symbol>
+<symbol id="符号36" viewBox="39681 23431 638 638">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="300"/>
+ <circle class="fil1 str2" cx="40000" cy="23750" r="112"/>
+</symbol>
+<symbol id="符号53" viewBox="39698 23448 605 605">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="283"/>
+ <circle class="fil1 str2" cx="40000" cy="23750" r="101"/>
+</symbol>
+<symbol id="符号46" viewBox="39675 23425 650 650">
+ <path class="fil2 str3" d="M40300 23750c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+</symbol>
+<symbol id="符号31" viewBox="39900 23650 200 200">
+ <path class="fil0 str0" d="M40075 23750c0,-41 -34,-75 -75,-75 -42,0 -75,34 -75,75 0,41 34,75 75,75 41,0 75,-34 75,-75z"/>
+</symbol>
+<symbol id="符号24" viewBox="39682 23432 635 635">
+ <rect class="fil2" x="39700" y="23450" width="600" height="600"/>
+ <line class="fil1 str4" x1="39700" y1="23450" x2="40300" y2= "24050" />
+ <line class="fil1 str4" x1="39700" y1="24050" x2="40300" y2= "23450" />
+</symbol>
+<symbol id="符号22" viewBox="39626 23376 748 748">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="355"/>
+ <circle class="fil1 str2" cx="40000" cy="23750" r="133"/>
+</symbol>
+<symbol id="符号64" viewBox="39325 23075 1350 1350">
+ <circle class="fil2 str4" cx="40000" cy="23750" r="650"/>
+ <circle class="fil1 str4" cx="40000" cy="23750" r="244"/>
+</symbol>
+<symbol id="符号62" viewBox="39885 23635 230 230">
+ <path class="fil0 str0" d="M40090 23750c0,-50 -40,-90 -90,-90 -50,0 -90,40 -90,90 0,50 40,90 90,90 50,0 90,-40 90,-90z"/>
+</symbol>
+<symbol id="符号47" viewBox="39626 23376 748 748">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="355"/>
+ <circle class="fil1 str2" cx="40000" cy="23750" r="133"/>
+</symbol>
+<symbol id="符号15" viewBox="39698 23448 605 605">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="283"/>
+ <circle class="fil1 str2" cx="40000" cy="23750" r="101"/>
+</symbol>
+<symbol id="符号12" viewBox="39675 23425 650 650">
+ <path class="fil2 str3" d="M40300 23750c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+</symbol>
+<symbol id="符号7" viewBox="39431 23181 1138 1138">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="550"/>
+ <circle class="fil3 str2" cx="40000" cy="23750" r="325"/>
+</symbol>
+<symbol id="符号57" viewBox="39779 23322 468 746">
+ <polygon class="fil1 str1" points="39827,24018 39998,23483 40178,24018 39823,24018 "/>
+ <polygon id="1" class="fil0" points="39827,24018 39998,23483 40178,24018 39823,24018 "/>
+</symbol>
+<symbol id="符号54" viewBox="39431 23181 1138 1138">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="550"/>
+ <circle class="fil3 str2" cx="40000" cy="23750" r="325"/>
+</symbol>
+<symbol id="符号33" viewBox="39675 23425 650 650">
+ <path class="fil2 str3" d="M40300 23750c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+</symbol>
+<symbol id="符号39" viewBox="39900 23650 200 200">
+ <path class="fil0 str0" d="M40075 23750c0,-41 -34,-75 -75,-75 -42,0 -75,34 -75,75 0,41 34,75 75,75 41,0 75,-34 75,-75z"/>
+</symbol>
+<symbol id="符号26" viewBox="39765 23395 470 710">
+ <polygon class="fil0" points="39771,24105 39997,23395 40235,24105 39765,24105 "/>
+</symbol>
+<symbol id="符号4" viewBox="39580 23570 820 360">
+ <polygon class="fil5" points="39885,23700 39888,23700 39895,23700 39906,23701 39920,23701 39937,23701 39957,23700 39978,23699 40001,23698 40025,23696 40049,23693 40073,23689 40097,23685 40119,23679 40140,23672 40158,23664 40174,23655 40188,23645 40202,23636 40216,23627 40229,23619 40243,23613 40257,23607 40271,23602 40285,23599 40298,23597 40312,23596 40327,23596 40341,23599 40355,23602 40369,23608 40400,23631 40400,23632 40395,23632 40388,23631 40377,23630 40365,23628 40352,23627 40337,23627 40320,23628 40303,23630 40286,23633 40269,23639 40251,23646 40234,23656 40217,23669 40202,23685 40178,23701 40153,23716 40129,23729 40104,23741 40080,23752 40057,23761 40034,23768 40013,23775 39993,23780 39975,23785 39945,23793 39933,23795 39921,23798 39912,23799 "/>
+ <path class="fil5 str7" d="M39922 23750c0,-88 -72,-160 -161,-160 -89,0 -161,72 -161,160 0,88 72,160 161,160 89,0 161,-72 161,-160z"/>
+</symbol>
+<symbol id="符号41" viewBox="39698 23448 605 605">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="283"/>
+ <circle class="fil1 str2" cx="40000" cy="23750" r="101"/>
+</symbol>
+<symbol id="符号20" viewBox="39823 23483 355 535">
+ <polygon class="fil4" points="39827,24018 39998,23483 40178,24018 39823,24018 "/>
+</symbol>
+<symbol id="符号17" viewBox="39626 23589 728 323">
+ <polygon class="fil5" points="39899,23706 39901,23706 39907,23706 39916,23706 39929,23706 39944,23706 39962,23706 39981,23705 40001,23704 40022,23702 40044,23700 40065,23696 40086,23692 40105,23687 40124,23681 40140,23674 40154,23666 40166,23657 40178,23649 40191,23641 40203,23635 40215,23629 40227,23624 40240,23620 40252,23616 40264,23615 40276,23614 40289,23614 40301,23616 40314,23620 40327,23625 40353,23645 40354,23646 40350,23646 40343,23645 40334,23644 40323,23643 40311,23642 40298,23642 40283,23642 40268,23644 40253,23647 40238,23652 40222,23658 40207,23667 40192,23678 40178,23692 40157,23707 40136,23720 40114,23732 40092,23742 40071,23751 40050,23759 40030,23766 40011,23772 39994,23777 39978,23781 39951,23788 39941,23790 39930,23792 39922,23793 "/>
+ <path class="fil5 str7" d="M39931 23750c0,-78 -64,-141 -143,-141 -79,0 -143,63 -143,141 0,78 64,141 143,141 79,0 143,-63 143,-141z"/>
+</symbol>
+<symbol id="符号2" viewBox="39900 23650 200 200">
+ <path class="fil4 str5" d="M40075 23750c0,-41 -34,-75 -75,-75 -42,0 -75,34 -75,75 0,41 34,75 75,75 41,0 75,-34 75,-75z"/>
+</symbol>
+<symbol id="符号34" viewBox="39765 23395 470 710">
+ <polygon class="fil0" points="39771,24105 39997,23395 40235,24105 39765,24105 "/>
+</symbol>
+<symbol id="符号50" viewBox="39885 23635 230 230">
+ <path class="fil0 str0" d="M40090 23750c0,-50 -40,-90 -90,-90 -50,0 -90,40 -90,90 0,50 40,90 90,90 50,0 90,-40 90,-90z"/>
+</symbol>
+<symbol id="符号23" viewBox="39431 23181 1138 1138">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="550"/>
+ <circle class="fil3 str2" cx="40000" cy="23750" r="325"/>
+</symbol>
+<symbol id="符号9" viewBox="39681 23431 638 638">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="300"/>
+ <circle class="fil1 str2" cx="40000" cy="23750" r="112"/>
+</symbol>
+<symbol id="符号8" viewBox="39675 23425 650 650">
+ <path class="fil2 str3" d="M40300 23750c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+</symbol>
+<symbol id="符号6" viewBox="39681 23431 638 638">
+ <circle class="fil2 str2" cx="40000" cy="23750" r="300"/>
+ <circle class="fil1 str2" cx="40000" cy="23750" r="113"/>
+</symbol>
+<symbol id="符号3" viewBox="39682 23432 635 635">
+ <rect class="fil2" x="39700" y="23450" width="600" height="600"/>
+ <line class="fil1 str4" x1="39700" y1="23450" x2="40300" y2= "24050" />
+ <line class="fil1 str4" x1="39700" y1="24050" x2="40300" y2= "23450" />
+</symbol>
+<symbol id="符号14" viewBox="39675 23425 650 650">
+ <path class="fil2 str3" d="M40300 23750c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+</symbol>
+ <g id="图层_x0020_4">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_686518944">
+   <path class="fil6" d="M2562 460l74875 0c1043,0 1896,1048 1896,2329l0 41922c0,1281 -853,2329 -1896,2329l-74875 0c-1043,0 -1896,-1048 -1896,-2329l0 -41922c0,-1281 853,-2329 1896,-2329z"/>
+   <path class="fil7" d="M5184 3912l69631 0c970,0 1763,892 1763,1983l0 35694c0,1091 -793,1983 -1763,1983l-69631 0c-970,0 -1763,-892 -1763,-1983l0 -35694c0,-1091 793,-1983 1763,-1983z"/>
+   <rect class="fil8" x="3552" y="32153" width="72905" height="5458"/>
+   <rect class="fil8" x="3564" y="21127" width="72889" height="5511"/>
+   <rect class="fil8" x="3526" y="9716" width="72928" height="5894"/>
+   <g transform="matrix(1.2 0 0 1 -5912.5 -17056.5)">
+    <text x="23144" y="23750"  class="fil9 fnt0">近</text>
+    <text x="26870" y="23750"  class="fil9 fnt0">年西藏高原沙漠化土地面积与程度变化</text>
+    <text x="24908" y="23750"  class="fil9 fnt1">15</text>
+   </g>
+   <line class="fil1 str8" x1="3544" y1="9691" x2="76455" y2= "9691" />
+   <line class="fil1 str8" x1="3544" y1="15609" x2="76460" y2= "15609" />
+   <line class="fil1 str8" x1="3551" y1="21125" x2="76450" y2= "21125" />
+   <line class="fil1 str8" x1="3549" y1="26639" x2="76461" y2= "26639" />
+   <line class="fil1 str8" x1="3554" y1="32153" x2="76444" y2= "32153" />
+   <line class="fil1 str8" x1="3547" y1="37669" x2="76444" y2= "37669" />
+   <line class="fil1 str8" x1="16155" y1="35027" x2="57144" y2= "35027" />
+   <line class="fil1 str8" x1="16155" y1="29551" x2="57144" y2= "29551" />
+   <line class="fil1 str8" x1="16155" y1="24074" x2="57144" y2= "24074" />
+   <line class="fil1 str8" x1="16155" y1="18598" x2="57144" y2= "18598" />
+   <line class="fil1 str8" x1="3596" y1="9732" x2="15087" y2= "15609" />
+   <line class="fil1 str8" x1="15949" y1="40504" x2="56938" y2= "40504" />
+   <text x="11690" y="11716"  class="fil3 fnt2">指标</text>
+   <text x="7918" y="14260"  class="fil3 fnt3">程度</text>
+   <text x="6550" y="17329"  class="fil3 fnt3">极重度－重度</text>
+   <text x="6550" y="18563"  class="fil3 fnt3">  沙漠化土地</text>
+   <text x="5310" y="23305"  class="fil3 fnt3">      中度</text>
+   <text x="7141" y="24539"  class="fil3 fnt3">沙漠化土地</text>
+   <text x="5310" y="28789"  class="fil3 fnt3">      轻度</text>
+   <text x="7141" y="30023"  class="fil3 fnt3">沙漠化土地</text>
+   <text x="7141" y="34262"  class="fil3 fnt3">沙漠化土地</text>
+   <text x="4676" y="35497"  class="fil3 fnt3">       合计</text>
+   <text x="-57" y="39190"  class="fil3 fnt3">          潜在沙漠化土地</text>
+   <text x="-3756" y="40425"  class="fil3 fnt3">                     合计</text>
+   <text x="46771" y="13091"  class="fil3 fnt4">   </text>
+   <text x="50148" y="13091"  class="fil3 fnt5">2000</text>
+   <text x="52970" y="13091"  class="fil3 fnt2">年代中期</text>
+   <text x="58005" y="9586"  class="fil3 fnt6">     </text>
+   <text x="58005" y="11145"  class="fil3 fnt6">     </text>
+   <text x="59962" y="11145"  class="fil3 fnt2">年均增长量</text>
+   <text x="58005" y="12584"  class="fil3 fnt6">   (</text>
+   <text x="67056" y="12584"  class="fil3 fnt6">)</text>
+   <text x="59647" y="12584"  class="fil3 fnt7">平方千米 /年</text>
+   <text x="67673" y="11326"  class="fil3 fnt6">    </text>
+   <text x="69238" y="11326"  class="fil3 fnt2">年均发展</text>
+   <text x="67673" y="12765"  class="fil3 fnt6">     </text>
+   <text x="72452" y="12765"  class="fil3 fnt6">(％)</text>
+   <text x="69629" y="12765"  class="fil3 fnt2">速率</text>
+   <text x="32484" y="17783"  class="fil3 fnt8">3 364.64</text>
+   <text x="42263" y="17783"  class="fil3 fnt8">4 142.99</text>
+   <text x="43167" y="20410"  class="fil3 fnt8">2.05</text>
+   <text x="33389" y="20399"  class="fil3 fnt8">1.68</text>
+   <text x="31902" y="23259"  class="fil3 fnt8">111 786.27</text>
+   <text x="41684" y="23257"  class="fil3 fnt8">113 658.23</text>
+   <text x="42846" y="25726"  class="fil3 fnt8">56.30</text>
+   <text x="33081" y="25726"  class="fil3 fnt8">55.96</text>
+   <text x="32207" y="28582"  class="fil3 fnt8">84 592.55</text>
+   <text x="41958" y="28585"  class="fil3 fnt8">84 094.26</text>
+   <text x="42870" y="31346"  class="fil3 fnt8">41.65</text>
+   <text x="33081" y="31335"  class="fil3 fnt8">42.36</text>
+   <text x="31891" y="34006"  class="fil3 fnt8">199 743.46</text>
+   <text x="41670" y="34027"  class="fil3 fnt8">201 895.48</text>
+   <text x="31277" y="36841"  class="fil3 fnt8">占全区</text>
+   <text x="34877" y="36841"  class="fil3 fnt8">16.60</text>
+   <text x="32184" y="39688"  class="fil3 fnt8">13 651.80</text>
+   <text x="31603" y="42202"  class="fil3 fnt8">占全区</text>
+   <text x="35203" y="42202"  class="fil3 fnt8">1.13</text>
+   <text x="41060" y="36860"  class="fil3 fnt8">占全区</text>
+   <text x="44660" y="36860"  class="fil3 fnt8">16.78</text>
+   <text x="41967" y="39702"  class="fil3 fnt8">12 967.28</text>
+   <text x="41358" y="42223"  class="fil3 fnt8">占全区</text>
+   <text x="44958" y="42223"  class="fil3 fnt8">1.08</text>
+   <text x="61724" y="19006"  class="fil3 fnt8">67.38</text>
+   <text x="70902" y="19001"  class="fil3 fnt8">1.81</text>
+   <text x="61415" y="24482"  class="fil3 fnt8">162.34</text>
+   <text x="70555" y="24478"  class="fil3 fnt8">0.144</text>
+   <text x="61387" y="29959"  class="fil3 fnt8">-14.36</text>
+   <text x="70241" y="29954"  class="fil3 fnt8">-0.017</text>
+   <text x="61417" y="35437"  class="fil3 fnt8">215.36</text>
+   <text x="70569" y="35430"  class="fil3 fnt8">0.107</text>
+   <text x="61724" y="40902"  class="fil3 fnt8">88.98</text>
+   <text x="70878" y="40912"  class="fil3 fnt8">0.63</text>
+   <text x="26437" y="13091"  class="fil3 fnt4">   </text>
+   <text x="29815" y="13091"  class="fil3 fnt5">1990</text>
+   <text x="32637" y="13091"  class="fil3 fnt2">年代初期</text>
+   <text x="37099" y="13091"  class="fil3 fnt4">   </text>
+   <text x="40477" y="13091"  class="fil3 fnt5">1990</text>
+   <text x="43299" y="13091"  class="fil3 fnt2">年代后期</text>
+   <text x="18804" y="17040"  class="fil3 fnt8">  面积(平方千米)</text>
+   <text x="18296" y="19915"  class="fil3 fnt8">占沙化面积比例(%)</text>
+   <text x="52259" y="17783"  class="fil3 fnt8">4 173.19</text>
+   <text x="53145" y="20410"  class="fil3 fnt8">2.06</text>
+   <text x="52250" y="23257"  class="fil3 fnt8">113.734</text>
+   <text x="52845" y="25726"  class="fil3 fnt8">56.22</text>
+   <text x="51955" y="28585"  class="fil3 fnt8">84 420.16</text>
+   <text x="52845" y="31346"  class="fil3 fnt8">41.72</text>
+   <text x="51676" y="34027"  class="fil3 fnt8">202 327.75</text>
+   <text x="51045" y="36860"  class="fil3 fnt8">占全区</text>
+   <text x="54645" y="36860"  class="fil3 fnt8">16.82</text>
+   <text x="51973" y="39702"  class="fil3 fnt8">14 719.65</text>
+   <text x="51343" y="42223"  class="fil3 fnt8">占全区</text>
+   <text x="54943" y="42223"  class="fil3 fnt8">1.22</text>
+   <text x="17918" y="22766"  class="fil3 fnt8">     面积(平方千米)</text>
+   <text x="18296" y="25245"  class="fil3 fnt8">占沙化面积比例(%)</text>
+   <text x="17918" y="28092"  class="fil3 fnt8">     面积(平方千米)</text>
+   <text x="18296" y="30851"  class="fil3 fnt8">占沙化面积比例(%)</text>
+   <text x="17918" y="33518"  class="fil3 fnt8">     面积(平方千米)</text>
+   <text x="18296" y="36341"  class="fil3 fnt8">占全区面积比例(%)</text>
+   <text x="16718" y="39193"  class="fil3 fnt8">         面积(平方千米)</text>
+   <text x="18296" y="41702"  class="fil3 fnt8">占全区面积比例(%)</text>
+   <text x="9608" y="8606"  class="fil3 fnt9"> Acreage and degree variations of the aeolian desertified land in the Tibetan Plateau in the last 15 years</text>
+   <text x="30088" y="14275"  class="fil3 fnt10">In the early 1990s</text>
+   <text x="40582" y="14304"  class="fil3 fnt10">In the late 1990s</text>
+   <text x="50205" y="14161"  class="fil3 fnt10">In the mid 2000s</text>
+   <text x="68177" y="13956"  class="fil3 fnt10">A</text>
+   <text x="68817" y="13956"  class="fil3 fnt10">v</text>
+   <text x="69301" y="13956"  class="fil3 fnt10">e</text>
+   <text x="69725" y="13956"  class="fil3 fnt10">r</text>
+   <text x="70032" y="13956"  class="fil3 fnt10">a</text>
+   <text x="70456" y="13956"  class="fil3 fnt10">g</text>
+   <text x="70940" y="13956"  class="fil3 fnt10">e </text>
+   <text x="71629" y="13956"  class="fil3 fnt10">a</text>
+   <text x="72053" y="13956"  class="fil3 fnt10">n</text>
+   <text x="72537" y="13956"  class="fil3 fnt10">n</text>
+   <text x="73020" y="13956"  class="fil3 fnt10">u</text>
+   <text x="73504" y="13956"  class="fil3 fnt10">a</text>
+   <text x="73928" y="13956"  class="fil3 fnt10">l </text>
+   <text x="74441" y="13956"  class="fil3 fnt10">r</text>
+   <text x="74748" y="13956"  class="fil3 fnt10">a</text>
+   <text x="75173" y="13956"  class="fil3 fnt10">t</text>
+   <text x="75421" y="13956"  class="fil3 fnt10">e </text>
+   <text x="68177" y="15011"  class="fil3 fnt10">o</text>
+   <text x="68661" y="15011"  class="fil3 fnt10">f </text>
+   <text x="69232" y="15011"  class="fil3 fnt10">d</text>
+   <text x="69716" y="15011"  class="fil3 fnt10">e</text>
+   <text x="70140" y="15011"  class="fil3 fnt10">v</text>
+   <text x="70624" y="15011"  class="fil3 fnt10">e</text>
+   <text x="71048" y="15011"  class="fil3 fnt10">l</text>
+   <text x="71296" y="15011"  class="fil3 fnt10">o</text>
+   <text x="71780" y="15011"  class="fil3 fnt10">p</text>
+   <text x="72264" y="15011"  class="fil3 fnt10">m</text>
+   <text x="73041" y="15011"  class="fil3 fnt10">e</text>
+   <text x="73466" y="15011"  class="fil3 fnt10">n</text>
+   <text x="73949" y="15011"  class="fil3 fnt10">t</text>
+   <text x="74198" y="15011"  class="fil3 fnt10">(</text>
+   <text x="74505" y="15011"  class="fil3 fnt10">%</text>
+   <text x="75341" y="15011"  class="fil3 fnt10">)</text>
+   <text x="58825" y="13883"  class="fil3 fnt10">A</text>
+   <text x="59464" y="13883"  class="fil3 fnt10">v</text>
+   <text x="59946" y="13883"  class="fil3 fnt10">e</text>
+   <text x="60369" y="13883"  class="fil3 fnt10">r</text>
+   <text x="60675" y="13883"  class="fil3 fnt10">a</text>
+   <text x="61098" y="13883"  class="fil3 fnt10">g</text>
+   <text x="61580" y="13883"  class="fil3 fnt10">e </text>
+   <text x="62268" y="13883"  class="fil3 fnt10">a</text>
+   <text x="62690" y="13883"  class="fil3 fnt10">n</text>
+   <text x="63173" y="13883"  class="fil3 fnt10">n</text>
+   <text x="63655" y="13883"  class="fil3 fnt10">u</text>
+   <text x="64138" y="13883"  class="fil3 fnt10">a</text>
+   <text x="64560" y="13883"  class="fil3 fnt10">l </text>
+   <text x="65072" y="13883"  class="fil3 fnt10">c</text>
+   <text x="65495" y="13883"  class="fil3 fnt10">h</text>
+   <text x="65978" y="13883"  class="fil3 fnt10">a</text>
+   <text x="66401" y="13883"  class="fil3 fnt10">n</text>
+   <text x="66883" y="13883"  class="fil3 fnt10">g</text>
+   <text x="67365" y="13883"  class="fil3 fnt10">e</text>
+   <text x="60249" y="14990"  class="fil3 fnt11">       </text>
+   <text x="61921" y="14990"  class="fil3 fnt12">(km</text>
+   <text x="63726" y="14990"  class="fil3 fnt12">/a)</text>
+   <text x="63483" y="14505"  class="fil3 fnt13">2</text>
+   <text x="11690" y="12712"  class="fil3 fnt10">Indicator</text>
+   <text x="7868" y="15183"  class="fil3 fnt12">Degree</text>
+   <text x="6182" y="19560"  class="fil3 fnt12"> Extremely severe and </text>
+   <text x="6182" y="20581"  class="fil3 fnt12">severe desertified land</text>
+   <text x="5748" y="25629"  class="fil3 fnt12">Moderate desertified land</text>
+   <g transform="matrix(1 0 0 1 -33639.6 7387.65)">
+    <text x="40000" y="23750"  class="fil3 fnt12">Slight desertified land</text>
+   </g>
+   <text x="5235" y="36626"  class="fil3 fnt12">Total area of desertified land</text>
+   <text x="5253" y="41559"  class="fil3 fnt12">              Total area of </text>
+   <text x="5253" y="42579"  class="fil3 fnt12">   potential desertified land</text>
+   <text x="21056" y="18043"  class="fil3 fnt14">Acreage(km</text>
+   <text x="25469" y="18043"  class="fil3 fnt14">)</text>
+   <text x="25257" y="17618"  class="fil3 fnt15">2</text>
+   <text x="17314" y="31801"  class="fil3 fnt14">Proportion of total desertified land</text>
+   <text x="19101" y="37210"  class="fil3 fnt14">Proportion of total area</text>
+   <text x="19101" y="42604"  class="fil3 fnt14">Proportion of total area</text>
+   <text x="20806" y="23751"  class="fil3 fnt14">Acreage(km</text>
+   <text x="25219" y="23751"  class="fil3 fnt14">)</text>
+   <text x="25007" y="23326"  class="fil3 fnt15">2</text>
+   <text x="21056" y="29122"  class="fil3 fnt14">Acreage(km</text>
+   <text x="25469" y="29122"  class="fil3 fnt14">)</text>
+   <text x="25257" y="28697"  class="fil3 fnt15">2</text>
+   <text x="21056" y="34481"  class="fil3 fnt14">Acreage(km</text>
+   <text x="25469" y="34481"  class="fil3 fnt14">)</text>
+   <text x="25257" y="34056"  class="fil3 fnt15">2</text>
+   <text x="21038" y="40176"  class="fil3 fnt14">Acreage(km</text>
+   <text x="25451" y="40176"  class="fil3 fnt14">)</text>
+   <text x="25238" y="39751"  class="fil3 fnt15">2</text>
+   <text x="17314" y="26236"  class="fil3 fnt14">Proportion of total desertified land</text>
+   <text x="17314" y="20882"  class="fil3 fnt14">Proportion of total desertified land</text>
+  </g>
+  <g transform="matrix(-1.05732 -0 -0 -1 202436 76556.6)">
+   <text x="40000" y="23750"  class="fil3 fnt16">ˇ</text>
+  </g>
+ </g>
+</svg>

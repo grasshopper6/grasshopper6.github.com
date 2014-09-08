@@ -4,7 +4,7 @@
 <svg onload="Init(evt)"  xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="999px" height="566px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
 viewBox="0 0 9990 5659"
  xmlns:xlink="http://www.w3.org/1999/xlink">
-  <script  xlink:href="../js/Map.js"></script>
+  <script  xlink:href="../js/Map0_2.js"></script>
  <defs>
   <style type="text/css">
    <![CDATA[

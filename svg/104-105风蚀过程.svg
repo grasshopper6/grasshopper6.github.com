@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1000px" height="1250px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 100000 125000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str12 {stroke:#332C2B;stroke-width:41.6667}
+    .str15 {stroke:#ACCE22;stroke-width:41.6667}
+    .str1 {stroke:#332C2B;stroke-width:50}
+    .str8 {stroke:#008FD7;stroke-width:62.5}
+    .str2 {stroke:#332C2B;stroke-width:62.5}
+    .str10 {stroke:#A0D9F6;stroke-width:62.5}
+    .str3 {stroke:#AC6249;stroke-width:62.5}
+    .str5 {stroke:#D59961;stroke-width:62.5}
+    .str17 {stroke:#004224;stroke-width:62.5}
+    .str9 {stroke:#00B0EC;stroke-width:62.5}
+    .str18 {stroke:#0B633C;stroke-width:62.5}
+    .str19 {stroke:#4F8B63;stroke-width:62.5}
+    .str4 {stroke:#5E421F;stroke-width:62.5}
+    .str20 {stroke:#91B999;stroke-width:62.5}
+    .str6 {stroke:#AC6249;stroke-width:73.5}
+    .str7 {stroke:#D59961;stroke-width:73.5}
+    .str13 {stroke:#009B4C;stroke-width:83.3333}
+    .str14 {stroke:#62C3D0;stroke-width:83.3333}
+    .str16 {stroke:#E62129;stroke-width:83.3333}
+    .str0 {stroke:#FEFEFE;stroke-width:208.333}
+    .str11 {stroke:#2F318B;stroke-width:62.5;stroke-dasharray:625.000000 187.500000}
+    .str21 {stroke:#5E421F;stroke-width:62.5;stroke-dasharray:312.500000 312.500000 625.000000 312.500000}
+    .fil0 {fill:none}
+    .fil8 {fill:#008FD7}
+    .fil9 {fill:#2F318B}
+    .fil2 {fill:#332C2B}
+    .fil6 {fill:#A0D9F6}
+    .fil12 {fill:#A72185}
+    .fil4 {fill:#AC6249}
+    .fil14 {fill:#ACCE22}
+    .fil1 {fill:#B6B49E}
+    .fil5 {fill:#D59961}
+    .fil10 {fill:#E62129}
+    .fil11 {fill:#FDD100}
+    .fil15 {fill:#FEFEFE}
+    .fil17 {fill:#004224}
+    .fil7 {fill:#00B0EC}
+    .fil18 {fill:#0B633C}
+    .fil19 {fill:#4F8B63}
+    .fil20 {fill:#91B999}
+    .fil3 {fill:#F5F9EC}
+    .fil16 {fill:url(#id0)}
+    .fil13 {fill:url(#id1)}
+    .fnt10 {font-weight:normal;font-size:440.958px;font-family:'宋体'}
+    .fnt16 {font-weight:normal;font-size:708.333px;font-family:'Times New Roman'}
+    .fnt24 {font-weight:normal;font-size:734.958px;font-family:'@幼圆'}
+    .fnt17 {font-weight:normal;font-size:734.958px;font-family:'Times New Roman'}
+    .fnt28 {font-weight:normal;font-size:751.5px;font-family:'宋体'}
+    .fnt9 {font-weight:normal;font-size:833.333px;font-family:'Times New Roman'}
+    .fnt5 {font-weight:normal;font-size:881.958px;font-family:'@宋体'}
+    .fnt11 {font-weight:normal;font-size:881.958px;font-family:'@方正书宋简体'}
+    .fnt2 {font-weight:normal;font-size:881.958px;font-family:'Times New Roman'}
+    .fnt26 {font-weight:normal;font-size:881.958px;font-family:'方正书宋简体'}
+    .fnt14 {font-weight:normal;font-size:881.958px;font-family:'方正细圆简体'}
+    .fnt22 {font-weight:normal;font-size:882.542px;font-family:'@宋体'}
+    .fnt23 {font-weight:normal;font-size:916.667px;font-family:'黑体'}
+    .fnt27 {font-weight:normal;font-size:999.958px;font-family:'方正书宋简体'}
+    .fnt8 {font-weight:normal;font-size:1000px;font-family:'方正书宋简体'}
+    .fnt4 {font-weight:normal;font-size:1028.92px;font-family:'@宋体'}
+    .fnt13 {font-weight:normal;font-size:1028.92px;font-family:'@方正书宋简体'}
+    .fnt15 {font-weight:normal;font-size:1028.92px;font-family:'Times New Roman'}
+    .fnt20 {font-weight:normal;font-size:1028.92px;font-family:'宋体'}
+    .fnt18 {font-weight:normal;font-size:1028.92px;font-family:'幼圆'}
+    .fnt3 {font-weight:normal;font-size:1028.92px;font-family:'方正书宋简体'}
+    .fnt19 {font-weight:normal;font-size:1028.92px;font-family:'黑体'}
+    .fnt21 {font-weight:normal;font-size:1029.67px;font-family:'@宋体'}
+    .fnt1 {font-weight:normal;font-size:1175.92px;font-family:'Arial'}
+    .fnt7 {font-weight:normal;font-size:1175.92px;font-family:'宋体'}
+    .fnt6 {font-weight:normal;font-size:1322.92px;font-family:'宋体'}
+    .fnt0 {font-weight:normal;font-size:1469.92px;font-family:'方正准圆简体'}
+    .fnt25 {font-weight:normal;font-size:367.5px;font-family:'Times New Roman';baseline-shift:super}
+    .fnt12 {font-weight:normal;font-size:441px;font-family:'Times New Roman';baseline-shift:super}
+   ]]>
+  </style>
+  <radialGradient id="id0" gradientUnits="objectBoundingBox" cx="69.0025%" cy="67.9988%" r="34.0025%" fx="69.0025%" fy="67.9988%">
+   <stop offset="0" style="stop-color:#FEFEFE"/>
+   <stop offset="1" style="stop-color:#ACCE22"/>
+  </radialGradient>
+  <radialGradient id="id1" gradientUnits="objectBoundingBox" cx="69.0025%" cy="67.9988%" r="34.0025%" fx="69.0025%" fy="67.9988%">
+   <stop offset="0" style="stop-color:#FEFEFE"/>
+   <stop offset="1" style="stop-color:#F08519"/>
+  </radialGradient>
+ </defs>
+<symbol id="符号22" viewBox="45846 59441 8200 6115">
+ <polygon class="fil0 str0" points="51077,59693 51077,61104 46102,61104 47513,62515 46102,63896 51077,63896 51077,65307 53898,62515 "/>
+ <polygon id="1" class="fil1" points="51077,59693 51077,61104 46102,61104 47513,62515 46102,63896 51077,63896 51077,65307 53898,62515 "/>
+</symbol>
+<symbol id="符号23" viewBox="44252 59441 11539 6115">
+ <polygon class="fil0 str0" points="52822,59693 52822,61104 46120,61104 46120,63896 52822,63896 52822,65307 55644,62515 "/>
+ <polygon id="1" class="fil1" points="52822,59693 52822,61104 46120,61104 46120,63896 52822,63896 52822,65307 55644,62515 "/>
+ <polygon class="fil0 str0" points="45062,61104 45062,63896 45767,63896 45767,61104 "/>
+ <polygon id="1" class="fil1" points="45062,61104 45062,63896 45767,63896 45767,61104 "/>
+ <polygon class="fil0 str0" points="44356,61104 44356,63896 44709,63896 44709,61104 "/>
+ <polygon id="1" class="fil1" points="44356,61104 44356,63896 44709,63896 44709,61104 "/>
+</symbol>
+ <g id="图名">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1007610816">
+   <g transform="matrix(1.2 0 0 1 -55443.4 27772)">
+    <text x="50000" y="62500"  class="fil2 fnt0">风速与土壤风蚀量的关系</text>
+   </g>
+   <text x="5518" y="91936"  class="fil2 fnt1">Relationship between wind speed </text>
+   <text x="5518" y="93119"  class="fil2 fnt1">   and the amount of soil erosion</text>
+   <text x="29932" y="4245"  class="fil2 fnt1">Erosion results of different soils blowing in the wind tunnel under the same wind</text>
+   <g transform="matrix(1.2 0 0 1 -24405.4 -59936.1)">
+    <text x="50000" y="62500"  class="fil2 fnt0">不同土壤在风洞同一风速下吹蚀的结果</text>
+   </g>
+   <rect class="fil3" x="5313" y="94487" width="16429" height="24849"/>
+   <rect class="fil3" x="8200" y="49901" width="16390" height="24849"/>
+   <g transform="matrix(1.2 0 0 1 -33643.3 27760.4)">
+    <text x="50000" y="62500"  class="fil2 fnt0">沙土含水量与风蚀模数的关系</text>
+   </g>
+   <text x="26233" y="91936"  class="fil2 fnt1">Relationship between sand moisture content </text>
+   <text x="26233" y="93119"  class="fil2 fnt1">            and wind erosion modulus</text>
+   <g transform="matrix(1.2 0 0 1 -58040.1 -17114.6)">
+    <text x="50000" y="62500"  class="fil2 fnt0">雅鲁藏布江米林宽谷风沙流梯度分布曲线</text>
+   </g>
+   <text x="5452" y="47012"  class="fil2 fnt1">         Sand flow gradient distribution curve </text>
+   <text x="5452" y="48325"  class="fil2 fnt1">at Milin wide valley of the Yarlung Zangbo River</text>
+   <text x="32607" y="54904"  class="fil2 fnt2">Nagqu </text>
+   <text x="28162" y="63987"  class="fil2 fnt2">Jiangdang of Xigaze</text>
+   <text x="31437" y="74613"  class="fil2 fnt2">Shiquanhe</text>
+   <line class="fil0 str1" x1="4839" y1="114877" x2="5297" y2= "114877" />
+   <line class="fil0 str1" x1="4839" y1="101678" x2="5297" y2= "101678" />
+   <line class="fil0 str1" x1="4839" y1="106084" x2="5297" y2= "106084" />
+   <line class="fil0 str1" x1="4839" y1="110529" x2="5297" y2= "110529" />
+   <line class="fil0 str1" x1="4840" y1="97279" x2="5297" y2= "97279" />
+   <polyline class="fil0 str2" points="21915,119328 5303,119281 5303,95489 5329,94474 "/>
+   <text x="7080" y="120597"  class="fil2 fnt2">7</text>
+   <text x="9085" y="120597"  class="fil2 fnt2">9</text>
+   <text x="10860" y="120601"  class="fil2 fnt2">11</text>
+   <text x="12853" y="120597"  class="fil2 fnt2">13</text>
+   <text x="14880" y="120597"  class="fil2 fnt2">15</text>
+   <text x="16897" y="120601"  class="fil2 fnt2">17</text>
+   <text x="18992" y="120629"  class="fil2 fnt2">19</text>
+   <text x="3796" y="115202"  class="fil2 fnt2">20</text>
+   <text x="3796" y="110830"  class="fil2 fnt2">40</text>
+   <text x="3796" y="106345"  class="fil2 fnt2">60</text>
+   <text x="3796" y="102026"  class="fil2 fnt2">80</text>
+   <text x="3368" y="97604"  class="fil2 fnt2">100</text>
+   <line class="fil0 str1" x1="5089" y1="112673" x2="5298" y2= "112673" />
+   <line class="fil0 str1" x1="5088" y1="99497" x2="5297" y2= "99497" />
+   <line class="fil0 str1" x1="5088" y1="103860" x2="5297" y2= "103860" />
+   <line class="fil0 str1" x1="5088" y1="108306" x2="5297" y2= "108306" />
+   <line class="fil0 str1" x1="13376" y1="119314" x2="13376" y2= "119524" />
+   <line class="fil0 str1" x1="15406" y1="119314" x2="15406" y2= "119524" />
+   <line class="fil0 str1" x1="7387" y1="119313" x2="7387" y2= "119524" />
+   <line class="fil0 str1" x1="11371" y1="119313" x2="11371" y2= "119524" />
+   <line class="fil0 str1" x1="9384" y1="119313" x2="9384" y2= "119524" />
+   <line class="fil0 str1" x1="17436" y1="119314" x2="17436" y2= "119524" />
+   <line class="fil0 str1" x1="19465" y1="119313" x2="19465" y2= "119524" />
+   <text x="17590" y="100784"  class="fil2 fnt3">流 沙</text>
+   <text x="15396" y="115283"  class="fil2 fnt3">沙质草甸土</text>
+   <g transform="matrix(2.64845E-014 1 -1 2.64845E-014 63578 52070.3)">
+    <text x="50000" y="62500"  class="fil2 fnt4">吹蚀量</text>
+    <text x="53087" y="62500"  class="fil2 fnt5">(克\</text>
+    <text x="55733" y="62500"  class="fil2 fnt5">米</text>
+    <text x="57056" y="62500"  class="fil2 fnt5">·</text>
+    <text x="58378" y="62500"  class="fil2 fnt5">分)</text>
+    <text x="54851" y="62500"  class="fil2 fnt5">厘</text>
+    <text x="56615" y="62500"  class="fil2 fnt5"> </text>
+    <text x="57937" y="62500"  class="fil2 fnt5"> </text>
+   </g>
+   <path class="fil0 str3" d="M18788 103844c-749,3456 -1784,8196 -3837,10904 -1706,2250 -3677,3941 -6516,4413 -264,44 -582,60 -622,71"/>
+   <path class="fil0 str4" d="M19092 94447l-2831 9232c-1640,5152 -4234,13942 -9910,15322"/>
+   <line class="fil0 str1" x1="5089" y1="117084" x2="5298" y2= "117084" />
+   <text x="34749" y="35125"  class="fil2 fnt6">风速</text>
+   <text x="37394" y="35125"  class="fil2 fnt7">(米/秒)</text>
+   <text x="59706" y="35125"  class="fil2 fnt6">风速</text>
+   <text x="62352" y="35125"  class="fil2 fnt7">(米/秒)</text>
+   <text x="10010" y="122327"  class="fil2 fnt6">风速</text>
+   <text x="12656" y="122327"  class="fil2 fnt7">(米/秒)</text>
+   <rect class="fil3" x="29215" y="94403" width="16390" height="24849"/>
+   <rect class="fil3" x="55435" y="7619" width="16390" height="24849"/>
+   <rect class="fil3" x="29481" y="7463" width="16390" height="24849"/>
+   <polyline class="fil0 str2" points="55392,7470 55392,32512 71951,32512 "/>
+   <line class="fil0 str1" x1="54981" y1="29340" x2="55365" y2= "29340" />
+   <line class="fil0 str1" x1="57738" y1="32522" x2="57738" y2= "32708" />
+   <line class="fil0 str1" x1="58905" y1="32533" x2="58905" y2= "32914" />
+   <line class="fil0 str1" x1="60068" y1="32517" x2="60068" y2= "32703" />
+   <line class="fil0 str1" x1="61235" y1="32532" x2="61235" y2= "32718" />
+   <line class="fil0 str1" x1="62397" y1="32512" x2="62397" y2= "32697" />
+   <line class="fil0 str1" x1="63569" y1="32532" x2="63569" y2= "32718" />
+   <line class="fil0 str1" x1="64760" y1="32530" x2="64760" y2= "32912" />
+   <line class="fil0 str1" x1="65936" y1="32532" x2="65936" y2= "32718" />
+   <line class="fil0 str1" x1="68294" y1="32527" x2="68294" y2= "32713" />
+   <line class="fil0 str1" x1="69514" y1="32527" x2="69514" y2= "32713" />
+   <text x="55297" y="33681"  class="fil2 fnt2">7</text>
+   <text x="58488" y="33694"  class="fil2 fnt2">10</text>
+   <text x="70254" y="33694"  class="fil2 fnt2">20</text>
+   <text x="54274" y="32811"  class="fil2 fnt2">0</text>
+   <line class="fil0 str1" x1="54981" y1="26115" x2="55365" y2= "26115" />
+   <line class="fil0 str1" x1="54970" y1="22865" x2="55354" y2= "22865" />
+   <line class="fil0 str1" x1="55016" y1="19624" x2="55399" y2= "19624" />
+   <line class="fil0 str1" x1="54993" y1="16374" x2="55376" y2= "16374" />
+   <line class="fil0 str1" x1="54970" y1="13133" x2="55354" y2= "13133" />
+   <line class="fil0 str1" x1="54993" y1="9933" x2="55376" y2= "9933" />
+   <text x="53860" y="29701"  class="fil2 fnt2">15</text>
+   <text x="64326" y="33681"  class="fil2 fnt2">15</text>
+   <text x="53833" y="26484"  class="fil2 fnt2">30</text>
+   <text x="53860" y="23188"  class="fil2 fnt2">45</text>
+   <text x="53833" y="19971"  class="fil2 fnt2">60</text>
+   <text x="53860" y="16748"  class="fil2 fnt2">75</text>
+   <text x="53833" y="13504"  class="fil2 fnt2">90</text>
+   <text x="53419" y="10318"  class="fil2 fnt2">105</text>
+   <line class="fil0 str1" x1="67113" y1="32512" x2="67113" y2= "32697" />
+   <line class="fil0 str1" x1="56543" y1="32537" x2="56543" y2= "32723" />
+   <line class="fil0 str1" x1="70691" y1="32512" x2="70691" y2= "32893" />
+   <text x="60068" y="15303"  class="fil2 fnt8">净风</text>
+   <line class="fil0 str3" x1="57238" y1="31909" x2="72502" y2= "23819" />
+   <line class="fil0 str5" x1="55986" y1="31664" x2="70582" y2= "8493" />
+   <circle class="fil4 str6" cx="65239" cy="28701" r="104"/>
+   <circle class="fil5 str7" cx="60334" cy="25744" r="104"/>
+   <circle class="fil5 str7" cx="64532" cy="17867" r="104"/>
+   <circle class="fil4 str6" cx="67989" cy="24886" r="104"/>
+   <circle class="fil4 str6" cx="72131" cy="23966" r="104"/>
+   <circle class="fil5 str7" cx="66889" cy="11145" r="104"/>
+   <circle class="fil5 str7" cx="70987" cy="9698" r="104"/>
+   <circle class="fil4 str6" cx="62694" cy="29952" r="104"/>
+   <circle class="fil4 str6" cx="58797" cy="30883" r="104"/>
+   <polyline class="fil0 str2" points="29452,7305 29452,32340 45978,32340 "/>
+   <line class="fil0 str1" x1="29229" y1="30080" x2="29436" y2= "30080" />
+   <line class="fil0 str1" x1="29011" y1="23436" x2="29436" y2= "23436" />
+   <line class="fil0 str1" x1="29229" y1="21239" x2="29436" y2= "21239" />
+   <line class="fil0 str1" x1="29012" y1="18850" x2="29436" y2= "18850" />
+   <line class="fil0 str1" x1="29229" y1="16653" x2="29436" y2= "16653" />
+   <line class="fil0 str1" x1="29229" y1="25660" x2="29436" y2= "25660" />
+   <line class="fil0 str1" x1="29011" y1="27883" x2="29436" y2= "27883" />
+   <line class="fil0 str1" x1="29229" y1="12241" x2="29436" y2= "12241" />
+   <line class="fil0 str1" x1="29012" y1="14473" x2="29436" y2= "14473" />
+   <line class="fil0 str1" x1="29011" y1="10018" x2="29436" y2= "10018" />
+   <line class="fil0 str1" x1="30537" y1="32356" x2="30537" y2= "32568" />
+   <line class="fil0 str1" x1="31590" y1="32356" x2="31590" y2= "32568" />
+   <line class="fil0 str1" x1="32659" y1="32356" x2="32659" y2= "32773" />
+   <line class="fil0 str1" x1="33728" y1="32356" x2="33728" y2= "32568" />
+   <line class="fil0 str1" x1="34806" y1="32356" x2="34806" y2= "32568" />
+   <line class="fil0 str1" x1="35884" y1="32356" x2="35884" y2= "32568" />
+   <line class="fil0 str1" x1="36958" y1="32356" x2="36958" y2= "32568" />
+   <line class="fil0 str1" x1="38039" y1="32356" x2="38039" y2= "32775" />
+   <line class="fil0 str1" x1="39113" y1="32356" x2="39113" y2= "32568" />
+   <line class="fil0 str1" x1="40170" y1="32356" x2="40170" y2= "32568" />
+   <line class="fil0 str1" x1="41244" y1="32356" x2="41244" y2= "32568" />
+   <line class="fil0 str1" x1="42317" y1="32356" x2="42317" y2= "32568" />
+   <line class="fil0 str1" x1="43374" y1="32356" x2="43374" y2= "32773" />
+   <text x="29167" y="33562"  class="fil2 fnt9">7</text>
+   <text x="32165" y="33562"  class="fil2 fnt2">10</text>
+   <text x="37541" y="33516"  class="fil2 fnt2">15</text>
+   <text x="42938" y="33539"  class="fil2 fnt2">20</text>
+   <text x="27439" y="23740"  class="fil2 fnt2">600</text>
+   <text x="26756" y="10332"  class="fil2 fnt2">1</text>
+   <text x="27418" y="10332"  class="fil2 fnt2">500</text>
+   <text x="27197" y="10332"  class="fil2 fnt10"> </text>
+   <text x="28364" y="32582"  class="fil2 fnt2">0</text>
+   <line class="fil0 str3" x1="44183" y1="27935" x2="31590" y2= "31932" />
+   <line class="fil0 str5" x1="31075" y1="31927" x2="42673" y2= "18246" />
+   <g transform="matrix(2.64845E-014 1 -1 2.64845E-014 87500.2 -34715)">
+    <text x="50000" y="62500"  class="fil2 fnt4">风蚀模数</text>
+    <text x="54116" y="62500"  class="fil2 fnt5">\</text>
+    <text x="54557" y="62500"  class="fil2 fnt11">(</text>
+    <text x="56635" y="62500"  class="fil2 fnt11">·</text>
+    <text x="57958" y="62500"  class="fil2 fnt11">)</text>
+    <text x="54798" y="62500"  class="fil2 fnt2">t\hm</text>
+    <text x="57517" y="62500"  class="fil2 fnt2">h</text>
+    <text x="56415" y="62059"  class="fil2 fnt12">2</text>
+   </g>
+   <text x="34973" y="23544"  class="fil2 fnt8">沙土</text>
+   <text x="35983" y="28632"  class="fil2 fnt8">沙壤土</text>
+   <text x="34260" y="12094"  class="fil2 fnt8">挟沙风</text>
+   <circle class="fil4 str6" cx="43199" cy="27999" r="104"/>
+   <circle class="fil4 str6" cx="40264" cy="29288" r="104"/>
+   <circle class="fil4 str6" cx="36906" cy="30361" r="104"/>
+   <circle class="fil4 str6" cx="33740" cy="31118" r="104"/>
+   <circle class="fil4 str6" cx="31594" cy="31746" r="104"/>
+   <circle class="fil5 str7" cx="31522" cy="31139" r="104"/>
+   <circle class="fil5 str7" cx="33681" cy="28052" r="104"/>
+   <circle class="fil5 str7" cx="39986" cy="21295" r="104"/>
+   <circle class="fil5 str7" cx="42248" cy="18747" r="104"/>
+   <polyline class="fil0 str2" points="29093,94368 29188,119259 45607,119296 "/>
+   <text x="31927" y="120539"  class="fil2 fnt2">1</text>
+   <text x="35283" y="120552"  class="fil2 fnt2">2</text>
+   <text x="38551" y="120539"  class="fil2 fnt2">4</text>
+   <text x="41882" y="120552"  class="fil2 fnt2">6</text>
+   <text x="28127" y="119497"  class="fil2 fnt2">0</text>
+   <text x="27202" y="117340"  class="fil2 fnt2">150</text>
+   <text x="27202" y="115050"  class="fil2 fnt2">300</text>
+   <text x="27202" y="112814"  class="fil2 fnt2">450</text>
+   <text x="27202" y="110497"  class="fil2 fnt2">600</text>
+   <text x="27202" y="108181"  class="fil2 fnt2">750</text>
+   <text x="27202" y="105756"  class="fil2 fnt2">900</text>
+   <text x="26520" y="103397"  class="fil2 fnt2">1</text>
+   <text x="27181" y="103397"  class="fil2 fnt2">050</text>
+   <text x="26960" y="103397"  class="fil2 fnt10"> </text>
+   <text x="26520" y="101031"  class="fil2 fnt2">1</text>
+   <text x="27181" y="101031"  class="fil2 fnt2">200</text>
+   <text x="26960" y="101031"  class="fil2 fnt10"> </text>
+   <text x="26520" y="98820"  class="fil2 fnt2">1</text>
+   <text x="27181" y="98820"  class="fil2 fnt2">350</text>
+   <text x="26960" y="98820"  class="fil2 fnt10"> </text>
+   <text x="26520" y="96737"  class="fil2 fnt2">1</text>
+   <text x="27181" y="96737"  class="fil2 fnt2">500</text>
+   <text x="26960" y="96737"  class="fil2 fnt10"> </text>
+   <text x="34666" y="122311"  class="fil2 fnt6">含水量</text>
+   <text x="38635" y="122311"  class="fil2 fnt7">（%）</text>
+   <path class="fil0 str8" d="M32538 109581c72,1209 -22,3866 299,5976 427,2805 1609,3078 3210,3724"/>
+   <path class="fil0 str9" d="M32592 104683c265,3741 318,8364 2020,11418 1017,2116 3129,2867 4823,3094"/>
+   <path class="fil0 str10" d="M32504 94333c1053,5846 2066,11707 3140,17546 772,4195 2172,6955 5346,7365"/>
+   <path class="fil0 str1" d="M32175 119280c0,39 0,82 0,121 0,13 0,35 0,48 0,0 4,13 4,22 0,0 0,13 0,13 0,0 0,9 0,9"/>
+   <path class="fil0 str1" d="M35554 119280c0,39 0,82 0,121 0,13 0,35 0,48 0,0 4,13 4,22 0,0 0,13 0,13 0,0 0,9 0,9"/>
+   <path class="fil0 str1" d="M38831 119280c0,39 0,82 0,121 0,13 0,35 0,48 0,0 4,13 4,22 0,0 0,13 0,13 0,0 0,9 0,9"/>
+   <path class="fil0 str1" d="M42121 119280c0,39 0,82 0,121 0,13 0,35 0,48 0,0 4,13 4,22 0,0 0,13 0,13 0,0 0,9 0,9"/>
+   <line class="fil0 str1" x1="28895" y1="116996" x2="29182" y2= "116986" />
+   <line class="fil0 str1" x1="28878" y1="114757" x2="29165" y2= "114748" />
+   <line class="fil0 str1" x1="28858" y1="112523" x2="29145" y2= "112513" />
+   <line class="fil0 str1" x1="28872" y1="110203" x2="29159" y2= "110193" />
+   <line class="fil0 str1" x1="28839" y1="107846" x2="29126" y2= "107837" />
+   <line class="fil0 str1" x1="28837" y1="105497" x2="29125" y2= "105487" />
+   <line class="fil0 str1" x1="28809" y1="103109" x2="29096" y2= "103099" />
+   <line class="fil0 str1" x1="28817" y1="100751" x2="29104" y2= "100742" />
+   <line class="fil0 str1" x1="28798" y1="98552" x2="29085" y2= "98542" />
+   <line class="fil0 str1" x1="28748" y1="96415" x2="29035" y2= "96406" />
+   <g transform="matrix(0.169747 0.985488 -0.985488 0.169747 84938.4 35696.1)">
+    <text x="50000" y="62500"  class="fil6 fnt13">25</text>
+    <text x="51274" y="62500"  class="fil6 fnt13">6</text>
+    <text x="52806" y="62500"  class="fil6 fnt13">s</text>
+    <text x="51021" y="62500"  class="fil6 fnt13">.</text>
+    <text x="51785" y="62500"  class="fil6 fnt13">m/</text>
+   </g>
+   <g transform="matrix(0.0664156 0.997792 -0.997792 0.0664156 90786.9 50714.5)">
+    <text x="50000" y="62500"  class="fil7 fnt13">19</text>
+    <text x="51274" y="62500"  class="fil7 fnt13">6m</text>
+    <text x="52806" y="62500"  class="fil7 fnt13">s</text>
+    <text x="51021" y="62500"  class="fil7 fnt13">.</text>
+    <text x="52524" y="62500"  class="fil7 fnt13">/</text>
+   </g>
+   <g transform="matrix(2.64845E-014 1 -1 2.64845E-014 94173.1 60155.8)">
+    <text x="50000" y="62500"  class="fil8 fnt13">15</text>
+    <text x="51274" y="62500"  class="fil8 fnt13">5m</text>
+    <text x="52806" y="62500"  class="fil8 fnt13">s</text>
+    <text x="51021" y="62500"  class="fil8 fnt13">.</text>
+    <text x="52524" y="62500"  class="fil8 fnt13">/</text>
+   </g>
+   <polyline class="fil0 str2" points="8204,49885 8206,74727 24614,74738 "/>
+   <line class="fil0 str1" x1="7974" y1="52704" x2="8182" y2= "52704" />
+   <polyline class="fil0 str1" points="7772,55876 7913,55876 8053,55876 8193,55876 "/>
+   <polyline class="fil0 str1" points="7969,58975 8039,58975 8109,58975 8178,58975 "/>
+   <polyline class="fil0 str1" points="7969,65172 8054,65172 8138,65172 8181,65172 "/>
+   <polyline class="fil0 str1" points="7795,68270 7926,68270 8056,68270 8187,68270 "/>
+   <line class="fil0 str1" x1="7997" y1="71186" x2="8205" y2= "71186" />
+   <line class="fil0 str1" x1="9683" y1="74744" x2="9684" y2= "74916" />
+   <line class="fil0 str1" x1="11141" y1="74744" x2="11142" y2= "74916" />
+   <line class="fil0 str1" x1="12617" y1="74744" x2="12619" y2= "74916" />
+   <line class="fil0 str1" x1="14144" y1="74744" x2="14145" y2= "74916" />
+   <line class="fil0 str1" x1="23076" y1="74744" x2="23077" y2= "74916" />
+   <line class="fil0 str1" x1="15605" y1="74744" x2="15606" y2= "74916" />
+   <line class="fil0 str1" x1="17076" y1="74744" x2="17077" y2= "74916" />
+   <line class="fil0 str1" x1="18574" y1="74744" x2="18575" y2= "74916" />
+   <line class="fil0 str1" x1="20073" y1="74744" x2="20074" y2= "74916" />
+   <line class="fil0 str1" x1="21581" y1="74744" x2="21582" y2= "74916" />
+   <path class="fil0 str11" d="M8314 53189c43,278 68,560 85,845 300,4968 687,10571 1384,15393 122,845 290,1528 456,2123 196,701 466,1253 781,1713 869,1270 2002,1230 3423,1195 500,-12 4250,169 4250,169 0,0 2105,39 2128,45"/>
+   <line class="fil0 str1" x1="7791" y1="49970" x2="8182" y2= "49970" />
+   <polyline class="fil0 str1" points="7764,62032 7931,62032 8098,62032 8181,62032 "/>
+   <g transform="matrix(0.5 -0.866025 0.866025 0.5 -71232.5 88661.7)">
+    <text x="50000" y="62500"  class="fil2 fnt2">0</text>
+    <text x="51020" y="62500"  class="fil2 fnt2">2</text>
+    <text x="50441" y="62500"  class="fil2 fnt14">~</text>
+   </g>
+   <g transform="matrix(0.5 -0.866025 0.866025 0.5 -70324 89461.9)">
+    <text x="50000" y="62500"  class="fil2 fnt2">10</text>
+    <text x="51461" y="62500"  class="fil2 fnt2">12</text>
+    <text x="50882" y="62500"  class="fil2 fnt14">~</text>
+   </g>
+   <g transform="matrix(0.5 -0.866025 0.866025 0.5 -68719.9 89462.1)">
+    <text x="50000" y="62500"  class="fil2 fnt2">20</text>
+    <text x="51461" y="62500"  class="fil2 fnt2">22</text>
+    <text x="50882" y="62500"  class="fil2 fnt14">~</text>
+   </g>
+   <g transform="matrix(0.5 -0.866025 0.866025 0.5 -67203 89462)">
+    <text x="50000" y="62500"  class="fil2 fnt2">30</text>
+    <text x="51461" y="62500"  class="fil2 fnt2">32</text>
+    <text x="50882" y="62500"  class="fil2 fnt14">~</text>
+   </g>
+   <g transform="matrix(0.5 -0.866025 0.866025 0.5 -65774.9 89461.9)">
+    <text x="50000" y="62500"  class="fil2 fnt2">40</text>
+    <text x="51461" y="62500"  class="fil2 fnt2">42</text>
+    <text x="50882" y="62500"  class="fil2 fnt14">~</text>
+   </g>
+   <g transform="matrix(0.5 -0.866025 0.866025 0.5 -64258.7 89462.1)">
+    <text x="50000" y="62500"  class="fil2 fnt2">50</text>
+    <text x="51461" y="62500"  class="fil2 fnt2">52</text>
+    <text x="50882" y="62500"  class="fil2 fnt14">~</text>
+   </g>
+   <g transform="matrix(0.5 -0.866025 0.866025 0.5 -62792.4 89462.1)">
+    <text x="50000" y="62500"  class="fil2 fnt2">60</text>
+    <text x="51461" y="62500"  class="fil2 fnt2">62</text>
+    <text x="50882" y="62500"  class="fil2 fnt14">~</text>
+   </g>
+   <g transform="matrix(0.5 -0.866025 0.866025 0.5 -61301.1 89461.9)">
+    <text x="50000" y="62500"  class="fil2 fnt2">70</text>
+    <text x="51461" y="62500"  class="fil2 fnt2">72</text>
+    <text x="50882" y="62500"  class="fil2 fnt14">~</text>
+   </g>
+   <g transform="matrix(0.5 -0.866025 0.866025 0.5 -59822.4 89461.9)">
+    <text x="50000" y="62500"  class="fil2 fnt2">80</text>
+    <text x="51461" y="62500"  class="fil2 fnt2">82</text>
+    <text x="50882" y="62500"  class="fil2 fnt14">~</text>
+   </g>
+   <g transform="matrix(0.5 -0.866025 0.866025 0.5 -58281.2 89462.1)">
+    <text x="50000" y="62500"  class="fil2 fnt2">90</text>
+    <text x="51461" y="62500"  class="fil2 fnt2">92</text>
+    <text x="50882" y="62500"  class="fil2 fnt14">~</text>
+   </g>
+   <text x="7098" y="75002"  class="fil2 fnt2">0</text>
+   <text x="6636" y="68467"  class="fil2 fnt2">10</text>
+   <text x="6636" y="62292"  class="fil2 fnt2">20</text>
+   <text x="6636" y="56084"  class="fil2 fnt2">30</text>
+   <text x="13646" y="78980"  class="fil2 fnt6">高度</text>
+   <text x="16291" y="78980"  class="fil2 fnt7">(厘米)</text>
+   <g transform="matrix(0.5 -0.866025 0.866025 0.5 -57115.9 90262.4)">
+    <text x="50000" y="62500"  class="fil2 fnt2">100</text>
+    <text x="51902" y="62500"  class="fil2 fnt2">102</text>
+    <text x="51323" y="62500"  class="fil2 fnt14">~</text>
+   </g>
+   <text x="6636" y="50258"  class="fil2 fnt2">50</text>
+   <g transform="matrix(2.64845E-014 1 -1 2.64845E-014 66820.5 5169.25)">
+    <text x="50000" y="62500"  class="fil2 fnt4">输沙量垂直梯度分布百分比</text>
+    <text x="62347" y="62500"  class="fil2 fnt5">(%)</text>
+   </g>
+   <text x="27439" y="28213"  class="fil2 fnt2">300</text>
+   <text x="27439" y="19152"  class="fil2 fnt2">900</text>
+   <text x="26756" y="14803"  class="fil2 fnt2">1</text>
+   <text x="27418" y="14803"  class="fil2 fnt2">200</text>
+   <text x="27197" y="14803"  class="fil2 fnt10"> </text>
+   <g transform="matrix(2.64845E-014 1 -1 2.64845E-014 114939 -34559.6)">
+    <text x="50000" y="62500"  class="fil2 fnt4">风蚀模数</text>
+    <text x="54116" y="62500"  class="fil2 fnt5">\</text>
+    <text x="54557" y="62500"  class="fil2 fnt11">(</text>
+    <text x="55043" y="62500"  class="fil2 fnt11">\</text>
+    <text x="56632" y="62500"  class="fil2 fnt11">·</text>
+    <text x="57954" y="62500"  class="fil2 fnt11">)</text>
+    <text x="54798" y="62500"  class="fil2 fnt2">t</text>
+    <text x="55284" y="62500"  class="fil2 fnt2">hm</text>
+    <text x="57514" y="62500"  class="fil2 fnt2">h</text>
+    <text x="56411" y="62059"  class="fil2 fnt12">2</text>
+   </g>
+   <text x="63835" y="25769"  class="fil2 fnt8">沙壤土</text>
+   <text x="60379" y="19499"  class="fil2 fnt8">沙土</text>
+   <g transform="matrix(2.64845E-014 1 -1 2.64845E-014 86356.7 52329.1)">
+    <text x="50000" y="62500"  class="fil2 fnt4">风蚀模数</text>
+    <text x="54116" y="62500"  class="fil2 fnt5">\</text>
+    <text x="54557" y="62500"  class="fil2 fnt11">(</text>
+    <text x="56635" y="62500"  class="fil2 fnt11">·</text>
+    <text x="57958" y="62500"  class="fil2 fnt11">)</text>
+    <text x="54798" y="62500"  class="fil2 fnt2">t\hm</text>
+    <text x="57517" y="62500"  class="fil2 fnt2">h</text>
+    <text x="56415" y="62059"  class="fil2 fnt12">2</text>
+   </g>
+   <g transform="matrix(2.64845E-014 -1 1 2.64845E-014 -35808 73384.9)">
+    <text x="50000" y="62500"  class="fil2 fnt2">Wind erosion modulus</text>
+   </g>
+   <text x="34666" y="36154"  class="fil2 fnt15">Wind speed</text>
+   <text x="39510" y="36154"  class="fil2 fnt2">(m/s)</text>
+   <text x="33123" y="12904"  class="fil2 fnt16">Sand driving wind</text>
+   <text x="34473" y="24345"  class="fil2 fnt16">Sandy soil</text>
+   <text x="35781" y="29424"  class="fil2 fnt16">Sandy loam</text>
+   <text x="57914" y="16044"  class="fil2 fnt16">No-sand-driving wind</text>
+   <g transform="matrix(2.64845E-014 -1 1 2.64845E-014 -60092.5 162649)">
+    <text x="50000" y="62500"  class="fil2 fnt2">Blow erotion amount</text>
+    <text x="57496" y="62500"  class="fil2 fnt17">(g/cm.minute)</text>
+   </g>
+   <text x="17590" y="101648"  class="fil2 fnt2">Quicksand</text>
+   <text x="14501" y="116102"  class="fil2 fnt2">Sandy meadow soil</text>
+   <text x="33057" y="123561"  class="fil2 fnt15">Water/moisture content</text>
+   <text x="14132" y="79999"  class="fil2 fnt15">Height</text>
+   <text x="16932" y="79999"  class="fil2 fnt18"> </text>
+   <text x="17447" y="79999"  class="fil2 fnt2">(cm)</text>
+   <text x="63633" y="26561"  class="fil2 fnt16">Sandy loam</text>
+   <text x="59879" y="20300"  class="fil2 fnt16">Sandy soil</text>
+   <g transform="matrix(2.64845E-014 -1 1 2.64845E-014 -56462 124181)">
+    <text x="50000" y="62500"  class="fil2 fnt2">The percentage of vertical gradient distribution of sediment discharge</text>
+   </g>
+   <text x="59623" y="36154"  class="fil2 fnt15">Wind speed</text>
+   <text x="64468" y="36154"  class="fil2 fnt2">(m/s)</text>
+   <g transform="matrix(1.2 0 0 1 -5334.73 -16813.1)">
+    <text x="50000" y="62500"  class="fil2 fnt0">西藏高原典型原状土样风洞实验结果及其拟合曲线</text>
+   </g>
+   <text x="55767" y="47355"  class="fil2 fnt1">Wind tunnel experiment results of several typical undisturbed soil samples</text>
+   <text x="55767" y="48537"  class="fil2 fnt1">                              in Tibetan Plateau and their fit curves</text>
+   <text x="36053" y="55624"  class="fil2 fnt19">XZ2</text>
+   <text x="34523" y="50825"  class="fil2 fnt6">样品类型</text>
+   <text x="36053" y="53707"  class="fil2 fnt19">XZ1</text>
+   <text x="36053" y="57541"  class="fil2 fnt19">XZ3</text>
+   <text x="36053" y="59861"  class="fil2 fnt19">XZ4</text>
+   <text x="36053" y="61771"  class="fil2 fnt19">XZ5</text>
+   <text x="36053" y="63688"  class="fil2 fnt19">XZ6</text>
+   <text x="38382" y="53329"  class="fil2 fnt20">高山草甸</text>
+   <text x="36053" y="65390"  class="fil2 fnt19">XZ7</text>
+   <text x="38382" y="55243"  class="fil2 fnt20">高山草原土</text>
+   <text x="38382" y="57143"  class="fil2 fnt20">风沙土</text>
+   <text x="38382" y="59646"  class="fil2 fnt20">流动风沙土</text>
+   <text x="38382" y="61553"  class="fil2 fnt20">半固定风沙土</text>
+   <text x="38382" y="63255"  class="fil2 fnt20">粗骨土</text>
+   <text x="38382" y="65166"  class="fil2 fnt20">灌丛沙地</text>
+   <text x="36053" y="69349"  class="fil2 fnt19">XZ9</text>
+   <text x="36053" y="67432"  class="fil2 fnt19">XZ8</text>
+   <text x="36053" y="72495"  class="fil2 fnt19">XZ10</text>
+   <text x="36053" y="74412"  class="fil2 fnt19">XZ11</text>
+   <text x="36053" y="76322"  class="fil2 fnt19">XZ12</text>
+   <text x="36053" y="78156"  class="fil2 fnt19">XZ13</text>
+   <text x="38382" y="67054"  class="fil2 fnt20">退化草地</text>
+   <text x="38382" y="68969"  class="fil2 fnt20">耕作土</text>
+   <text x="38382" y="72097"  class="fil2 fnt20">粗骨土</text>
+   <text x="38382" y="73988"  class="fil2 fnt20">半固定风沙土</text>
+   <text x="38382" y="75895"  class="fil2 fnt20">灌丛沙地</text>
+   <text x="38382" y="77723"  class="fil2 fnt20">流动风沙土</text>
+   <text x="32658" y="54051"  class="fil2 fnt7">那曲</text>
+   <text x="28867" y="63108"  class="fil2 fnt7">日喀则江当</text>
+   <text x="31545" y="73794"  class="fil2 fnt7">狮泉河</text>
+   <text x="31545" y="74970"  class="fil2 fnt7">  </text>
+   <text x="34352" y="51763"  class="fil2 fnt15">Types of sample</text>
+   <text x="38382" y="54121"  class="fil2 fnt2">Alpine meadow</text>
+   <text x="38382" y="56026"  class="fil2 fnt2">Alpine steppe soil</text>
+   <text x="38382" y="57930"  class="fil2 fnt2">Aeolian sandy soil</text>
+   <text x="38382" y="60413"  class="fil2 fnt2">Drift aeolian sandy soil</text>
+   <text x="38382" y="62278"  class="fil2 fnt2">Semi-fixed aeolian sandy soil</text>
+   <text x="38382" y="64010"  class="fil2 fnt2">Skeletal soil</text>
+   <text x="38382" y="65935"  class="fil2 fnt2">Shrub sands</text>
+   <text x="38382" y="67827"  class="fil2 fnt2">Degenerative grasslands</text>
+   <text x="38382" y="69778"  class="fil2 fnt2">Farming soil</text>
+   <text x="38382" y="78501"  class="fil2 fnt2">Drift aeolian sandy soil</text>
+   <text x="38382" y="74749"  class="fil2 fnt2">Semi-fixed aeolian sandy soil</text>
+   <text x="38382" y="72838"  class="fil2 fnt2">Skeletal soil</text>
+   <text x="38382" y="76636"  class="fil2 fnt2">Shrub sands</text>
+   <text x="60135" y="77987"  class="fil2 fnt6">风速</text>
+   <text x="62781" y="77987"  class="fil2 fnt7">(米/秒)</text>
+   <text x="83096" y="77934"  class="fil2 fnt6">风速</text>
+   <text x="85741" y="77934"  class="fil2 fnt7">(米/秒)</text>
+   <rect class="fil3" x="77665" y="49917" width="16390" height="24849"/>
+   <rect class="fil3" x="55274" y="49904" width="16390" height="24849"/>
+   <line class="fil0 str1" x1="63474" y1="75183" x2="63474" y2= "74766" />
+   <line class="fil0 str1" x1="62566" y1="74989" x2="62566" y2= "74781" />
+   <polyline class="fil0 str2" points="55274,49906 55274,74751 71660,74751 "/>
+   <line class="fil0 str1" x1="54860" y1="51811" x2="55277" y2= "51811" />
+   <g>
+    <path class="fil0 str1" d="M54860 55635c139,0 278,0 417,0"/>
+    <path class="fil0 str1" d="M54860 59458c139,0 278,0 417,0"/>
+    <path class="fil0 str1" d="M54860 63281c139,0 278,0 417,0"/>
+    <path class="fil0 str1" d="M54860 67104c139,0 278,0 417,0"/>
+    <path class="fil0 str1" d="M54860 70927c139,0 278,0 417,0"/>
+   </g>
+   <line class="fil0 str1" x1="54860" y1="74750" x2="55277" y2= "74750" />
+   <line class="fil0 str1" x1="55048" y1="49911" x2="55257" y2= "49911" />
+   <g>
+    <path class="fil0 str1" d="M55048 53733c69,0 139,0 208,0"/>
+    <path class="fil0 str1" d="M55048 57555c69,0 139,0 208,0"/>
+    <path class="fil0 str1" d="M55048 61377c69,0 139,0 208,0"/>
+    <path class="fil0 str1" d="M55048 65199c69,0 139,0 208,0"/>
+    <path class="fil0 str1" d="M55048 69021c69,0 139,0 208,0"/>
+   </g>
+   <line class="fil0 str1" x1="55048" y1="72843" x2="55257" y2= "72843" />
+   <line class="fil0 str1" x1="56209" y1="75183" x2="56209" y2= "74766" />
+   <line class="fil0 str1" x1="68958" y1="75183" x2="68958" y2= "74766" />
+   <line class="fil0 str1" x1="58031" y1="75183" x2="58031" y2= "74766" />
+   <line class="fil0 str1" x1="59834" y1="75183" x2="59834" y2= "74766" />
+   <line class="fil0 str1" x1="61636" y1="75183" x2="61636" y2= "74766" />
+   <line class="fil0 str1" x1="67112" y1="75183" x2="67112" y2= "74766" />
+   <line class="fil0 str1" x1="58938" y1="74989" x2="58938" y2= "74781" />
+   <line class="fil0 str1" x1="60728" y1="74989" x2="60728" y2= "74781" />
+   <line class="fil0 str1" x1="66209" y1="74989" x2="66209" y2= "74781" />
+   <line class="fil0 str1" x1="68019" y1="74989" x2="68019" y2= "74781" />
+   <text x="53507" y="52113"  class="fil2 fnt2">3.0</text>
+   <text x="53507" y="55969"  class="fil2 fnt2">2.5</text>
+   <text x="53507" y="59743"  class="fil2 fnt2">2.0</text>
+   <text x="53507" y="63586"  class="fil2 fnt2">1.5</text>
+   <text x="53507" y="67443"  class="fil2 fnt2">1.0</text>
+   <text x="53507" y="71216"  class="fil2 fnt2">0.5</text>
+   <text x="53507" y="74948"  class="fil2 fnt2">0.0</text>
+   <text x="55956" y="75976"  class="fil2 fnt2">8</text>
+   <text x="57477" y="75976"  class="fil2 fnt2">10</text>
+   <text x="61121" y="75973"  class="fil2 fnt2">14</text>
+   <text x="64801" y="75976"  class="fil2 fnt2">18</text>
+   <g transform="matrix(2.6466E-014 1 -0.9993 2.64845E-014 113540 4037.29)">
+    <text x="50000" y="62500"  class="fil2 fnt21">风蚀模数</text>
+    <text x="54119" y="62500"  class="fil2 fnt22">(</text>
+    <text x="55443" y="62500"  class="fil2 fnt22">克</text>
+    <text x="56766" y="62500"  class="fil2 fnt22">平方米·秒)</text>
+    <text x="54560" y="62500"  class="fil2 fnt22">千</text>
+    <text x="56325" y="62500"  class="fil2 fnt5">\</text>
+   </g>
+   <line class="fil0 str1" x1="71653" y1="74989" x2="71653" y2= "74781" />
+   <path class="fil0 str12" d="M70947 49914c-253,940 -1616,5990 -1854,6849 -263,947 -1158,3736 -1579,4842 -421,1105 -2105,5052 -2631,5999 -526,947 -2105,3473 -3052,4473 -947,1000 -2048,1850 -2490,2153 -442,303 -707,391 -795,455 -88,63 -189,101 -189,101"/>
+   <path class="fil0 str12" d="M71674 60788c0,0 -1563,2331 -1926,2820 -363,489 -1452,1884 -1996,2485 -544,600 -2122,2303 -3350,3322 -1228,1019 -3001,2373 -4648,3308 -1647,935 -2926,1464 -3545,1759 -620,295 -714,317 -684,307"/>
+   <path class="fil0 str12" d="M71677 61667c0,0 -1031,3292 -1219,3708 -188,417 -719,1927 -1125,2688 -406,760 -1344,2469 -1958,3135 -615,667 -1417,1563 -2313,2052 -896,490 -1281,698 -2042,927 -760,229 -1563,354 -1688,396 -125,42 -1167,94 -1479,115 -313,21 -563,42 -563,42"/>
+   <path class="fil0 str12" d="M71666 64702c0,0 -985,2683 -1098,2937 -113,253 -1037,2203 -1447,2762 -410,559 -1551,2124 -2650,2718 -1098,594 -1813,1031 -3382,1259 -1569,227 -3591,306 -3835,323 -244,18 -497,35 -497,35"/>
+   <path class="fil0 str12" d="M71673 66133c0,0 -1995,2494 -2750,3235 -755,741 -2691,2461 -4047,3192 -1356,731 -1960,1011 -2437,1183 -477,172 -1910,527 -2622,627 -713,100 -1283,114 -1411,157 -128,43 -1610,143 -1853,157 -242,14 -869,86 -869,86"/>
+   <path class="fil0 str12" d="M71677 66915c0,0 -862,1396 -1485,2134 -623,738 -1352,1535 -1968,2021 -616,485 -1843,1369 -2810,1775 -968,405 -2673,969 -3765,1203 -1092,234 -3776,670 -4923,695"/>
+   <path class="fil0 str12" d="M71679 67070c0,0 -765,1819 -1598,2958 -833,1139 -1666,2295 -2992,3077 -1326,782 -2584,1122 -3264,1258 -680,136 -4879,323 -5780,357 -901,34 -2686,17 -2686,17"/>
+   <path class="fil0 str12" d="M71662 70878c0,0 -2414,1785 -5253,2533 -2839,748 -3893,697 -4148,731 -255,34 -4029,255 -4522,272 -493,17 -2448,0 -2448,0"/>
+   <path class="fil0 str12" d="M71679 72238c0,0 -2567,1122 -5508,1547 -2941,425 -5814,748 -6647,748 -833,0 -4250,153 -4250,153"/>
+   <path class="fil0 str12" d="M71662 73547c0,0 -2856,714 -7276,935 -4420,221 -9095,289 -9095,289"/>
+   <rect class="fil2" x="70068" y="51755" width="625" height="625"/>
+   <rect class="fil2" x="67797" y="59690" width="625" height="625"/>
+   <rect class="fil2" x="64741" y="67009" width="625" height="625"/>
+   <rect class="fil2" x="61670" y="71555" width="625" height="625"/>
+   <g>
+    <polygon class="fil9" points="70367,62440 71031,61756 71106,61831 70443,62516 "/>
+    <polygon class="fil9" points="71071,62504 70387,61823 70439,61772 71123,62452 "/>
+    <g>
+     <rect class="fil10" x="70469" y="62036" width="568" height="107"/>
+     <rect class="fil10" transform="matrix(1.80468E-014 -1 1 3.84749E-014 70716.1 62367.9)" width="568.125" height="73.125"/>
+    </g>
+   </g>
+   <g>
+    <polygon class="fil9" points="67541,66193 68205,65509 68281,65584 67617,66269 "/>
+    <polygon class="fil9" points="68245,66257 67561,65576 67613,65525 68297,66205 "/>
+    <g>
+     <rect class="fil10" x="67643" y="65789" width="568" height="107"/>
+     <rect class="fil10" transform="matrix(1.80468E-014 -1 1 3.84749E-014 67890.3 66120.9)" width="568.125" height="73.125"/>
+    </g>
+   </g>
+   <g>
+    <polygon class="fil9" points="64376,69390 65040,68705 65115,68781 64452,69465 "/>
+    <polygon class="fil9" points="65080,69453 64396,68773 64448,68721 65132,69402 "/>
+    <g>
+     <rect class="fil10" x="64478" y="68986" width="568" height="107"/>
+     <rect class="fil10" transform="matrix(1.80468E-014 -1 1 3.84749E-014 64725 69317.6)" width="568.125" height="73.125"/>
+    </g>
+   </g>
+   <g>
+    <polygon class="fil9" points="59283,73094 59947,72409 60022,72485 59359,73169 "/>
+    <polygon class="fil9" points="59987,73158 59303,72477 59355,72425 60038,73106 "/>
+    <g>
+     <rect class="fil10" x="59384" y="72690" width="568" height="107"/>
+     <rect class="fil10" transform="matrix(1.80468E-014 -1 1 3.84749E-014 59631.9 73021.8)" width="568.125" height="73.125"/>
+    </g>
+   </g>
+   <path class="fil11" d="M70919 63660l121 70 152 88 0 175 0 175 -152 88 -121 70 0 -665zm-78 655l-104 -60 -152 -88 0 -175 0 -175 152 -88 104 -60 0 645z"/>
+   <path class="fil11" d="M67725 70401l121 70 152 88 0 175 0 175 -152 88 -121 70 0 -665zm-78 655l-104 -60 -152 -88 0 -175 0 -175 152 -88 104 -60 0 645z"/>
+   <path class="fil12" d="M70252 67733l213 369 18 31 -462 0 18 -31 213 -369zm281 487l146 252 -427 0 -427 0 146 -252 562 0z"/>
+   <path class="fil12" d="M67350 71943l213 369 18 31 -462 0 18 -31 213 -369zm281 487l146 252 -427 0 -427 0 146 -252 562 0z"/>
+   <polygon class="fil0 str13" points="71397,66026 71592,66363 71787,66701 71397,66701 71007,66701 71202,66363 "/>
+   <polygon class="fil0 str14" points="67025,72320 67219,71983 67414,71645 67025,71645 66635,71645 66830,71983 "/>
+   <polygon class="fil0 str14" points="71000,68207 71195,67869 71390,67532 71000,67532 70610,67532 70805,67869 "/>
+   <polygon class="fil0 str13" points="69129,68615 69324,68952 69518,69290 69129,69290 68739,69290 68934,68952 "/>
+   <polygon class="fil0 str14" points="64977,73356 65172,73019 65366,72681 64977,72681 64587,72681 64782,73019 "/>
+   <circle class="fil13" cx="70275" cy="71733" r="312"/>
+   <circle class="fil13" cx="68314" cy="72681" r="312"/>
+   <g>
+    <circle class="fil14 str15" cx="70143" cy="69843" r="312"/>
+    <rect class="fil15" x="69812" y="69803" width="667.167" height="59.9583"/>
+   </g>
+   <g>
+    <rect class="fil10" x="70392" y="72568" width="568" height="107"/>
+    <rect class="fil10" transform="matrix(1.80468E-014 -1 1 3.84749E-014 70639.4 72900.3)" width="568.125" height="73.125"/>
+   </g>
+   <g>
+    <polygon class="fil9" points="69932,74067 70595,73383 70671,73458 70007,74143 "/>
+    <polygon class="fil9" points="70635,74131 69952,73450 70003,73399 70687,74079 "/>
+   </g>
+   <g>
+    <rect class="fil10" x="66822" y="73494" width="568" height="107"/>
+    <rect class="fil10" transform="matrix(1.80468E-014 -1 1 3.84749E-014 67069 73825.8)" width="568.125" height="73.125"/>
+   </g>
+   <g>
+    <polygon class="fil9" points="67638,74472 68301,73788 68377,73863 67713,74548 "/>
+    <polygon class="fil9" points="68342,74536 67658,73855 67710,73804 68393,74484 "/>
+   </g>
+   <g>
+    <polygon class="fil9" points="64708,74786 65371,74102 65447,74178 64783,74862 "/>
+    <polygon class="fil9" points="65411,74850 64728,74170 64779,74118 65463,74798 "/>
+   </g>
+   <line class="fil0 str1" x1="65291" y1="75183" x2="65291" y2= "74766" />
+   <line class="fil0 str1" x1="64383" y1="74989" x2="64383" y2= "74781" />
+   <line class="fil0 str1" x1="70765" y1="75183" x2="70765" y2= "74766" />
+   <line class="fil0 str1" x1="69846" y1="74989" x2="69846" y2= "74781" />
+   <text x="59309" y="75979"  class="fil2 fnt2">12</text>
+   <text x="62966" y="75976"  class="fil2 fnt2">16</text>
+   <text x="66636" y="75976"  class="fil2 fnt2">20</text>
+   <text x="68468" y="75979"  class="fil2 fnt2">22</text>
+   <text x="70281" y="75979"  class="fil2 fnt2">24</text>
+   <line class="fil0 str1" x1="85893" y1="75183" x2="85893" y2= "74766" />
+   <line class="fil0 str1" x1="84985" y1="74989" x2="84985" y2= "74781" />
+   <polyline class="fil0 str2" points="77693,49717 77693,74751 94204,74751 "/>
+   <line class="fil0 str1" x1="77279" y1="49891" x2="77696" y2= "49891" />
+   <g>
+    <path class="fil0 str1" d="M77279 52998c139,0 278,0 417,0"/>
+    <path class="fil0 str1" d="M77279 56106c139,0 278,0 417,0"/>
+    <path class="fil0 str1" d="M77279 59213c139,0 278,0 417,0"/>
+    <path class="fil0 str1" d="M77279 62320c139,0 278,0 417,0"/>
+    <path class="fil0 str1" d="M77279 65428c139,0 278,0 417,0"/>
+    <path class="fil0 str1" d="M77279 68535c139,0 278,0 417,0"/>
+    <path class="fil0 str1" d="M77279 71643c139,0 278,0 417,0"/>
+   </g>
+   <line class="fil0 str1" x1="77279" y1="74750" x2="77696" y2= "74750" />
+   <line class="fil0 str1" x1="77467" y1="51463" x2="77675" y2= "51463" />
+   <g>
+    <path class="fil0 str1" d="M77467 54569c69,0 139,0 208,0"/>
+    <path class="fil0 str1" d="M77467 57675c69,0 139,0 208,0"/>
+    <path class="fil0 str1" d="M77467 60781c69,0 139,0 208,0"/>
+    <path class="fil0 str1" d="M77467 63887c69,0 139,0 208,0"/>
+    <path class="fil0 str1" d="M77467 66993c69,0 139,0 208,0"/>
+    <path class="fil0 str1" d="M77467 70099c69,0 139,0 208,0"/>
+   </g>
+   <line class="fil0 str1" x1="77467" y1="73205" x2="77675" y2= "73205" />
+   <line class="fil0 str1" x1="78628" y1="75183" x2="78628" y2= "74766" />
+   <line class="fil0 str1" x1="91377" y1="75183" x2="91377" y2= "74766" />
+   <line class="fil0 str1" x1="80450" y1="75183" x2="80450" y2= "74766" />
+   <line class="fil0 str1" x1="82253" y1="75183" x2="82253" y2= "74766" />
+   <line class="fil0 str1" x1="84055" y1="75183" x2="84055" y2= "74766" />
+   <line class="fil0 str1" x1="89531" y1="75183" x2="89531" y2= "74766" />
+   <line class="fil0 str1" x1="79484" y1="74989" x2="79484" y2= "74781" />
+   <line class="fil0 str1" x1="81357" y1="74989" x2="81357" y2= "74781" />
+   <line class="fil0 str1" x1="83147" y1="74989" x2="83147" y2= "74781" />
+   <line class="fil0 str1" x1="88628" y1="74989" x2="88628" y2= "74781" />
+   <line class="fil0 str1" x1="90438" y1="74989" x2="90438" y2= "74781" />
+   <text x="76167" y="50245"  class="fil2 fnt2">32</text>
+   <text x="76135" y="56471"  class="fil2 fnt2">24</text>
+   <text x="76148" y="59577"  class="fil2 fnt2">20</text>
+   <text x="76167" y="65802"  class="fil2 fnt2">12</text>
+   <text x="76607" y="68908"  class="fil2 fnt2">8</text>
+   <text x="76597" y="72008"  class="fil2 fnt2">4</text>
+   <text x="76610" y="74905"  class="fil2 fnt2">0</text>
+   <text x="78375" y="75976"  class="fil2 fnt2">8</text>
+   <text x="79884" y="75976"  class="fil2 fnt2">10</text>
+   <text x="83531" y="75973"  class="fil2 fnt2">14</text>
+   <text x="87215" y="75976"  class="fil2 fnt2">18</text>
+   <line class="fil0 str1" x1="94079" y1="74989" x2="94079" y2= "74781" />
+   <rect class="fil0 str16" x="78993" y="51412" width="625" height="625"/>
+   <circle class="fil16" cx="79288" cy="53109" r="312"/>
+   <text x="80849" y="52050"  class="fil2 fnt23">XZ4</text>
+   <text x="80849" y="53434"  class="fil2 fnt23">XZ13</text>
+   <line class="fil0 str1" x1="87710" y1="75183" x2="87710" y2= "74766" />
+   <line class="fil0 str1" x1="86802" y1="74989" x2="86802" y2= "74781" />
+   <line class="fil0 str1" x1="93184" y1="75183" x2="93184" y2= "74766" />
+   <line class="fil0 str1" x1="92265" y1="74989" x2="92265" y2= "74781" />
+   <text x="81717" y="75979"  class="fil2 fnt2">12</text>
+   <text x="85378" y="75976"  class="fil2 fnt2">16</text>
+   <text x="89052" y="75976"  class="fil2 fnt2">20</text>
+   <text x="90885" y="75979"  class="fil2 fnt2">22</text>
+   <text x="92700" y="75979"  class="fil2 fnt2">24</text>
+   <text x="76145" y="62689"  class="fil2 fnt2">16</text>
+   <text x="76145" y="53358"  class="fil2 fnt2">28</text>
+   <path class="fil0 str12" d="M93540 49753c52,9 -2368,5336 -3839,8061 -1472,2725 -3138,5540 -4353,7366 -1215,1826 -3156,4211 -4567,5574 -1411,1363 -2680,2295 -2848,2390 -167,96 -287,144 -287,144"/>
+   <path class="fil0 str12" d="M94053 51189c0,0 -1602,4449 -3109,7725 -1507,3277 -3994,7797 -6290,10308 -2296,2511 -3851,3611 -5070,4209 -1220,598 -1889,837 -1889,837"/>
+   <rect class="fil0 str16" x="92262" y="51610" width="625" height="625"/>
+   <rect class="fil0 str16" x="89514" y="57276" width="625" height="625"/>
+   <rect class="fil0 str16" x="86109" y="63302" width="625" height="625"/>
+   <rect class="fil0 str16" x="80628" y="70352" width="625" height="625"/>
+   <circle class="fil16" cx="92922" cy="54306" r="312"/>
+   <circle class="fil16" cx="90010" cy="60878" r="312"/>
+   <circle class="fil16" cx="86207" cy="67273" r="312"/>
+   <circle class="fil16" cx="82177" cy="71709" r="312"/>
+   <rect class="fil2" x="69575" y="53586" width="625" height="625"/>
+   <rect class="fil2" x="68781" y="56450" width="625" height="625"/>
+   <rect class="fil2" x="66974" y="61784" width="625" height="625"/>
+   <rect class="fil2" x="66035" y="64246" width="625" height="625"/>
+   <rect class="fil2" x="60680" y="72539" width="625" height="625"/>
+   <g>
+    <polygon class="fil9" points="68941,64391 69604,63706 69680,63782 69016,64466 "/>
+    <polygon class="fil9" points="69644,64455 68960,63774 69012,63722 69696,64403 "/>
+    <g>
+     <rect class="fil10" x="69042" y="63987" width="568" height="107"/>
+     <rect class="fil10" transform="matrix(1.80468E-014 -1 1 3.84749E-014 69289.3 64318.8)" width="568.125" height="73.125"/>
+    </g>
+   </g>
+   <g>
+    <polygon class="fil9" points="65952,67890 66616,67205 66691,67281 66028,67965 "/>
+    <polygon class="fil9" points="66656,67954 65972,67273 66024,67221 66708,67902 "/>
+    <g>
+     <rect class="fil10" x="66054" y="67486" width="568" height="107"/>
+     <rect class="fil10" transform="matrix(1.80468E-014 -1 1 3.84749E-014 66301.2 67817.8)" width="568.125" height="73.125"/>
+    </g>
+   </g>
+   <path class="fil11" d="M69781 66707l121 70 152 88 0 175 0 175 -152 88 -121 70 0 -665zm-78 655l-104 -60 -152 -88 0 -175 0 -175 152 -88 104 -60 0 645z"/>
+   <path class="fil11" d="M64680 73072l121 70 152 88 0 175 0 175 -152 88 -121 70 0 -665zm-78 655l-104 -60 -152 -88 0 -175 0 -175 152 -88 104 -60 0 645z"/>
+   <polygon class="fil0 str13" points="66233,71137 66428,71475 66623,71812 66233,71812 65843,71812 66038,71475 "/>
+   <polygon class="fil0 str13" points="64794,71999 64989,72336 65184,72674 64794,72674 64405,72674 64600,72336 "/>
+   <polygon class="fil0 str14" points="70150,69394 70345,69057 70540,68719 70150,68719 69760,68719 69955,69057 "/>
+   <polygon class="fil0 str14" points="68477,71129 68672,70791 68867,70454 68477,70454 68087,70454 68282,70791 "/>
+   <polygon class="fil0 str14" points="63923,73810 64118,73472 64313,73135 63923,73135 63534,73135 63729,73472 "/>
+   <path class="fil12" d="M71403 64912l213 369 18 31 -462 0 18 -31 213 -369zm281 487l146 252 -427 0 -427 0 146 -252 562 0z"/>
+   <g>
+    <circle class="fil14 str15" cx="69515" cy="70752" r="312"/>
+    <rect class="fil15" x="69184" y="70711" width="667.167" height="59.9583"/>
+   </g>
+   <g>
+    <circle class="fil14 str15" cx="68566" cy="71866" r="312"/>
+    <rect class="fil15" x="68235" y="71826" width="667.167" height="59.9583"/>
+   </g>
+   <g>
+    <circle class="fil14 str15" cx="66049" cy="73621" r="312"/>
+    <rect class="fil15" x="65719" y="73580" width="667.167" height="59.9583"/>
+   </g>
+   <circle class="fil13" cx="67364" cy="73066" r="312"/>
+   <g>
+    <rect class="fil10" x="68921" y="73062" width="568" height="107"/>
+    <rect class="fil10" transform="matrix(1.80468E-014 -1 1 3.84749E-014 69168.5 73393.5)" width="568.125" height="73.125"/>
+   </g>
+   <circle class="fil13" cx="61858" cy="74106" r="312"/>
+   <circle class="fil13" cx="58354" cy="74320" r="312"/>
+   <circle class="fil13" cx="64413" cy="73786" r="312"/>
+   <rect class="fil0 str16" x="83441" y="67094" width="625" height="625"/>
+   <circle class="fil16" cx="88080" cy="64035" r="312"/>
+   <circle class="fil16" cx="91408" cy="57918" r="312"/>
+   <rect class="fil2" x="57102" y="51412" width="625" height="625"/>
+   <circle class="fil13" cx="57397" cy="53109" r="312"/>
+   <polygon class="fil0 str13" points="57419,54070 57614,54408 57809,54745 57419,54745 57029,54745 57224,54408 "/>
+   <polygon class="fil0 str14" points="57395,56343 57590,56005 57785,55667 57395,55667 57005,55667 57200,56005 "/>
+   <g>
+    <rect class="fil10" x="57114" y="57175" width="568" height="107"/>
+    <rect class="fil10" transform="matrix(1.80468E-014 -1 1 3.84749E-014 57361.4 57507)" width="568.125" height="73.125"/>
+   </g>
+   <g>
+    <polygon class="fil9" points="57043,58939 57707,58255 57783,58331 57119,59015 "/>
+    <polygon class="fil9" points="57747,59003 57063,58323 57115,58271 57799,58951 "/>
+   </g>
+   <g>
+    <polygon class="fil9" points="57013,60331 57676,59646 57752,59722 57088,60406 "/>
+    <polygon class="fil9" points="57716,60394 57033,59714 57084,59662 57768,60343 "/>
+    <g>
+     <rect class="fil10" x="57114" y="59927" width="568" height="107"/>
+     <rect class="fil10" transform="matrix(1.80468E-014 -1 1 3.84749E-014 57361.4 60258.6)" width="568.125" height="73.125"/>
+    </g>
+   </g>
+   <g>
+    <circle class="fil14 str15" cx="57428" cy="61389" r="312"/>
+    <rect class="fil15" x="57097" y="61348" width="667.167" height="59.9583"/>
+   </g>
+   <path class="fil11" d="M57454 62442l121 70 152 88 0 175 0 175 -152 88 -121 70 0 -665zm-78 655l-104 -60 -152 -88 0 -175 0 -175 152 -88 104 -60 0 645z"/>
+   <path class="fil12" d="M57430 63649l213 369 18 31 -462 0 18 -31 213 -369zm281 487l146 252 -427 0 -427 0 146 -252 562 0z"/>
+   <text x="58958" y="52050"  class="fil2 fnt23">XZ2</text>
+   <text x="58958" y="53434"  class="fil2 fnt23">XZ3</text>
+   <text x="58958" y="54811"  class="fil2 fnt23">XZ5</text>
+   <text x="58958" y="56195"  class="fil2 fnt23">XZ6</text>
+   <text x="58958" y="57572"  class="fil2 fnt23">XZ7</text>
+   <text x="58958" y="58956"  class="fil2 fnt23">XZ8</text>
+   <text x="58958" y="60340"  class="fil2 fnt23">XZ9</text>
+   <text x="58958" y="61724"  class="fil2 fnt23">XZ10</text>
+   <text x="58958" y="63108"  class="fil2 fnt23">XZ11</text>
+   <text x="58958" y="64492"  class="fil2 fnt23">XZ12</text>
+   <g transform="matrix(2.6466E-014 1 -0.9993 2.64845E-014 136028 4037.29)">
+    <text x="50000" y="62500"  class="fil2 fnt21">风蚀模数</text>
+    <text x="54119" y="62500"  class="fil2 fnt22">(</text>
+    <text x="55443" y="62500"  class="fil2 fnt22">克</text>
+    <text x="56766" y="62500"  class="fil2 fnt22">平方米·秒)</text>
+    <text x="54560" y="62500"  class="fil2 fnt22">千</text>
+    <text x="56325" y="62500"  class="fil2 fnt5">\</text>
+   </g>
+   <g transform="matrix(2.64845E-014 -1 1 2.64845E-014 -9784.25 114991)">
+    <text x="50000" y="62500"  class="fil2 fnt2">Wind erosion modulus</text>
+    <text x="57999" y="62500"  class="fil2 fnt24">(</text>
+    <text x="61230" y="62500"  class="fil2 fnt24">)</text>
+    <text x="58367" y="62500"  class="fil2 fnt17">kg/m</text>
+    <text x="60944" y="62500"  class="fil2 fnt17">s</text>
+    <text x="59878" y="62133"  class="fil2 fnt25">2</text>
+    <text x="60062" y="62500"  class="fil2 fnt11">·</text>
+   </g>
+   <g transform="matrix(2.64845E-014 -1 1 2.64845E-014 12703.6 114991)">
+    <text x="50000" y="62500"  class="fil2 fnt2">Wind erosion modulus</text>
+    <text x="57999" y="62500"  class="fil2 fnt24">(</text>
+    <text x="61230" y="62500"  class="fil2 fnt24">)</text>
+    <text x="58367" y="62500"  class="fil2 fnt17">kg/m</text>
+    <text x="60944" y="62500"  class="fil2 fnt17">s</text>
+    <text x="59878" y="62133"  class="fil2 fnt25">2</text>
+    <text x="60062" y="62500"  class="fil2 fnt11">·</text>
+   </g>
+   <text x="60052" y="79015"  class="fil2 fnt15">Wind speed</text>
+   <text x="64897" y="79015"  class="fil2 fnt2">(m/s)</text>
+   <text x="83013" y="78963"  class="fil2 fnt15">Wind speed</text>
+   <text x="87857" y="78963"  class="fil2 fnt2">(m/s)</text>
+   <g transform="matrix(2.64845E-014 -1 1 2.64845E-014 -36951.5 160429)">
+    <text x="50000" y="62500"  class="fil2 fnt2">Wind erosion modulus</text>
+   </g>
+   <text x="9927" y="123355"  class="fil2 fnt15">Wind speed</text>
+   <text x="14772" y="123355"  class="fil2 fnt2">(m/s)</text>
+   <g transform="matrix(1.2 0 0 1 -8769.79 27773.9)">
+    <text x="50000" y="62500"  class="fil2 fnt0">植被覆盖度与风蚀模数的关系</text>
+   </g>
+   <text x="51616" y="91936"  class="fil2 fnt1">Relationship between vegetation coverage </text>
+   <text x="51616" y="93119"  class="fil2 fnt1">               and wind erosion modulus</text>
+   <g transform="matrix(1.2 0 0 1 18295.7 27764.3)">
+    <text x="50000" y="62500"  class="fil2 fnt0">开垦或翻耕与未开垦土地</text>
+   </g>
+   <text x="76894" y="91936"  class="fil2 fnt1">Wind erosion amount comparing cultivated</text>
+   <text x="76894" y="93119"  class="fil2 fnt1">     or tilling land with uncultivated land</text>
+   <text x="58086" y="122427"  class="fil2 fnt6">风速</text>
+   <text x="60732" y="122427"  class="fil2 fnt7">(米/秒)</text>
+   <rect class="fil3" x="77436" y="94414" width="16390" height="24849"/>
+   <rect class="fil3" x="53751" y="94414" width="16390" height="24849"/>
+   <text x="56569" y="97735"  class="fil2 fnt3">植被盖度</text>
+   <text x="60685" y="97735"  class="fil2 fnt26">（%）</text>
+   <text x="55618" y="100002"  class="fil17 fnt3">1</text>
+   <text x="56129" y="100002"  class="fil2 fnt3"> </text>
+   <text x="57198" y="100002"  class="fil2 fnt3">69</text>
+   <text x="58472" y="100002"  class="fil2 fnt3">7</text>
+   <text x="56382" y="100002"  class="fil2 fnt3">= </text>
+   <text x="58219" y="100002"  class="fil2 fnt3">.</text>
+   <text x="60276" y="99911"  class="fil18 fnt3">2</text>
+   <text x="60787" y="99911"  class="fil2 fnt3"> </text>
+   <text x="61856" y="99911"  class="fil2 fnt3">58</text>
+   <text x="63130" y="99911"  class="fil2 fnt3">5</text>
+   <text x="61040" y="99911"  class="fil2 fnt3">= </text>
+   <text x="62877" y="99911"  class="fil2 fnt3">.</text>
+   <text x="55602" y="101695"  class="fil19 fnt3">3</text>
+   <text x="56112" y="101695"  class="fil2 fnt3"> </text>
+   <text x="57181" y="101695"  class="fil2 fnt3">27</text>
+   <text x="58456" y="101695"  class="fil2 fnt3">4</text>
+   <text x="56365" y="101695"  class="fil2 fnt3">= </text>
+   <text x="58202" y="101695"  class="fil2 fnt3">.</text>
+   <text x="60213" y="101663"  class="fil20 fnt3">4</text>
+   <text x="60724" y="101663"  class="fil2 fnt3"> </text>
+   <text x="61793" y="101663"  class="fil2 fnt3">10</text>
+   <text x="63067" y="101663"  class="fil2 fnt3">75</text>
+   <text x="60977" y="101663"  class="fil2 fnt3">= </text>
+   <text x="62814" y="101663"  class="fil2 fnt3">.</text>
+   <polyline class="fil0 str2" points="53709,94393 53714,119280 70410,119306 "/>
+   <line class="fil0 str1" x1="53271" y1="96303" x2="53701" y2= "96303" />
+   <line class="fil0 str1" x1="53271" y1="98550" x2="53701" y2= "98550" />
+   <line class="fil0 str1" x1="53271" y1="103194" x2="53701" y2= "103194" />
+   <line class="fil0 str1" x1="53271" y1="100917" x2="53701" y2= "100917" />
+   <line class="fil0 str1" x1="53271" y1="105485" x2="53701" y2= "105485" />
+   <line class="fil0 str1" x1="53271" y1="107793" x2="53701" y2= "107793" />
+   <line class="fil0 str1" x1="53271" y1="110085" x2="53701" y2= "110085" />
+   <line class="fil0 str1" x1="53271" y1="112392" x2="53701" y2= "112392" />
+   <line class="fil0 str1" x1="53271" y1="114654" x2="53701" y2= "114654" />
+   <line class="fil0 str1" x1="53271" y1="116961" x2="53701" y2= "116961" />
+   <line class="fil0 str1" x1="56004" y1="119515" x2="56004" y2= "119306" />
+   <line class="fil0 str1" x1="58292" y1="119515" x2="58292" y2= "119306" />
+   <line class="fil0 str1" x1="60534" y1="119515" x2="60534" y2= "119306" />
+   <line class="fil0 str1" x1="62766" y1="119515" x2="62766" y2= "119306" />
+   <line class="fil0 str1" x1="65008" y1="119515" x2="65008" y2= "119306" />
+   <line class="fil0 str1" x1="67278" y1="119515" x2="67278" y2= "119306" />
+   <text x="55769" y="120504"  class="fil2 fnt2">7</text>
+   <text x="57842" y="120504"  class="fil2 fnt2">11</text>
+   <text x="60051" y="120504"  class="fil2 fnt2">15</text>
+   <text x="62276" y="120517"  class="fil2 fnt2">19</text>
+   <text x="64559" y="120517"  class="fil2 fnt2">23</text>
+   <text x="66915" y="120517"  class="fil2 fnt2">27</text>
+   <text x="51602" y="117369"  class="fil2 fnt2">300</text>
+   <text x="51626" y="115067"  class="fil2 fnt2">600</text>
+   <text x="51626" y="112763"  class="fil2 fnt2">900</text>
+   <text x="51053" y="110436"  class="fil2 fnt2">1</text>
+   <text x="51715" y="110436"  class="fil2 fnt2">200</text>
+   <text x="51494" y="110436"  class="fil2 fnt10"> </text>
+   <text x="51053" y="108085"  class="fil2 fnt2">1</text>
+   <text x="51715" y="108085"  class="fil2 fnt2">500</text>
+   <text x="51494" y="108085"  class="fil2 fnt10"> </text>
+   <text x="51029" y="105782"  class="fil2 fnt2">1</text>
+   <text x="51691" y="105782"  class="fil2 fnt2">800</text>
+   <text x="51470" y="105782"  class="fil2 fnt10"> </text>
+   <text x="51053" y="103575"  class="fil2 fnt2">2</text>
+   <text x="51715" y="103575"  class="fil2 fnt2">100</text>
+   <text x="51494" y="103575"  class="fil2 fnt10"> </text>
+   <text x="51053" y="101272"  class="fil2 fnt2">2</text>
+   <text x="51715" y="101272"  class="fil2 fnt2">400</text>
+   <text x="51494" y="101272"  class="fil2 fnt10"> </text>
+   <text x="51053" y="98897"  class="fil2 fnt2">2</text>
+   <text x="51715" y="98897"  class="fil2 fnt2">700</text>
+   <text x="51494" y="98897"  class="fil2 fnt10"> </text>
+   <text x="51078" y="96617"  class="fil2 fnt2">3</text>
+   <text x="51739" y="96617"  class="fil2 fnt2">000</text>
+   <text x="51519" y="96617"  class="fil2 fnt10"> </text>
+   <text x="52312" y="119647"  class="fil2 fnt2">0</text>
+   <path class="fil0 str17" d="M57999 119169c0,0 2157,-641 2175,-631"/>
+   <path class="fil0 str17" d="M60827 118246c0,0 709,-311 832,-377 123,-66 776,-443 776,-443 0,0 917,-603 1050,-725 132,-122 757,-688 908,-876 151,-188 639,-738 851,-1102 98,-168 271,-423 439,-707 197,-332 387,-694 450,-838 107,-246 178,-360 231,-483 53,-123 257,-646 285,-787"/>
+   <path class="fil0 str18" d="M57971 118718c0,0 1092,-851 1146,-894 54,-43 735,-678 789,-721 54,-43 605,-571 681,-689"/>
+   <path class="fil0 str18" d="M61149 115768c249,-301 746,-980 865,-1206 119,-226 746,-1217 811,-1346 65,-129 595,-1324 627,-1400 32,-75 774,-2336 797,-2485 22,-142 247,-1036 316,-1380 69,-344 270,-1378 303,-1626 14,-106 244,-1651 432,-3397 250,-2317 471,-4985 436,-5088"/>
+   <path class="fil0 str19" d="M57378 118709c0,0 523,-404 585,-459 62,-55 619,-535 757,-672 75,-75 349,-324 595,-572 204,-206 391,-421 416,-455 56,-75 646,-781 771,-932 124,-151 963,-1323 991,-1364"/>
+   <path class="fil0 str19" d="M62032 113357c0,0 545,-1010 595,-1131 50,-121 565,-1196 626,-1347 61,-151 444,-1156 484,-1257 40,-101 474,-1357 474,-1417 0,-28 135,-447 265,-958 151,-598 301,-1301 301,-1344 0,0 148,-555 285,-1456 451,-2981 1342,-9443 1138,-10007"/>
+   <path class="fil0 str20" d="M56442 118409c0,0 773,-770 845,-857 72,-87 877,-976 877,-976 0,0 1140,-1349 1187,-1437 48,-87 909,-1167 1179,-1595 271,-429 606,-826 669,-968 64,-143 677,-1087 661,-1103"/>
+   <path class="fil0 str20" d="M62356 110480c0,0 494,-968 526,-1032 32,-64 438,-1024 438,-1024 0,0 520,-1322 534,-1381 14,-59 739,-2107 765,-2270 26,-163 295,-943 370,-1262 0,0 192,-653 271,-1049 395,-1985 1460,-7505 1408,-7952"/>
+   <text x="60302" y="118717"  class="fil17 fnt27">1</text>
+   <text x="60667" y="116457"  class="fil18 fnt27">2</text>
+   <text x="61518" y="114117"  class="fil19 fnt27">3</text>
+   <text x="61829" y="111319"  class="fil20 fnt27">4</text>
+   <polyline class="fil0 str2" points="77477,94498 77478,119305 94042,119307 "/>
+   <text x="83773" y="122417"  class="fil2 fnt6">风力等级</text>
+   <line class="fil0 str1" x1="77040" y1="102770" x2="77461" y2= "102771" />
+   <line class="fil0 str1" x1="77040" y1="111033" x2="77462" y2= "111034" />
+   <line class="fil0 str1" x1="80409" y1="119321" x2="80409" y2= "119533" />
+   <line class="fil0 str1" x1="83262" y1="119321" x2="83262" y2= "119533" />
+   <line class="fil0 str1" x1="86055" y1="119321" x2="86055" y2= "119533" />
+   <line class="fil0 str1" x1="88887" y1="119321" x2="88887" y2= "119533" />
+   <line class="fil0 str1" x1="91642" y1="119321" x2="91642" y2= "119532" />
+   <text x="80159" y="120627"  class="fil2 fnt2">5</text>
+   <text x="83052" y="120585"  class="fil2 fnt2">7</text>
+   <text x="85846" y="120562"  class="fil2 fnt2">9</text>
+   <text x="88412" y="120636"  class="fil2 fnt2">11</text>
+   <text x="91225" y="120567"  class="fil2 fnt2">12</text>
+   <text x="74753" y="111363"  class="fil2 fnt2">1</text>
+   <text x="75415" y="111363"  class="fil2 fnt2">000</text>
+   <text x="75194" y="111363"  class="fil2 fnt10"> </text>
+   <text x="74753" y="103038"  class="fil2 fnt2">2</text>
+   <text x="75415" y="103038"  class="fil2 fnt2">000</text>
+   <text x="75194" y="103038"  class="fil2 fnt10"> </text>
+   <text x="76360" y="119517"  class="fil2 fnt2">0</text>
+   <polyline class="fil0 str4" points="80942,119082 86230,118920 89004,118805 91690,118695 93781,118562 "/>
+   <path class="fil0 str21" d="M80657 119143l1394 -323c0,0 1057,-81 1933,-781 877,-701 2023,-1913 2585,-2910 562,-997 1690,-3333 2270,-4924 581,-1591 1047,-2846 1306,-4089 259,-1243 861,-3878 923,-4151 62,-273 550,-3057 601,-3927 52,-870 73,-1156 83,-1243"/>
+   <text x="89509" y="117222"  class="fil2 fnt20">未翻耕</text>
+   <text x="91316" y="104258"  class="fil2 fnt20">翻耕</text>
+   <g transform="matrix(2.64845E-014 1 -1 2.64845E-014 110683 51747.1)">
+    <text x="50000" y="62500"  class="fil2 fnt4">风蚀模数</text>
+    <text x="54116" y="62500"  class="fil2 fnt5">\</text>
+    <text x="54557" y="62500"  class="fil2 fnt11">(</text>
+    <text x="55043" y="62500"  class="fil2 fnt11">\</text>
+    <text x="56632" y="62500"  class="fil2 fnt11">·</text>
+    <text x="57954" y="62500"  class="fil2 fnt11">)</text>
+    <text x="54798" y="62500"  class="fil2 fnt2">t</text>
+    <text x="55284" y="62500"  class="fil2 fnt2">hm</text>
+    <text x="57514" y="62500"  class="fil2 fnt2">h</text>
+    <text x="56411" y="62059"  class="fil2 fnt12">2</text>
+   </g>
+   <g transform="matrix(2.64845E-014 1 -1 2.64845E-014 134459 51694.5)">
+    <text x="50000" y="62500"  class="fil2 fnt4">风蚀模数</text>
+    <text x="54116" y="62500"  class="fil2 fnt5">\</text>
+    <text x="54557" y="62500"  class="fil2 fnt11">(</text>
+    <text x="56635" y="62500"  class="fil2 fnt11">·</text>
+    <text x="57958" y="62500"  class="fil2 fnt11">)</text>
+    <text x="54798" y="62500"  class="fil2 fnt2">t\hm</text>
+    <text x="57517" y="62500"  class="fil2 fnt2">h</text>
+    <text x="56415" y="62059"  class="fil2 fnt12">2</text>
+   </g>
+   <text x="56356" y="98517"  class="fil2 fnt2">Vegetation coverage</text>
+   <text x="63531" y="98517"  class="fil2 fnt17">(%)</text>
+   <text x="89260" y="118223"  class="fil2 fnt2">No-tillage</text>
+   <text x="91102" y="105259"  class="fil2 fnt2">Tillage</text>
+   <text x="82378" y="123661"  class="fil2 fnt15">Scale of wind force</text>
+   <g transform="matrix(2.64845E-014 -1 1 2.64845E-014 -12624.7 159847)">
+    <text x="50000" y="62500"  class="fil2 fnt2">Wind erosion modulus</text>
+   </g>
+   <text x="58003" y="123456"  class="fil2 fnt15">Wind speed</text>
+   <text x="62848" y="123456"  class="fil2 fnt2">(m/s)</text>
+   <g transform="matrix(2.64845E-014 -1 1 2.64845E-014 11151.3 159794)">
+    <text x="50000" y="62500"  class="fil2 fnt2">Wind erosion modulus</text>
+   </g>
+   <g transform="matrix(-1 -0 -0 -1 85606.8 125507)">
+    <text x="50000" y="62500"  class="fil2 fnt28">ˇ</text>
+   </g>
+  </g>
+ </g>
+</svg>

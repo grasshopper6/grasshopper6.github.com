@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     
     <head>
@@ -10,6 +10,12 @@
         <script Language="JavaScript" src="js/jiemians.js">
 
         </script>
+		<style type="text/css">
+		.map{height:650px}
+				.main{height:650px}
+		.mapcontroll{height:650px}
+		.box{height:830}
+		</style>
         <script type="text/javascript">
             //<![CDATA[
             window.onload = function() {
@@ -100,7 +106,7 @@ function on_hide()
 			
             <div class="title" style="background-color: #D7F29C">
                 <p style="color:#325E84">
-                    综合环境
+                    <a href="page2.html" title="单击查看目录" target="_blank">   综合环境</a>
                 </p>
             </div>
             <div class="title" style="float:left; width:300px">
@@ -116,10 +122,10 @@ function on_hide()
                 />
             </div>
             <div class="col" style="background-color: #EAF1DD;color:#516524">
-                自然环境
+                <a href="page2.html" title="单击查看目录" target="_blank">  自然环境</a>
             </div>
             <div class="col" style="background-color: #87A93E;color:#FFFFFF">
-                社会经济环境
+                <a href="page2.html" title="单击查看目录" target="_blank">   社会经济环境</a>
             </div>
              <div class="col" style="width:598px;border: 1px solid #FFFFFF;background-color:#DCE6F2E; color:#325E84">
                 <div class="shulibox">
@@ -286,13 +292,13 @@ function on_hide()
                           >  
                         </li>
                         <li>
-                            <a href="4-5.html" target="_blank">
+                          <a href="4-5a.html"   target="_blank">
                                 地势、地形
                             </a>
 							<ul>
-							 <li><a href="4-5b.html" title="ali" target="new">山峰、山脉分布</a></li>
-							  <li><a href="4-5a.html" title="ali" target="new"> 西藏自治区地势</a></li>
-							  <li><a href="20-21b.html" title="ali" target="new"> 地势剖面</a></li>
+							 <li><a href="4-5b.html"   target="_blank">山峰、山脉分布</a></li>
+							  <li><a href="4-5a.html"   target="_blank"> 西藏自治区地势</a></li>
+							  <li><a href="20-21b.html"   target="_blank"> 地势剖面</a></li>
 							<li> &nbsp </li>
 							</ul>
                         </li>
@@ -300,7 +306,7 @@ function on_hide()
                           >  
                         </li>
                         <li>
-                            <a href="#">
+                           <a href="20-21.html"   target="_blank">
                                 地形
                             </a>
 							
@@ -322,7 +328,7 @@ function on_hide()
                             <div class="content" style="overflow:auto ">
 							<div  style="height:150px;overflow:auto ">
                               
-							    <img alt="图例"  src="supplement/20-21图例.png"/>
+							    <img alt="图例" style="width:100px" src="supplement/20-21图例.png"/>
                             </div>
 							</div>
                         </li>
@@ -342,7 +348,7 @@ function on_hide()
                     </ul>
                 </div>
 				<div class="map" style="overflow:scroll">
-			    <div id="FloatDiv" style="position:fixed; width:250px; height:40px; visibility:visible; right: 250px; top: 210px">
+			    <div id="FloatDiv" style="position:absolute; width:250px; height:40px; visibility:visible; right: 250px; top: 210px">
 				<div class="tool" style="background-image: url('images/fangda.gif')" onclick="zoomIn()"></div>
 				<div class="kx"> </div>
                 <div class="tool" style=";background-image: url('images/suoxiao.gif')" onclick="zoomOut()"></div>

@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1001px" height="273px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 100100 27300"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:27.7368}
+    .str4 {stroke:#00A2E9;stroke-width:29.12;stroke-linejoin:round}
+    .str0 {stroke:#332C2B;stroke-width:36.4}
+    .str2 {stroke:#332C2B;stroke-width:36.4;stroke-linejoin:round}
+    .str3 {stroke:#6D583D;stroke-width:36.4;stroke-linejoin:round}
+    .str5 {stroke:#823520;stroke-width:36.4;stroke-linejoin:round}
+    .str6 {stroke:#332C2B;stroke-width:43.68}
+    .str12 {stroke:#332C2B;stroke-width:54.6}
+    .str18 {stroke:#E62129;stroke-width:54.6}
+    .str17 {stroke:#006B9E;stroke-width:54.6}
+    .str19 {stroke:#8AC999;stroke-width:54.6}
+    .str13 {stroke:#332C2B;stroke-width:72.8}
+    .str7 {stroke:#FEFEFE;stroke-width:72.8}
+    .str9 {stroke:#AC6249;stroke-width:91}
+    .str8 {stroke:#5FA776;stroke-width:91}
+    .str11 {stroke:#E62129;stroke-width:91}
+    .str10 {stroke:#E62129;stroke-width:127.4}
+    .str15 {stroke:#E62129;stroke-width:91;stroke-dasharray:182.000000 91.000000}
+    .str16 {stroke:#0084CD;stroke-width:91;stroke-dasharray:182.000000 91.000000}
+    .str14 {stroke:#79B087;stroke-width:91;stroke-dasharray:182.000000 91.000000}
+    .fil0 {fill:none}
+    .fil3 {fill:#332C2B}
+    .fil1 {fill:#FEFEFE}
+    .fil5 {fill:#00A2E9}
+    .fil4 {fill:#6D583D}
+    .fil2 {fill:#823520}
+    .fil9 {fill:#E0F1F4}
+    .fil8 {fill:#F0F0D7}
+    .fil10 {fill:#FCE2C4}
+    .fil7 {fill:#FEF3DF}
+    .fil6 {fill:#FEF8F0}
+    .fnt11 {font-weight:normal;font-size:618.8px;font-family:'Times New Roman'}
+    .fnt12 {font-weight:normal;font-size:642.06px;font-family:'Times New Roman'}
+    .fnt16 {font-weight:normal;font-size:642.06px;font-family:'方正书宋简体'}
+    .fnt8 {font-weight:normal;font-size:770.479px;font-family:'@宋体'}
+    .fnt4 {font-weight:normal;font-size:770.479px;font-family:'Arial'}
+    .fnt3 {font-weight:normal;font-size:770.479px;font-family:'Times New Roman'}
+    .fnt2 {font-weight:normal;font-size:770.479px;font-family:'宋体'}
+    .fnt15 {font-weight:normal;font-size:770.479px;font-family:'方正书宋简体'}
+    .fnt14 {font-weight:normal;font-size:770.479px;font-family:'方正细圆简体'}
+    .fnt1 {font-weight:normal;font-size:800.873px;font-family:'方正书宋简体'}
+    .fnt13 {font-weight:normal;font-size:873.564px;font-family:'方正书宋简体'}
+    .fnt7 {font-weight:normal;font-size:898.862px;font-family:'@宋体'}
+    .fnt0 {font-weight:normal;font-size:898.862px;font-family:'宋体'}
+    .fnt6 {font-weight:normal;font-size:1027.28px;font-family:'Arial'}
+    .fnt5 {font-weight:normal;font-size:1284.12px;font-family:'方正准圆简体'}
+    .fnt9 {font-weight:normal;font-size:385.258px;font-family:'@宋体';baseline-shift:super}
+    .fnt10 {font-weight:normal;font-size:385.258px;font-family:'Times New Roman';baseline-shift:super}
+   ]]>
+  </style>
+ </defs>
+<symbol id="符号37" viewBox="49819 13419 463 463">
+ <line class="fil0 str0" x1="49832" y1="13432" x2="50268" y2= "13868" />
+ <line class="fil0 str0" x1="49832" y1="13868" x2="50268" y2= "13432" />
+</symbol>
+<symbol id="符号35" viewBox="49818 13418 465 465">
+ <circle class="fil1 str1" cx="50050" cy="13650" r="218"/>
+ <circle class="fil0 str1" cx="50050" cy="13650" r="82"/>
+</symbol>
+<symbol id="符号20" viewBox="49879 13392 342 517">
+ <polygon class="fil2" points="49883,13908 50048,13392 50221,13908 49879,13908 "/>
+</symbol>
+<symbol id="符号18" viewBox="49819 13419 463 463">
+ <rect class="fil1" x="49832" y="13432" width="437" height="437"/>
+ <line class="fil0 str0" x1="49832" y1="13432" x2="50268" y2= "13868" />
+ <line class="fil0 str0" x1="49832" y1="13868" x2="50268" y2= "13432" />
+</symbol>
+<symbol id="符号10" viewBox="49636 13236 829 829">
+ <circle class="fil1 str1" cx="50050" cy="13650" r="400"/>
+ <circle class="fil3 str1" cx="50050" cy="13650" r="237"/>
+</symbol>
+<symbol id="符号6" viewBox="49818 13418 465 465">
+ <circle class="fil1 str1" cx="50050" cy="13650" r="218"/>
+ <circle class="fil0 str1" cx="50050" cy="13650" r="82"/>
+</symbol>
+<symbol id="符号5" viewBox="49813 13413 473 473">
+ <path class="fil1 str2" d="M50268 13650c0,-121 -98,-218 -218,-218 -121,0 -218,98 -218,218 0,121 98,218 218,218 121,0 218,-98 218,-218z"/>
+</symbol>
+<symbol id="符号36" viewBox="49636 13236 829 829">
+ <circle class="fil1 str1" cx="50050" cy="13650" r="400"/>
+ <circle class="fil3 str1" cx="50050" cy="13650" r="237"/>
+</symbol>
+<symbol id="符号45" viewBox="49904 13432 291 437">
+ <polygon class="fil4" points="49908,13868 50048,13432 50196,13868 49904,13868 "/>
+</symbol>
+<symbol id="符号41" viewBox="49818 13418 465 465">
+ <circle class="fil1 str1" cx="50050" cy="13650" r="218"/>
+ <circle class="fil0 str1" cx="50050" cy="13650" r="82"/>
+</symbol>
+<symbol id="符号22" viewBox="49763 13363 574 574">
+ <circle class="fil1 str1" cx="50050" cy="13650" r="273"/>
+ <circle class="fil0 str1" cx="50050" cy="13650" r="102"/>
+</symbol>
+<symbol id="符号44" viewBox="49977 13577 146 146">
+ <path class="fil4 str3" d="M50105 13650c0,-30 -24,-55 -55,-55 -30,0 -55,24 -55,55 0,30 24,55 55,55 30,0 55,-24 55,-55z"/>
+</symbol>
+<symbol id="符号16" viewBox="49636 13236 829 829">
+ <circle class="fil1 str1" cx="50050" cy="13650" r="400"/>
+ <circle class="fil3 str1" cx="50050" cy="13650" r="237"/>
+</symbol>
+<symbol id="符号42" viewBox="49636 13236 829 829">
+ <circle class="fil1 str1" cx="50050" cy="13650" r="400"/>
+ <circle class="fil3 str1" cx="50050" cy="13650" r="237"/>
+</symbol>
+<symbol id="符号25" viewBox="49966 13566 167 167">
+ <path class="fil4 str3" d="M50116 13650c0,-36 -29,-66 -65,-66 -36,0 -66,29 -66,66 0,36 29,66 66,66 36,0 65,-29 65,-66z"/>
+</symbol>
+<symbol id="符号23" viewBox="49636 13236 829 829">
+ <circle class="fil1 str1" cx="50050" cy="13650" r="400"/>
+ <circle class="fil3 str1" cx="50050" cy="13650" r="237"/>
+</symbol>
+<symbol id="符号11" viewBox="49636 13236 829 829">
+ <circle class="fil1 str1" cx="50050" cy="13650" r="400"/>
+ <circle class="fil3 str1" cx="50050" cy="13650" r="237"/>
+</symbol>
+<symbol id="符号34" viewBox="49886 13486 328 328">
+ <path class="fil1 str2" d="M50196 13650c0,-80 -65,-146 -146,-146 -80,0 -146,65 -146,146 0,80 65,146 146,146 80,0 146,-65 146,-146z"/>
+ <circle class="fil3" cx="50050" cy="13650" r="55"/>
+</symbol>
+<symbol id="符号17" viewBox="49744 13519 597 262">
+ <polygon class="fil5" points="49967,13614 49968,13614 49973,13614 49981,13614 49992,13614 50004,13614 50018,13614 50034,13613 50051,13612 50068,13610 50086,13609 50103,13606 50121,13602 50137,13598 50152,13593 50165,13588 50176,13581 50187,13573 50197,13567 50207,13560 50217,13555 50227,13550 50237,13546 50247,13542 50257,13540 50267,13538 50277,13538 50288,13538 50298,13540 50308,13543 50319,13547 50341,13564 50341,13564 50338,13564 50332,13564 50325,13563 50316,13561 50306,13561 50295,13561 50283,13561 50271,13562 50258,13565 50246,13569 50233,13574 50220,13582 50208,13591 50197,13602 50179,13614 50162,13625 50144,13635 50126,13644 50108,13651 50091,13658 50075,13663 50059,13668 50045,13672 50032,13675 50010,13681 50001,13683 49992,13685 49986,13685 "/>
+ <path class="fil5 str4" d="M49993 13650c0,-64 -52,-116 -117,-116 -65,0 -117,52 -117,116 0,64 53,116 117,116 65,0 117,-52 117,-116z"/>
+</symbol>
+<symbol id="符号12" viewBox="49813 13413 473 473">
+ <path class="fil1 str2" d="M50268 13650c0,-121 -98,-218 -218,-218 -121,0 -218,98 -218,218 0,121 98,218 218,218 121,0 218,-98 218,-218z"/>
+</symbol>
+<symbol id="符号28" viewBox="49813 13413 473 473">
+ <path class="fil1 str2" d="M50268 13650c0,-121 -98,-218 -218,-218 -121,0 -218,98 -218,218 0,121 98,218 218,218 121,0 218,-98 218,-218z"/>
+</symbol>
+<symbol id="符号27" viewBox="49904 13432 291 437">
+ <polygon class="fil4" points="49908,13868 50048,13432 50196,13868 49904,13868 "/>
+</symbol>
+<symbol id="符号7" viewBox="49636 13236 829 829">
+ <circle class="fil1 str1" cx="50050" cy="13650" r="400"/>
+ <circle class="fil3 str1" cx="50050" cy="13650" r="237"/>
+</symbol>
+<symbol id="符号3" viewBox="49819 13419 463 463">
+ <rect class="fil1" x="49832" y="13432" width="437" height="437"/>
+ <line class="fil0 str0" x1="49832" y1="13432" x2="50268" y2= "13868" />
+ <line class="fil0 str0" x1="49832" y1="13868" x2="50268" y2= "13432" />
+</symbol>
+<symbol id="符号14" viewBox="49813 13413 473 473">
+ <path class="fil1 str2" d="M50268 13650c0,-121 -98,-218 -218,-218 -121,0 -218,98 -218,218 0,121 98,218 218,218 121,0 218,-98 218,-218z"/>
+</symbol>
+<symbol id="符号43" viewBox="49819 13419 463 463">
+ <line class="fil0 str0" x1="49832" y1="13432" x2="50268" y2= "13868" />
+ <line class="fil0 str0" x1="49832" y1="13868" x2="50268" y2= "13432" />
+</symbol>
+<symbol id="符号24" viewBox="49819 13419 463 463">
+ <line class="fil0 str0" x1="49832" y1="13432" x2="50268" y2= "13868" />
+ <line class="fil0 str0" x1="49832" y1="13868" x2="50268" y2= "13432" />
+</symbol>
+<symbol id="符号2" viewBox="49977 13577 146 146">
+ <path class="fil2 str5" d="M50105 13650c0,-30 -24,-55 -55,-55 -30,0 -55,24 -55,55 0,30 24,55 55,55 30,0 55,-24 55,-55z"/>
+</symbol>
+<symbol id="符号8" viewBox="49813 13413 473 473">
+ <path class="fil1 str2" d="M50268 13650c0,-121 -98,-218 -218,-218 -121,0 -218,98 -218,218 0,121 98,218 218,218 121,0 218,-98 218,-218z"/>
+</symbol>
+<symbol id="符号40" viewBox="49813 13413 473 473">
+ <path class="fil1 str2" d="M50268 13650c0,-121 -98,-218 -218,-218 -121,0 -218,98 -218,218 0,121 98,218 218,218 121,0 218,-98 218,-218z"/>
+</symbol>
+<symbol id="符号31" viewBox="49819 13419 463 463">
+ <line class="fil0 str0" x1="49832" y1="13432" x2="50268" y2= "13868" />
+ <line class="fil0 str0" x1="49832" y1="13868" x2="50268" y2= "13432" />
+</symbol>
+<symbol id="符号13" viewBox="49818 13418 465 465">
+ <circle class="fil1 str1" cx="50050" cy="13650" r="218"/>
+ <circle class="fil0 str1" cx="50050" cy="13650" r="82"/>
+</symbol>
+<symbol id="符号32" viewBox="49977 13577 146 146">
+ <path class="fil4 str3" d="M50105 13650c0,-30 -24,-55 -55,-55 -30,0 -55,24 -55,55 0,30 24,55 55,55 30,0 55,-24 55,-55z"/>
+</symbol>
+<symbol id="符号9" viewBox="49818 13418 465 465">
+ <circle class="fil1 str1" cx="50050" cy="13650" r="218"/>
+ <circle class="fil0 str1" cx="50050" cy="13650" r="82"/>
+</symbol>
+<symbol id="符号39" viewBox="49904 13432 291 437">
+ <polygon class="fil4" points="49908,13868 50048,13432 50196,13868 49904,13868 "/>
+</symbol>
+<symbol id="符号30" viewBox="49636 13236 829 829">
+ <circle class="fil1 str1" cx="50050" cy="13650" r="400"/>
+ <circle class="fil3 str1" cx="50050" cy="13650" r="237"/>
+</symbol>
+<symbol id="符号29" viewBox="49818 13418 465 465">
+ <circle class="fil1 str1" cx="50050" cy="13650" r="218"/>
+ <circle class="fil0 str1" cx="50050" cy="13650" r="82"/>
+</symbol>
+<symbol id="符号21" viewBox="49813 13413 473 473">
+ <path class="fil1 str2" d="M50268 13650c0,-121 -98,-218 -218,-218 -121,0 -218,98 -218,218 0,121 98,218 218,218 121,0 218,-98 218,-218z"/>
+</symbol>
+<symbol id="符号19" viewBox="49966 13566 167 167">
+ <path class="fil2 str5" d="M50116 13650c0,-36 -29,-66 -65,-66 -36,0 -66,29 -66,66 0,36 29,66 66,66 36,0 65,-29 65,-66z"/>
+</symbol>
+<symbol id="符号15" viewBox="49763 13363 574 574">
+ <circle class="fil1 str1" cx="50050" cy="13650" r="273"/>
+ <circle class="fil0 str1" cx="50050" cy="13650" r="102"/>
+</symbol>
+<symbol id="符号1" viewBox="49904 13432 291 437">
+ <polygon class="fil2" points="49908,13868 50048,13432 50196,13868 49904,13868 "/>
+</symbol>
+<symbol id="符号38" viewBox="49977 13577 146 146">
+ <path class="fil4 str3" d="M50105 13650c0,-30 -24,-55 -55,-55 -30,0 -55,24 -55,55 0,30 24,55 55,55 30,0 55,-24 55,-55z"/>
+</symbol>
+<symbol id="符号26" viewBox="49879 13392 342 517">
+ <polygon class="fil4" points="49883,13908 50048,13392 50221,13908 49879,13908 "/>
+</symbol>
+<symbol id="符号4" viewBox="49744 13519 597 262">
+ <polygon class="fil5" points="49967,13614 49968,13614 49973,13614 49981,13614 49992,13614 50004,13614 50018,13614 50034,13613 50051,13612 50068,13610 50086,13609 50103,13606 50121,13602 50137,13598 50152,13593 50165,13588 50176,13581 50187,13573 50197,13567 50207,13560 50217,13555 50227,13550 50237,13546 50247,13542 50257,13540 50267,13538 50277,13538 50288,13538 50298,13540 50308,13543 50319,13547 50341,13564 50341,13564 50338,13564 50332,13564 50325,13563 50316,13561 50306,13561 50295,13561 50283,13561 50271,13562 50258,13565 50246,13569 50233,13574 50220,13582 50208,13591 50197,13602 50179,13614 50162,13625 50144,13635 50126,13644 50108,13651 50091,13658 50075,13663 50059,13668 50045,13672 50032,13675 50010,13681 50001,13683 49992,13685 49986,13685 "/>
+ <path class="fil5 str4" d="M49993 13650c0,-64 -52,-116 -117,-116 -65,0 -117,52 -117,116 0,64 53,116 117,116 65,0 117,-52 117,-116z"/>
+</symbol>
+<symbol id="符号33" viewBox="49904 13432 291 437">
+ <polygon class="fil4" points="49908,13868 50048,13432 50196,13868 49904,13868 "/>
+</symbol>
+ <g id="ali">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_872723888">
+   <g>
+    <text x="75475" y="22884"  class="fil3 fnt0">年</text>
+    <text x="76374" y="22884"  class="fil3 fnt0">份</text>
+    <g>
+     <g>
+      <polygon class="fil6" points="59726,4904 59721,20112 95448,20101 95447,4909 "/>
+      <path class="fil7" d="M95378 8449c77,-90 -1568,1366 -1873,1642 -276,250 -791,-1618 -873,-1715 -198,-236 -1725,5 -1999,165 -695,407 -646,776 -1101,417 -455,-359 -451,-511 -810,-304 -359,207 -624,587 -734,505 -110,-83 -504,-429 -766,-691 -254,-254 -1387,24 -1868,349 -117,79 -415,-328 -846,-291 -382,33 -1267,387 -1708,656 -311,190 -527,681 -598,766 -207,248 -241,411 -420,386 -180,-26 -215,-457 -602,-1105 -386,-648 -215,-632 -477,-687 -262,-55 -1002,-545 -1250,-849 -248,-304 -873,-69 -1245,28 -227,59 -900,509 -1493,1032 -380,335 -702,773 -1172,1154 -1204,974 -1886,643 -2327,479 -441,-165 -812,620 -1540,1076 -727,456 -1170,64 -1804,-405 -635,-469 -968,-190 -1395,-121 -428,69 -413,-398 -1343,-363 -929,35 -1205,893 -1559,1034 -354,142 -921,632 -1004,674 -83,41 -1214,1435 -1393,1931 -316,875 -1325,703 -1998,703 -387,0 -1424,590 -1424,590l-44 65 11 4547 35725 -11 0 -11690 -70 32z"/>
+      <path class="fil8" d="M95468 14486c-327,-245 -1529,-893 -1923,-1092 -394,-198 -664,652 -960,854 -295,202 -1766,32 -2606,-262 -314,-110 -605,116 -888,174 -578,118 -890,-323 -1466,-119 -1275,452 -1334,103 -2212,57 -571,-30 -2172,109 -2682,-214 -1021,-648 -977,-691 -1615,-36 -419,430 -1187,542 -1740,680 -1296,324 -2601,-158 -3570,-814 -1235,-836 -1833,-364 -2660,-548 -593,-132 -1032,-584 -1627,-931 -721,-421 -1289,408 -2083,605 -664,164 -729,-245 -1284,-14 -357,149 -499,280 -825,285 -985,13 -1244,-1010 -2089,-1242 -573,-158 -1340,-927 -1536,-1814 -207,-943 -547,-2778 -1324,-3149 -606,-289 -965,494 -1373,-48 -408,-542 -1290,-322 -1280,-477 10,-155 -6,13742 -6,13742l35726 0 21 -5636z"/>
+      <text x="52652" y="1774"  class="fil3 fnt1">     </text>
+      <text x="53638" y="1774"  class="fil3 fnt0">人口</text>
+      <text x="52652" y="2562"  class="fil3 fnt1">  </text>
+      <text x="53046" y="2562"  class="fil3 fnt2"> (</text>
+      <text x="55358" y="2562"  class="fil3 fnt2">)</text>
+      <text x="53817" y="2562"  class="fil3 fnt2">万人</text>
+      <text x="58132" y="1941"  class="fil3 fnt0">牲畜总数</text>
+      <text x="57921" y="2790"  class="fil3 fnt2">(</text>
+      <text x="61388" y="2790"  class="fil3 fnt2">)</text>
+      <text x="58306" y="2790"  class="fil3 fnt2">万头、只</text>
+      <line class="fil0 str6" x1="59711" y1="7192" x2="59347" y2= "7192" />
+      <line class="fil0 str6" x1="59711" y1="9312" x2="59347" y2= "9312" />
+      <line class="fil0 str6" x1="59711" y1="11552" x2="59347" y2= "11552" />
+      <line class="fil0 str6" x1="59711" y1="13596" x2="59347" y2= "13596" />
+      <line class="fil0 str6" x1="59711" y1="15806" x2="59347" y2= "15806" />
+      <line class="fil0 str6" x1="59711" y1="18031" x2="59347" y2= "18031" />
+      <line class="fil0 str6" x1="59709" y1="20108" x2="59345" y2= "20108" />
+      <line class="fil0 str6" x1="95468" y1="4910" x2="95832" y2= "4907" />
+      <g>
+       <path class="fil0 str6" d="M95469 6599c121,-1 243,-2 364,-4"/>
+       <path class="fil0 str6" d="M95470 8287c121,-1 243,-2 364,-4"/>
+       <path class="fil0 str6" d="M95470 9976c121,-1 243,-2 364,-4"/>
+       <path class="fil0 str6" d="M95471 11664c121,-1 243,-2 364,-4"/>
+       <path class="fil0 str6" d="M95472 13353c121,-1 243,-2 364,-4"/>
+       <path class="fil0 str6" d="M95473 15041c121,-1 243,-2 364,-4"/>
+       <path class="fil0 str6" d="M95473 16730c121,-1 243,-2 364,-4"/>
+       <path class="fil0 str6" d="M95474 18418c121,-1 243,-2 364,-4"/>
+      </g>
+      <line class="fil0 str6" x1="95475" y1="20107" x2="95839" y2= "20104" />
+      <line class="fil0 str6" x1="60564" y1="20115" x2="60564" y2= "19777" />
+      <line class="fil0 str6" x1="61433" y1="20093" x2="61433" y2= "19754" />
+      <line class="fil0 str7" x1="63290" y1="20115" x2="63290" y2= "4907" />
+      <line class="fil0 str6" x1="62344" y1="20112" x2="62344" y2= "19774" />
+      <line class="fil0 str6" x1="64205" y1="20094" x2="64205" y2= "19756" />
+      <line class="fil0 str6" x1="65094" y1="20101" x2="65094" y2= "19763" />
+      <line class="fil0 str6" x1="65910" y1="20095" x2="65910" y2= "19757" />
+      <line class="fil0 str7" x1="66941" y1="20115" x2="66941" y2= "4907" />
+      <line class="fil0 str6" x1="67795" y1="20096" x2="67795" y2= "19758" />
+      <line class="fil0 str6" x1="68749" y1="20108" x2="68749" y2= "19770" />
+      <line class="fil0 str6" x1="69561" y1="20102" x2="69561" y2= "19764" />
+      <line class="fil0 str7" x1="70465" y1="20115" x2="70465" y2= "4907" />
+      <line class="fil0 str6" x1="71439" y1="20106" x2="71439" y2= "19768" />
+      <line class="fil0 str6" x1="72350" y1="20100" x2="72350" y2= "19761" />
+      <line class="fil0 str6" x1="73162" y1="20104" x2="73162" y2= "19766" />
+      <line class="fil0 str7" x1="74059" y1="20115" x2="74059" y2= "4907" />
+      <line class="fil0 str6" x1="74914" y1="20105" x2="74914" y2= "19767" />
+      <line class="fil0 str6" x1="75920" y1="20093" x2="75920" y2= "19755" />
+      <line class="fil0 str6" x1="76728" y1="20107" x2="76728" y2= "19769" />
+      <line class="fil0 str7" x1="77632" y1="20115" x2="77632" y2= "4907" />
+      <line class="fil0 str6" x1="78490" y1="20114" x2="78490" y2= "19776" />
+      <line class="fil0 str6" x1="79426" y1="20091" x2="79426" y2= "19753" />
+      <line class="fil0 str6" x1="80337" y1="20109" x2="80337" y2= "19770" />
+      <line class="fil0 str7" x1="81195" y1="20115" x2="81195" y2= "4907" />
+      <line class="fil0 str6" x1="82095" y1="20099" x2="82095" y2= "19761" />
+      <line class="fil0 str6" x1="83003" y1="20098" x2="83003" y2= "19760" />
+      <line class="fil0 str6" x1="83811" y1="20110" x2="83811" y2= "19772" />
+      <line class="fil0 str7" x1="84793" y1="20115" x2="84793" y2= "4907" />
+      <line class="fil0 str6" x1="85693" y1="20090" x2="85693" y2= "19752" />
+      <line class="fil0 str6" x1="86604" y1="20103" x2="86604" y2= "19765" />
+      <line class="fil0 str6" x1="87374" y1="20101" x2="87374" y2= "19762" />
+      <line class="fil0 str7" x1="88264" y1="20115" x2="88264" y2= "4907" />
+      <line class="fil0 str6" x1="89280" y1="20097" x2="89280" y2= "19759" />
+      <line class="fil0 str6" x1="90156" y1="20109" x2="90156" y2= "19771" />
+      <line class="fil0 str6" x1="91042" y1="20092" x2="91042" y2= "19753" />
+      <line class="fil0 str7" x1="91883" y1="20115" x2="91883" y2= "4907" />
+      <line class="fil0 str6" x1="92825" y1="20111" x2="92825" y2= "19773" />
+      <line class="fil0 str6" x1="93761" y1="20113" x2="93761" y2= "19775" />
+      <line class="fil0 str6" x1="94640" y1="20089" x2="94640" y2= "19751" />
+      <text x="58073" y="5196"  class="fil3 fnt3">350</text>
+      <text x="58073" y="7528"  class="fil3 fnt3">300</text>
+      <text x="58073" y="9690"  class="fil3 fnt3">250</text>
+      <text x="58073" y="11918"  class="fil3 fnt3">200</text>
+      <text x="58073" y="13893"  class="fil3 fnt3">150</text>
+      <text x="58073" y="16032"  class="fil3 fnt3">100</text>
+      <text x="58458" y="18253"  class="fil3 fnt3">50</text>
+      <text x="58843" y="20339"  class="fil3 fnt3">0</text>
+      <text x="59150" y="21265"  class="fil3 fnt4">1960</text>
+      <text x="62369" y="21265"  class="fil3 fnt4">1964</text>
+      <text x="65948" y="21265"  class="fil3 fnt4">1968</text>
+      <text x="69509" y="21262"  class="fil3 fnt4">1972</text>
+      <text x="73088" y="21265"  class="fil3 fnt4">1976</text>
+      <text x="76663" y="21262"  class="fil3 fnt4">1980</text>
+      <text x="80245" y="21262"  class="fil3 fnt4">1984</text>
+      <text x="83823" y="21262"  class="fil3 fnt4">1988</text>
+      <text x="87385" y="21262"  class="fil3 fnt4">1992</text>
+      <text x="90963" y="21265"  class="fil3 fnt4">1996</text>
+      <text x="96012" y="5172"  class="fil3 fnt3">18</text>
+      <text x="96012" y="6861"  class="fil3 fnt3">16</text>
+      <text x="96012" y="8538"  class="fil3 fnt3">14</text>
+      <text x="96012" y="10221"  class="fil3 fnt3">12</text>
+      <text x="96012" y="11905"  class="fil3 fnt3">10</text>
+      <text x="96012" y="13594"  class="fil3 fnt3">8</text>
+      <text x="96012" y="15282"  class="fil3 fnt3">6</text>
+      <text x="96012" y="16960"  class="fil3 fnt3">4</text>
+      <text x="96012" y="18643"  class="fil3 fnt3">2</text>
+      <text x="96012" y="20326"  class="fil3 fnt3">0</text>
+      <path class="fil0 str8" d="M59727 6380c-10,155 871,-65 1280,477 408,542 767,-240 1373,48 778,370 1117,2206 1324,3149 195,887 962,1657 1536,1814 845,232 1105,1254 2089,1242 325,-4 468,-136 825,-285 555,-231 620,179 1284,14 794,-197 1362,-1026 2083,-605 595,347 1034,800 1627,931 826,183 1424,-288 2660,548 969,656 2273,1138 3570,814 553,-138 1321,-249 1740,-680 638,-655 594,-612 1615,36 509,323 2111,184 2682,214 878,46 937,395 2212,-57 577,-205 888,237 1466,119 283,-58 573,-284 888,-174 839,293 2310,463 2606,262 295,-202 566,-1052 960,-854 394,198 1596,847 1923,1092"/>
+      <path class="fil0 str9" d="M59728 15521c0,0 1066,-605 1452,-605 673,0 1682,172 1998,-703 179,-497 1311,-1890 1393,-1931 83,-41 650,-532 1004,-674 354,-142 629,-1000 1559,-1034 929,-35 915,432 1343,363 428,-69 761,-348 1395,121 635,469 1077,861 1804,405 727,-456 1099,-1241 1540,-1076 441,165 1124,496 2327,-479 470,-381 792,-818 1172,-1154 593,-523 1266,-974 1493,-1032 372,-96 997,-331 1245,-28 248,304 988,794 1250,849 262,55 90,39 477,687 386,648 422,1079 602,1105 180,26 214,-137 420,-386 71,-85 287,-577 598,-766 441,-269 1327,-623 1708,-656 431,-37 730,369 846,291 481,-325 1614,-602 1868,-349 262,262 656,608 766,691 110,83 375,-298 734,-505 359,-207 355,-55 810,304 455,359 406,-10 1101,-417 273,-160 1800,-401 1999,-165 82,97 597,1965 873,1715 305,-276 1844,-1638 1932,-1694"/>
+      <path class="fil0 str10" d="M59757 14874c0,0 1485,-523 3188,-496 1560,25 1694,-446 2980,-501 958,-41 2063,-140 2233,-140 607,0 3421,-355 4358,-410 937,-55 4343,-485 5280,-485 557,0 1716,-124 2587,-379 596,-175 1259,-346 1730,-452 1398,-313 2850,-376 3622,-873 772,-496 3604,-723 5113,-1296 1509,-573 3945,-953 4608,-974"/>
+      <text x="86730" y="17346"  class="fil3 fnt0">人口</text>
+      <text x="76867" y="17347"  class="fil3 fnt0">牲畜总数</text>
+      <text x="64487" y="17347"  class="fil3 fnt0">畜均草场面积</text>
+      <line class="fil0 str8" x1="61716" y1="17276" x2="63900" y2= "17276" />
+      <line class="fil0 str9" x1="73937" y1="17318" x2="76121" y2= "17318" />
+      <line class="fil0 str11" x1="83897" y1="17438" x2="86405" y2= "17438" />
+      <text x="94643" y="21265"  class="fil3 fnt4">2000</text>
+      <g transform="matrix(1.2 0 0 1 5735.87 -11826.8)">
+       <text x="50050" y="13650"  class="fil3 fnt5">阿里人口、牲畜数量和畜均占有草地面积变化</text>
+      </g>
+      <text x="65829" y="3241"  class="fil3 fnt6">Population, livestock, grassland area changes per livestock of Ngari</text>
+      <text x="54930" y="5246"  class="fil3 fnt3">10</text>
+      <text x="55371" y="6755"  class="fil3 fnt3">9</text>
+      <text x="55371" y="8263"  class="fil3 fnt3">8</text>
+      <text x="55386" y="9761"  class="fil3 fnt3">7</text>
+      <text x="55371" y="11264"  class="fil3 fnt3">6</text>
+      <text x="55374" y="12761"  class="fil3 fnt3">5</text>
+      <text x="55363" y="14258"  class="fil3 fnt3">4</text>
+      <text x="55383" y="15761"  class="fil3 fnt3">3</text>
+      <text x="55391" y="17269"  class="fil3 fnt3">2</text>
+      <text x="55499" y="18761"  class="fil3 fnt3">1</text>
+      <text x="55374" y="20264"  class="fil3 fnt3">0</text>
+      <line class="fil0 str1" x1="55803" y1="4910" x2="56167" y2= "4910" />
+      <g>
+       <path class="fil0 str1" d="M55804 6425c121,0 243,0 364,0"/>
+       <path class="fil0 str1" d="M55804 7941c121,0 243,0 364,0"/>
+       <path class="fil0 str1" d="M55804 9456c121,0 243,0 364,0"/>
+       <path class="fil0 str1" d="M55804 10971c121,0 243,0 364,0"/>
+       <path class="fil0 str1" d="M55804 12486c121,0 243,0 364,0"/>
+       <path class="fil0 str1" d="M55804 14002c121,0 243,0 364,0"/>
+       <path class="fil0 str1" d="M55804 15517c121,0 243,0 364,0"/>
+       <path class="fil0 str1" d="M55804 17032c121,0 243,0 364,0"/>
+       <path class="fil0 str1" d="M55804 18548c121,0 243,0 364,0"/>
+      </g>
+      <line class="fil0 str1" x1="55803" y1="20063" x2="56167" y2= "20063" />
+      <line class="fil0 str12" x1="56188" y1="4908" x2="56188" y2= "20024" />
+      <g transform="matrix(-7.94536E-014 1 -1 -7.94536E-014 111123 -43830.3)">
+       <text x="50050" y="13650"  class="fil3 fnt7">畜均草场面积</text>
+       <text x="55443" y="13650"  class="fil3 fnt8">( </text>
+       <text x="57369" y="13650"  class="fil3 fnt8">平方千米/头 、只 </text>
+       <text x="56214" y="13650"  class="fil3 fnt8">10</text>
+       <text x="63918" y="13650"  class="fil3 fnt8">)</text>
+       <text x="56984" y="13265"  class="fil3 fnt9">-2</text>
+      </g>
+      <line class="fil0 str6" x1="63290" y1="20115" x2="63290" y2= "19569" />
+      <line class="fil0 str6" x1="66941" y1="20115" x2="66941" y2= "19569" />
+      <line class="fil0 str6" x1="70465" y1="20115" x2="70465" y2= "19569" />
+      <line class="fil0 str6" x1="74059" y1="20115" x2="74059" y2= "19569" />
+      <line class="fil0 str6" x1="77632" y1="20115" x2="77632" y2= "19569" />
+      <line class="fil0 str6" x1="81195" y1="20115" x2="81195" y2= "19569" />
+      <line class="fil0 str6" x1="84793" y1="20115" x2="84793" y2= "19569" />
+      <line class="fil0 str6" x1="88264" y1="20115" x2="88264" y2= "19569" />
+      <line class="fil0 str6" x1="91883" y1="20115" x2="91883" y2= "19569" />
+      <polygon class="fil0 str12" points="59726,4904 59721,20112 95448,20101 95447,4909 "/>
+     </g>
+     <g transform="matrix(2.64845E-014 -1 1 2.64845E-014 85466.9 69874.9)">
+      <text x="50050" y="13650"  class="fil3 fnt3">Grassland area per livestock(10</text>
+      <text x="60105" y="13650"  class="fil3 fnt3">km</text>
+      <text x="61282" y="13650"  class="fil3 fnt3">/head)</text>
+      <text x="59784" y="13265"  class="fil3 fnt10">-2</text>
+      <text x="61089" y="13265"  class="fil3 fnt10">2</text>
+     </g>
+     <text x="57357" y="3426"  class="fil3 fnt11"> </text>
+     <text x="57512" y="3426"  class="fil3 fnt3">Livestock number</text>
+     <text x="57357" y="4165"  class="fil3 fnt11">   </text>
+     <text x="57821" y="4165"  class="fil3 fnt12">(0.01 million head)</text>
+     <text x="51636" y="3439"  class="fil3 fnt11">        </text>
+     <text x="52874" y="3439"  class="fil3 fnt3"> Population</text>
+     <text x="51636" y="4178"  class="fil3 fnt12">(0.01 million person)</text>
+     <text x="64487" y="18034"  class="fil3 fnt3">Grassland area per livestock</text>
+     <text x="76867" y="18097"  class="fil3 fnt3">Livestock number</text>
+     <text x="86730" y="18035"  class="fil3 fnt3">Population</text>
+     <text x="77408" y="22886"  class="fil3 fnt2">(</text>
+     <text x="79213" y="22886"  class="fil3 fnt2">)</text>
+     <text x="77793" y="22886"  class="fil3 fnt3">Year</text>
+    </g>
+   </g>
+   <g>
+    <polygon class="fil1" points="42294,6521 42301,20263 6523,20263 6520,6538 "/>
+    <line class="fil0 str6" x1="3625" y1="8285" x2="3261" y2= "8286" />
+    <line class="fil0 str6" x1="6488" y1="8821" x2="6124" y2= "8822" />
+    <line class="fil0 str6" x1="6488" y1="11110" x2="6124" y2= "11111" />
+    <line class="fil0 str6" x1="6488" y1="13398" x2="6124" y2= "13399" />
+    <line class="fil0 str6" x1="6488" y1="15687" x2="6124" y2= "15688" />
+    <line class="fil0 str6" x1="6488" y1="17976" x2="6124" y2= "17977" />
+    <line class="fil0 str6" x1="3625" y1="6583" x2="3261" y2= "6584" />
+    <line class="fil0 str6" x1="3625" y1="9987" x2="3261" y2= "9988" />
+    <line class="fil0 str6" x1="3625" y1="11690" x2="3261" y2= "11690" />
+    <line class="fil0 str6" x1="3625" y1="13392" x2="3261" y2= "13393" />
+    <line class="fil0 str6" x1="3625" y1="15094" x2="3261" y2= "15095" />
+    <line class="fil0 str6" x1="3625" y1="16796" x2="3261" y2= "16797" />
+    <line class="fil0 str6" x1="3625" y1="18499" x2="3261" y2= "18499" />
+    <line class="fil0 str6" x1="42286" y1="7164" x2="42650" y2= "7164" />
+    <line class="fil0 str6" x1="42286" y1="8617" x2="42650" y2= "8617" />
+    <line class="fil0 str6" x1="42286" y1="10071" x2="42650" y2= "10071" />
+    <line class="fil0 str6" x1="42286" y1="11524" x2="42650" y2= "11524" />
+    <line class="fil0 str6" x1="42286" y1="12977" x2="42650" y2= "12977" />
+    <line class="fil0 str6" x1="42286" y1="14431" x2="42650" y2= "14431" />
+    <line class="fil0 str6" x1="42286" y1="15884" x2="42650" y2= "15889" />
+    <line class="fil0 str6" x1="42286" y1="17342" x2="42650" y2= "17348" />
+    <line class="fil0 str6" x1="42286" y1="18801" x2="42650" y2= "18807" />
+    <line class="fil0 str13" x1="42286" y1="20260" x2="42650" y2= "20265" />
+    <text x="42890" y="20390"  class="fil3 fnt3">2 000</text>
+    <text x="42890" y="18950"  class="fil3 fnt3">2 100</text>
+    <text x="42890" y="17511"  class="fil3 fnt3">2 200</text>
+    <text x="42890" y="16071"  class="fil3 fnt3">2 300</text>
+    <text x="42890" y="14631"  class="fil3 fnt3">2 400</text>
+    <text x="42890" y="13192"  class="fil3 fnt3">2 500</text>
+    <text x="42890" y="11752"  class="fil3 fnt3">2 600</text>
+    <text x="42890" y="10312"  class="fil3 fnt3">2 700</text>
+    <text x="42890" y="8873"  class="fil3 fnt3">2 800</text>
+    <text x="42890" y="7433"  class="fil3 fnt3">2 900</text>
+    <text x="5119" y="20455"  class="fil3 fnt3">20</text>
+    <text x="5119" y="18177"  class="fil3 fnt3">40</text>
+    <text x="5119" y="15899"  class="fil3 fnt3">60</text>
+    <text x="5119" y="13620"  class="fil3 fnt3">80</text>
+    <text x="4734" y="11342"  class="fil3 fnt3">100</text>
+    <text x="4734" y="9064"  class="fil3 fnt3">120</text>
+    <text x="4734" y="6786"  class="fil3 fnt3">140</text>
+    <text x="5528" y="21436"  class="fil3 fnt4">1961</text>
+    <text x="8241" y="21436"  class="fil3 fnt4">1964</text>
+    <text x="11026" y="21436"  class="fil3 fnt4">1967</text>
+    <text x="13791" y="21430"  class="fil3 fnt4">1970</text>
+    <text x="16579" y="21430"  class="fil3 fnt4">1973</text>
+    <text x="22108" y="21430"  class="fil3 fnt4">1979</text>
+    <text x="24880" y="21430"  class="fil3 fnt4">1982</text>
+    <text x="27665" y="21439"  class="fil3 fnt4">1985</text>
+    <text x="30419" y="21430"  class="fil3 fnt4">1988</text>
+    <text x="33187" y="21430"  class="fil3 fnt4">1991</text>
+    <text x="35901" y="21430"  class="fil3 fnt4">1994</text>
+    <text x="38686" y="21430"  class="fil3 fnt4">1997</text>
+    <text x="41450" y="21430"  class="fil3 fnt4">2000</text>
+    <line class="fil0 str13" x1="6573" y1="20262" x2="6583" y2= "19925" />
+    <line class="fil0 str13" x1="9436" y1="20263" x2="9447" y2= "19926" />
+    <text x="815" y="4994"  class="fil3 fnt0">气温</text>
+    <text x="2612" y="4994"  class="fil3 fnt2">(℃)</text>
+    <text x="40611" y="5394"  class="fil3 fnt0">蒸发量</text>
+    <text x="43308" y="5394"  class="fil3 fnt13"> </text>
+    <text x="43523" y="5394"  class="fil3 fnt2">(毫米)</text>
+    <text x="4180" y="4997"  class="fil3 fnt0"> 降水量</text>
+    <text x="7326" y="4997"  class="fil3 fnt13"> </text>
+    <text x="7541" y="4997"  class="fil3 fnt2">(</text>
+    <text x="9467" y="4997"  class="fil3 fnt2">)</text>
+    <text x="7927" y="4997"  class="fil3 fnt2">毫米</text>
+    <text x="1477" y="20450"  class="fil3 fnt14">-</text>
+    <text x="1983" y="20450"  class="fil3 fnt3">1.5</text>
+    <line class="fil0 str14" x1="22442" y1="26063" x2="24990" y2= "26065" />
+    <line class="fil0 str15" x1="22442" y1="24908" x2="24990" y2= "24908" />
+    <line class="fil0 str16" x1="22442" y1="23695" x2="24990" y2= "23699" />
+    <text x="25353" y="26367"  class="fil3 fnt0">蒸发趋势线 </text>
+    <text x="30297" y="26367"  class="fil3 fnt3">Trendline of evaporation capacity</text>
+    <text x="25353" y="24070"  class="fil3 fnt0">降水趋势线 </text>
+    <text x="30297" y="24070"  class="fil3 fnt3">Trendline of precipitation</text>
+    <text x="25353" y="25206"  class="fil3 fnt0">气温趋势线 </text>
+    <text x="30297" y="25206"  class="fil3 fnt3">Trendline of temperature</text>
+    <text x="11552" y="26397"  class="fil3 fnt0">蒸发量 </text>
+    <text x="14698" y="26397"  class="fil3 fnt3">Evaporation capacity</text>
+    <text x="11552" y="25243"  class="fil3 fnt0">气  温 </text>
+    <text x="14698" y="25243"  class="fil3 fnt3">Temperature</text>
+    <text x="11552" y="24023"  class="fil3 fnt0">降水量 </text>
+    <text x="14698" y="24023"  class="fil3 fnt3">Precipitation</text>
+    <polyline class="fil0 str17" points="8653,23696 9511,23482 10231,23864 11201,23696 "/>
+    <polyline class="fil0 str18" points="8653,24900 9511,24687 10231,25068 11201,24900 "/>
+    <polyline class="fil0 str19" points="8653,26105 9511,25892 10231,26273 11201,26105 "/>
+    <g transform="matrix(1.2 0 0 1 -48725.7 -11825.1)">
+     <text x="50050" y="13650"  class="fil3 fnt5">阿里年平均气温、降水量和蒸发量变化</text>
+    </g>
+    <text x="7028" y="3268"  class="fil3 fnt6">Annual average temperature, precipitation and evaporation changes of Ngari</text>
+    <text x="1983" y="6838"  class="fil3 fnt3">2.5</text>
+    <text x="1960" y="8542"  class="fil3 fnt3">2.0</text>
+    <text x="1983" y="10235"  class="fil3 fnt3">1.5</text>
+    <text x="1960" y="11940"  class="fil3 fnt3">1.0</text>
+    <g transform="matrix(1.00555 0 0 1 -48350.2 -6.0424)">
+     <text x="50050" y="13650"  class="fil3 fnt3">0.5</text>
+    </g>
+    <text x="1561" y="17053"  class="fil3 fnt15">-</text>
+    <text x="1983" y="17053"  class="fil3 fnt3">0.5</text>
+    <text x="1538" y="18757"  class="fil3 fnt15">-</text>
+    <text x="1960" y="18757"  class="fil3 fnt3">1.0</text>
+    <text x="2537" y="15348"  class="fil3 fnt3">0</text>
+    <line class="fil0 str6" x1="3625" y1="20201" x2="3261" y2= "20202" />
+    <line class="fil0 str12" x1="3634" y1="20241" x2="3634" y2= "6586" />
+    <path class="fil9" d="M42296 8891l-834 391c-50,24 -766,5579 -956,6656 -113,644 -755,-96 -1269,1065l-633 1432c0,0 -857,-6578 -940,-6054 -38,237 -971,2068 -1608,3459 -316,690 -824,797 -1165,1370 -305,511 -516,950 -659,1240 -100,202 -251,118 -251,118l-814 -4334 -1000 3455 -822 -5820 -938 4700c-19,93 -593,-1635 -815,-2458 -222,-823 -969,-6962 -969,-6962l-511 2822 -478 2350 -704 1522 -293 1131 -770 4987c-55,353 -617,-1209 -1027,-2551 -423,-1385 -763,-2865 -796,-2994 -63,-254 -927,2307 -927,2307l-857 -9899c0,0 -716,5114 -803,5560 -44,223 -11,879 -76,949 -135,145 -928,-1259 -1043,-1054 -110,117 -789,816 -897,1050 -523,1135 -866,3011 -866,3011l-889 -5160 -890 3380 -907 -6156 -986 8345 -847 -6771 -1868 8300 -1023 -3722 -861 209 -860 1858 -989 -1056 -903 3106 -1000 -2992 -25 4579 35770 12 -3 -11381z"/>
+    <path class="fil10" d="M42332 9798l-883 -1720 -1862 6786c-42,155 -877,-5172 -877,-5317 0,-145 -964,3947 -964,3947l-704 -1384 -279 -350 -839 -921 -918 2998 -882 -317 -935 -3047 -928 6139 -899 -4739 -961 3229 -890 1094 -923 -4363 -890 -339 -630 3888c0,0 -269,2484 -418,2106 -153,-388 -804,-1681 -1543,-2705 -575,-797 -1115,-1354 -1115,-1354l-874 4395 -936 1084 -452 -3349 -364 -2785 -928 1492 -914 3246c-14,51 -54,162 -378,-1171 -124,-510 -457,-1715 -533,-1832 -481,-741 -923,-1372 -923,-1372l-928 2715 -923 -2025 -970 310c0,0 -696,12 -805,-6 -109,-18 -960,4255 -960,4255 0,0 -738,-430 -869,-475 -287,-97 -880,-7 -1013,-47 -70,-21 -53,-124 -80,-263 -127,-664 -464,-2358 -958,-3975 -145,-475 -740,-2323 -740,-2323l-918 1781 -940 -14 -1042 -1805 -15 9010 35780 -18 24 -10462z"/>
+    <line class="fil0 str14" x1="6569" y1="14150" x2="42279" y2= "11246" />
+    <line class="fil0 str15" x1="6565" y1="15714" x2="42317" y2= "12093" />
+    <line class="fil0 str16" x1="6559" y1="14939" x2="42275" y2= "14044" />
+    <path class="fil0 str17" d="M6554 15681l1000 2992 903 -3106 989 1056 860 -1858 861 -209 1023 3722 1868 -8300 847 6771 986 -8345 907 6156 890 -3380 889 5160c0,0 343,-1877 866,-3011 108,-234 787,-933 897,-1050 115,-206 909,1199 1043,1054 65,-70 32,-726 76,-949 88,-446 803,-5560 803,-5560l857 9899c0,0 863,-2561 927,-2307 32,129 373,1609 796,2994 410,1342 973,2904 1027,2551l770 -4987 293 -1131 704 -1522 478 -2350 511 -2822c0,0 747,6138 969,6962 222,823 796,2551 815,2458l938 -4700 822 5820 1000 -3455 814 4334c0,0 151,84 251,-118 143,-290 354,-729 659,-1240 341,-573 850,-680 1165,-1370 637,-1391 1571,-3222 1608,-3459 83,-524 940,6054 940,6054l633 -1432c514,-1161 1155,-421 1269,-1065 190,-1077 905,-6632 956,-6656l834 -391"/>
+    <path class="fil0 str19" d="M6462 8900l1170 -23 887 -1301 936 3861 923 285 822 7364 950 -2565 881 -253c0,0 711,-1181 865,-1269 154,-88 743,-663 1264,494 521,1156 639,1532 644,1513l945 -3793 924 524 904 -969 900 2905 911 -2169 1264 1370 1421 1871 1901 -4819 959 1861 812 21 992 -2375 790 561 1002 2202 921 -3085 912 178 901 988 939 -510 922 -1719 898 2218 967 -3913 853 2173 971 270 870 -3234 926 3407 932 -2464 918 607 801 8117"/>
+    <path class="fil0 str18" d="M6543 11268l1042 1805 940 14 918 -1781c0,0 594,1848 740,2323 495,1616 832,3310 958,3975 27,139 10,243 80,263 133,40 727,-50 1013,47 131,44 869,475 869,475 0,0 851,-4273 960,-4255 109,18 805,6 805,6l970 -310 923 2025 928 -2715c0,0 442,631 923,1372 76,116 409,1322 533,1832 324,1333 363,1223 378,1171l914 -3246 928 -1492 364 2785 452 3349 936 -1084 874 -4395c0,0 540,558 1115,1354 739,1025 1390,2317 1543,2705 149,378 418,-2106 418,-2106l630 -3888 890 339 923 4363 890 -1094 961 -3229 899 4739 928 -6139 935 3047 882 317 918 -2998 839 921 279 350 704 1384c0,0 964,-4092 964,-3947 0,145 834,5471 877,5317l1862 -6786 883 1720"/>
+    <polygon class="fil0 str12" points="42294,6521 42301,20263 6523,20263 6520,6538 "/>
+    <line class="fil0 str6" x1="6503" y1="20260" x2="6139" y2= "20260" />
+    <line class="fil0 str13" x1="42269" y1="20264" x2="42633" y2= "20261" />
+    <text x="4730" y="5709"  class="fil3 fnt11">Precipitation</text>
+    <text x="7892" y="5709"  class="fil3 fnt16">(</text>
+    <text x="9066" y="5709"  class="fil3 fnt16">)</text>
+    <text x="8068" y="5709"  class="fil3 fnt12">mm</text>
+    <text x="795" y="5677"  class="fil3 fnt3">Temperature</text>
+    <text x="39866" y="6100"  class="fil3 fnt3">Evaporation capacity</text>
+    <text x="46390" y="6100"  class="fil3 fnt16">(</text>
+    <text x="47565" y="6100"  class="fil3 fnt16">)</text>
+    <text x="46566" y="6100"  class="fil3 fnt12">mm</text>
+    <text x="19327" y="21436"  class="fil3 fnt4">1976</text>
+    <line class="fil0 str6" x1="6522" y1="20261" x2="6522" y2= "19719" />
+    <g>
+     <path class="fil0 str6" d="M9274 20261c0,-180 0,-361 0,-541"/>
+     <path class="fil0 str6" d="M12026 20261c0,-180 0,-361 0,-541"/>
+     <path class="fil0 str6" d="M14778 20261c0,-180 0,-361 0,-541"/>
+     <path class="fil0 str6" d="M17530 20261c0,-180 0,-361 0,-541"/>
+     <path class="fil0 str6" d="M20282 20261c0,-180 0,-361 0,-541"/>
+     <path class="fil0 str6" d="M23034 20261c0,-180 0,-361 0,-541"/>
+     <path class="fil0 str6" d="M25786 20261c0,-180 0,-361 0,-541"/>
+     <path class="fil0 str6" d="M28538 20261c0,-180 0,-361 0,-541"/>
+     <path class="fil0 str6" d="M31290 20261c0,-180 0,-361 0,-541"/>
+     <path class="fil0 str6" d="M34042 20261c0,-180 0,-361 0,-541"/>
+     <path class="fil0 str6" d="M36794 20261c0,-180 0,-361 0,-541"/>
+     <path class="fil0 str6" d="M39546 20261c0,-180 0,-361 0,-541"/>
+    </g>
+    <line class="fil0 str6" x1="42298" y1="20261" x2="42298" y2= "19719" />
+    <text x="22082" y="23014"  class="fil3 fnt0">年</text>
+    <text x="22981" y="23014"  class="fil3 fnt0">份</text>
+    <text x="24065" y="22885"  class="fil3 fnt2">(</text>
+    <text x="25870" y="22885"  class="fil3 fnt2">)</text>
+    <text x="24450" y="22885"  class="fil3 fnt3">Year</text>
+   </g>
+  </g>
+ </g>
+</svg>

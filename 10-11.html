@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     
     <head>
@@ -9,6 +9,12 @@
         <link href="css/jiemiancss.css" rel="stylesheet" type="text/css">
         <script Language="JavaScript" src="js/jiemians.js">
         </script>
+		<style type="text/css">
+		.map{height:700px}
+				.main{height:700px}
+		.mapcontroll{height:700px}
+		.box{height:880}
+		</style>
         <script type="text/javascript">
             //<![CDATA[
             window.onload = function() {
@@ -89,7 +95,7 @@
             </div>
             <div class="title" style="background-color: #D7F29C">
                 <p style="color:#325E84">
-                    综合环境
+                    <a href="page2.html" title="单击查看目录" target="_blank">   综合环境</a>
                 </p>
             </div>
             <div class="title" style="float:left; width:300px">
@@ -105,10 +111,10 @@
                 />
             </div>
             <div class="col" style="background-color: #EAF1DD;color:#516524">
-                自然环境
+                <a href="page2.html" title="单击查看目录" target="_blank">  自然环境</a>
             </div>
             <div class="col" style="background-color: #87A93E;color:#FFFFFF">
-                社会经济环境
+                <a href="page2.html" title="单击查看目录" target="_blank">   社会经济环境</a>
             </div>
             <div class="col" style="width:598px;border: 1px solid #FFFFFF;background-color: #DAE5F1;color:#325E84">
                 <div class="shulibox">
@@ -278,18 +284,18 @@
                                 政区
                             </a>
 							<ul>
-							 <li><a href="6-7.html" title="ali" target="new">全区</a></li>
-							<li><a href="8-9.html" title="lasa" target="new">拉萨市、山南地区</a></li>
-                            <li><a href="12-13.html" title="rikaze" target="new">日喀则地区</a></li>
-                            <li><a href="14-15.html" title="changdu" target="new">昌都地区、林芝地区</a></li>
-                            <li><a href="16-17.html" title="lianghe" target="new">一江两河中部流域</a></li>
+							 <li><a href="6-7.html" title="ali" target="_blank">全区</a></li>
+							<li><a href="8-9.html" title="lasa" target="_blank">拉萨市、山南地区</a></li>
+                            <li><a href="12-13.html" title="rikaze" target="_blank">日喀则地区</a></li>
+                            <li><a href="14-15.html" title="changdu" target="_blank">昌都地区、林芝地区</a></li>
+                            <li><a href="16-17.html" title="lianghe" target="_blank">一江两河中部流域</a></li>
 							</ul>
                         </li>
                         <li class="vline">
                             >
                         </li>
                         <li>
-                            <a href="#">
+                           <a href="10-11.html" title="ali" target="_blank">
                                 阿里地区、那曲地区
                             </a>
 						
@@ -344,7 +350,7 @@
 				</div>
 				</div>
 				</div>
-				<div id="FloatDiv" style="position:fixed; width:250px; height:40px; visibility:visible; right: 250px; top: 210px">
+				<div id="FloatDiv" style="position:absolute; width:250px; height:40px; visibility:visible; right: 250px; top: 210px">
 				<div class="tool" style="background-image: url('images/fangda.gif')" onclick="zoomIn()"></div>
 				<div class="kx"> </div>
 				 <div class="tool" style=";background-image: url('images/suoxiao.gif')" onclick="zoomOut()"></div>

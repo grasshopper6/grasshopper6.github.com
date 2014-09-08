@@ -57,6 +57,11 @@ viewBox="0 0 100000 91667"
 		t.setAttribute("class",obcregion);
 		
 	}
+	   function closeinfotip(n)
+	{
+	document.getElementById('infotip'+n).setAttribute("style", "visibility: hidden"); 
+	}
+	  
   ]]>
   </script>
  <defs>
@@ -419,44 +424,7 @@ viewBox="0 0 100000 91667"
  <path class="fil0 str1" d="M50250 45833c0,-138 -112,-250 -250,-250 -138,0 -250,112 -250,250 0,138 112,250 250,250 138,0 250,-112 250,-250z"/>
 </symbol>
 <g id="map">
- <g id="图层_x0020_3">
-  <metadata id="CorelCorpID_0Corel-Layer"/>
-  <rect class="fil6" x="15503" y="56082" width="49084" height="29723" rx="833" ry="833"/>
-  <text x="69026" y="68880"  class="fil7 fnt0">每</text>
-  <text x="70894" y="68880"  class="fil7 fnt0">条</text>
-  <text x="72762" y="68880"  class="fil7 fnt0">折</text>
-  <text x="74630" y="68880"  class="fil7 fnt0">线</text>
-  <text x="76499" y="68880"  class="fil7 fnt0">代</text>
-  <text x="78367" y="68880"  class="fil7 fnt0">表</text>
-  <text x="80235" y="68880"  class="fil7 fnt0">一</text>
-  <text x="82103" y="68880"  class="fil7 fnt0">种</text>
-  <text x="83972" y="68880"  class="fil7 fnt0">气</text>
-  <text x="85840" y="68880"  class="fil7 fnt0">候</text>
-  <text x="69026" y="71208"  class="fil7 fnt0">地</text>
-  <text x="70894" y="71208"  class="fil7 fnt0">区</text>
-  <text x="72762" y="71208"  class="fil7 fnt0">（</text>
-  <text x="74630" y="71208"  class="fil7 fnt0">小</text>
-  <text x="76499" y="71208"  class="fil7 fnt0">区</text>
-  <text x="78367" y="71208"  class="fil7 fnt0">）</text>
-  <text x="69026" y="73536"  class="fil7 fnt0">点</text>
-  <text x="70894" y="73536"  class="fil7 fnt0">击</text>
-  <text x="72762" y="73536"  class="fil7 fnt0">折</text>
-  <text x="74630" y="73536"  class="fil7 fnt0">线</text>
-  <text x="76499" y="73536"  class="fil7 fnt0">可</text>
-  <text x="78367" y="73536"  class="fil7 fnt0">查</text>
-  <text x="80235" y="73536"  class="fil7 fnt0">看</text>
-  <text x="82103" y="73536"  class="fil7 fnt0">对</text>
-  <text x="83972" y="73536"  class="fil7 fnt0">应</text>
-  <text x="85840" y="73536"  class="fil7 fnt0">的</text>
-  <text x="69026" y="75864"  class="fil7 fnt0">气</text>
-  <text x="70894" y="75864"  class="fil7 fnt0">候</text>
-  <text x="72762" y="75864"  class="fil7 fnt0">地</text>
-  <text x="74630" y="75864"  class="fil7 fnt0">区</text>
-  <text x="76499" y="75864"  class="fil7 fnt0">（</text>
-  <text x="78367" y="75864"  class="fil7 fnt0">小</text>
-  <text x="80235" y="75864"  class="fil7 fnt0">区</text>
-  <text x="82103" y="75864"  class="fil7 fnt0">）</text>
- </g>
+
  <g id="zt">
   <metadata id="CorelCorpID_1Corel-Layer"/>
   <path id="HIIIB_x0028_1_x002c_2_x002c_3_x00291" class="fil8" d="M95385 37520c50,58 14,196 71,230 312,187 298,519 330,896 22,257 274,988 163,1144 -295,413 -782,100 -469,741 238,486 -350,575 -254,962 79,322 548,483 -20,682 -599,159 -1024,-1035 -862,22 -35,110 -313,270 -283,662 -189,236 247,527 255,834 12,440 1051,1373 -7,1779 -110,42 -794,344 -1192,486 -506,-870 -2106,-3569 -2915,-4378 -703,-703 -1261,-1147 -2233,-1383 -71,-17 -145,-33 -220,-48 -520,-753 -1983,-2844 -2444,-3231 -564,-474 -2896,-3184 -3556,-4085 -659,-900 184,-1070 890,-1571 706,-502 2406,-1154 4084,-1192 1678,-39 1684,-60 2804,-324 918,-216 3361,-449 4214,-526l-2 15c-9,58 -29,114 -96,150 -610,327 -739,336 -392,552 98,61 137,32 153,141 16,109 74,163 106,191 32,27 5,71 90,120 85,49 292,180 287,327 -6,147 42,213 -16,300 -58,87 -85,109 64,207 149,98 191,174 271,229 80,55 58,71 143,147 85,76 191,65 244,142 53,76 154,229 95,322 -58,93 -207,147 -196,218 11,71 53,235 96,300 42,65 53,278 74,415 21,136 74,256 122,327 48,71 53,175 96,273 42,98 138,486 127,666 -11,180 5,229 48,382 42,153 16,136 117,289 101,153 143,218 191,431 48,213 218,731 138,889 -80,158 -149,300 -122,507 27,208 -69,399 -43,524 27,125 47,234 47,234z"/>
@@ -2084,5 +2052,51 @@ viewBox="0 0 100000 91667"
   <text x="33275" y="83949"  class="fil2 fnt21">寒带</text>
   <text x="33888" y="78397"  class="fil2 fnt21">亚寒带</text>
  </g> 
+ 
+ <g id="infotip1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path fill="#FEFEFE" stroke="#00A2E9" stroke-width="236.221" d="M73308 74397c0,0 -11,1093 658,1079 231,-5 3263,-9 7126,-13 2670,-2 2654,14 3475,14 6271,-3 14066,-23 14066,-23 0,0 517,37 527,-1182 3,-307 4,-788 5,-1336 1,-411 1,1636 1,-2013 0,-1016 -1,-1845 -1,-1845 0,0 48,-746 -933,-746 -981,0 -11496,22 -11496,22l-1580 -22 -5004 10 -6189 12c0,0 -647,89 -642,879 0,58 -31,1270 -709,1806 -2183,1725 -5864,2184 -5333,2254 1474,193 6035,-455 6034,-166 -2,733 -5,1271 -5,1271z"/>
+  <g transform="matrix(0.837363 0 0 1 32342.8 25682.1)">
+   <text x="50050" y="45800"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">   每</text>
+   <text x="54225" y="45800"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">条</text>
+   <text x="55992" y="45800"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">折</text>
+   <text x="57758" y="45800"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">线</text>
+   <text x="59525" y="45800"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">代</text>
+   <text x="61291" y="45800"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">表</text>
+   <text x="63058" y="45800"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">一</text>
+   <text x="64824" y="45800"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">种</text>
+   <text x="66590" y="45800"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">气</text>
+   <text x="68357" y="45800"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">候</text>
+   <text x="70123" y="45800"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">地</text>
+   <text x="71890" y="45800"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">区</text>
+   <text x="73656" y="45800"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">，</text>
+  </g>
+  <g transform="matrix(0.837363 0 0 1 32342.8 25682.1)">
+  </g>
+  <g transform="matrix(0.837363 0 0 1 32342.8 25682.1)">
+   <text x="50050" y="47406"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">单</text>
+   <text x="51816" y="47406"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">击</text>
+   <text x="53583" y="47406"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">折</text>
+   <text x="55349" y="47406"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">线</text>
+   <text x="57116" y="47406"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">可</text>
+   <text x="58882" y="47406"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">查</text>
+   <text x="60649" y="47406"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">看</text>
+   <text x="62415" y="47406"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">对</text>
+   <text x="64182" y="47406"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">应</text>
+   <text x="65948" y="47406"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">地</text>
+   <text x="67715" y="47406"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">区</text>
+  </g>
+  <g transform="matrix(0.837363 0 0 1 32342.8 25682.1)">
+  </g>
+  <g transform="matrix(0.837363 0 0 1 32342.8 25682.1)">
+   <text x="50050" y="49012"  fill="#2F318B" font-weight="normal" font-size="1605.83px" font-family="黑体">  </text>
+  </g>
+  <g transform="matrix(0.837363 0 0 1 32342.8 25682.1)">
+  </g>
+  <line fill="none" stroke="#00A2E9" stroke-width="236.221" x1="97460" y1="71118" x2="96041" y2= "72537" />
+  <line fill="none" stroke="#00A2E9" stroke-width="236.221" x1="96041" y1="71118" x2="97460" y2= "72537" />
+  <path id="close"   onclick="closeinfotip(1)" fill="#FEFEFE" fill-opacity="0.000000" stroke="#00A2E9" stroke-width="236.221" stroke-opacity="0.000000" d="M95827 70483l1847 0c231,0 421,189 421,421l0 1847c0,231 -189,421 -421,421l-1847 0c-231,0 -421,-189 -421,-421l0 -1847c0,-231 189,-421 421,-421z"/>
+ </g>
+ 
 </g >
 </svg>

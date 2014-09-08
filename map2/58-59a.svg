@@ -4,21 +4,30 @@
 <svg onload="Init(evt)" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1000px" height="643px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
 viewBox="0 0 100000 64286"
  xmlns:xlink="http://www.w3.org/1999/xlink">
- <script  xlink:href="../js/Map.js"></script>
+  <defs>
+   <clipPath id="id3">
+    <rect x="38422" y="38488" width="6662" height="6091"/>
+   </clipPath>
+   <clipPath id="id4">
+    <rect x="39893" y="45457" width="5342" height="4403"/>
+   </clipPath>
+ </defs>
+ <script  xlink:href="../js/Map_2.js"></script>
 <script  type="text/javascript" xlink:href="../js/mapApp.js"></script>
 <script  type="text/javascript" xlink:href="../js/helper_functions.js"></script>
 <script  type="text/javascript" xlink:href="../js/timer.js"></script>
  <script language="Javascript">
       <![CDATA[
 	 var svgDoc;
-
+var id;
+var bar;
+ var done = 0;
 function ProgressBar(info) {
     var stem = {}; // 此函数最后返回的代表进度条的对象。
-    var done = 0,
-    length, outline, bar; // 声明内部变量。
-    bar = document.getElementById('done'); // 进度条中绿色的变化部分。
+    var length, outline, barr; // 声明内部变量。
+    barr = document.getElementById('done'); // 进度条中绿色的变化部分。
     length = 50400;
-
+    var ll=barr.getAttribute("width");
     function reset() {
         return to(0);
     }
@@ -26,10 +35,10 @@ function ProgressBar(info) {
     function to(value) {
         if (value >= 50400) {
             done = 50400;
-            bar.setAttribute('width', length);
+            barr.setAttribute('width', length);
         } else {
             done = value;
-            bar.setAttribute('width', Math.round(done * length / 50400));
+            barr.setAttribute('width', Math.round(done * length / 50400));
         }
         return stem;
     }
@@ -47,9 +56,14 @@ function ProgressBar(info) {
     stem.advance = advance;
     return stem; // 返回可供脚本使用的进度条对象。
 }
+
+	function closeinfotip(n)
+	{
+	document.getElementById('infotip'+n).setAttribute("style","visibility:hidden");
+	}
 // 测试进度条对象。
 function testBar() {
-    var bar = ProgressBar();
+     bar = ProgressBar();
     // 此内部函数每运行一次，增加进度值 1，直到进度值为 100。
     function test() {
         if (bar.getDone() === 50400) {
@@ -112,10 +126,10 @@ function testBar() {
         }
     }
     // 每十分之一秒改变一次进度。
-    var id = setInterval(test, 100);
+     id = setInterval(test, 100);
 }
 // 页面载入后开始测试。
-window.addEventListener('load', testBar, true);
+//window.addEventListener('load', testBar, true);
 function SetLength(length) {
     document.getElementById('done').setAttribute('width', length);
     if (length == 0)
@@ -173,7 +187,21 @@ function SetLength(length) {
 		document.getElementById('layer_10').setAttribute("style", "visibility: visible");
     }
 }
-	     
+	   function closeinfotip(n)
+	{
+	document.getElementById('infotip'+n).setAttribute("style", "visibility: hidden"); 
+	}
+	  function play()
+	  {
+	 
+	  testBar();
+	  }
+	
+	 
+	  function pause()
+	  {
+	  clearInterval(id);
+	  }
 	   ]]>
 	  
     </script>
@@ -9297,5 +9325,64 @@ function SetLength(length) {
 	<text x="46000" y="60000" font-family="黑体" font-size="1200" fill="#000000" stroke="none" stroke-opacity="0" >
 	各年份牲畜存栏数</text>
 	</g> 
-	</g>
+	<g transform ="translate(-1000,5500)">
+	<circle fill="#B6B6B7" onclick="play()" cx="24614" cy="54880" r="982"/>
+    <polygon fill="#FEFEFE" onclick="play()" points="25171,54871 24746,55103 24321,55336 24321,54871 24321,54405 24746,54638 "/>
+	
+  </g>
+	 <g id="infotip1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path fill="#FEFEFE" stroke="#00A2E9" stroke-width="236.221" d="M60501 39598c0,0 1,-117 -7,-292 -11,-253 45,-600 -25,-928 -81,-380 -303,-726 -539,-715 -580,26 -21243,35 -21243,35 0,0 -190,5 -353,196 -98,116 -176,302 -226,590 -13,75 -23,172 -28,254 -8,144 -5,288 -15,503 -8,173 -14,367 -15,582 -9,2187 -5,9318 -5,9318 -9,301 -61,647 34,895 144,375 588,444 777,444 852,0 9983,-40 9983,-40l928 40 4789 -18 5375 -22c0,0 176,-19 292,-81 149,-79 248,-263 277,-946 3,-70 -11,-474 -12,-552 -4,-1215 8,-7147 11,-8822 1,-280 1,-441 1,-441z"/>
+  <g clip-path="url(#id3)">
+   <image id="_58-59a.png" x="38422" y="38489" width="6662" height="6091" xlink:href="58-59ainfotiplian_ImgID1.png"/>
+  </g>
+  <g clip-path="url(#id4)">
+   <image id="_58-59a1.png" x="39893" y="45457" width="5342" height="4403" xlink:href="58-59ainfotiplian_ImgID2.png"/>
+  </g>
+  <line fill="none" stroke="#00A2E9" stroke-width="236.221" x1="58846" y1="39399" x2="59858" y2= "38387" />
+  <line fill="none" stroke="#00A2E9" stroke-width="236.221" x1="59858" y1="39399" x2="58846" y2= "38387" />
+  <path id="close" onclick="closeinfotip(1)" fill="#FEFEFE" fill-opacity="0.000000" stroke="#00A2E9" stroke-width="236.221" stroke-opacity="0.000000" d="M60011 39852l-1318 0c-165,0 -300,-135 -300,-300l0 -1318c0,-165 135,-300 300,-300l1318 0c165,0 300,135 300,300l0 1318c0,165 -135,300 -300,300z"/>
+  <g transform="matrix(0.840346 0 0 1 4577.2 9416.91)">
+   <text x="50000" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">单</text>
+   <text x="51216" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">击</text>
+   <text x="52431" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">左</text>
+   <text x="53647" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">图</text>
+   <text x="54862" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">所</text>
+   <text x="56078" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">示</text>
+   <text x="57294" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">位</text>
+   <text x="58509" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">置</text>
+   <text x="59725" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">开</text>
+   <text x="60940" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">始</text>
+   <text x="62156" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">播</text>
+   <text x="63372" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">放</text>
+   <text x="64587" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">。</text>
+  </g>
+  <g transform="matrix(0.840346 0 0 1 4726.13 15307.7)">
+   <text x="50000" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">播</text>
+   <text x="51216" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">放</text>
+   <text x="52431" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">完</text>
+   <text x="53647" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">毕</text>
+   <text x="54862" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">后</text>
+   <text x="56078" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">，</text>
+   <text x="57294" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">单</text>
+   <text x="58509" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">击</text>
+   <text x="59725" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">时</text>
+   <text x="60940" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">间</text>
+   <text x="62156" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">节</text>
+   <text x="63372" y="32150"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">点</text>
+  </g>
+  <g transform="matrix(0.840346 0 0 1 4726.13 15307.7)">
+   <text x="50000" y="33255"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">查</text>
+   <text x="51216" y="33255"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">看</text>
+   <text x="52431" y="33255"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">相</text>
+   <text x="53647" y="33255"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">应</text>
+   <text x="54862" y="33255"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">年</text>
+   <text x="56078" y="33255"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">份</text>
+   <text x="57294" y="33255"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">的</text>
+   <text x="58509" y="33255"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">情</text>
+   <text x="59725" y="33255"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">况</text>
+   <text x="60940" y="33255"  fill="#332C2B" font-weight="normal" font-size="1105.04px" font-family="黑体">。</text>
+  </g>
+ </g>
+  </g>
 </svg>

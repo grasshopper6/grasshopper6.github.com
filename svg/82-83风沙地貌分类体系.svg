@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1000px" height="1061px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 100000 106061"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str4 {stroke:#332C2B;stroke-width:46.1818}
+    .str2 {stroke:#00A2E9;stroke-width:48.4848;stroke-linejoin:round}
+    .str1 {stroke:#332C2B;stroke-width:60.6061}
+    .str3 {stroke:#332C2B;stroke-width:60.6061;stroke-linejoin:round}
+    .str0 {stroke:#6D583D;stroke-width:60.6061;stroke-linejoin:round}
+    .str6 {stroke:#823520;stroke-width:60.6061;stroke-linejoin:round}
+    .str7 {stroke:#332C2B;stroke-width:72.7273}
+    .str8 {stroke:#332C2B;stroke-width:90.9091}
+    .str5 {stroke:#FEFEFE;stroke-width:303.03}
+    .fil2 {fill:none}
+    .fil3 {fill:#00A2E9}
+    .fil4 {fill:#332C2B}
+    .fil5 {fill:#B6B49E}
+    .fil1 {fill:#FEFEFE}
+    .fil0 {fill:#6D583D}
+    .fil6 {fill:#823520}
+    .fil7 {fill:#E3E7E5}
+    .fil8 {fill:#F5F2E8}
+    .fil9 {fill:#FFFDEA}
+    .fil10 {fill:#332C2B;fill-rule:nonzero}
+    .fnt12 {font-weight:normal;font-size:943.333px;font-family:'Times New Roman'}
+    .fnt11 {font-weight:normal;font-size:1175.94px;font-family:'Times New Roman'}
+    .fnt10 {font-weight:normal;font-size:1282.85px;font-family:'Times New Roman'}
+    .fnt6 {font-weight:normal;font-size:1496.61px;font-family:'@宋体'}
+    .fnt5 {font-weight:normal;font-size:1496.61px;font-family:'@方正书宋简体'}
+    .fnt4 {font-weight:normal;font-size:1496.61px;font-family:'@黑体'}
+    .fnt7 {font-weight:normal;font-size:1496.61px;font-family:'Times New Roman'}
+    .fnt3 {font-weight:normal;font-size:1496.61px;font-family:'宋体'}
+    .fnt8 {font-weight:normal;font-size:1496.61px;font-family:'方正书宋简体'}
+    .fnt2 {font-weight:normal;font-size:1496.61px;font-family:'黑体'}
+    .fnt0 {font-weight:normal;font-size:1710.42px;font-family:'Arial'}
+    .fnt1 {font-weight:normal;font-size:1710.42px;font-family:'黑体'}
+    .fnt9 {font-weight:normal;font-size:2138.06px;font-family:'方正准圆简体'}
+   ]]>
+  </style>
+ </defs>
+<symbol id="符号27" viewBox="49879 52909 242 242">
+ <path class="fil0 str0" d="M50091 53030c0,-50 -41,-91 -91,-91 -50,0 -91,41 -91,91 0,50 41,91 91,91 50,0 91,-41 91,-91z"/>
+</symbol>
+<symbol id="符号3" viewBox="49615 52645 770 770">
+ <rect class="fil1" x="49636" y="52667" width="727" height="727"/>
+ <line class="fil2 str1" x1="49636" y1="52667" x2="50364" y2= "53394" />
+ <line class="fil2 str1" x1="49636" y1="53394" x2="50364" y2= "52667" />
+</symbol>
+<symbol id="符号4" viewBox="49491 52812 994 436">
+ <polygon class="fil3" points="49861,52970 49864,52970 49872,52970 49885,52970 49903,52970 49924,52970 49948,52970 49974,52969 50002,52967 50030,52964 50060,52961 50089,52957 50117,52951 50144,52944 50169,52936 50192,52926 50210,52915 50228,52903 50245,52892 50261,52881 50278,52872 50295,52864 50311,52857 50328,52851 50345,52847 50362,52844 50379,52843 50396,52844 50413,52847 50430,52851 50448,52858 50484,52887 50485,52888 50479,52887 50470,52887 50457,52885 50443,52883 50426,52882 50408,52881 50388,52882 50368,52885 50347,52889 50326,52895 50304,52904 50284,52917 50263,52932 50245,52951 50215,52971 50186,52989 50156,53005 50126,53020 50097,53032 50069,53043 50041,53052 50015,53060 49991,53067 49969,53073 49933,53083 49919,53085 49904,53088 49893,53089 "/>
+ <path class="fil3 str2" d="M49906 53030c0,-107 -87,-194 -195,-194 -108,0 -195,87 -195,194 0,107 88,194 195,194 108,0 195,-87 195,-194z"/>
+</symbol>
+<symbol id="符号18" viewBox="49433 52463 1134 1134">
+ <rect class="fil1" x="49455" y="52485" width="1091" height="1091"/>
+ <line class="fil2 str1" x1="49455" y1="52485" x2="50545" y2= "53576" />
+ <line class="fil2 str1" x1="49455" y1="53576" x2="50545" y2= "52485" />
+</symbol>
+<symbol id="符号12" viewBox="49606 52636 788 788">
+ <path class="fil1 str3" d="M50364 53030c0,-201 -163,-364 -364,-364 -201,0 -364,163 -364,364 0,201 163,364 364,364 201,0 364,-163 364,-364z"/>
+</symbol>
+<symbol id="符号16" viewBox="49310 52341 1380 1380">
+ <circle class="fil1 str4" cx="50000" cy="53030" r="667"/>
+ <circle class="fil4 str4" cx="50000" cy="53030" r="394"/>
+</symbol>
+<symbol id="符号15" viewBox="49189 52219 1622 1622">
+ <circle class="fil1 str4" cx="50000" cy="53030" r="788"/>
+ <circle class="fil2 str4" cx="50000" cy="53030" r="295"/>
+</symbol>
+<symbol id="符号23" viewBox="41639 48581 16785 8895">
+ <polygon class="fil2 str5" points="54105,48947 54105,50999 44356,50999 44356,55061 54105,55061 54105,57113 58209,53052 "/>
+ <polygon id="1" class="fil5" points="54105,48947 54105,50999 44356,50999 44356,55061 54105,55061 54105,57113 58209,53052 "/>
+ <polygon class="fil2 str5" points="42817,50999 42817,55061 43843,55061 43843,50999 "/>
+ <polygon id="1" class="fil5" points="42817,50999 42817,55061 43843,55061 43843,50999 "/>
+ <polygon class="fil2 str5" points="41791,50999 41791,55061 42304,55061 42304,50999 "/>
+ <polygon id="1" class="fil5" points="41791,50999 41791,55061 42304,55061 42304,50999 "/>
+</symbol>
+<symbol id="符号21" viewBox="49715 52600 570 861">
+ <polygon class="fil6" points="49722,53461 49996,52600 50285,53461 49715,53461 "/>
+</symbol>
+<symbol id="符号1" viewBox="49758 52667 485 727">
+ <polygon class="fil6" points="49764,53394 49997,52667 50242,53394 49758,53394 "/>
+</symbol>
+<symbol id="符号13" viewBox="49613 52644 773 773">
+ <circle class="fil1 str4" cx="50000" cy="53030" r="364"/>
+ <circle class="fil2 str4" cx="50000" cy="53030" r="136"/>
+</symbol>
+<symbol id="符号20" viewBox="49576 52242 848 1576">
+ <polygon class="fil6" points="49586,53818 49995,52242 50424,53818 49576,53818 "/>
+</symbol>
+<symbol id="符号2" viewBox="49879 52909 242 242">
+ <path class="fil6 str6" d="M50091 53030c0,-50 -41,-91 -91,-91 -50,0 -91,41 -91,91 0,50 41,91 91,91 50,0 91,-41 91,-91z"/>
+</symbol>
+<symbol id="符号19" viewBox="49861 52891 279 279">
+ <path class="fil6 str6" d="M50109 53030c0,-60 -49,-109 -109,-109 -60,0 -109,49 -109,109 0,60 49,109 109,109 60,0 109,-49 109,-109z"/>
+</symbol>
+<symbol id="符号26" viewBox="49613 52644 773 773">
+ <circle class="fil1 str4" cx="50000" cy="53030" r="364"/>
+ <circle class="fil2 str4" cx="50000" cy="53030" r="136"/>
+</symbol>
+<symbol id="符号5" viewBox="49606 52636 788 788">
+ <path class="fil1 str3" d="M50364 53030c0,-201 -163,-364 -364,-364 -201,0 -364,163 -364,364 0,201 163,364 364,364 201,0 364,-163 364,-364z"/>
+</symbol>
+<symbol id="符号25" viewBox="49615 52645 770 770">
+ <line class="fil2 str1" x1="49636" y1="52667" x2="50364" y2= "53394" />
+ <line class="fil2 str1" x1="49636" y1="53394" x2="50364" y2= "52667" />
+</symbol>
+<symbol id="符号17" viewBox="49491 52812 994 436">
+ <polygon class="fil3" points="49861,52970 49864,52970 49872,52970 49885,52970 49903,52970 49924,52970 49948,52970 49974,52969 50002,52967 50030,52964 50060,52961 50089,52957 50117,52951 50144,52944 50169,52936 50192,52926 50210,52915 50228,52903 50245,52892 50261,52881 50278,52872 50295,52864 50311,52857 50328,52851 50345,52847 50362,52844 50379,52843 50396,52844 50413,52847 50430,52851 50448,52858 50484,52887 50485,52888 50479,52887 50470,52887 50457,52885 50443,52883 50426,52882 50408,52881 50388,52882 50368,52885 50347,52889 50326,52895 50304,52904 50284,52917 50263,52932 50245,52951 50215,52971 50186,52989 50156,53005 50126,53020 50097,53032 50069,53043 50041,53052 50015,53060 49991,53067 49969,53073 49933,53083 49919,53085 49904,53088 49893,53089 "/>
+ <path class="fil3 str2" d="M49906 53030c0,-107 -87,-194 -195,-194 -108,0 -195,87 -195,194 0,107 88,194 195,194 108,0 195,-87 195,-194z"/>
+</symbol>
+<symbol id="符号6" viewBox="49613 52644 773 773">
+ <circle class="fil1 str4" cx="50000" cy="53030" r="364"/>
+ <circle class="fil2 str4" cx="50000" cy="53030" r="136"/>
+</symbol>
+<symbol id="符号22" viewBox="43958 48581 11927 8895">
+ <polygon class="fil2 str5" points="51566,48947 51566,50999 44330,50999 46382,53052 44330,55061 51566,55061 51566,57113 55670,53052 "/>
+ <polygon id="1" class="fil5" points="51566,48947 51566,50999 44330,50999 46382,53052 44330,55061 51566,55061 51566,57113 55670,53052 "/>
+</symbol>
+<symbol id="符号8" viewBox="49606 52636 788 788">
+ <path class="fil1 str3" d="M50364 53030c0,-201 -163,-364 -364,-364 -201,0 -364,163 -364,364 0,201 163,364 364,364 201,0 364,-163 364,-364z"/>
+</symbol>
+<symbol id="符号24" viewBox="49310 52341 1380 1380">
+ <circle class="fil1 str4" cx="50000" cy="53030" r="667"/>
+ <circle class="fil4 str4" cx="50000" cy="53030" r="394"/>
+</symbol>
+<symbol id="符号9" viewBox="49613 52644 773 773">
+ <circle class="fil1 str4" cx="50000" cy="53030" r="364"/>
+ <circle class="fil2 str4" cx="50000" cy="53030" r="136"/>
+</symbol>
+<symbol id="符号7" viewBox="49310 52341 1380 1380">
+ <circle class="fil1 str4" cx="50000" cy="53030" r="667"/>
+ <circle class="fil4 str4" cx="50000" cy="53030" r="394"/>
+</symbol>
+<symbol id="符号10" viewBox="49310 52341 1380 1380">
+ <circle class="fil1 str4" cx="50000" cy="53030" r="667"/>
+ <circle class="fil4 str4" cx="50000" cy="53030" r="394"/>
+</symbol>
+<symbol id="符号11" viewBox="49310 52341 1380 1380">
+ <circle class="fil1 str4" cx="50000" cy="53030" r="667"/>
+ <circle class="fil4 str4" cx="50000" cy="53030" r="394"/>
+</symbol>
+<symbol id="符号28" viewBox="49758 52667 485 727">
+ <polygon class="fil0" points="49764,53394 49997,52667 50242,53394 49758,53394 "/>
+</symbol>
+<symbol id="符号14" viewBox="49606 52636 788 788">
+ <path class="fil1 str3" d="M50364 53030c0,-201 -163,-364 -364,-364 -201,0 -364,163 -364,364 0,201 163,364 364,364 201,0 364,-163 364,-364z"/>
+</symbol>
+ <g id="图片">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_709243216">
+   <rect class="fil7" x="490" y="7589" width="99010" height="97777"/>
+   <rect class="fil8 str1" x="10137" y="23525" width="89363" height="81841"/>
+   <rect class="fil9 str4" x="10137" y="23525" width="89363" height="8342"/>
+   <rect class="fil9 str4" x="10137" y="85181" width="89363" height="20185"/>
+   <g>
+    <path class="fil10" d="M490 7573l99010 0 0 121 -99010 0 -61 -61 61 -61zm-61 61l0 -61 61 0 -61 61zm0 97732l0 -97732 121 0 0 97732 -61 61 -61 -61zm61 61l-61 0 0 -61 61 61zm99010 0l-99010 0 0 -121 99010 0 61 61 -61 61zm61 -61l0 61 -61 0 61 -61zm0 -97732l0 97732 -121 0 0 -97732 61 -61 61 61zm-61 -61l61 0 0 61 -61 -61z"/>
+   </g>
+   <text x="16670" y="4823"  class="fil4 fnt0">Classification system of aeolian landform in the valleys and lake basins on the Tibetan Plateau</text>
+   <path class="fil2 str7" d="M80549 13505c0,91861 0,91861 0,91861"/>
+   <path class="fil2 str7" d="M66242 13804c0,91563 0,91563 0,91563"/>
+   <path class="fil2 str8" d="M55292 7589c0,97778 0,97778 0,97778"/>
+   <path class="fil2 str7" d="M10137 13462c0,91904 0,91904 0,91904"/>
+   <path class="fil2 str7" d="M20181 13513c0,91853 0,91853 0,91853"/>
+   <path class="fil2 str7" d="M31497 13580c0,91786 0,91786 0,91786"/>
+   <path class="fil2 str8" d="M490 13514c99021,0 99021,0 99021,0"/>
+   <path class="fil2 str8" d="M490 23525c99021,0 99021,0 99021,0"/>
+   <path class="fil2 str8" d="M490 31867c99010,0 99010,0 99010,0"/>
+   <path class="fil2 str7" d="M31496 35180c68004,0 68004,0 68004,0"/>
+   <path class="fil2 str7" d="M31496 38517c68004,0 68004,0 68004,0"/>
+   <path class="fil2 str7" d="M31496 41854c68004,0 68004,0 68004,0"/>
+   <path class="fil2 str7" d="M31496 45190c68004,0 68004,0 68004,0"/>
+   <path class="fil2 str7" d="M31496 48527c68004,0 68004,0 68004,0"/>
+   <path class="fil2 str7" d="M31496 51864c68004,0 68004,0 68004,0"/>
+   <path class="fil2 str7" d="M31497 55201c68003,0 68003,0 68003,0"/>
+   <path class="fil2 str7" d="M31496 58538c68004,0 68004,0 68004,0"/>
+   <path class="fil2 str7" d="M31496 61875c68004,0 68004,0 68004,0"/>
+   <path class="fil2 str7" d="M31496 65212c68004,0 68004,0 68004,0"/>
+   <path class="fil2 str7" d="M31496 68548c68004,0 68004,0 68004,0"/>
+   <path class="fil2 str7" d="M31496 75222c68004,0 68004,0 68004,0"/>
+   <path class="fil2 str7" d="M31496 78559c68004,0 68004,0 68004,0"/>
+   <path class="fil2 str7" d="M31496 81896c68004,0 68004,0 68004,0"/>
+   <path class="fil2 str7" d="M31496 88570c68004,0 68004,0 68004,0"/>
+   <path class="fil2 str7" d="M31496 91906c68004,0 68004,0 68004,0"/>
+   <path class="fil2 str7" d="M31496 95243c68004,0 68004,0 68004,0"/>
+   <path class="fil2 str7" d="M53770 98580c45730,0 45730,0 45730,0"/>
+   <path class="fil2 str7" d="M31496 101917c68004,0 68004,0 68004,0"/>
+   <path class="fil2 str7" d="M20181 71898c79319,0 79319,0 79319,0"/>
+   <path class="fil2 str8" d="M10137 85181c89363,0 89363,0 89363,0"/>
+   <path class="fil2 str7" d="M20181 98599c79319,0 79319,0 79319,0"/>
+   <text x="21089" y="10510"  class="fil4 fnt1">风沙地貌分类分级</text>
+   <text x="74012" y="10514"  class="fil4 fnt1">沙丘特征</text>
+   <text x="2386" y="16843"  class="fil4 fnt2">风力作用</text>
+   <text x="2386" y="18340"  class="fil4 fnt2">性质分类</text>
+   <text x="12212" y="16184"  class="fil4 fnt2">沙丘发育</text>
+   <text x="12212" y="17680"  class="fil4 fnt2">床面分类</text>
+   <text x="22884" y="16266"  class="fil4 fnt2">沙丘固定</text>
+   <text x="22884" y="17762"  class="fil4 fnt2">程度分类</text>
+   <text x="37458" y="18467"  class="fil4 fnt2">风沙地貌形态分类</text>
+   <text x="57180" y="17752"  class="fil4 fnt2">落沙坡数目</text>
+   <text x="71934" y="18471"  class="fil4 fnt2">风况</text>
+   <text x="87060" y="18463"  class="fil4 fnt2">活动性质</text>
+   <text x="2352" y="27063"  class="fil4 fnt2">风蚀地貌</text>
+   <text x="38180" y="27236"  class="fil4 fnt3">风蚀槽沟、陡坎</text>
+   <text x="38189" y="30038"  class="fil4 fnt3">风蚀残墩、劣地</text>
+   <g transform="matrix(2.64845E-014 1 -1 2.64845E-014 57003 15658.2)">
+    <text x="50000" y="53030"  class="fil4 fnt4">风积地貌</text>
+   </g>
+   <g transform="matrix(2.64845E-014 1 -1 2.64845E-014 68091.8 4060.3)">
+    <text x="50000" y="53030"  class="fil4 fnt5">      </text>
+    <text x="52211" y="53030"  class="fil4 fnt6"> (亚类)</text>
+   </g>
+   <g transform="matrix(2.64845E-014 1 -1 2.64845E-014 68091.8 4060.3)">
+    <text x="50000" y="54527"  class="fil4 fnt6">谷坡风积地貌</text>
+   </g>
+   <g transform="matrix(2.64845E-014 1 -1 2.64845E-014 68091.8 4060.3)">
+    <text x="50000" y="56024"  class="fil4 fnt5">    </text>
+   </g>
+   <text x="36695" y="34286"  class="fil4 fnt3">新月形沙丘、沙丘链</text>
+   <text x="39276" y="37582"  class="fil4 fnt3">横向沙丘(垄)</text>
+   <text x="39276" y="40907"  class="fil4 fnt3">纵向沙丘(垄)</text>
+   <text x="40422" y="44276"  class="fil4 fnt3">穹状沙丘</text>
+   <text x="40422" y="47508"  class="fil4 fnt3">格状沙丘</text>
+   <text x="40422" y="50871"  class="fil4 fnt3">星状沙丘</text>
+   <text x="39688" y="54290"  class="fil4 fnt3">新月形沙垄</text>
+   <text x="36283" y="57528"  class="fil4 fnt3">高大复合型沙丘(沙山)</text>
+   <text x="40457" y="61023"  class="fil4 fnt3">爬升沙片</text>
+   <text x="40422" y="64284"  class="fil4 fnt3">爬升沙丘</text>
+   <text x="40422" y="67616"  class="fil4 fnt3">反射沙丘</text>
+   <text x="40422" y="70951"  class="fil4 fnt3">下落沙丘</text>
+   <text x="36476" y="74399"  class="fil4 fnt3">固定/半固定爬升沙丘</text>
+   <text x="40431" y="77633"  class="fil4 fnt3">灌丛沙堆</text>
+   <text x="40437" y="81040"  class="fil4 fnt3">灌丛沙垄</text>
+   <text x="39674" y="84299"  class="fil4 fnt3">抛物线沙丘</text>
+   <text x="60376" y="34258"  class="fil4 fnt7">1</text>
+   <text x="60376" y="37543"  class="fil4 fnt7">1</text>
+   <text x="60294" y="40875"  class="fil4 fnt7">2</text>
+   <text x="60290" y="44237"  class="fil4 fnt7">0</text>
+   <text x="59243" y="47472"  class="fil4 fnt7">2</text>
+   <text x="61488" y="47472"  class="fil4 fnt7">3</text>
+   <text x="59991" y="47472"  class="fil4 fnt8">～</text>
+   <text x="60337" y="50836"  class="fil4 fnt7">3</text>
+   <text x="60376" y="54263"  class="fil4 fnt7">1</text>
+   <text x="60290" y="60988"  class="fil4 fnt7">0</text>
+   <text x="59375" y="64249"  class="fil4 fnt8">≥</text>
+   <text x="60871" y="64249"  class="fil4 fnt7">1</text>
+   <text x="59375" y="67577"  class="fil4 fnt8">≥</text>
+   <text x="60871" y="67577"  class="fil4 fnt7">1</text>
+   <text x="58796" y="70925"  class="fil4 fnt7">1</text>
+   <text x="61041" y="70925"  class="fil4 fnt7">2</text>
+   <text x="59545" y="70925"  class="fil4 fnt8">～</text>
+   <text x="60290" y="87556"  class="fil4 fnt7">0</text>
+   <text x="60290" y="74364"  class="fil4 fnt7">0</text>
+   <text x="60290" y="77594"  class="fil4 fnt7">0</text>
+   <text x="60290" y="81001"  class="fil4 fnt7">0</text>
+   <text x="60376" y="84264"  class="fil4 fnt7">1</text>
+   <text x="73042" y="40875"  class="fil4 fnt7">2</text>
+   <text x="73042" y="47476"  class="fil4 fnt7">2</text>
+   <text x="73074" y="50836"  class="fil4 fnt7">3</text>
+   <text x="73103" y="54263"  class="fil4 fnt7">1</text>
+   <text x="71931" y="64288"  class="fil4 fnt3">多样</text>
+   <text x="69686" y="74399"  class="fil4 fnt3">单一或多样</text>
+   <text x="86856" y="34293"  class="fil4 fnt3">前移/往复</text>
+   <text x="88560" y="37578"  class="fil4 fnt3">前移</text>
+   <text x="86338" y="70956"  class="fil4 fnt3">前移、延伸</text>
+   <text x="86312" y="50875"  class="fil4 fnt3">加积、扩展</text>
+   <text x="87063" y="57532"  class="fil4 fnt3">缓慢前移</text>
+   <text x="86312" y="61027"  class="fil4 fnt3">加深、扩展</text>
+   <text x="84842" y="67612"  class="fil4 fnt3">加积、缓慢延伸</text>
+   <text x="84628" y="77625"  class="fil4 fnt3">不移动/缓慢移动</text>
+   <text x="87078" y="84291"  class="fil4 fnt3">缓慢移动</text>
+   <text x="84628" y="100979"  class="fil4 fnt3">不移动/缓慢移动</text>
+   <text x="84611" y="104396"  class="fil4 fnt3">不移动/缓慢扩展</text>
+   <g transform="matrix(2.64845E-014 1 -1 2.64845E-014 67309.9 40192.7)">
+    <text x="50000" y="53030"  class="fil4 fnt5">       </text>
+    <text x="52579" y="53030"  class="fil4 fnt6">(亚类)</text>
+   </g>
+   <g transform="matrix(2.64845E-014 1 -1 2.64845E-014 67309.9 40192.7)">
+    <text x="50000" y="54527"  class="fil4 fnt6">谷底风积地貌</text>
+   </g>
+   <g transform="matrix(2.64845E-014 1 -1 2.64845E-014 67309.9 40192.7)">
+    <text x="50000" y="56024"  class="fil4 fnt5">     </text>
+   </g>
+   <text x="41182" y="87572"  class="fil4 fnt3">平沙地</text>
+   <text x="36695" y="91020"  class="fil4 fnt3">新月形沙丘、沙丘链</text>
+   <text x="40431" y="104400"  class="fil4 fnt3">灌丛沙堆</text>
+   <text x="39276" y="94351"  class="fil4 fnt3">横向沙丘(垄)</text>
+   <text x="39276" y="97691"  class="fil4 fnt3">纵向沙丘(垄)</text>
+   <text x="41182" y="100964"  class="fil4 fnt3">平沙地</text>
+   <text x="22118" y="76628"  class="fil4 fnt8">     </text>
+   <text x="23960" y="76628"  class="fil4 fnt3">固定/</text>
+   <text x="22118" y="78275"  class="fil4 fnt3">半固定沙丘</text>
+   <text x="22866" y="51819"  class="fil4 fnt3">流动沙丘</text>
+   <text x="71937" y="34289"  class="fil4 fnt3">单一</text>
+   <text x="71937" y="37574"  class="fil4 fnt3">单一</text>
+   <text x="71937" y="61023"  class="fil4 fnt3">单一</text>
+   <text x="71931" y="67616"  class="fil4 fnt3">多样</text>
+   <text x="69686" y="77629"  class="fil4 fnt3">单一或多样</text>
+   <text x="73103" y="84264"  class="fil4 fnt7">1</text>
+   <text x="60376" y="90992"  class="fil4 fnt7">1</text>
+   <text x="60376" y="94312"  class="fil4 fnt7">1</text>
+   <text x="60294" y="97659"  class="fil4 fnt7">2</text>
+   <text x="71931" y="87596"  class="fil4 fnt3">多样</text>
+   <text x="71937" y="91024"  class="fil4 fnt3">单一</text>
+   <text x="71937" y="94343"  class="fil4 fnt3">单一</text>
+   <text x="73042" y="97659"  class="fil4 fnt7">2</text>
+   <text x="60290" y="100948"  class="fil4 fnt7">0</text>
+   <text x="60290" y="104361"  class="fil4 fnt7">0</text>
+   <text x="86338" y="97691"  class="fil4 fnt3">前移、延伸</text>
+   <text x="88560" y="94347"  class="fil4 fnt3">前移</text>
+   <text x="86856" y="91027"  class="fil4 fnt3">前移/往复</text>
+   <text x="86312" y="87596"  class="fil4 fnt3">加积、扩展</text>
+   <text x="84637" y="81036"  class="fil4 fnt3">不移动/缓慢延伸</text>
+   <text x="84628" y="74395"  class="fil4 fnt3">不移动/缓慢移动</text>
+   <text x="86338" y="64284"  class="fil4 fnt3">前移、延伸</text>
+   <text x="86338" y="54294"  class="fil4 fnt3">前移、延伸</text>
+   <text x="86338" y="47508"  class="fil4 fnt3">前移、延伸</text>
+   <text x="86312" y="44276"  class="fil4 fnt3">加积、扩展</text>
+   <text x="86338" y="40907"  class="fil4 fnt3">前移、延伸</text>
+   <text x="22866" y="92102"  class="fil4 fnt3">流动沙丘</text>
+   <text x="22118" y="100370"  class="fil4 fnt8">     </text>
+   <text x="23960" y="100370"  class="fil4 fnt3">固定/</text>
+   <text x="22118" y="102017"  class="fil4 fnt3">半固定沙丘</text>
+   <g transform="matrix(1.2 0 0 1 -29511.8 -50526.4)">
+    <text x="50000" y="53030"  class="fil4 fnt9">西藏高原河谷、湖盆风沙地貌分类体系</text>
+   </g>
+   <text x="18238" y="12045"  class="fil4 fnt10">Aeolian landform classification grade</text>
+   <text x="71148" y="11970"  class="fil4 fnt10">Sand dune characteristic</text>
+   <text x="11229" y="19227"  class="fil4 fnt11">Classification of</text>
+   <text x="11229" y="20399"  class="fil4 fnt11"> sand dunes bed  </text>
+   <text x="11229" y="21571"  class="fil4 fnt11">   development</text>
+   <text x="21909" y="19334"  class="fil4 fnt11">Classification of </text>
+   <text x="21909" y="20506"  class="fil4 fnt11">    sand dune </text>
+   <text x="21909" y="21679"  class="fil4 fnt11">  fixation levels </text>
+   <text x="35985" y="19983"  class="fil4 fnt11">Aeolian landform classification</text>
+   <text x="57093" y="19317"  class="fil4 fnt11">The number of </text>
+   <text x="57093" y="20489"  class="fil4 fnt11">drop sand slope</text>
+   <text x="70350" y="20028"  class="fil4 fnt11">Wind regime</text>
+   <text x="85024" y="19966"  class="fil4 fnt11">Nature of the activity</text>
+   <text x="1920" y="28532"  class="fil4 fnt10">Wind erosive </text>
+   <text x="1920" y="29811"  class="fil4 fnt10">   landform</text>
+   <g transform="matrix(-7.94536E-014 -1 1 -7.94536E-014 -46734.8 125169)">
+    <text x="50000" y="53030"  class="fil4 fnt10">Aeolian deposit landform</text>
+   </g>
+   <g transform="matrix(-7.94536E-014 -1 1 -7.94536E-014 -35297.5 118655)">
+    <text x="50000" y="53030"  class="fil4 fnt11">Brae aeolian deposited landform (subclass)</text>
+   </g>
+   <g transform="matrix(-8.59842E-014 -1 1.24658 -9.25147E-014 -49135.9 152411)">
+    <text x="50000" y="53030"  class="fil4 fnt12">Valley bottom aeolian deposited landform </text>
+   </g>
+   <g transform="matrix(-7.94536E-014 -1 1 -7.94536E-014 -34713.7 154510)">
+    <text x="50000" y="53030"  class="fil4 fnt11">                         (subclass)</text>
+   </g>
+   <text x="22867" y="53335"  class="fil4 fnt11">Motive dune</text>
+   <text x="22345" y="80426"  class="fil4 fnt11">      Fixed/</text>
+   <text x="22345" y="81598"  class="fil4 fnt11">sub-fixed dune</text>
+   <text x="22182" y="93661"  class="fil4 fnt11">Migratory dune</text>
+   <text x="22345" y="103751"  class="fil4 fnt11">      Fixed/</text>
+   <text x="22345" y="104858"  class="fil4 fnt11">sub-fixed dune</text>
+   <text x="2099" y="19941"  class="fil4 fnt11">Classification </text>
+   <text x="2099" y="21113"  class="fil4 fnt11">of wind force </text>
+   <text x="2099" y="22285"  class="fil4 fnt11">  </text>
+  </g>
+ </g>
+</svg>

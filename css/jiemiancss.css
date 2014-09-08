@@ -13,6 +13,7 @@ body {
 	color:#376092;
 	border:2px solid #34537D;
 }
+
 .title {
 	font-family:ËÎÌו;
 	color:#376092;
@@ -22,6 +23,8 @@ body {
 	float:left;
 	width:300px;
 }
+.title a{
+color:#325E84;}
 .title p {
 	bottom:0px;
 }

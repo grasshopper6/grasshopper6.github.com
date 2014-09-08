@@ -1,15 +1,21 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>
-            各地（市）区人口
+            人口密度
         </title>
         <link href="css/jiemiancss.css" rel="stylesheet" type="text/css">
         <script Language="JavaScript" src="js/jiemians.js">
         </script>
+			<style type="text/css">
+		.map{height:550px}
+				.main{height:550px}
+		.mapcontroll{height:550px}
+		.box{height:780px}
+		</style>
         <script type="text/javascript">
             //<![CDATA[
             window.onload = function() {
@@ -81,7 +87,7 @@
          
             <div class="title" style="background-color: #D7F29C">
                 <p style="color:#325E84">
-                    综合环境
+                    <a href="page2.html" title="单击查看目录" target="_blank">   综合环境</a>
                 </p>
             </div>
             <div class="title" style="float:left; width:300px">
@@ -97,10 +103,10 @@
                 />
             </div>
             <div class="col" style="background-color: #EAF1DD;color:#516524">
-                自然环境
+                 <a href="page2.html" title="单击查看目录" target="_blank">  自然环境</a>
             </div>
             <div class="col" style="background-color: #87A93E;color:#FFFFFF">
-                社会经济环境
+                 <a href="page2.html" title="单击查看目录" target="_blank">   社会经济环境</a>
             </div>
             <div class="col" style="width:598px;border: 1px solid #FFFFFF;background-color: #DAE5F1;color:#325E84">
                 <div class="shulibox">
@@ -266,22 +272,21 @@
                             >
                         </li>
                         <li>
-                            <a href="#">
+                           <a href="50-51.html" target="_blank">
                                人口
                             </a>
 							<ul>
-							<li><a href="50-51.html" title="lianghe" target="_blank">人口密度</a></li>
-							<li><a href="50-51c.html" title="lasa" target="_blank">居民点分布</a></li>
-                            
-                            
+							<li><a href="50-51.html"  target="_blank">各地（市）区人口</a></li>
+							<li><a href="50-51c.html" target="_blank">居民点分布</a></li>
+                                                        
 							</ul>
                         </li>
                         <li class="vline">
                             >
                         </li>
                         <li>
-                            <a href="#">
-                              各地（市）区人口
+                          <a href="50-51b.html"  target="_blank">
+                              人口密度
                             </a>
 							
                         </li>
@@ -310,7 +315,7 @@
                             <div class="content" style="overflow:auto ">
 							<div  style="height:150px;overflow:auto ">
                               
-							    <img alt="图例"  src="supplement/50-51b图例.png"/>
+							    <img alt="图例" style="width:200px" src="supplement/50-51a图例1.png"/>
                             </div>
 							</div>
                         </li>
@@ -320,14 +325,14 @@
                 </div>
 				<div class="map" style="overflow:scroll">
 			   
-				<embed id="svgEmbed"  pluginspage=http://www.adobe.com/svg/viewer/install/  src="map2/50-51b.svg"  type="image/svg+xml"/>
+				<embed id="svgEmbed"  pluginspage=http://www.adobe.com/svg/viewer/install/  src="map2/50-51a.svg"  type="image/svg+xml"/>
 				</div>
 				<div class="copybottom" style="background-color: #D7F29C">
 				copyright
 				</div>
 				</div>
 				</div>
-				<div id="FloatDiv" style="position:fixed; width:250px; height:40px; visibility:visible; right:250px; top: 210px">
+				<div id="FloatDiv" style="position:absolute; width:250px; height:40px; visibility:visible; right:250px; top: 210px">
 				<div class="tool" style="background-image: url('images/fangda.gif')" onclick="zoomIn()"></div>
 				<div class="kx"> </div>
 				 <div class="tool" style=";background-image: url('images/suoxiao.gif')" onclick="zoomOut()"></div>
@@ -341,3 +346,4 @@
 				
 				</div>
 				</body>
+

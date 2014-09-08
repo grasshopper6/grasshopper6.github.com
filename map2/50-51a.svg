@@ -4,7 +4,12 @@
 <svg onload="Init(evt)" xmlns:attrib="http://www.carto.net/attrib" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="999px" height="628px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
 viewBox="0 0 99900 62794"
  xmlns:xlink="http://www.w3.org/1999/xlink">
-  <script  xlink:href="../js/Map.js"></script>
+ <defs>
+   <clipPath id="id1">
+    <rect x="37332" y="30848" width="7779" height="4565"/>
+   </clipPath>
+ </defs>
+  <script  xlink:href="../js/Map_3.js"></script>
 <script  type="text/javascript" xlink:href="../js/mapApp.js"></script>
 <script  type="text/javascript" xlink:href="../js/helper_functions.js"></script>
 <script  type="text/javascript" xlink:href="../js/timer.js"></script>
@@ -75,6 +80,10 @@ viewBox="0 0 99900 62794"
 	 var obj = evt.target;
 	 obj.setAttribute("style", "stroke: #FEFEFE; stroke-width: 28.3667");
 	 }
+	  function closeinfotip(n)
+	{
+	document.getElementById('infotip'+n).setAttribute("style","visibility:hidden");
+	}
     
    ]]>
 	  
@@ -483,6 +492,48 @@ viewBox="0 0 99900 62794"
   <rect class="fil13 str8" x="31772" y="11005" width="2854" height="228"/>
   <rect class="fil0 str8" x="34626" y="11005" width="2854" height="228"/>
  </g>
+ 
+ 
+  <g id="infotip1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path fill="#FEFEFE" stroke="#00A2E9" stroke-width="236.22" d="M62210 30646c0,0 11,-1064 -667,-1050 -678,14 -25039,21 -25039,21 0,0 -525,-36 -536,1150 -11,1187 -6,5055 -6,5055 0,0 -49,726 947,726 996,0 11669,-22 11669,-22l1085 21 5599 -10 6283 -12c0,0 657,-86 651,-856 -5,-769 14,-5026 14,-5026z"/>
+  <g transform="matrix(0.837363 0 0 1 4431.45 1635.89)">
+   <text x="49950" y="31400"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">当</text>
+   <text x="51210" y="31400"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">鼠</text>
+   <text x="52470" y="31400"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">标</text>
+   <text x="53731" y="31400"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">在</text>
+   <text x="54991" y="31400"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">地</text>
+   <text x="56251" y="31400"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">图</text>
+   <text x="57511" y="31400"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">符</text>
+   <text x="58772" y="31400"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">号</text>
+   <text x="60032" y="31400"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">上</text>
+   <text x="61292" y="31400"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">悬</text>
+   <text x="62552" y="31400"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">停</text>
+   <text x="63813" y="31400"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">时</text>
+   <text x="65073" y="31400"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">，</text>
+  </g>
+  <g transform="matrix(0.837363 0 0 1 4431.45 1635.89)">
+   <text x="49950" y="32546"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">查</text>
+   <text x="51210" y="32546"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">看</text>
+   <text x="52470" y="32546"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">该</text>
+   <text x="53731" y="32546"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">符</text>
+   <text x="54991" y="32546"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">号</text>
+   <text x="56251" y="32546"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">所</text>
+   <text x="57511" y="32546"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">表</text>
+   <text x="58772" y="32546"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">示</text>
+   <text x="60032" y="32546"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">的</text>
+   <text x="61292" y="32546"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">含</text>
+   <text x="62552" y="32546"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">义</text>
+   <text x="63813" y="32546"  fill="#332C2B" font-weight="normal" font-size="1145.67px" font-family="黑体">。</text>
+  </g>
+  <line fill="none" stroke="#00A2E9" stroke-width="236.22" x1="60148" y1="33669" x2="61160" y2= "32656" />
+  <line fill="none" stroke="#00A2E9" stroke-width="236.22" x1="61160" y1="33669" x2="60148" y2= "32656" />
+  <path id="close" onclick="closeinfotip(1)" fill="#FEFEFE" fill-opacity="0.000000" stroke="#00A2E9" stroke-width="236.22" stroke-opacity="0.000000" d="M61313 34121l-1318 0c-165,0 -300,-135 -300,-300l0 -1318c0,-165 135,-300 300,-300l1318 0c165,0 300,135 300,300l0 1318c0,165 -135,300 -300,300z"/>
+  <g clip-path="url(#id0)">
+   <image id="_50-51.png" x="37332" y="30848" width="7779" height="4565" xlink:href="50-51ainfotiplian_ImgID1.png"/>
+  </g>
+ </g>
+ 
  <g id="toolTip">
 		
 	</g>

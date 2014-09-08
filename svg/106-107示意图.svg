@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1001px" height="890px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 100100 89072"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#332C2B;stroke-width:64.6408}
+    .str4 {stroke:#00A2E9;stroke-width:84.8305}
+    .str0 {stroke:#332C2B;stroke-width:84.8305}
+    .str3 {stroke:#AE6F15;stroke-width:84.8305}
+    .str1 {stroke:#FEFEFE;stroke-width:424.153}
+    .str5 {stroke:#AE6F15;stroke-width:84.8305;stroke-dasharray:848.305085 254.491525}
+    .fil1 {fill:none}
+    .fil3 {fill:#332C2B}
+    .fil2 {fill:#B6B49E}
+    .fil0 {fill:#FEFEFE}
+    .fil13 {fill:black}
+    .fil12 {fill:#8FC547}
+    .fil10 {fill:#AE6F15}
+    .fil11 {fill:#BBE3F8}
+    .fil6 {fill:#F0F3FA}
+    .fil5 {fill:#F0F8FD}
+    .fil8 {fill:url(#id0)}
+    .fil9 {fill:url(#id1)}
+    .fil4 {fill:url(#id2)}
+    .fil7 {fill:url(#id3)}
+    .fnt7 {font-weight:normal;font-size:1496.33px;font-family:'Times New Roman'}
+    .fnt6 {font-weight:normal;font-size:1795.61px;font-family:'Times New Roman'}
+    .fnt3 {font-weight:normal;font-size:1945.25px;font-family:'黑体'}
+    .fnt5 {font-weight:normal;font-size:2094.8px;font-family:'宋体'}
+    .fnt2 {font-weight:normal;font-size:2094.8px;font-family:'黑体'}
+    .fnt1 {font-weight:normal;font-size:2394.09px;font-family:'Arial'}
+    .fnt0 {font-weight:normal;font-size:2394.09px;font-family:'黑体'}
+    .fnt4 {font-weight:normal;font-size:2992.65px;font-family:'方正准圆简体'}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="62327.6" y1="38399.2" x2="62327.6" y2="46440">
+   <stop offset="0" style="stop-color:#DEE2BF"/>
+   <stop offset="0.521569" style="stop-color:#F3F5E9"/>
+   <stop offset="1" style="stop-color:#FEFEFE"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="49.9998%" y1="0%" x2="49.9998%" y2="100%">
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="54172" y1="56517.1" x2="65545.1" y2="73008.1">
+   <stop offset="0" style="stop-color:#DEE2BF"/>
+   <stop offset="0.521569" style="stop-color:#F3F5E9"/>
+   <stop offset="0.619608" style="stop-color:#FBFCF7"/>
+   <stop offset="1" style="stop-color:#FEFEFE"/>
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="5470.72" y1="60541.4" x2="22288.2" y2="66200.1">
+  </linearGradient>
+ </defs>
+<symbol id="符号13" viewBox="49371 43857 1357 1357">
+ <circle class="fil0 str0" cx="50050" cy="44536" r="636"/>
+ <circle class="fil1 str0" cx="50050" cy="44536" r="239"/>
+</symbol>
+<symbol id="符号22" viewBox="41593 38309 16694 12451">
+ <polygon class="fil1 str1" points="52242,38821 52242,41693 42113,41693 44986,44566 42113,47379 52242,47379 52242,50251 57987,44566 "/>
+ <polygon id="1" class="fil2" points="52242,38821 52242,41693 42113,41693 44986,44566 42113,47379 52242,47379 52242,50251 57987,44566 "/>
+</symbol>
+<symbol id="符号23" viewBox="38348 38309 23493 12451">
+ <polygon class="fil1 str1" points="55795,38821 55795,41693 42150,41693 42150,47379 55795,47379 55795,50251 61540,44566 "/>
+ <polygon id="1" class="fil2" points="55795,38821 55795,41693 42150,41693 42150,47379 55795,47379 55795,50251 61540,44566 "/>
+ <polygon class="fil1 str1" points="39996,41693 39996,47379 41432,47379 41432,41693 "/>
+ <polygon id="1" class="fil2" points="39996,41693 39996,47379 41432,47379 41432,41693 "/>
+ <polygon class="fil1 str1" points="38560,41693 38560,47379 39278,47379 39278,41693 "/>
+ <polygon id="1" class="fil2" points="38560,41693 38560,47379 39278,47379 39278,41693 "/>
+</symbol>
+<symbol id="符号11" viewBox="49074 43560 1951 1951">
+ <circle class="fil0 str0" cx="50050" cy="44536" r="933"/>
+ <circle class="fil3 str0" cx="50050" cy="44536" r="551"/>
+</symbol>
+ <g id="图层_x0020_2">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_725187184">
+   <polygon class="fil4" points="50966,70144 51269,69938 50813,69838 51364,69456 50662,69350 51335,68890 51072,68537 55299,66686 54543,66709 55396,66204 55030,66072 55567,65616 54983,65248 57006,64350 59230,63500 58658,63422 59324,63017 58842,62923 59492,62428 59114,62098 62500,60651 63225,60247 62654,60167 63322,59765 62840,59668 63493,59177 63105,58913 66746,57279 69055,60595 52307,72246 "/>
+   <polygon class="fil5 str0" points="52310,72257 69018,60560 71335,64085 54381,75384 "/>
+   <polygon class="fil6 str0" points="53525,74125 70282,62483 73258,67103 56221,78320 "/>
+   <polygon class="fil5 str0" points="52940,45349 71720,45048 71720,49325 52940,49325 "/>
+   <rect class="fil6 str2" transform="matrix(0.812069 -0.583562 0.583562 0.812069 8193.97 71550)" width="18779" height="8341"/>
+   <path class="fil7 str3" d="M4898 67200c229,-317 642,-775 1004,-893 552,-180 1516,-657 1929,-953 412,-296 891,-469 1181,-1044 290,-575 923,-1009 1524,-1279 601,-270 1566,-746 1753,-881 187,-135 1355,-1515 1654,-1730 300,-215 887,-584 1652,-863 765,-279 1215,-602 1787,-1230 572,-627 818,-1075 1244,-1273 426,-198 1081,-235 1305,-397 140,-101 276,-177 328,-262l3184 4195 -15250 10959 -3296 -4350z"/>
+   <rect class="fil5 str0" x="52775" y="23581" width="18779" height="3102"/>
+   <polygon class="fil6 str0" points="52940,47589 71720,47183 71720,52949 52940,52949 "/>
+   <path class="fil8 str3" d="M71691 38871l29 5961 -18779 540 -5 -5270 392 -984 470 -211 -108 387 145 563 253 -1091 506 0 578 317 -398 880 398 176 -289 282 361 986 108 176 -217 880 253 211 253 704c0,0 -36,1021 72,1408 108,387 361,1655 361,1655l651 -1725 397 -352c0,0 -253,-406 -159,-1150 93,-744 203,-1200 296,-1473 93,-273 -47,-1276 62,-1518 109,-243 608,-1291 1169,-1518 561,-228 857,-289 857,-289l281 228c0,0 -31,638 78,638 109,0 296,30 374,197 78,167 327,577 592,410 265,-167 920,-1108 1091,-1108 171,0 857,-76 857,-76 0,0 234,380 530,531 296,152 468,213 468,213l62 -501 592 -547 966 197c0,0 249,638 483,1108 234,471 374,759 312,941 -62,182 -343,744 -312,896 31,152 250,1093 250,1093 0,0 249,-1184 608,-1761 358,-577 795,-1291 998,-1458 203,-167 390,-319 421,-456 31,-137 78,-243 78,-243 0,0 468,106 546,30 78,-76 109,-152 265,-91 156,61 530,106 639,395 109,289 109,425 218,243 109,-182 312,-668 499,-683 187,-15 748,76 748,76 0,0 281,334 374,319 93,-15 296,-121 325,-135z"/>
+   <rect class="fil6 str2" x="5145" y="46305" width="18779" height="6644"/>
+   <path class="fil9 str3" d="M5145 39466c371,-124 973,-254 1336,-139 554,176 1615,352 2122,352 508,0 997,139 1569,-159 572,-298 1338,-281 1984,-149 646,132 1707,308 1938,308 231,0 1984,-439 2353,-439 369,0 1061,44 1845,264 784,220 1338,220 2168,44 830,-176 1292,-395 1753,-308 461,88 1015,439 1292,439 173,0 328,17 419,-22l-1 6648 -18779 0 1 -6839z"/>
+   <rect class="fil6 str0" x="52775" y="26744" width="18779" height="5463"/>
+   <path class="fil9 str3" d="M52775 17017c371,-119 973,-244 1336,-134 554,169 1615,338 2122,338 508,0 997,134 1569,-152 572,-286 1338,-270 1984,-143 646,127 1707,295 1938,295 231,0 1984,-422 2353,-422 369,0 1061,42 1845,253 784,211 1338,211 2168,42 830,-169 1292,-380 1753,-295 461,84 1015,422 1292,422 173,0 328,16 419,-21l-1 6385 -18779 0 1 -6568z"/>
+   <g>
+    <rect class="fil6 str0" x="5176" y="23866" width="18779" height="8341"/>
+    <path class="fil9 str3" d="M5176 17027c371,-124 973,-254 1336,-139 554,176 1615,352 2122,352 508,0 997,139 1569,-159 572,-298 1338,-281 1984,-149 646,132 1707,308 1938,308 231,0 1984,-439 2353,-439 369,0 1061,44 1845,264 784,220 1338,220 2168,44 830,-176 1292,-395 1753,-308 461,88 1015,439 1292,439 173,0 328,17 419,-22l-1 6648 -18779 0 1 -6839z"/>
+   </g>
+   <rect class="fil10" x="6314" y="18126" width="127" height="127"/>
+   <rect class="fil10" x="7288" y="18257" width="127" height="127"/>
+   <rect class="fil10" x="8227" y="18403" width="127" height="127"/>
+   <rect class="fil10" x="10021" y="18111" width="127" height="127"/>
+   <rect class="fil10" x="10960" y="18069" width="127" height="127"/>
+   <rect class="fil10" x="12171" y="18778" width="127" height="127"/>
+   <rect class="fil10" x="13172" y="18799" width="127" height="127"/>
+   <rect class="fil10" x="14132" y="18757" width="127" height="127"/>
+   <rect class="fil10" x="11649" y="20281" width="127" height="127"/>
+   <rect class="fil10" x="10647" y="20239" width="127" height="127"/>
+   <rect class="fil10" x="6975" y="19947" width="127" height="127"/>
+   <rect class="fil10" x="6015" y="19947" width="127" height="127"/>
+   <rect class="fil10" x="5973" y="21533" width="127" height="127"/>
+   <rect class="fil10" x="6223" y="22994" width="127" height="127"/>
+   <rect class="fil10" x="7183" y="22994" width="127" height="127"/>
+   <rect class="fil10" x="8185" y="22889" width="127" height="127"/>
+   <rect class="fil10" x="8540" y="21700" width="127" height="127"/>
+   <rect class="fil10" x="9500" y="21888" width="127" height="127"/>
+   <rect class="fil10" x="10418" y="22076" width="127" height="127"/>
+   <rect class="fil10" x="11420" y="22201" width="127" height="127"/>
+   <rect class="fil10" x="12296" y="21303" width="127" height="127"/>
+   <rect class="fil10" x="11628" y="23244" width="127" height="127"/>
+   <rect class="fil10" x="14425" y="23202" width="127" height="127"/>
+   <rect class="fil10" x="14842" y="19550" width="127" height="127"/>
+   <rect class="fil10" x="15760" y="19237" width="127" height="127"/>
+   <rect class="fil10" x="16720" y="18277" width="127" height="127"/>
+   <rect class="fil10" x="17680" y="18048" width="127" height="127"/>
+   <rect class="fil10" x="17096" y="20218" width="127" height="127"/>
+   <rect class="fil10" x="18097" y="20239" width="127" height="127"/>
+   <rect class="fil10" x="17430" y="21596" width="127" height="127"/>
+   <rect class="fil10" x="17367" y="23244" width="127" height="127"/>
+   <rect class="fil10" x="18348" y="23286" width="127" height="127"/>
+   <rect class="fil10" x="19308" y="23328" width="127" height="127"/>
+   <rect class="fil10" x="20289" y="23348" width="127" height="127"/>
+   <rect class="fil10" x="21332" y="19070" width="127" height="127"/>
+   <rect class="fil10" x="22208" y="18632" width="127" height="127"/>
+   <rect class="fil10" x="21895" y="18048" width="127" height="127"/>
+   <rect class="fil10" x="20935" y="18006" width="127" height="127"/>
+   <rect class="fil10" x="21144" y="26792" width="127" height="127"/>
+   <rect class="fil10" x="20142" y="26792" width="127" height="127"/>
+   <rect class="fil10" x="18327" y="26500" width="127" height="127"/>
+   <rect class="fil10" x="19433" y="29025" width="127" height="127"/>
+   <rect class="fil10" x="18473" y="29046" width="127" height="127"/>
+   <rect class="fil10" x="15092" y="26166" width="127" height="127"/>
+   <rect class="fil10" x="14112" y="26207" width="127" height="127"/>
+   <rect class="fil10" x="13673" y="25331" width="127" height="127"/>
+   <rect class="fil10" x="12797" y="25686" width="127" height="127"/>
+   <rect class="fil10" x="13152" y="26187" width="127" height="127"/>
+   <rect class="fil10" x="11858" y="29025" width="127" height="127"/>
+   <rect class="fil10" x="12818" y="29025" width="127" height="127"/>
+   <rect class="fil10" x="9416" y="26479" width="127" height="127"/>
+   <rect class="fil10" x="10334" y="24872" width="127" height="127"/>
+   <rect class="fil10" x="9333" y="24893" width="127" height="127"/>
+   <rect class="fil10" x="8352" y="24851" width="127" height="127"/>
+   <rect class="fil10" x="8540" y="26771" width="127" height="127"/>
+   <rect class="fil10" x="8018" y="28628" width="127" height="127"/>
+   <rect class="fil10" x="7079" y="28649" width="127" height="127"/>
+   <circle class="fil1 str3" cx="6423" cy="19189" r="212"/>
+   <circle class="fil1 str3" cx="10304" cy="19544" r="212"/>
+   <circle class="fil1 str3" cx="6610" cy="22340" r="170"/>
+   <circle class="fil1 str3" cx="10829" cy="21773" r="153"/>
+   <circle class="fil1 str3" cx="9609" cy="24476" r="163"/>
+   <ellipse class="fil1 str3" cx="6673" cy="24768" rx="212" ry="205"/>
+   <ellipse class="fil1 str3" cx="14123" cy="18309" rx="212" ry="153"/>
+   <circle class="fil1 str3" cx="14147" cy="22671" r="153"/>
+   <circle class="fil1 str3" cx="8283" cy="25884" r="153"/>
+   <circle class="fil1 str3" cx="12561" cy="27742" r="153"/>
+   <circle class="fil1 str3" cx="10579" cy="26824" r="153"/>
+   <circle class="fil1 str3" cx="15462" cy="24904" r="153"/>
+   <ellipse class="fil1 str3" cx="11807" cy="25665" rx="212" ry="205"/>
+   <ellipse class="fil1 str3" cx="19591" cy="18747" rx="212" ry="174"/>
+   <ellipse class="fil1 str3" cx="18338" cy="22608" rx="212" ry="174"/>
+   <ellipse class="fil1 str3" cx="18005" cy="24935" rx="212" ry="205"/>
+   <ellipse class="fil1 str3" cx="19298" cy="26062" rx="212" ry="205"/>
+   <circle class="fil1 str3" cx="17372" cy="25811" r="143"/>
+   <circle class="fil1 str3" cx="16624" cy="26997" r="167"/>
+   <ellipse class="fil1 str3" cx="22533" cy="28670" rx="212" ry="205"/>
+   <ellipse class="fil1 str3" cx="19924" cy="29317" rx="212" ry="205"/>
+   <ellipse class="fil1 str3" cx="16648" cy="28900" rx="212" ry="205"/>
+   <ellipse class="fil1 str3" cx="12120" cy="29818" rx="212" ry="205"/>
+   <ellipse class="fil1 str3" cx="6840" cy="30298" rx="212" ry="205"/>
+   <ellipse class="fil1 str3" cx="7675" cy="27272" rx="212" ry="205"/>
+   <circle class="fil1 str3" cx="8409" cy="29140" r="153"/>
+   <polygon class="fil11 str4" points="13519,21287 14466,21287 13977,21989 "/>
+   <line class="fil1 str5" x1="5196" y1="21959" x2="24055" y2= "21989" />
+   <line class="fil1 str3" x1="5196" y1="23893" x2="23932" y2= "23893" />
+   <line class="fil1 str3" x1="5086" y1="28053" x2="7259" y2= "30289" />
+   <line class="fil1 str3" x1="5055" y1="25756" x2="9557" y2= "30289" />
+   <line class="fil1 str3" x1="5520" y1="23924" x2="11916" y2= "30320" />
+   <line class="fil1 str3" x1="7849" y1="23955" x2="14121" y2= "30289" />
+   <line class="fil1 str3" x1="10053" y1="23893" x2="16480" y2= "30320" />
+   <line class="fil1 str3" x1="12413" y1="23955" x2="18747" y2= "30320" />
+   <line class="fil1 str3" x1="14679" y1="23924" x2="21044" y2= "30289" />
+   <line class="fil1 str3" x1="16977" y1="23924" x2="23280" y2= "30258" />
+   <line class="fil1 str3" x1="19244" y1="23924" x2="23559" y2= "28271" />
+   <line class="fil1 str3" x1="21541" y1="23924" x2="23528" y2= "25973" />
+   <line class="fil1 str3" x1="6886" y1="23893" x2="5086" y2= "25663" />
+   <line class="fil1 str3" x1="9122" y1="23893" x2="5055" y2= "27991" />
+   <line class="fil1 str3" x1="11388" y1="23955" x2="5148" y2= "30227" />
+   <line class="fil1 str3" x1="13686" y1="23924" x2="7383" y2= "30258" />
+   <line class="fil1 str3" x1="15952" y1="23924" x2="9650" y2= "30258" />
+   <line class="fil1 str3" x1="18281" y1="23924" x2="11916" y2= "30320" />
+   <line class="fil1 str3" x1="20579" y1="23893" x2="14183" y2= "30258" />
+   <line class="fil1 str3" x1="22845" y1="23893" x2="16511" y2= "30258" />
+   <line class="fil1 str3" x1="23528" y1="25476" x2="18716" y2= "30320" />
+   <line class="fil1 str3" x1="23994" y1="27339" x2="20982" y2= "30382" />
+   <line class="fil1 str3" x1="23559" y1="30103" x2="23311" y2= "30320" />
+   <rect class="fil10" x="53407" y="18195" width="127" height="127"/>
+   <ellipse class="fil1 str3" cx="53570" cy="19189" rx="212" ry="174"/>
+   <rect class="fil10" x="54385" y="18308" width="127" height="127"/>
+   <rect class="fil10" x="55408" y="18445" width="127" height="127"/>
+   <rect class="fil10" x="57181" y="18195" width="127" height="127"/>
+   <rect class="fil10" x="58181" y="18149" width="127" height="127"/>
+   <rect class="fil10" x="59409" y="18786" width="127" height="127"/>
+   <rect class="fil10" x="60341" y="18786" width="127" height="127"/>
+   <rect class="fil10" x="61296" y="18763" width="127" height="127"/>
+   <rect class="fil10" x="58863" y="20195" width="127" height="127"/>
+   <rect class="fil10" x="57886" y="20172" width="127" height="127"/>
+   <rect class="fil10" x="54225" y="19854" width="127" height="127"/>
+   <rect class="fil10" x="53248" y="19854" width="127" height="127"/>
+   <rect class="fil10" x="54498" y="21923" width="127" height="127"/>
+   <rect class="fil10" x="55453" y="21855" width="127" height="127"/>
+   <rect class="fil10" x="56476" y="21787" width="127" height="127"/>
+   <rect class="fil10" x="53703" y="23082" width="127" height="127"/>
+   <rect class="fil10" x="54294" y="23878" width="127" height="127"/>
+   <rect class="fil10" x="55271" y="23833" width="127" height="127"/>
+   <rect class="fil10" x="56249" y="23787" width="127" height="127"/>
+   <rect class="fil10" x="59795" y="22150" width="127" height="127"/>
+   <rect class="fil10" x="59955" y="22901" width="127" height="127"/>
+   <rect class="fil10" x="59659" y="24151" width="127" height="127"/>
+   <rect class="fil10" x="62592" y="22150" width="127" height="127"/>
+   <rect class="fil10" x="61751" y="23333" width="127" height="127"/>
+   <rect class="fil10" x="62023" y="19536" width="127" height="127"/>
+   <rect class="fil10" x="62910" y="19240" width="127" height="127"/>
+   <rect class="fil10" x="63865" y="18308" width="127" height="127"/>
+   <rect class="fil10" x="64797" y="18126" width="127" height="127"/>
+   <rect class="fil10" x="64251" y="20195" width="127" height="127"/>
+   <rect class="fil10" x="65274" y="20195" width="127" height="127"/>
+   <ellipse class="fil1 str3" cx="61277" cy="18358" rx="212" ry="139"/>
+   <ellipse class="fil1 str3" cx="57457" cy="19553" rx="212" ry="171"/>
+   <circle class="fil1 str3" cx="54823" cy="21236" r="171"/>
+   <circle class="fil1 str3" cx="58575" cy="23441" r="171"/>
+   <circle class="fil1 str3" cx="62360" cy="21588" r="136"/>
+   <ellipse class="fil1 str3" cx="66756" cy="18826" rx="212" ry="148"/>
+   <ellipse class="fil1 str3" cx="66574" cy="21520" rx="212" ry="182"/>
+   <rect class="fil10" x="68071" y="18126" width="127" height="127"/>
+   <rect class="fil10" x="69367" y="18649" width="127" height="127"/>
+   <rect class="fil10" x="69003" y="18104" width="127" height="127"/>
+   <rect class="fil10" x="68480" y="19127" width="127" height="127"/>
+   <rect class="fil10" x="68412" y="22264" width="127" height="127"/>
+   <rect class="fil10" x="67502" y="22264" width="127" height="127"/>
+   <rect class="fil10" x="66525" y="22241" width="127" height="127"/>
+   <rect class="fil10" x="65570" y="22219" width="127" height="127"/>
+   <rect class="fil10" x="65115" y="23287" width="127" height="127"/>
+   <rect class="fil10" x="68094" y="23492" width="127" height="127"/>
+   <rect class="fil10" x="69048" y="23492" width="127" height="127"/>
+   <rect class="fil10" x="70026" y="23492" width="127" height="127"/>
+   <polygon class="fil11 str4" points="61193,22793 62140,22793 61651,23495 "/>
+   <line class="fil1 str3" x1="52731" y1="23588" x2="71703" y2= "23588" />
+   <line class="fil1 str5" x1="52703" y1="24062" x2="71587" y2= "24032" />
+   <circle class="fil1 str3" cx="57389" cy="25369" r="136"/>
+   <ellipse class="fil1 str3" cx="54412" cy="25680" rx="212" ry="214"/>
+   <ellipse class="fil1 str3" cx="59549" cy="26573" rx="212" ry="214"/>
+   <ellipse class="fil1 str3" cx="65763" cy="25804" rx="212" ry="214"/>
+   <ellipse class="fil1 str3" cx="67068" cy="26926" rx="212" ry="214"/>
+   <circle class="fil1 str3" cx="63230" cy="25784" r="136"/>
+   <circle class="fil1 str3" cx="65115" cy="26740" r="136"/>
+   <ellipse class="fil1 str3" cx="70299" cy="29543" rx="212" ry="214"/>
+   <circle class="fil1 str3" cx="64411" cy="27924" r="136"/>
+   <circle class="fil1 str3" cx="60330" cy="28651" r="136"/>
+   <circle class="fil1 str3" cx="58342" cy="27716" r="136"/>
+   <circle class="fil1 str3" cx="56146" cy="30022" r="136"/>
+   <ellipse class="fil1 str3" cx="55448" cy="28172" rx="212" ry="214"/>
+   <rect class="fil10" x="68322" y="24267" width="127" height="127"/>
+   <rect class="fil10" x="67338" y="24220" width="127" height="127"/>
+   <rect class="fil10" x="66354" y="24189" width="127" height="127"/>
+   <rect class="fil10" x="65402" y="24189" width="127" height="127"/>
+   <rect class="fil10" x="62435" y="24110" width="127" height="127"/>
+   <rect class="fil10" x="69868" y="27697" width="127" height="127"/>
+   <rect class="fil10" x="68900" y="27665" width="127" height="127"/>
+   <rect class="fil10" x="67932" y="27681" width="127" height="127"/>
+   <rect class="fil10" x="66151" y="27368" width="127" height="127"/>
+   <rect class="fil10" x="65214" y="27728" width="127" height="127"/>
+   <rect class="fil10" x="67260" y="29905" width="127" height="127"/>
+   <rect class="fil10" x="66292" y="29936" width="127" height="127"/>
+   <rect class="fil10" x="62872" y="27070" width="127" height="127"/>
+   <rect class="fil10" x="61904" y="27070" width="127" height="127"/>
+   <rect class="fil10" x="60967" y="27086" width="127" height="127"/>
+   <rect class="fil10" x="61514" y="26240" width="127" height="127"/>
+   <rect class="fil10" x="60592" y="26538" width="127" height="127"/>
+   <rect class="fil10" x="60608" y="29905" width="127" height="127"/>
+   <rect class="fil10" x="59608" y="29874" width="127" height="127"/>
+   <rect class="fil10" x="57188" y="27289" width="127" height="127"/>
+   <rect class="fil10" x="58109" y="25755" width="127" height="127"/>
+   <rect class="fil10" x="57110" y="25723" width="127" height="127"/>
+   <rect class="fil10" x="56157" y="25755" width="127" height="127"/>
+   <rect class="fil10" x="56313" y="27650" width="127" height="127"/>
+   <rect class="fil10" x="55829" y="29529" width="127" height="127"/>
+   <rect class="fil10" x="54830" y="29529" width="127" height="127"/>
+   <line class="fil1 str3" x1="55554" y1="23587" x2="52674" y2= "25428" />
+   <line class="fil1 str3" x1="58434" y1="23587" x2="53446" y2= "26734" />
+   <line class="fil1 str3" x1="61403" y1="23587" x2="56385" y2= "26734" />
+   <line class="fil1 str3" x1="64283" y1="23557" x2="59354" y2= "26704" />
+   <line class="fil1 str3" x1="67222" y1="23587" x2="62353" y2= "26704" />
+   <line class="fil1 str3" x1="70162" y1="23557" x2="65203" y2= "26764" />
+   <line class="fil1 str3" x1="71676" y1="24537" x2="68172" y2= "26764" />
+   <rect class="fil10" x="68101" y="23354" width="127" height="127"/>
+   <rect class="fil10" x="69121" y="23354" width="127" height="127"/>
+   <rect class="fil10" x="70004" y="23410" width="127" height="127"/>
+   <circle class="fil1 str3" cx="56066" cy="26723" r="136"/>
+   <line class="fil1 str3" x1="52731" y1="26713" x2="71703" y2= "26713" />
+   <line class="fil1 str3" x1="53949" y1="26730" x2="52705" y2= "28021" />
+   <line class="fil1 str3" x1="56253" y1="26730" x2="52748" y2= "30256" />
+   <line class="fil1 str3" x1="58503" y1="26741" x2="54998" y2= "30310" />
+   <line class="fil1 str3" x1="60786" y1="26730" x2="57249" y2= "30288" />
+   <line class="fil1 str3" x1="63058" y1="26741" x2="59607" y2= "30299" />
+   <line class="fil1 str3" x1="65351" y1="26741" x2="61890" y2= "30288" />
+   <line class="fil1 str3" x1="67645" y1="26730" x2="64172" y2= "30299" />
+   <line class="fil1 str3" x1="69938" y1="26730" x2="66466" y2= "30288" />
+   <line class="fil1 str3" x1="71648" y1="27370" x2="68748" y2= "30278" />
+   <line class="fil1 str3" x1="71637" y1="29670" x2="71053" y2= "30278" />
+   <line class="fil1 str3" x1="69776" y1="26773" x2="71626" y2= "28650" />
+   <line class="fil1 str3" x1="67504" y1="26762" x2="70988" y2= "30310" />
+   <line class="fil1 str3" x1="65200" y1="26751" x2="68683" y2= "30299" />
+   <line class="fil1 str3" x1="62874" y1="26773" x2="66379" y2= "30288" />
+   <line class="fil1 str3" x1="60581" y1="26730" x2="64129" y2= "30321" />
+   <line class="fil1 str3" x1="58287" y1="26741" x2="61825" y2= "30310" />
+   <line class="fil1 str3" x1="56026" y1="26741" x2="59520" y2= "30310" />
+   <line class="fil1 str3" x1="53711" y1="26730" x2="57238" y2= "30310" />
+   <line class="fil1 str3" x1="52716" y1="28032" x2="54955" y2= "30310" />
+   <rect class="fil10" x="6493" y="43545" width="127" height="127"/>
+   <rect class="fil10" x="9943" y="45894" width="124" height="127"/>
+   <rect class="fil10" x="7933" y="44977" width="127" height="127"/>
+   <rect class="fil10" x="8963" y="44930" width="127" height="127"/>
+   <rect class="fil10" x="9060" y="43769" width="127" height="127"/>
+   <rect class="fil10" x="10020" y="43986" width="127" height="127"/>
+   <rect class="fil10" x="9705" y="44776" width="127" height="127"/>
+   <rect class="fil10" x="11911" y="44356" width="127" height="127"/>
+   <rect class="fil10" x="12816" y="43373" width="127" height="127"/>
+   <rect class="fil10" x="12665" y="45113" width="127" height="127"/>
+   <rect class="fil10" x="13683" y="45186" width="127" height="127"/>
+   <rect class="fil10" x="17967" y="43874" width="127" height="127"/>
+   <rect class="fil10" x="16597" y="45514" width="127" height="127"/>
+   <rect class="fil10" x="17520" y="45212" width="127" height="127"/>
+   <rect class="fil10" x="19083" y="44967" width="127" height="127"/>
+   <rect class="fil10" x="20063" y="44959" width="127" height="127"/>
+   <rect class="fil10" x="21996" y="47427" width="124" height="127"/>
+   <rect class="fil10" x="21048" y="47485" width="124" height="127"/>
+   <rect class="fil10" x="18384" y="48970" width="124" height="127"/>
+   <rect class="fil10" x="19546" y="49746" width="124" height="127"/>
+   <rect class="fil10" x="18387" y="47215" width="124" height="127"/>
+   <rect class="fil10" x="15204" y="47059" width="124" height="127"/>
+   <rect class="fil10" x="13542" y="48117" width="124" height="127"/>
+   <rect class="fil10" x="12995" y="48156" width="124" height="127"/>
+   <rect class="fil10" x="12164" y="49890" width="124" height="127"/>
+   <rect class="fil10" x="13127" y="49918" width="124" height="127"/>
+   <rect class="fil10" x="9701" y="48949" width="124" height="127"/>
+   <rect class="fil10" x="7494" y="49665" width="124" height="127"/>
+   <rect class="fil10" x="9703" y="47363" width="124" height="127"/>
+   <rect class="fil10" x="8859" y="47694" width="124" height="127"/>
+   <rect class="fil10" x="8456" y="49672" width="124" height="127"/>
+   <rect class="fil10" x="7423" y="51120" width="124" height="127"/>
+   <circle class="fil1 str3" cx="7102" cy="44410" r="170"/>
+   <circle class="fil1 str3" cx="11378" cy="43929" r="153"/>
+   <ellipse class="fil1 str3" cx="8503" cy="46844" rx="115" ry="118"/>
+   <circle class="fil1 str3" cx="18653" cy="46002" r="153"/>
+   <ellipse class="fil1 str3" cx="8030" cy="48249" rx="196" ry="202"/>
+   <ellipse class="fil1 str3" cx="12491" cy="50733" rx="181" ry="186"/>
+   <ellipse class="fil1 str3" cx="10862" cy="47746" rx="149" ry="153"/>
+   <ellipse class="fil1 str3" cx="16682" cy="47804" rx="149" ry="153"/>
+   <circle class="fil1 str3" cx="12815" cy="48635" r="97"/>
+   <ellipse class="fil1 str3" cx="20743" cy="41093" rx="212" ry="174"/>
+   <ellipse class="fil1 str3" cx="19272" cy="46746" rx="207" ry="205"/>
+   <ellipse class="fil1 str3" cx="22544" cy="49307" rx="207" ry="205"/>
+   <ellipse class="fil1 str3" cx="17342" cy="46590" rx="139" ry="143"/>
+   <ellipse class="fil1 str3" cx="16889" cy="49694" rx="215" ry="221"/>
+   <ellipse class="fil1 str3" cx="20080" cy="50023" rx="207" ry="205"/>
+   <ellipse class="fil1 str3" cx="11916" cy="46583" rx="207" ry="205"/>
+   <ellipse class="fil1 str3" cx="7358" cy="51364" rx="207" ry="205"/>
+   <ellipse class="fil1 str3" cx="8831" cy="50177" rx="149" ry="153"/>
+   <line class="fil1 str5" x1="5402" y1="44602" x2="23958" y2= "44288" />
+   <line class="fil1 str3" x1="5481" y1="49578" x2="7292" y2= "51469" />
+   <line class="fil1 str3" x1="5171" y1="46994" x2="9530" y2= "51441" />
+   <line class="fil1 str3" x1="6966" y1="46481" x2="11690" y2= "51357" />
+   <line class="fil1 str3" x1="9096" y1="46397" x2="13894" y2= "51326" />
+   <line class="fil1 str3" x1="11356" y1="46364" x2="16054" y2= "51242" />
+   <line class="fil1 str3" x1="13515" y1="46340" x2="18235" y2= "51214" />
+   <line class="fil1 str3" x1="15696" y1="46251" x2="20390" y2= "51125" />
+   <line class="fil1 str3" x1="17851" y1="46194" x2="22596" y2= "51066" />
+   <line class="fil1 str3" x1="20032" y1="46165" x2="23930" y2= "50139" />
+   <line class="fil1 str3" x1="22215" y1="46137" x2="23648" y2= "47584" />
+   <line class="fil1 str3" x1="5559" y1="46421" x2="5090" y2= "46929" />
+   <line class="fil1 str3" x1="7766" y1="46392" x2="5423" y2= "48885" />
+   <line class="fil1 str3" x1="10058" y1="46368" x2="5653" y2= "50920" />
+   <line class="fil1 str3" x1="12297" y1="46337" x2="7357" y2= "51496" />
+   <line class="fil1 str3" x1="14590" y1="46309" x2="9677" y2= "51352" />
+   <line class="fil1 str3" x1="16943" y1="46223" x2="12025" y2= "51300" />
+   <line class="fil1 str3" x1="19182" y1="46163" x2="14234" y2= "51266" />
+   <line class="fil1 str3" x1="21446" y1="46192" x2="16531" y2= "51209" />
+   <line class="fil1 str3" x1="23704" y1="46112" x2="18847" y2= "51128" />
+   <line class="fil1 str3" x1="23711" y1="48405" x2="21084" y2= "51132" />
+   <line class="fil1 str3" x1="23958" y1="50480" x2="23353" y2= "51099" />
+   <rect class="fil10" x="10594" y="44833" width="127" height="127"/>
+   <rect class="fil10" x="10967" y="44145" width="127" height="127"/>
+   <rect class="fil10" x="10958" y="45436" width="127" height="127"/>
+   <ellipse class="fil1 str3" cx="6516" cy="45424" rx="187" ry="189"/>
+   <ellipse class="fil1 str3" cx="7534" cy="41821" rx="230" ry="207"/>
+   <rect class="fil10" x="7439" y="40850" width="127" height="127"/>
+   <rect class="fil10" x="8328" y="40964" width="127" height="127"/>
+   <rect class="fil10" x="9332" y="40993" width="127" height="127"/>
+   <rect class="fil10" x="8128" y="42627" width="127" height="127"/>
+   <rect class="fil10" x="7181" y="42599" width="127" height="127"/>
+   <rect class="fil10" x="11109" y="40764" width="127" height="127"/>
+   <rect class="fil10" x="12084" y="40678" width="127" height="127"/>
+   <rect class="fil10" x="13317" y="41280" width="127" height="127"/>
+   <rect class="fil10" x="14263" y="41280" width="127" height="127"/>
+   <rect class="fil10" x="15181" y="41280" width="127" height="127"/>
+   <rect class="fil10" x="15927" y="42054" width="127" height="127"/>
+   <rect class="fil10" x="16787" y="41710" width="127" height="127"/>
+   <rect class="fil10" x="17790" y="40678" width="127" height="127"/>
+   <rect class="fil10" x="18736" y="40420" width="127" height="127"/>
+   <ellipse class="fil1 str3" cx="11405" cy="42160" rx="230" ry="183"/>
+   <ellipse class="fil1 str3" cx="15272" cy="40770" rx="230" ry="162"/>
+   <rect class="fil10" x="12780" y="42784" width="127" height="127"/>
+   <rect class="fil10" x="18239" y="42688" width="127" height="127"/>
+   <rect class="fil10" x="19209" y="42664" width="127" height="127"/>
+   <rect class="fil10" x="20896" y="44093" width="127" height="127"/>
+   <rect class="fil10" x="21878" y="44141" width="127" height="127"/>
+   <rect class="fil10" x="22848" y="44141" width="127" height="127"/>
+   <rect class="fil10" x="22464" y="41380" width="127" height="127"/>
+   <rect class="fil10" x="23266" y="40876" width="127" height="127"/>
+   <rect class="fil10" x="22991" y="40311" width="127" height="127"/>
+   <rect class="fil10" x="22081" y="40347" width="127" height="127"/>
+   <circle class="fil1 str3" cx="13664" cy="45858" r="153"/>
+   <ellipse class="fil1 str3" cx="23399" cy="44665" rx="210" ry="204"/>
+   <rect class="fil10" x="20070" y="47513" width="124" height="127"/>
+   <rect class="fil10" x="18638" y="49739" width="124" height="127"/>
+   <rect class="fil10" x="17465" y="47531" width="124" height="127"/>
+   <rect class="fil10" x="14213" y="47056" width="124" height="127"/>
+   <rect class="fil10" x="13263" y="46999" width="124" height="127"/>
+   <rect class="fil10" x="12695" y="48427" width="124" height="127"/>
+   <rect class="fil10" x="14512" y="43886" width="127" height="127"/>
+   <ellipse class="fil1 str3" cx="54198" cy="47084" rx="155" ry="141"/>
+   <rect class="fil10" x="61319" y="46689" width="127" height="127"/>
+   <rect class="fil10" x="59565" y="46268" width="127" height="127"/>
+   <rect class="fil10" x="53737" y="42624" width="127" height="127"/>
+   <rect class="fil10" x="54923" y="46054" width="127" height="127"/>
+   <rect class="fil10" x="55907" y="46033" width="127" height="127"/>
+   <rect class="fil10" x="56829" y="46012" width="127" height="127"/>
+   <rect class="fil10" x="57311" y="47039" width="127" height="127"/>
+   <rect class="fil10" x="56410" y="47353" width="127" height="127"/>
+   <rect class="fil10" x="61011" y="44131" width="127" height="127"/>
+   <rect class="fil10" x="61995" y="44089" width="127" height="127"/>
+   <rect class="fil10" x="62938" y="44089" width="127" height="127"/>
+   <rect class="fil10" x="61744" y="42853" width="127" height="127"/>
+   <rect class="fil10" x="60026" y="42413" width="127" height="127"/>
+   <rect class="fil10" x="60550" y="40297" width="127" height="127"/>
+   <rect class="fil10" x="61535" y="40234" width="127" height="127"/>
+   <rect class="fil10" x="62498" y="40234" width="127" height="127"/>
+   <rect class="fil10" x="63169" y="40988" width="127" height="127"/>
+   <rect class="fil10" x="64091" y="40653" width="127" height="127"/>
+   <rect class="fil10" x="65159" y="42811" width="127" height="127"/>
+   <rect class="fil10" x="64552" y="44487" width="127" height="127"/>
+   <rect class="fil10" x="63609" y="44780" width="127" height="127"/>
+   <ellipse class="fil1 str3" cx="58012" cy="46036" rx="155" ry="141"/>
+   <ellipse class="fil1 str3" cx="59084" cy="44947" rx="201" ry="183"/>
+   <ellipse class="fil1 str3" cx="58623" cy="41154" rx="201" ry="183"/>
+   <ellipse class="fil1 str3" cx="62311" cy="47105" rx="201" ry="204"/>
+   <ellipse class="fil1 str3" cx="58556" cy="42946" rx="155" ry="152"/>
+   <ellipse class="fil1 str3" cx="54303" cy="43428" rx="155" ry="152"/>
+   <ellipse class="fil1 str3" cx="59816" cy="47996" rx="224" ry="214"/>
+   <ellipse class="fil1 str3" cx="58724" cy="49158" rx="155" ry="141"/>
+   <ellipse class="fil1 str3" cx="56377" cy="48299" rx="134" ry="141"/>
+   <ellipse class="fil1 str3" cx="55839" cy="49682" rx="224" ry="204"/>
+   <ellipse class="fil1 str3" cx="56660" cy="51547" rx="124" ry="141"/>
+   <ellipse class="fil1 str3" cx="60725" cy="50023" rx="124" ry="126"/>
+   <rect class="fil10" x="57553" y="48762" width="127" height="127"/>
+   <rect class="fil10" x="56631" y="49160" width="127" height="127"/>
+   <rect class="fil10" x="55311" y="51087" width="127" height="127"/>
+   <rect class="fil10" x="56254" y="51108" width="127" height="127"/>
+   <rect class="fil10" x="60131" y="51255" width="127" height="127"/>
+   <rect class="fil10" x="61095" y="51276" width="127" height="127"/>
+   <rect class="fil10" x="61514" y="49432" width="127" height="127"/>
+   <rect class="fil10" x="61220" y="48405" width="127" height="127"/>
+   <rect class="fil10" x="62205" y="48426" width="127" height="127"/>
+   <rect class="fil10" x="63148" y="48363" width="127" height="127"/>
+   <ellipse class="fil1 str3" cx="65398" cy="47907" rx="124" ry="126"/>
+   <ellipse class="fil1 str3" cx="64716" cy="49175" rx="155" ry="157"/>
+   <ellipse class="fil1 str3" cx="67565" cy="45361" rx="217" ry="178"/>
+   <ellipse class="fil1 str3" cx="67312" cy="48104" rx="240" ry="197"/>
+   <rect class="fil10" x="65537" y="48950" width="127" height="127"/>
+   <rect class="fil10" x="66417" y="48573" width="127" height="127"/>
+   <rect class="fil10" x="68240" y="48804" width="127" height="127"/>
+   <rect class="fil10" x="69224" y="48783" width="127" height="127"/>
+   <rect class="fil10" x="70209" y="48762" width="127" height="127"/>
+   <ellipse class="fil1 str3" cx="64915" cy="51071" rx="207" ry="210"/>
+   <rect class="fil10" x="60613" y="49788" width="127" height="127"/>
+   <ellipse class="fil1 str3" cx="68204" cy="51385" rx="207" ry="210"/>
+   <ellipse class="fil1 str3" cx="70782" cy="50652" rx="207" ry="210"/>
+   <rect class="fil10" x="66731" y="51108" width="127" height="127"/>
+   <rect class="fil10" x="67737" y="51087" width="127" height="127"/>
+   <rect class="fil10" x="69581" y="46918" width="127" height="127"/>
+   <rect class="fil10" x="68617" y="46939" width="127" height="127"/>
+   <rect class="fil10" x="67653" y="46918" width="127" height="127"/>
+   <rect class="fil10" x="66940" y="45765" width="127" height="127"/>
+   <rect class="fil10" x="66018" y="45514" width="127" height="127"/>
+   <rect class="fil10" x="64133" y="45891" width="127" height="127"/>
+   <rect class="fil10" x="63169" y="46247" width="127" height="127"/>
+   <rect class="fil10" x="64677" y="46666" width="127" height="127"/>
+   <rect class="fil10" x="68087" y="43121" width="127" height="127"/>
+   <rect class="fil10" x="69051" y="43086" width="127" height="127"/>
+   <rect class="fil10" x="70050" y="43086" width="127" height="127"/>
+   <ellipse class="fil1 str3" cx="67944" cy="40057" rx="217" ry="178"/>
+   <line class="fil1 str3" x1="71690" y1="45435" x2="68809" y2= "47350" />
+   <line class="fil1 str3" x1="69532" y1="44986" x2="65702" y2= "47539" />
+   <line class="fil1 str3" x1="66574" y1="45048" x2="62807" y2= "47601" />
+   <line class="fil1 str3" x1="63554" y1="45173" x2="59787" y2= "47695" />
+   <line class="fil1 str3" x1="60783" y1="45204" x2="56892" y2= "47726" />
+   <line class="fil1 str3" x1="57701" y1="45329" x2="53934" y2= "47819" />
+   <line class="fil1 str3" x1="54962" y1="45360" x2="52876" y2= "46699" />
+   <line class="fil1 str3" x1="53000" y1="45360" x2="55429" y2= "45360" />
+   <line class="fil1 str3" x1="56114" y1="45360" x2="71680" y2= "44924" />
+   <line class="fil1 str3" x1="52860" y1="47904" x2="71842" y2= "47403" />
+   <line class="fil1 str3" x1="52948" y1="49499" x2="54572" y2= "47904" />
+   <line class="fil1 str3" x1="53273" y1="51506" x2="56963" y2= "47845" />
+   <line class="fil1 str3" x1="55133" y1="51978" x2="59295" y2= "47757" />
+   <line class="fil1 str3" x1="57435" y1="51949" x2="61686" y2= "47668" />
+   <line class="fil1 str3" x1="59767" y1="51890" x2="64018" y2= "47609" />
+   <line class="fil1 str3" x1="62129" y1="51831" x2="66351" y2= "47580" />
+   <line class="fil1 str3" x1="64461" y1="51772" x2="68771" y2= "47491" />
+   <line class="fil1 str3" x1="66852" y1="51713" x2="71133" y2= "47403" />
+   <line class="fil1 str3" x1="69185" y1="51683" x2="71635" y2= "49144" />
+   <line class="fil1 str3" x1="71487" y1="51624" x2="71960" y2= "51122" />
+   <line class="fil1 str3" x1="71517" y1="47993" x2="71015" y2= "47432" />
+   <line class="fil1 str3" x1="71960" y1="50738" x2="68683" y2= "47521" />
+   <line class="fil1 str3" x1="70602" y1="51595" x2="66528" y2= "47580" />
+   <line class="fil1 str3" x1="68388" y1="51683" x2="64314" y2= "47609" />
+   <line class="fil1 str3" x1="66144" y1="51713" x2="62100" y2= "47698" />
+   <line class="fil1 str3" x1="63871" y1="51742" x2="59826" y2= "47786" />
+   <line class="fil1 str3" x1="61657" y1="51860" x2="57612" y2= "47786" />
+   <line class="fil1 str3" x1="59413" y1="51890" x2="55339" y2= "47845" />
+   <line class="fil1 str3" x1="57199" y1="51978" x2="53184" y2= "47934" />
+   <line class="fil1 str3" x1="54955" y1="51978" x2="53037" y2= "50148" />
+   <polygon class="fil1 str3" points="60779,45811 61673,45840 61240,46533 "/>
+   <line class="fil1 str5" x1="52920" y1="46784" x2="71537" y2= "46323" />
+   <g>
+    <path class="fil12" d="M6482 16926c-88,-87 -337,-293 -417,-142 -51,96 -61,340 -61,418 0,78 0,177 0,177l-102 -23c0,0 -21,-360 38,-503 196,-475 547,79 541,73z"/>
+    <path class="fil12" d="M5944 16656c0,0 -98,-162 -295,-242 -197,-80 -939,178 -939,178 353,-135 1159,-158 1193,69 16,104 52,173 52,173l-11 -180z"/>
+    <path class="fil12" d="M6885 16037c-35,-3 -763,174 -859,429 -24,64 -66,404 -65,354 3,-192 -3,-252 9,-325 5,-33 2,-42 25,-130 90,-336 972,-320 889,-327z"/>
+    <path class="fil12" d="M5991 17014c0,0 -34,-220 -231,-300 -197,-80 -489,88 -489,88 353,-135 527,-130 590,92 29,104 57,482 57,482l73 -362z"/>
+    <path class="fil12" d="M5508 15876c16,18 284,240 330,427 98,394 79,624 87,604l38 -88c2,-5 43,-301 -33,-570 -63,-224 -450,-403 -422,-372z"/>
+   </g>
+   <g>
+    <path class="fil12" d="M8536 17177c-88,-87 -337,-293 -417,-142 -51,96 -61,340 -61,418 0,78 0,177 0,177l-102 -23c0,0 -21,-360 38,-503 196,-475 547,79 541,73z"/>
+    <path class="fil12" d="M7998 16908c0,0 -98,-162 -295,-242 -197,-80 -939,178 -939,178 353,-135 1159,-158 1193,69 16,104 52,173 52,173l-11 -180z"/>
+    <path class="fil12" d="M8938 16288c-35,-3 -763,174 -859,429 -24,64 -66,404 -65,354 3,-192 -3,-252 9,-325 5,-33 2,-42 25,-130 90,-336 972,-320 889,-327z"/>
+    <path class="fil12" d="M8045 17266c0,0 -34,-220 -231,-300 -197,-80 -489,88 -489,88 353,-135 527,-130 590,92 29,104 57,482 57,482l73 -362z"/>
+    <path class="fil12" d="M7562 16127c16,18 284,240 330,427 98,394 79,624 87,604l38 -88c2,-5 43,-301 -33,-570 -63,-224 -450,-403 -422,-372z"/>
+   </g>
+   <g>
+    <path class="fil12" d="M11804 16842c-88,-87 -337,-293 -417,-142 -51,96 -61,340 -61,418 0,78 0,177 0,177l-102 -23c0,0 -21,-360 38,-503 196,-475 547,79 541,73z"/>
+    <path class="fil12" d="M11266 16573c0,0 -98,-162 -295,-242 -197,-80 -939,178 -939,178 353,-135 1159,-158 1193,69 16,104 52,173 52,173l-11 -180z"/>
+    <path class="fil12" d="M12207 15953c-35,-3 -763,174 -859,429 -24,64 -66,404 -65,354 3,-192 -3,-252 9,-325 5,-33 2,-42 25,-130 90,-336 972,-320 889,-327z"/>
+    <path class="fil12" d="M11314 16930c0,0 -34,-220 -231,-300 -197,-80 -489,88 -489,88 353,-135 527,-130 590,92 29,104 57,482 57,482l73 -362z"/>
+    <path class="fil12" d="M10830 15792c16,18 284,240 330,427 98,394 79,624 87,604l38 -88c2,-5 43,-301 -33,-570 -63,-224 -450,-403 -422,-372z"/>
+   </g>
+   <g>
+    <path class="fil12" d="M13732 17094c-88,-87 -337,-293 -417,-142 -51,96 -61,340 -61,418 0,78 0,177 0,177l-102 -23c0,0 -21,-360 38,-503 196,-475 547,79 541,73z"/>
+    <path class="fil12" d="M13194 16824c0,0 -98,-162 -295,-242 -197,-80 -939,178 -939,178 353,-135 1159,-158 1193,69 16,104 52,173 52,173l-11 -180z"/>
+    <path class="fil12" d="M14134 16204c-35,-3 -763,174 -859,429 -24,64 -66,404 -65,354 3,-192 -3,-252 9,-325 5,-33 2,-42 25,-130 90,-336 972,-320 889,-327z"/>
+    <path class="fil12" d="M13241 17182c0,0 -34,-220 -231,-300 -197,-80 -489,88 -489,88 353,-135 527,-130 590,92 29,104 57,482 57,482l73 -362z"/>
+    <path class="fil12" d="M12758 16043c16,18 284,240 330,427 98,394 79,624 87,604l38 -88c2,-5 43,-301 -33,-570 -63,-224 -450,-403 -422,-372z"/>
+   </g>
+   <g>
+    <path class="fil12" d="M16917 16717c-88,-87 -337,-293 -417,-142 -51,96 -61,340 -61,418 0,78 0,177 0,177l-102 -23c0,0 -21,-360 38,-503 196,-475 547,79 541,73z"/>
+    <path class="fil12" d="M16379 16447c0,0 -98,-162 -295,-242 -197,-80 -939,178 -939,178 353,-135 1159,-158 1193,69 16,104 52,173 52,173l-11 -180z"/>
+    <path class="fil12" d="M17319 15827c-35,-3 -763,174 -859,429 -24,64 -66,404 -65,354 3,-192 -3,-252 9,-325 5,-33 2,-42 25,-130 90,-336 972,-320 889,-327z"/>
+    <path class="fil12" d="M16426 16805c0,0 -34,-220 -231,-300 -197,-80 -489,88 -489,88 353,-135 527,-130 590,92 29,104 57,482 57,482l73 -362z"/>
+    <path class="fil12" d="M15943 15666c16,18 284,240 330,427 98,394 79,624 87,604l38 -88c2,-5 43,-301 -33,-570 -63,-224 -450,-403 -422,-372z"/>
+   </g>
+   <g>
+    <path class="fil12" d="M19683 17115c-88,-87 -337,-293 -417,-142 -51,96 -61,340 -61,418 0,78 0,177 0,177l-102 -23c0,0 -21,-360 38,-503 196,-475 547,79 541,73z"/>
+    <path class="fil12" d="M19145 16845c0,0 -98,-162 -295,-242 -197,-80 -939,178 -939,178 353,-135 1159,-158 1193,69 16,104 52,173 52,173l-11 -180z"/>
+    <path class="fil12" d="M20085 16225c-35,-3 -763,174 -859,429 -24,64 -66,404 -65,354 3,-192 -3,-252 9,-325 5,-33 2,-42 25,-130 90,-336 972,-320 889,-327z"/>
+    <path class="fil12" d="M19192 17203c0,0 -34,-220 -231,-300 -197,-80 -489,88 -489,88 353,-135 527,-130 590,92 29,104 57,482 57,482l73 -362z"/>
+    <path class="fil12" d="M18709 16064c16,18 284,240 330,427 98,394 79,624 87,604l38 -88c2,-5 43,-301 -33,-570 -63,-224 -450,-403 -422,-372z"/>
+   </g>
+   <g>
+    <path class="fil12" d="M22679 16863c-88,-87 -337,-293 -417,-142 -51,96 -61,340 -61,418 0,78 0,177 0,177l-102 -23c0,0 -21,-360 38,-503 196,-475 547,79 541,73z"/>
+    <path class="fil12" d="M22141 16594c0,0 -98,-162 -295,-242 -197,-80 -939,178 -939,178 353,-135 1159,-158 1193,69 16,104 52,173 52,173l-11 -180z"/>
+    <path class="fil12" d="M23081 15974c-35,-3 -763,174 -859,429 -24,64 -66,404 -65,354 3,-192 -3,-252 9,-325 5,-33 2,-42 25,-130 90,-336 972,-320 889,-327z"/>
+    <path class="fil12" d="M22188 16951c0,0 -34,-220 -231,-300 -197,-80 -489,88 -489,88 353,-135 527,-130 590,92 29,104 57,482 57,482l73 -362z"/>
+    <path class="fil12" d="M21705 15813c16,18 284,240 330,427 98,394 79,624 87,604l38 -88c2,-5 43,-301 -33,-570 -63,-224 -450,-403 -422,-372z"/>
+   </g>
+   <g>
+    <path class="fil12" d="M57261 17227c-88,-87 -337,-293 -417,-142 -51,96 -61,340 -61,418 0,78 0,177 0,177l-102 -23c0,0 -21,-360 38,-503 196,-475 547,79 541,73z"/>
+    <path class="fil12" d="M56723 16958c0,0 -98,-162 -295,-242 -197,-80 -939,178 -939,178 353,-135 1159,-158 1193,69 16,104 52,173 52,173l-11 -180z"/>
+    <path class="fil12" d="M57664 16338c-35,-3 -763,174 -859,429 -24,64 -66,404 -65,354 3,-192 -3,-252 9,-325 5,-33 2,-42 25,-130 90,-336 972,-320 889,-327z"/>
+    <path class="fil12" d="M56770 17315c0,0 -34,-220 -231,-300 -197,-80 -489,88 -489,88 353,-135 527,-130 590,92 29,104 57,482 57,482l73 -362z"/>
+    <path class="fil12" d="M56287 16177c16,18 284,240 330,427 98,394 79,624 87,604l38 -88c2,-5 43,-301 -33,-570 -63,-224 -450,-403 -422,-372z"/>
+   </g>
+   <g>
+    <path class="fil12" d="M61874 17343c-88,-87 -337,-293 -417,-142 -51,96 -61,340 -61,418 0,78 0,177 0,177l-102 -23c0,0 -21,-360 38,-503 196,-475 547,79 541,73z"/>
+    <path class="fil12" d="M61336 17074c0,0 -98,-162 -295,-242 -197,-80 -939,178 -939,178 353,-135 1159,-158 1193,69 16,104 52,173 52,173l-11 -180z"/>
+    <path class="fil12" d="M62277 16454c-35,-3 -763,174 -859,429 -24,64 -66,404 -65,354 3,-192 -3,-252 9,-325 5,-33 2,-42 25,-130 90,-336 972,-320 889,-327z"/>
+    <path class="fil12" d="M61383 17431c0,0 -34,-220 -231,-300 -197,-80 -489,88 -489,88 353,-135 527,-130 590,92 29,104 57,482 57,482l73 -362z"/>
+    <path class="fil12" d="M60900 16293c16,18 284,240 330,427 98,394 79,624 87,604l38 -88c2,-5 43,-301 -33,-570 -63,-224 -450,-403 -422,-372z"/>
+   </g>
+   <g>
+    <path class="fil12" d="M67009 17169c-88,-87 -337,-293 -417,-142 -51,96 -61,340 -61,418 0,78 0,177 0,177l-102 -23c0,0 -21,-360 38,-503 196,-475 547,79 541,73z"/>
+    <path class="fil12" d="M66471 16900c0,0 -98,-162 -295,-242 -197,-80 -939,178 -939,178 353,-135 1159,-158 1193,69 16,104 52,173 52,173l-11 -180z"/>
+    <path class="fil12" d="M67412 16280c-35,-3 -763,174 -859,429 -24,64 -66,404 -65,354 3,-192 -3,-252 9,-325 5,-33 2,-42 25,-130 90,-336 972,-320 889,-327z"/>
+    <path class="fil12" d="M66518 17257c0,0 -34,-220 -231,-300 -197,-80 -489,88 -489,88 353,-135 527,-130 590,92 29,104 57,482 57,482l73 -362z"/>
+    <path class="fil12" d="M66035 16119c16,18 284,240 330,427 98,394 79,624 87,604l38 -88c2,-5 43,-301 -33,-570 -63,-224 -450,-403 -422,-372z"/>
+   </g>
+   <g>
+    <path class="fil12" d="M19367 39326c-88,-87 -337,-293 -417,-142 -51,96 -61,340 -61,418 0,78 0,177 0,177l-102 -23c0,0 -21,-360 38,-503 196,-475 547,79 541,73z"/>
+    <path class="fil12" d="M18829 39057c0,0 -98,-162 -295,-242 -197,-80 -939,178 -939,178 353,-135 1159,-158 1193,69 16,104 52,173 52,173l-11 -180z"/>
+    <path class="fil12" d="M19770 38437c-35,-3 -763,174 -859,429 -24,64 -66,404 -65,354 3,-192 -3,-252 9,-325 5,-33 2,-42 25,-130 90,-336 972,-320 889,-327z"/>
+    <path class="fil12" d="M18876 39414c0,0 -34,-220 -231,-300 -197,-80 -489,88 -489,88 353,-135 527,-130 590,92 29,104 57,482 57,482l73 -362z"/>
+    <path class="fil12" d="M18393 38276c16,18 284,240 330,427 98,394 79,624 87,604l38 -88c2,-5 43,-301 -33,-570 -63,-224 -450,-403 -422,-372z"/>
+   </g>
+   <g>
+    <path class="fil12" d="M16383 39181c-88,-87 -337,-293 -417,-142 -51,96 -61,340 -61,418 0,78 0,177 0,177l-102 -23c0,0 -21,-360 38,-503 196,-475 547,79 541,73z"/>
+    <path class="fil12" d="M15845 38911c0,0 -98,-162 -295,-242 -197,-80 -939,178 -939,178 353,-135 1159,-158 1193,69 16,104 52,173 52,173l-11 -180z"/>
+    <path class="fil12" d="M16786 38291c-35,-3 -763,174 -859,429 -24,64 -66,404 -65,354 3,-192 -3,-252 9,-325 5,-33 2,-42 25,-130 90,-336 972,-320 889,-327z"/>
+    <path class="fil12" d="M15892 39269c0,0 -34,-220 -231,-300 -197,-80 -489,88 -489,88 353,-135 527,-130 590,92 29,104 57,482 57,482l73 -362z"/>
+    <path class="fil12" d="M15409 38130c16,18 284,240 330,427 98,394 79,624 87,604l38 -88c2,-5 43,-301 -33,-570 -63,-224 -450,-403 -422,-372z"/>
+   </g>
+   <g>
+    <path class="fil12" d="M13399 39399c-88,-87 -337,-293 -417,-142 -51,96 -61,340 -61,418 0,78 0,177 0,177l-102 -23c0,0 -21,-360 38,-503 196,-475 547,79 541,73z"/>
+    <path class="fil12" d="M12861 39129c0,0 -98,-162 -295,-242 -197,-80 -939,178 -939,178 353,-135 1159,-158 1193,69 16,104 52,173 52,173l-11 -180z"/>
+    <path class="fil12" d="M13801 38510c-35,-3 -763,174 -859,429 -24,64 -66,404 -65,354 3,-192 -3,-252 9,-325 5,-33 2,-42 25,-130 90,-336 972,-320 889,-327z"/>
+    <path class="fil12" d="M12908 39487c0,0 -34,-220 -231,-300 -197,-80 -489,88 -489,88 353,-135 527,-130 590,92 29,104 57,482 57,482l73 -362z"/>
+    <path class="fil12" d="M12425 38349c16,18 284,240 330,427 98,394 79,624 87,604l38 -88c2,-5 43,-301 -33,-570 -63,-224 -450,-403 -422,-372z"/>
+   </g>
+   <g>
+    <path class="fil12" d="M8886 39545c-88,-87 -337,-293 -417,-142 -51,96 -61,340 -61,418 0,78 0,177 0,177l-102 -23c0,0 -21,-360 38,-503 196,-475 547,79 541,73z"/>
+    <path class="fil12" d="M8348 39275c0,0 -98,-162 -295,-242 -197,-80 -939,178 -939,178 353,-135 1159,-158 1193,69 16,104 52,173 52,173l-11 -180z"/>
+    <path class="fil12" d="M9289 38655c-35,-3 -763,174 -859,429 -24,64 -66,404 -65,354 3,-192 -3,-252 9,-325 5,-33 2,-42 25,-130 90,-336 972,-320 889,-327z"/>
+    <path class="fil12" d="M8396 39633c0,0 -34,-220 -231,-300 -197,-80 -489,88 -489,88 353,-135 527,-130 590,92 29,104 57,482 57,482l73 -362z"/>
+    <path class="fil12" d="M7912 38494c16,18 284,240 330,427 98,394 79,624 87,604l38 -88c2,-5 43,-301 -33,-570 -63,-224 -450,-403 -422,-372z"/>
+   </g>
+   <text x="2687" y="15252"  class="fil3 fnt0">（</text>
+   <text x="6413" y="15252"  class="fil3 fnt0">）</text>
+   <text x="5081" y="15252"  class="fil3 fnt1">a</text>
+   <text x="2656" y="38339"  class="fil3 fnt0">（</text>
+   <text x="6382" y="38339"  class="fil3 fnt0">）</text>
+   <text x="5050" y="38339"  class="fil3 fnt1">b</text>
+   <text x="25131" y="20406"  class="fil3 fnt2">季节融化层</text>
+   <text x="25131" y="26345"  class="fil3 fnt2">地下水位下降</text>
+   <text x="73153" y="25374"  class="fil3 fnt2">土地裸露退化</text>
+   <text x="73153" y="21428"  class="fil3 fnt2">生草土层干燥化</text>
+   <text x="25104" y="42941"  class="fil3 fnt2">地下水径流量增大</text>
+   <text x="25045" y="48708"  class="fil3 fnt3">融冻界面热融</text>
+   <text x="72769" y="46594"  class="fil3 fnt2">地表热融沉陷</text>
+   <line class="fil1 str0" x1="25542" y1="23289" x2="34433" y2= "23289" />
+   <line class="fil1 str0" x1="25542" y1="23966" x2="34433" y2= "23966" />
+   <polyline class="fil1 str0" points="33485,22950 35787,23627 33372,24327 "/>
+   <line class="fil1 str0" x1="25095" y1="45758" x2="36310" y2= "45758" />
+   <line class="fil1 str0" x1="25095" y1="46435" x2="36310" y2= "46435" />
+   <polyline class="fil1 str0" points="35362,45419 37664,46096 35249,46796 "/>
+   <g transform="matrix(1.2 0 0 1 -39701.9 -40953.2)">
+    <text x="50050" y="44536"  class="fil3 fnt4">冻土退化加速沙漠化过程示意图</text>
+   </g>
+   <text x="797" y="6915"  class="fil13 fnt1">Schematic diagram of desertification process accelerated by permafrost degradation</text>
+   <path class="fil1 str3" d="M9379 69841c70,-43 180,7 245,112 65,105 61,226 -9,269 -70,43 -180,-7 -245,-112 -65,-105 -61,-226 9,-269z"/>
+   <line class="fil1 str3" x1="7298" y1="72243" x2="23444" y2= "60523" />
+   <ellipse class="fil1 str2" transform="matrix(0.295298 -0.20875 0.162762 0.260308 7475.14 67064.4)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.275611 -0.194833 0.151912 0.242954 10836.5 66080)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.295298 -0.20875 0.108508 0.173539 13885.9 63345)" rx="600" ry="900"/>
+   <ellipse class="fil1 str2" transform="matrix(0.295298 -0.20875 0.151912 0.242954 18020.2 59560.1)" rx="600" ry="900"/>
+   <ellipse class="fil1 str2" transform="matrix(0.295298 -0.20875 0.162762 0.260308 7475.14 67064.4)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.21089 -0.131863 0.131863 0.21089 12382 67495)" rx="600" ry="900"/>
+   <ellipse class="fil1 str2" transform="matrix(0.295298 -0.20875 0.162762 0.260308 7475.14 67064.4)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.275611 -0.194833 0.151912 0.242954 10248.8 66919.6)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.295298 -0.20875 0.151912 0.242954 18020.2 59560.1)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.295298 -0.20875 0.162762 0.260308 7475.14 67064.4)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.295298 -0.20875 0.108508 0.173539 15549 66603.7)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.293079 -0.211545 0.165238 0.258562 62238.6 64483.8)" rx="600" ry="900"/>
+   <ellipse class="fil1 str2" transform="matrix(0.27354 -0.197442 0.154223 0.241324 56577.9 67772.6)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.293079 -0.211545 0.110159 0.172375 59598.7 65009)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.293079 -0.211545 0.154223 0.241324 66520.2 60100.6)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.27354 -0.197442 0.154223 0.241324 56577.9 67772.6)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.293079 -0.211545 0.110159 0.172375 60087.4 64164.9)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.293079 -0.211545 0.154223 0.241324 63783.9 62498.2)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.293079 -0.211545 0.165238 0.258562 52237.2 69488.7)" rx="600" ry="900"/>
+   <line class="fil1 str3" x1="61375" y1="68686" x2="62321" y2= "65216" />
+   <line class="fil1 str3" x1="67678" y1="64280" x2="68659" y2= "60807" />
+   <line class="fil1 str3" x1="65561" y1="65779" x2="66506" y2= "62308" />
+   <line class="fil1 str3" x1="63458" y1="67231" x2="64378" y2= "63808" />
+   <line class="fil1 str3" x1="59217" y1="70215" x2="60227" y2= "66714" />
+   <line class="fil1 str3" x1="57090" y1="71685" x2="58062" y2= "68241" />
+   <line class="fil1 str3" x1="55850" y1="69795" x2="54785" y2= "73321" />
+   <line class="fil1 str3" x1="53822" y1="73968" x2="70166" y2= "62519" />
+   <line class="fil1 str3" x1="52304" y1="72258" x2="69027" y2= "60544" />
+   <path class="fil1 str3" d="M62986 66458l-2468 1780m12 -10l474 -710"/>
+   <text x="2117" y="59809"  class="fil3 fnt0">（c）</text>
+   <text x="73291" y="64514"  class="fil3 fnt2">冻融泻溜土坎</text>
+   <text x="28614" y="60971"  class="fil3 fnt2">冻融作用过程</text>
+   <text x="29976" y="66686"  class="fil3 fnt2">斜坡过程</text>
+   <path class="fil1 str0" d="M28462 63678l9917 -24m-9917 762l9708 -24m-996 -1119l2489 715 -2614 786"/>
+   <polyline class="fil1 str3" points="50966,70144 51269,69938 50813,69838 51364,69456 50662,69350 51335,68890 51072,68537 55299,66686 54543,66709 55396,66204 55030,66072 55567,65616 54983,65248 57006,64350 59230,63500 58658,63422 59324,63017 58842,62923 59492,62428 59114,62098 62500,60651 63225,60247 62654,60167 63322,59765 62840,59668 63493,59177 63105,58913 66756,57279 "/>
+   <ellipse class="fil1 str3" transform="matrix(0.293079 -0.211545 0.165238 0.258562 58551.1 70081.7)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.27354 -0.197442 0.154223 0.241324 65196.8 65151.4)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.27354 -0.197442 0.154223 0.241324 67640.3 62174.7)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.27354 -0.197442 0.154223 0.241324 53779 72393)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.21089 -0.131863 0.131863 0.21089 10996.7 70391.6)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.295298 -0.20875 0.108508 0.173539 20056.9 65108.1)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.197695 -0.211545 0.0743071 0.172375 67033.2 66046.7)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.285862 -0.211545 0.107446 0.172375 60719.9 70569.3)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.285862 -0.211545 0.107446 0.172375 55681.4 73361.7)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.197695 -0.211545 0.0743071 0.172375 63269.5 70053.3)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.275611 -0.194833 0.151912 0.242954 12229.4 72411.6)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.21089 -0.131863 0.131863 0.21089 18784.6 70106.7)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.21089 -0.131863 0.131863 0.21089 18151.4 65484.6)" rx="600" ry="900"/>
+   <ellipse class="fil1 str3" transform="matrix(0.26906 -0.13229 0.168235 0.211573 15571.6 69124.6)" rx="600" ry="900"/>
+   <line class="fil1 str3" x1="15250" y1="66514" x2="19978" y2= "71115" />
+   <line class="fil1 str3" x1="16556" y1="65516" x2="21366" y2= "70197" />
+   <line class="fil1 str3" x1="17912" y1="64578" x2="22694" y2= "69251" />
+   <line class="fil1 str3" x1="19211" y1="63640" x2="23963" y2= "68189" />
+   <line class="fil1 str3" x1="14759" y1="66842" x2="9116" y2= "72711" />
+   <line class="fil1 str3" x1="22596" y1="61148" x2="10278" y2= "73915" />
+   <line class="fil1 str3" x1="24268" y1="61686" x2="11313" y2= "75173" />
+   <line class="fil1 str3" x1="25097" y1="63310" x2="12044" y2= "76648" />
+   <line class="fil1 str3" x1="26024" y1="64567" x2="16339" y2= "74610" />
+   <line class="fil1 str3" x1="11224" y1="69402" x2="15983" y2= "74034" />
+   <line class="fil1 str3" x1="12564" y1="68437" x2="17371" y2= "73116" />
+   <line class="fil1 str3" x1="13893" y1="67491" x2="18614" y2= "72084" />
+   <line class="fil1 str3" x1="20538" y1="62623" x2="25276" y2= "67251" />
+   <line class="fil1 str3" x1="21858" y1="61685" x2="25641" y2= "65313" />
+   <line class="fil1 str3" x1="9895" y1="70378" x2="14425" y2= "74770" />
+   <line class="fil1 str3" x1="23096" y1="60832" x2="24769" y2= "62430" />
+   <line class="fil1 str3" x1="8523" y1="71357" x2="12438" y2= "75087" />
+   <ellipse class="fil1 str3" transform="matrix(0.312786 -0.310124 0.232762 0.234759 16854 64106.5)" rx="522" ry="490"/>
+   <rect class="fil10" x="18911" y="61004" width="127" height="127"/>
+   <rect class="fil10" x="15501" y="61167" width="127" height="127"/>
+   <rect class="fil10" x="17482" y="62014" width="127" height="127"/>
+   <rect class="fil10" x="15582" y="64343" width="127" height="127"/>
+   <rect class="fil10" x="14267" y="63952" width="127" height="127"/>
+   <rect class="fil10" x="13520" y="64848" width="127" height="127"/>
+   <rect class="fil10" x="12821" y="64864" width="127" height="127"/>
+   <rect class="fil10" x="12091" y="65743" width="127" height="127"/>
+   <rect class="fil10" x="13292" y="66818" width="127" height="127"/>
+   <rect class="fil10" x="15030" y="66264" width="127" height="127"/>
+   <rect class="fil10" x="10402" y="65515" width="127" height="127"/>
+   <rect class="fil10" x="8989" y="65532" width="127" height="127"/>
+   <rect class="fil10" x="8129" y="65857" width="127" height="127"/>
+   <rect class="fil10" x="6651" y="66541" width="127" height="127"/>
+   <rect class="fil10" x="7917" y="68056" width="127" height="127"/>
+   <rect class="fil10" x="9282" y="67241" width="127" height="127"/>
+   <rect class="fil10" x="8145" y="69700" width="127" height="127"/>
+   <rect class="fil10" x="11750" y="74928" width="127" height="127"/>
+   <rect class="fil10" x="12545" y="70401" width="127" height="127"/>
+   <rect class="fil10" x="14429" y="69977" width="127" height="127"/>
+   <rect class="fil10" x="15176" y="71638" width="127" height="127"/>
+   <rect class="fil10" x="15095" y="67828" width="127" height="127"/>
+   <rect class="fil10" x="16930" y="67404" width="127" height="127"/>
+   <rect class="fil10" x="17287" y="68072" width="127" height="127"/>
+   <rect class="fil10" x="19528" y="66639" width="127" height="127"/>
+   <rect class="fil10" x="20064" y="66851" width="127" height="127"/>
+   <rect class="fil10" x="19918" y="65564" width="127" height="127"/>
+   <rect class="fil10" x="18115" y="64554" width="127" height="127"/>
+   <rect class="fil10" x="20811" y="63235" width="127" height="127"/>
+   <rect class="fil10" x="22710" y="64294" width="127" height="127"/>
+   <g>
+    <path class="fil12" d="M16742 58690c-119,-33 -437,-92 -433,78 3,109 113,327 151,395 38,68 86,155 86,155l-101 30c0,0 -193,-305 -212,-458 -60,-510 517,-198 508,-200z"/>
+    <path class="fil12" d="M16140 58716c0,0 -165,-93 -375,-67 -211,26 -733,613 -733,613 242,-290 936,-703 1076,-520 64,83 129,126 129,126l-97 -151z"/>
+    <path class="fil12" d="M16660 57717c-32,14 -582,523 -541,792 10,68 140,385 116,340 -90,-169 -125,-219 -151,-288 -12,-31 -19,-37 -41,-126 -85,-337 693,-752 618,-719z"/>
+    <path class="fil12" d="M16356 59006c0,0 -137,-176 -348,-150 -211,26 -384,315 -384,315 242,-290 397,-370 560,-207 76,77 284,393 284,393l-112 -352z"/>
+    <path class="fil12" d="M15380 58247c22,8 365,72 496,212 278,296 372,507 370,485l-10 -96c-1,-6 -109,-284 -306,-482 -164,-164 -590,-133 -550,-119z"/>
+   </g>
+   <g>
+    <path class="fil12" d="M14114 60512c-119,-33 -437,-92 -433,78 3,109 113,327 151,395 38,68 86,155 86,155l-101 30c0,0 -193,-305 -212,-458 -60,-510 517,-198 508,-200z"/>
+    <path class="fil12" d="M13513 60538c0,0 -165,-93 -375,-67 -211,26 -733,613 -733,613 242,-290 936,-703 1076,-520 64,83 129,126 129,126l-97 -151z"/>
+    <path class="fil12" d="M14033 59539c-32,14 -582,523 -541,792 10,68 140,385 116,340 -90,-169 -125,-219 -151,-288 -12,-31 -19,-37 -41,-126 -85,-337 693,-752 618,-719z"/>
+    <path class="fil12" d="M13728 60827c0,0 -137,-176 -348,-150 -211,26 -384,315 -384,315 242,-290 397,-370 560,-207 76,77 284,393 284,393l-112 -352z"/>
+    <path class="fil12" d="M12752 60068c22,8 365,72 496,212 278,296 372,507 370,485l-10 -96c-1,-6 -109,-284 -306,-482 -164,-164 -590,-133 -550,-119z"/>
+   </g>
+   <g>
+    <path class="fil12" d="M11725 62243c-119,-33 -437,-92 -433,78 3,109 113,327 151,395 38,68 86,155 86,155l-101 30c0,0 -193,-305 -212,-458 -60,-510 517,-198 508,-200z"/>
+    <path class="fil12" d="M11124 62270c0,0 -165,-93 -375,-67 -211,26 -733,613 -733,613 242,-290 936,-703 1076,-520 64,83 129,126 129,126l-97 -151z"/>
+    <path class="fil12" d="M11644 61271c-32,14 -582,523 -541,792 10,68 140,385 116,340 -90,-169 -125,-219 -151,-288 -12,-31 -19,-37 -41,-126 -85,-337 693,-752 618,-719z"/>
+    <path class="fil12" d="M11339 62559c0,0 -137,-176 -348,-150 -211,26 -384,315 -384,315 242,-290 397,-370 560,-207 76,77 284,393 284,393l-112 -352z"/>
+    <path class="fil12" d="M10363 61800c22,8 365,72 496,212 278,296 372,507 370,485l-10 -96c-1,-6 -109,-284 -306,-482 -164,-164 -590,-133 -550,-119z"/>
+   </g>
+   <g>
+    <path class="fil12" d="M8022 64752c-119,-33 -437,-92 -433,78 3,109 113,327 151,395 38,68 86,155 86,155l-101 30c0,0 -193,-305 -212,-458 -60,-510 517,-198 508,-200z"/>
+    <path class="fil12" d="M7421 64778c0,0 -165,-93 -375,-67 -211,26 -733,613 -733,613 242,-290 936,-703 1076,-520 64,83 129,126 129,126l-97 -151z"/>
+    <path class="fil12" d="M7941 63779c-32,14 -582,523 -541,792 10,68 140,385 116,340 -90,-169 -125,-219 -151,-288 -12,-31 -19,-37 -41,-126 -85,-337 693,-752 618,-719z"/>
+    <path class="fil12" d="M7637 65068c0,0 -137,-176 -348,-150 -211,26 -384,315 -384,315 242,-290 397,-370 560,-207 76,77 284,393 284,393l-112 -352z"/>
+    <path class="fil12" d="M6661 64308c22,8 365,72 496,212 278,296 372,507 370,485l-10 -96c-1,-6 -109,-284 -306,-482 -164,-164 -590,-133 -550,-119z"/>
+   </g>
+   <line class="fil1 str3" x1="61822" y1="68394" x2="64673" y2= "71338" />
+   <line class="fil1 str3" x1="63186" y1="67423" x2="65943" y2= "70322" />
+   <line class="fil1 str3" x1="64499" y1="66504" x2="67205" y2= "69325" />
+   <line class="fil1 str3" x1="65872" y1="65558" x2="68512" y2= "68311" />
+   <line class="fil1 str3" x1="61655" y1="68493" x2="54654" y2= "75227" />
+   <line class="fil1 str3" x1="70036" y1="62748" x2="55476" y2= "76753" />
+   <line class="fil1 str3" x1="71070" y1="63936" x2="59736" y2= "74820" />
+   <line class="fil1 str3" x1="71714" y1="65709" x2="69559" y2= "67701" />
+   <line class="fil1 str3" x1="57784" y1="71199" x2="60774" y2= "74358" />
+   <line class="fil1 str3" x1="59140" y1="70268" x2="62094" y2= "73442" />
+   <line class="fil1 str3" x1="60469" y1="69316" x2="63324" y2= "72206" />
+   <line class="fil1 str3" x1="67185" y1="64606" x2="69809" y2= "67321" />
+   <line class="fil1 str3" x1="68516" y1="63668" x2="71252" y2= "66555" />
+   <line class="fil1 str3" x1="56453" y1="72145" x2="59289" y2= "75137" />
+   <line class="fil1 str3" x1="53762" y1="74072" x2="56541" y2= "76932" />
+   <line class="fil1 str3" x1="55046" y1="73091" x2="58097" y2= "76134" />
+   <rect class="fil10" x="65260" y="59386" width="127" height="127"/>
+   <rect class="fil10" x="64181" y="61526" width="127" height="127"/>
+   <rect class="fil10" x="65224" y="62605" width="127" height="127"/>
+   <rect class="fil10" x="63767" y="62713" width="127" height="127"/>
+   <rect class="fil10" x="61879" y="62677" width="127" height="127"/>
+   <rect class="fil10" x="59865" y="63181" width="127" height="127"/>
+   <rect class="fil10" x="60602" y="64656" width="127" height="127"/>
+   <rect class="fil10" x="66681" y="64062" width="127" height="127"/>
+   <rect class="fil10" x="66717" y="64566" width="127" height="127"/>
+   <rect class="fil10" x="64055" y="65267" width="127" height="127"/>
+   <rect class="fil10" x="62526" y="66778" width="127" height="127"/>
+   <rect class="fil10" x="67292" y="66292" width="127" height="127"/>
+   <rect class="fil10" x="68965" y="65663" width="127" height="127"/>
+   <rect class="fil10" x="64900" y="67983" width="127" height="127"/>
+   <rect class="fil10" x="62400" y="70554" width="127" height="127"/>
+   <rect class="fil10" x="59865" y="66400" width="127" height="127"/>
+   <rect class="fil10" x="58354" y="66508" width="127" height="127"/>
+   <rect class="fil10" x="58624" y="66634" width="127" height="127"/>
+   <rect class="fil10" x="57257" y="65393" width="127" height="127"/>
+   <rect class="fil10" x="56897" y="66580" width="127" height="127"/>
+   <rect class="fil10" x="55728" y="65573" width="127" height="127"/>
+   <rect class="fil10" x="55099" y="67479" width="127" height="127"/>
+   <rect class="fil10" x="55710" y="68846" width="127" height="127"/>
+   <rect class="fil10" x="54290" y="68900" width="127" height="127"/>
+   <rect class="fil10" x="52743" y="68576" width="127" height="127"/>
+   <rect class="fil10" x="54937" y="70105" width="127" height="127"/>
+   <rect class="fil10" x="57005" y="70392" width="127" height="127"/>
+   <rect class="fil10" x="58660" y="69044" width="127" height="127"/>
+   <rect class="fil10" x="59379" y="71507" width="127" height="127"/>
+   <rect class="fil10" x="58516" y="73342" width="127" height="127"/>
+   <rect class="fil10" x="56969" y="74277" width="127" height="127"/>
+   <rect class="fil10" x="54523" y="71507" width="127" height="127"/>
+   <polygon class="fil11 str4" points="14008,43722 14955,43722 14466,44424 "/>
+   <line class="fil1 str0" x1="69067" y1="60647" x2="66724" y2= "57259" />
+   <line class="fil1 str0" x1="52335" y1="72297" x2="50955" y2= "70135" />
+   <path class="fil12" d="M5993 86138c-47,-46 -181,-157 -223,-76 -27,51 -32,182 -32,224 0,42 0,95 0,95l-55 -12c0,0 -11,-193 20,-270 105,-254 293,42 290,39z"/>
+   <path class="fil12" d="M5705 85993c0,0 -53,-87 -158,-129 -105,-43 -503,96 -503,96 189,-73 621,-85 639,37 8,56 28,93 28,93l-6 -96z"/>
+   <path class="fil12" d="M6208 85662c-19,-2 -409,93 -460,230 -13,34 -35,217 -35,190 2,-103 -1,-135 5,-174 3,-18 1,-22 14,-70 48,-180 521,-171 476,-175z"/>
+   <path class="fil12" d="M5730 86185c0,0 -18,-118 -124,-161 -105,-43 -262,47 -262,47 189,-73 282,-70 316,49 16,56 31,258 31,258l39 -194z"/>
+   <path class="fil12" d="M5471 85575c8,10 152,129 177,228 53,211 42,334 47,323l20 -47c1,-3 23,-161 -18,-305 -34,-120 -241,-216 -226,-199z"/>
+   <rect class="fil1 str0" x="4691" y="84797" width="5090" height="2969"/>
+   <path class="fil12" d="M7747 86240c-39,-38 -148,-129 -183,-63 -22,42 -27,149 -27,184 0,34 0,78 0,78l-45 -10c0,0 -9,-158 17,-221 86,-208 240,35 238,32z"/>
+   <path class="fil12" d="M7511 86122c0,0 -43,-71 -129,-106 -86,-35 -412,78 -412,78 155,-59 509,-69 524,30 7,46 23,76 23,76l-5 -79z"/>
+   <path class="fil12" d="M7924 85850c-15,-1 -335,76 -377,188 -11,28 -29,177 -28,155 1,-84 -1,-111 4,-143 2,-15 1,-18 11,-57 40,-147 426,-140 390,-144z"/>
+   <path class="fil12" d="M7532 86279c0,0 -15,-97 -101,-132 -86,-35 -215,39 -215,39 155,-59 231,-57 259,40 13,46 25,211 25,211l32 -159z"/>
+   <path class="fil12" d="M7320 85779c7,8 124,106 145,187 43,173 35,274 38,265l17 -39c1,-2 19,-132 -15,-250 -28,-98 -198,-177 -185,-163z"/>
+   <path class="fil12" d="M9208 86245c-40,-40 -155,-135 -192,-65 -23,44 -28,157 -28,193 0,36 0,82 0,82l-47 -10c0,0 -10,-166 18,-232 90,-219 252,36 249,34z"/>
+   <path class="fil12" d="M8960 86121c0,0 -45,-74 -136,-111 -91,-37 -432,82 -432,82 162,-62 534,-73 550,32 7,48 24,80 24,80l-5 -83z"/>
+   <path class="fil12" d="M9393 85835c-16,-1 -351,80 -395,197 -11,30 -30,186 -30,163 2,-88 -1,-116 4,-150 2,-15 1,-19 12,-60 42,-154 447,-147 410,-151z"/>
+   <path class="fil12" d="M8982 86286c0,0 -16,-101 -106,-138 -91,-37 -225,41 -225,41 162,-62 243,-60 272,42 14,48 26,222 26,222l34 -167z"/>
+   <path class="fil12" d="M8759 85761c7,8 131,111 152,196 45,182 36,287 40,278l18 -41c1,-3 20,-139 -15,-262 -29,-103 -207,-186 -195,-171z"/>
+   <path class="fil1 str3" d="M4697 86449c0,0 1021,-190 1357,-233 336,-44 963,-73 1342,44 379,117 657,175 1328,175 671,0 1065,-29 1065,-29"/>
+   <text x="11300" y="86153"  class="fil3 fnt5">生草土层</text>
+   <text x="11300" y="87634"  class="fil3 fnt6">Sown-grass soil layer</text>
+   <g>
+    <rect class="fil1 str0" x="29230" y="84824" width="5005" height="2874"/>
+    <line class="fil1 str3" x1="29540" y1="84832" x2="29220" y2= "85201" />
+    <line class="fil1 str3" x1="30714" y1="84832" x2="29166" y2= "86325" />
+    <line class="fil1 str3" x1="31836" y1="84814" x2="29220" y2= "87362" />
+    <line class="fil1 str3" x1="32992" y1="84814" x2="30020" y2= "87695" />
+    <line class="fil1 str3" x1="34149" y1="84797" x2="31177" y2= "87731" />
+    <line class="fil1 str3" x1="34238" y1="85868" x2="32334" y2= "87766" />
+    <line class="fil1 str3" x1="34220" y1="87028" x2="33615" y2= "87695" />
+    <line class="fil1 str3" x1="33491" y1="84849" x2="34256" y2= "85605" />
+    <line class="fil1 str3" x1="32370" y1="84814" x2="34256" y2= "86694" />
+    <line class="fil1 str3" x1="31213" y1="84814" x2="34114" y2= "87695" />
+    <line class="fil1 str3" x1="30074" y1="84814" x2="33010" y2= "87731" />
+    <line class="fil1 str3" x1="29220" y1="85113" x2="31818" y2= "87695" />
+    <line class="fil1 str3" x1="29220" y1="86255" x2="30750" y2= "87731" />
+   </g>
+   <text x="35563" y="86153"  class="fil3 fnt5">多年冻土</text>
+   <text x="35563" y="87779"  class="fil3 fnt6">Permafrost</text>
+   <g>
+    <g>
+     <rect class="fil1 str0" x="46419" y="84824" width="5090" height="2908"/>
+     <line class="fil1 str3" x1="46735" y1="84832" x2="46409" y2= "85205" />
+     <line class="fil1 str3" x1="47929" y1="84832" x2="46409" y2= "86290" />
+     <line class="fil1 str3" x1="49069" y1="84814" x2="46409" y2= "87392" />
+     <line class="fil1 str3" x1="50245" y1="84814" x2="47223" y2= "87730" />
+     <line class="fil1 str3" x1="51422" y1="84797" x2="48399" y2= "87766" />
+     <line class="fil1 str3" x1="51512" y1="85881" x2="49630" y2= "87748" />
+     <line class="fil1 str3" x1="51494" y1="87055" x2="50879" y2= "87730" />
+    </g>
+    <text x="53018" y="86153"  class="fil3 fnt5">季节融化层</text>
+    <text x="53018" y="87634"  class="fil3 fnt6">Seasonal thawing layer</text>
+   </g>
+   <g>
+    <g>
+     <rect class="fil1 str0" x="72163" y="84797" width="5090" height="2969"/>
+     <line class="fil1 str5" x1="72172" y1="86858" x2="77261" y2= "85705" />
+     <polygon class="fil1 str3" points="74276,85545 75169,85558 74717,86269 "/>
+    </g>
+    <text x="78603" y="86153"  class="fil3 fnt5">地下水位</text>
+    <text x="78603" y="87779"  class="fil3 fnt6">Water tables</text>
+   </g>
+   <text x="73291" y="66245"  class="fil3 fnt6">Freeze-thaw slip ridge</text>
+   <text x="72769" y="48293"  class="fil3 fnt6">Surface hot-met subside</text>
+   <text x="73153" y="23133"  class="fil3 fnt6">Desiccation of sown-grass soil layer</text>
+   <text x="73153" y="27087"  class="fil3 fnt6">Land bare and degradation</text>
+   <text x="25131" y="22248"  class="fil3 fnt6">Seasonal thawing laye</text>
+   <text x="25131" y="27951"  class="fil3 fnt6">Falling water tables</text>
+   <text x="25104" y="44706"  class="fil3 fnt6">Groundwater runoff increases</text>
+   <text x="25045" y="50380"  class="fil3 fnt7">Hot-met at ice surface</text>
+   <text x="28614" y="62773"  class="fil3 fnt6">Process of freeze-thaw action</text>
+   <text x="29976" y="68328"  class="fil3 fnt6">Slope process</text>
+  </g>
+ </g>
+</svg>

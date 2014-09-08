@@ -1,0 +1,239 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>
+           狮泉河盆地第二期沙害整治规划
+        </title>
+        <link href="css/jiemiancss_c.css" rel="stylesheet" type="text/css">
+        <script Language="JavaScript" src="js/jiemians_c.js">
+        
+ </script>
+ 	<style type="text/css">
+		.map{height:1100px}
+				.main{height:1100px}
+		.mapcontroll{height:1100px}
+		.box{height:1280}
+		</style>
+        <script type="text/javascript">
+            //<![CDATA[
+            window.onload = function() {
+                rolinTab("rolin");
+                var oWin = document.getElementById("win");
+                var oLay = document.getElementById("overlay");
+                var oBtn = document.getElementById("button");
+                var oClose = document.getElementById("close");
+                var oH2 = oWin.getElementsByTagName("h2")[0];
+                var bDrag = false;
+                var disX = disY = 0;
+                oBtn.onclick = function() {
+                    oLay.style.display = "block";
+                    oWin.style.display = "block"
+                };
+                oClose.onclick = function() {
+                    oLay.style.display = "none";
+                    oWin.style.display = "none"
+                };
+                oClose.onmousedown = function(event) { (event || window.event).cancelBubble = true;
+                };
+                oH2.onmousedown = function(event) {
+                    var event = event || window.event;
+                    bDrag = true;
+                    disX = event.clientX - oWin.offsetLeft;
+                    disY = event.clientY - oWin.offsetTop;
+                    this.setCapture && this.setCapture();
+                    return false
+                };
+                document.onmousemove = function(event) {
+                    if (!bDrag) return;
+                    var event = event || window.event;
+                    var iL = event.clientX - disX;
+                    var iT = event.clientY - disY;
+                    var maxL = document.documentElement.clientWidth - oWin.offsetWidth;
+                    var maxT = document.documentElement.clientHeight - oWin.offsetHeight;
+                    iL = iL < 0 ? 0 : iL;
+                    iL = iL > maxL ? maxL: iL;
+                    iT = iT < 0 ? 0 : iT;
+                    iT = iT > maxT ? maxT: iT;
+                    oWin.style.marginTop = oWin.style.marginLeft = 0;
+                    oWin.style.left = iL + "px";
+                    oWin.style.top = iT + "px";
+                    return false
+                };
+                document.onmouseup = window.onblur = oH2.onlosecapture = function() {
+                    bDrag = false;
+                    oH2.releaseCapture && oH2.releaseCapture();
+                };
+            }
+function on_hide()
+	{
+ 
+    var svgViewer = document.getElementById("svgEmbed");
+    var SVGDoc = svgViewer.getSVGDocument();
+	var SVGRoot = SVGDoc.documentElement;
+	var rect = SVGDoc.getElementById("road1");
+	rect.style.display = (document.getElementById("checkbox_1").checked == true) ? "block" : "none";
+	
+	var rect = SVGDoc.getElementById("road2");
+	rect.style.display = (document.getElementById("checkbox_2").checked == true) ? "block" : "none";
+	var rect = SVGDoc.getElementById("road3");
+	rect.style.display = (document.getElementById("checkbox_3").checked == true) ? "block" : "none";
+	
+
+	}
+            //]]>
+            
+        </script>
+    </head>
+    
+    <body>
+ <div class="box" style="height: 715px">
+            <div id="overlay">
+            </div>
+            <div id="win" style ="overflow:scroll" >
+                <h2>
+			狮泉河防治规划
+                    <span id="close">
+                        ×
+                    </span>
+                </h2>
+				 &nbsp &nbsp20世纪80年代以来，阿里高原的狮泉河镇受强烈的风沙侵袭，造成日益严重的风沙灾害，一度面临被迫搬迁的威胁。自1989年开始狮泉河盆地城镇沙害及其整治研究，先后实施了3期防沙工程。
+				 </br>&nbsp &nbsp治沙工程区位于狮泉河以南、狮泉河镇至普兰公路两侧的沙砾质沙漠化土地上，布置与当地优势风向大致垂直的条带状砾石沙障，沙障之间营造防护林带，种植牧草，形成由砾石沙障、防护林带和人工草地构成的三层立体设置的综合防护体系。主要采用砾石沙障，营造班公柳防风林带、建设人工草地，以及建设引水工程、苗圃和58公顷具有湿地生态功能的人工湖。狮泉河镇城镇沙害防治工程已经获得了显著的生态、经济和社会效益。
+				 </div>
+
+            <div class="title" style="background-color: #BFE2EB">
+                <p>
+                    <a href="page2.html" title="单击查看目录"  target="_blank"> 沙漠化防治</a>
+                </p>
+            </div>
+            <div class="title" >
+                <img alt="西藏综合自然与沙漠化地图集" style="width:300px;height:70px" src="images/4.png"/>
+            </div>
+            <div class="title" >
+                <img alt="西藏综合自然与沙漠化地图集" style="width:300px;height:70px" src="images/5.png"/>
+            </div>
+            <div class="title" >
+                <img alt="西藏综合自然与沙漠化地图集" style="width:300px;height:70px" src="images/6.png"/>
+            </div>
+            <div class="col" style="background-color: #E1F2F6; color:#376092">
+                <a href="page2.html" title="单击查看目录"  target="_blank">  危害与防治</a>
+            </div>
+            <div class="col" style="background-color: #4FBACA">
+                 <a href="page2.html" title="单击查看目录"  target="_blank"> 规划与示范工程</a>
+            </div>
+            <div class="col" style="font-size:16px;background-color: #B9CDE5;">
+                <ul class="test_ul">
+                    <li >
+                       <a href="118-119.html"   target="_blank">
+                            危害
+                        </a>
+                    </li>
+                    <li>
+                        <a href="124-125.html"   target="_blank">
+                            防治模式
+                        </a>
+                    </li>
+                    <li>
+                       <a href="140-141.html"   target="_blank">
+                            沙漠化土地利用
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col" style="background-color: #407FCA;width:50%; float:right;font-size:16px;">
+                <ul class="test_ul">
+                    <li class="color">
+                        <a href="122-123.html"   target="_blank">
+                           <strong> 防治规划</strong>
+                        </a>
+                    </li>
+                    <li class="anw">
+                        <a href="126-127.html"   target="_blank">
+                            防治重大工程
+                        </a>
+                        </li>
+                           
+                </ul>
+            </div>
+            <div class="menu">
+               <div id="nav">
+                    <ul>
+                        <li>
+                           <a href="122-123.html"   target="_blank">
+                                防治规划
+                            </a>
+							
+							<ul style="font-size:8px;">
+                            <li><a href="128-129.html"   target="_blank"> 防治总体布局</a></li> 
+							 <li><a href="122-123.html"   target="_blank"> 土地沙漠化防治规划</a></li>
+							 <li><a href="122-123b.html"   target="_blank"> 土地沙漠化防治区划</a></li>
+                      		</ul>
+                        </li>
+                        <li class="vline">
+                            >
+                        </li>
+                        <li>
+						
+						<a href="130-131.html"   target="_blank"> 各地区防治规划</a>
+                           
+							<ul style="font-size:8px;">
+                            <li><a href="130-131.html"   target="_blank"> “一江两河”中部</a></li>
+							 <li><a href="134-135.html"   target="_blank">日喀则江当、山南</a></li>
+							  <li><a href="138-139.html"   target="_blank">那曲才曲塘地区</a></li>
+							</ul>
+                        </li>
+                           <li class="vline">
+                            >
+                        </li>
+						 <li>
+						<a href="138-139b.html"   target="_blank">阿里狮泉河地区</a>
+						</li>
+                              </ul>
+                </div>
+            </div>
+            <div class="main">
+                <div class="mapcontroll">
+                    <ul class="rolinList" id="rolin">
+                        <li>
+                             <h2>
+                                图例
+                            </h2>
+                           <div class="content" style="overflow:auto ">
+							<div  style="height:150px;overflow:auto ">
+                              
+							    <img alt="图例" style="width:220px;" src="supplement/138-139b图例.png"/>
+                            </div>
+							</div>
+                        </li>
+                        <li>
+                            <h2 id="button">
+                                
+                                  狮泉河防治规划
+                               
+                            </h2>
+                            <div class="content">
+							
+							
+							</div>
+                        </li>
+                    </ul>
+                </div>
+				<div class="map" style="overflow:scroll">
+				<embed id="svgEmbed"  pluginspage=http://www.adobe.com/svg/viewer/install/  src="svg/138-139b.svg"  type="image/svg+xml"/>
+				</div>
+				<div class="copybottom" style="background-color: #BFE2EB">
+				copyright
+				</div>
+				</div>
+				</div>
+				<div id="FloatDiv" style="position:absolute; width:250px; height:40px; visibility:visible; right: 250px; top: 150px">
+				<div class="tool" style="background-image: url('images/fangda.gif')" onclick="zoomIn()"></div>
+				<div class="kx"> </div>
+				 <div class="tool" style=";background-image: url('images/suoxiao.gif')" onclick="zoomOut()"></div>
+				<div class="kx"> </div>
+				 <div class="tool" style=";background-image: url('images/manyou.gif')"onclick="mapPan()"></div>
+				<div class="kx"> </div>
+				 <div class="tool" style=";background-image: url('images/quantu.gif')"onclick="fullscreen()"></div>
+				<div class="kx"> </div>
+				</div>

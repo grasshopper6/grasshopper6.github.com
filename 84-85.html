@@ -1,0 +1,248 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>
+       雅鲁藏布江中游河谷近地表风矢量图
+        </title>
+        <link href="css/jiemiancssb.css" rel="stylesheet" type="text/css">
+        <script Language="JavaScript" src="js/jiemian.js">
+        </script>
+       <script type="text/javascript">
+            //<![CDATA[
+            window.onload = function() {
+                rolinTab("rolin");
+                var oWin = document.getElementById("win");
+                var oLay = document.getElementById("overlay");
+                var oBtn = document.getElementById("button");
+                var oClose = document.getElementById("close");
+                var oH2 = oWin.getElementsByTagName("h2")[0];
+                var bDrag = false;
+                var disX = disY = 0;
+                oBtn.onclick = function() {
+                    oLay.style.display = "block";
+                    oWin.style.display = "block"
+                };
+                oClose.onclick = function() {
+                    oLay.style.display = "none";
+                    oWin.style.display = "none"
+                };
+                oClose.onmousedown = function(event) { (event || window.event).cancelBubble = true;
+                };
+                oH2.onmousedown = function(event) {
+                    var event = event || window.event;
+                    bDrag = true;
+                    disX = event.clientX - oWin.offsetLeft;
+                    disY = event.clientY - oWin.offsetTop;
+                    this.setCapture && this.setCapture();
+                    return false
+                };
+                document.onmousemove = function(event) {
+                    if (!bDrag) return;
+                    var event = event || window.event;
+                    var iL = event.clientX - disX;
+                    var iT = event.clientY - disY;
+                    var maxL = document.documentElement.clientWidth - oWin.offsetWidth;
+                    var maxT = document.documentElement.clientHeight - oWin.offsetHeight;
+                    iL = iL < 0 ? 0 : iL;
+                    iL = iL > maxL ? maxL: iL;
+                    iT = iT < 0 ? 0 : iT;
+                    iT = iT > maxT ? maxT: iT;
+                    oWin.style.marginTop = oWin.style.marginLeft = 0;
+                    oWin.style.left = iL + "px";
+                    oWin.style.top = iT + "px";
+                    return false
+                };
+                document.onmouseup = window.onblur = oH2.onlosecapture = function() {
+                    bDrag = false;
+                    oH2.releaseCapture && oH2.releaseCapture();
+                };
+            }
+			function on_hide(n)
+		{
+        var svgViewer = document.getElementById("svgEmbed");
+		var SVGDoc = svgViewer.getSVGDocument();
+		var SVGRoot = SVGDoc.documentElement;
+		var rect = SVGDoc.getElementById("layer_"+n);
+		rect.style.display = (document.getElementById("checkbox_"+n).checked == true) ? "block" : "none";
+		
+		}
+            //]]>
+            
+        </script>
+    </head>
+    
+    <body>
+        <div class="box" style="height: 715px">
+		 <div id="overlay">
+            </div>
+		<div id="win" style ="overflow:scroll" >
+                <h2>
+				近地表风概况
+                    <span id="close">
+                        ×
+                    </span>
+                </h2>&nbsp &nbsp在宽窄相间河谷、曲直弯转河道、凹凸起伏谷坡及支流汇入等不同尺度地形的动力作用和不同下垫面热力作用的影响下，雅鲁藏布江具有比较复杂的近地表流场，气流辐合、辐散明显增强。在90°E以西的日喀则宽谷及其上游河谷盛行偏西风；在90°E以东的拉萨河口一带转为西北风，进入到山南宽谷后形成辐合风场，在加查山以东受藏东次高压和河谷下游回流气流的影响，出现东风倒灌，而在米林宽谷与偏西风相遇形成辐合。整个河谷以上述流场为背景，在不同地形部位形成不同的局地风场。
+				</div>
+            <div class="title" style="background-color: #FFD54F">
+                <p>
+                    <a href="page2.html" title="单击查看目录"  target="_blank"> 土地沙漠化 </a>
+                </p>
+            </div>
+            <div class="title" >
+                <img alt="西藏综合自然与沙漠化地图集" style="width:300px;height:70px" src="images/4.png"
+                />
+            </div>
+            <div class="title" >
+                <img alt="西藏综合自然与沙漠化地图集" style="width:300px;height:70px" src="images/5.png"
+                />
+            </div>
+            <div class="title" >
+                <img alt="西藏综合自然与沙漠化地图集" style="width:300px;height:70px" src="images/6.png"
+                />
+            </div>
+            <div class="col" style="background-color: #fff6d7; color:#574301">
+                <a href="page2.html" title="单击查看目录"  target="_blank"> 现状与变化 </a>
+            </div>
+            <div class="col" style="background-color: #EDAC09">
+                <a href="page2.html" title="单击查看目录"  target="_blank"> 过程与成因 </a>
+            </div>
+            <div class="col" style="font-size:17px;">
+                <ul class="test_ul">
+                    <li class="color">
+                        <a href="62-63.html"  target="_blank">
+                          <strong>  现状</strong>
+                        </a>
+                    </li>
+                    <li class="anw">
+                        <a href="88-89.html"  target="_blank">
+                            变化
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col" style="background-color: #B9CDE5;font-size:17px;">
+                <ul class="test_ul">
+                    <li>
+                        <a href="98-99.html"  target="_blank">
+                            地质历史时期
+                        </a>
+                    </li>
+                    <li>
+                        <a href="100-101.html"  target="_blank">
+                            现代过程
+                        </a>
+					 </li>
+                        <li>
+                            <a href="108-109.html"  target="_blank">
+                                成因分析
+                            </a>
+                        </li>
+                        <li >
+                            <a href="114-115.html"  target="_blank">
+                                趋势预测
+                            </a>
+                        </li>
+                </ul>
+            </div>
+            <div class="menu">
+                <div id="nav">
+                    <ul>
+                        
+                        
+                        
+                        <li>
+                            <a href="68-69.html"  target="_blank">
+                               分区、典型区现状
+                            </a>
+							<ul style="font-size:8px;">
+							 <li><a href="68-69.html"  target="_blank" >“一江两河”中部</a></li>
+                            <li><a href="72-73.html"  target="_blank" >藏南河谷湖盆区</a></li>
+							  <li><a href="76-77.html"  target="_blank">藏北高原区</a></li>
+							  <li><a href="78-79.html"  target="_blank" >阿里高原区</a></li>
+							  <li><a href="86-87.html"  target="_blank" >八邛公路风沙地貌</a></li>
+							</ul>
+                        </li>
+						
+                       <li class="vline">
+                            >
+                        </li>
+						
+						 <li><a href="82-83.html"  target="_blank" >河谷风沙地貌</a>
+						 
+							<ul style="font-size:8px;">
+							 <li><a href="82-83.html"  target="_blank" >河谷风沙地貌</a></li>
+							<li><a href="80-81.html"  target="_blank"> 雅鲁藏布江风沙地貌</a></li>
+                           </ul>
+                        </li>
+						  <li class="vline">
+                            >
+                        </li>
+						<li>
+                            <a href="84-85.html"  target="_blank">
+                            雅鲁藏布江近地表风
+                            </a>
+							<ul style="font-size:8px;">
+							 <li><a href="84-85b.html"  target="_blank"> 近地表风地表流场图</a></li>                                                                                               
+							</ul>
+                        </li>
+                        <li class="vline">
+                            >
+                        </li>
+						<li>
+                            <a href="84-85.html"  target="_blank">
+                             近地表风矢量图
+                            </a>
+							
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="main">
+                <div class="mapcontroll">
+                    <ul class="rolinList" id="rolin">
+                        <li>
+                            <h2>
+                             图例
+                            </h2>
+                            <div class="content" style="overflow:auto ">
+							<div  style="height:150px;overflow:auto ">
+                              
+							    <img alt="图例"  style="height:50px" src="supplement/84-85图例.png"/>
+                            </div>
+							</div>
+                        </li>
+						<li>
+                            <h2 id="button">
+                                
+                                   近地表风概况
+                               
+                            </h2>
+                            <div class="content">
+							
+							
+							</div>
+                        </li>
+						
+                    </ul>
+                </div>
+				<div class="map" style="overflow:scroll">
+				<embed id="svgEmbed"  pluginspage=http://www.adobe.com/svg/viewer/install/  src="svg/84-85.svg"  type="image/svg+xml"/>
+				</div>
+				<div class="copybottom" style="background-color: #FFD54F">
+				copyright
+				</div>
+				</div>
+				</div>
+				<div id="FloatDiv" style="position:absolute; width:250px; height:40px; visibility:visible; right: 250px; top: 150px">
+				<div class="tool" style="background-image: url('images/fangda.gif')" onclick="zoomIn()"></div>
+				<div class="kx"> </div>
+				 <div class="tool" style=";background-image: url('images/suoxiao.gif')" onclick="zoomOut()"></div>
+				<div class="kx"> </div>
+				 <div class="tool" style=";background-image: url('images/manyou.gif')"onclick="mapPan()"></div>
+				<div class="kx"> </div>
+				 <div class="tool" style=";background-image: url('images/quantu.gif')"onclick="fullscreen()"></div>
+				<div class="kx"> </div>
+				</div>
+    </body>

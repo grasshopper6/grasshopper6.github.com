@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg onload="Init(evt)" xmlns="http://www.w3.org/2000/svg" xml:space="preserve"   x="0px" y="0px" width="1000px" height="715px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 80000 71483"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <script  xlink:href="../js/Map.js"></script>
+ <script language="Javascript">
+      <![CDATA[
+	
+       function Showimg(n) {
+         document.getElementById('rect'+n).setAttribute("style", "visibility: visible");
+   }
+  
+	     function closeinfotip(n)
+	{
+	document.getElementById('infotip'+n).setAttribute("style", "visibility: hidden"); 
+	}
+
+
+	   ]]>
+	  
+    </script>
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:14.4867}
+    .str2 {stroke:#00A2E9;stroke-width:15.2091;stroke-linejoin:round}
+    .str4 {stroke:#332C2B;stroke-width:19.0114}
+    .str9 {stroke:#332C2B;stroke-width:19.0114;stroke-linecap:round;stroke-linejoin:round}
+    .str3 {stroke:#332C2B;stroke-width:19.0114;stroke-linejoin:round}
+    .str1 {stroke:#6D583D;stroke-width:19.0114;stroke-linejoin:round}
+    .str5 {stroke:#823520;stroke-width:19.0114;stroke-linejoin:round}
+    .str6 {stroke:#FEFEFE;stroke-width:22.8137}
+    .str11 {stroke:#332C2B;stroke-width:22.8137}
+    .str10 {stroke:#332C2B;stroke-width:28.5171}
+    .str7 {stroke:#B6B6B7;stroke-width:28.5171;stroke-linecap:round;stroke-linejoin:round}
+    .str8 {stroke:#332C2B;stroke-width:28.5171;stroke-linecap:round;stroke-linejoin:round}
+    .str12 {stroke:#00A2E9;stroke-width:38.0228}
+    .fil1 {fill:none}
+    .fil6 {fill:none;fill-rule:nonzero}
+    .fil3 {fill:#332C2B}
+    .fil7 {fill:#B6B6B7}
+    .fil0 {fill:#FEFEFE}
+    .fil14 {fill:#2F318B}
+    .fil13 {fill:#FEFEFE}
+    .fil4 {fill:#00A2E9}
+    .fil2 {fill:#6D583D}
+    .fil5 {fill:#823520}
+    .fil11 {fill:#C39354}
+    .fil9 {fill:#EAD773}
+    .fil8 {fill:#EB7223}
+    .fil10 {fill:#F2DBA2}
+    .fil12 {fill:#332C2B;fill-opacity:0.000000}
+    .fil15 {fill:#FEFEFE;fill-opacity:0.000000}
+    .fil16 {fill:#FFFCDB;fill-opacity:0.000000}
+    .fnt10 {font-weight:normal;font-size:201.198px;font-family:'黑体'}
+    .fnt9 {font-weight:normal;font-size:402.414px;font-family:'Times New Roman'}
+    .fnt8 {font-weight:normal;font-size:402.414px;font-family:'方正书宋简体'}
+    .fnt5 {font-weight:normal;font-size:469.468px;font-family:'Times New Roman'}
+    .fnt6 {font-weight:normal;font-size:469.468px;font-family:'宋体'}
+    .fnt7 {font-weight:normal;font-size:469.468px;font-family:'方正书宋简体'}
+    .fnt0 {font-weight:normal;font-size:469.468px;font-family:'黑体'}
+    .fnt4 {font-weight:normal;font-size:536.54px;font-family:'宋体'}
+    .fnt1 {font-weight:normal;font-size:556.236px;font-family:'方正细等线简体'}
+    .fnt3 {font-weight:normal;font-size:603.612px;font-family:'宋体'}
+    .fnt2 {font-weight:normal;font-size:603.612px;font-family:'黑体'}
+    .fnt13 {font-weight:normal;font-size:880.228px;font-family:'黑体'}
+    .fnt12 {font-weight:normal;font-size:938.954px;font-family:'黑体'}
+    .fnt11 {font-weight:normal;font-size:201.217px;font-family:'Times New Roman';baseline-shift:super}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="7535" y="14826" width="67903" height="39115"/>
+   </clipPath>
+   <clipPath id="id1">
+    <rect x="4420" y="10443" width="14897" height="20209"/>
+   </clipPath>
+   <clipPath id="id2">
+    <rect x="26997" y="8908" width="31750" height="22792"/>
+   </clipPath>
+   <clipPath id="id3">
+    <rect x="9276" y="46095" width="41673" height="19654"/>
+   </clipPath>
+   <clipPath id="id4">
+    <rect x="57453" y="33633" width="24289" height="20306"/>
+   </clipPath>
+ </defs>
+ <g id="map">
+<symbol id="符号12" viewBox="49885 35626 230 230">
+ <circle class="fil0 str0" cx="50000" cy="35741" r="108"/>
+ <circle class="fil1 str0" cx="50000" cy="35741" r="38"/>
+</symbol>
+<symbol id="符号8" viewBox="49962 35703 76 76">
+ <path class="fil2 str1" d="M50029 35741c0,-16 -13,-29 -28,-29 -16,0 -29,13 -29,29 0,16 13,29 29,29 16,0 28,-13 28,-29z"/>
+</symbol>
+<symbol id="符号51" viewBox="49784 35525 433 433">
+ <circle class="fil0 str0" cx="50000" cy="35741" r="209"/>
+ <circle class="fil3 str0" cx="50000" cy="35741" r="124"/>
+</symbol>
+<symbol id="符号4" viewBox="49858 35680 277 123">
+ <polygon class="fil4" points="49961,35725 49962,35725 49965,35725 49968,35725 49973,35725 49979,35725 49985,35725 49993,35724 50000,35724 50008,35723 50017,35722 50025,35721 50033,35720 50040,35718 50047,35715 50053,35713 50058,35709 50063,35706 50068,35703 50072,35700 50077,35698 50082,35695 50086,35693 50091,35692 50096,35691 50100,35690 50105,35690 50110,35690 50115,35691 50119,35692 50124,35694 50134,35702 50135,35702 50133,35702 50130,35702 50127,35701 50123,35701 50118,35700 50113,35700 50108,35700 50102,35701 50096,35702 50090,35704 50084,35707 50079,35710 50073,35714 50068,35719 50060,35725 50052,35730 50043,35735 50035,35738 50027,35742 50019,35745 50011,35748 50004,35750 49998,35752 49991,35753 49981,35756 49978,35757 49973,35757 49970,35758 "/>
+ <path class="fil4 str2" d="M49974 35741c0,-30 -24,-54 -54,-54 -30,0 -54,24 -54,54 0,30 24,54 54,54 30,0 54,-24 54,-54z"/>
+</symbol>
+<symbol id="符号10" viewBox="49876 35618 247 247">
+ <path class="fil0 str3" d="M50114 35741c0,-63 -51,-114 -114,-114 -63,0 -114,51 -114,114 0,63 51,114 114,114 63,0 114,-51 114,-114z"/>
+</symbol>
+<symbol id="符号14" viewBox="49876 35618 247 247">
+ <path class="fil0 str3" d="M50114 35741c0,-63 -51,-114 -114,-114 -63,0 -114,51 -114,114 0,63 51,114 114,114 63,0 114,-51 114,-114z"/>
+</symbol>
+<symbol id="符号54" viewBox="49924 35627 152 228">
+ <polygon class="fil2" points="49926,35856 49999,35627 50076,35856 49924,35856 "/>
+</symbol>
+<symbol id="符号52" viewBox="49879 35621 242 242">
+ <line class="fil1 str4" x1="49886" y1="35627" x2="50114" y2= "35856" />
+ <line class="fil1 str4" x1="49886" y1="35856" x2="50114" y2= "35627" />
+</symbol>
+<symbol id="符号53" viewBox="49962 35703 76 76">
+ <path class="fil2 str1" d="M50029 35741c0,-16 -13,-29 -28,-29 -16,0 -29,13 -29,29 0,16 13,29 29,29 16,0 28,-13 28,-29z"/>
+</symbol>
+<symbol id="符号5" viewBox="49879 35620 243 243">
+ <circle class="fil0 str0" cx="50000" cy="35741" r="114"/>
+ <circle class="fil1 str0" cx="50000" cy="35741" r="43"/>
+</symbol>
+<symbol id="符号1" viewBox="49933 35640 135 203">
+ <polygon class="fil5" points="49934,35843 49999,35640 50067,35843 49933,35843 "/>
+</symbol>
+<symbol id="符号15" viewBox="49784 35525 433 433">
+ <circle class="fil0 str0" cx="50000" cy="35741" r="209"/>
+ <circle class="fil3 str0" cx="50000" cy="35741" r="124"/>
+</symbol>
+<symbol id="符号18" viewBox="49689 35430 623 623">
+ <circle class="fil0 str0" cx="50000" cy="35741" r="304"/>
+ <circle class="fil1 str0" cx="50000" cy="35741" r="114"/>
+</symbol>
+<symbol id="符号6" viewBox="49784 35525 433 433">
+ <circle class="fil0 str0" cx="50000" cy="35741" r="209"/>
+ <circle class="fil3 str0" cx="50000" cy="35741" r="124"/>
+</symbol>
+<symbol id="符号3" viewBox="49922 35663 156 156">
+ <rect class="fil0" x="49929" y="35670" width="143" height="143"/>
+ <line class="fil1 str4" x1="49929" y1="35670" x2="50071" y2= "35813" />
+ <line class="fil1 str4" x1="49929" y1="35813" x2="50071" y2= "35670" />
+</symbol>
+<symbol id="符号37" viewBox="49784 35525 433 433">
+ <circle class="fil0 str0" cx="50000" cy="35741" r="209"/>
+ <circle class="fil3 str0" cx="50000" cy="35741" r="124"/>
+</symbol>
+<symbol id="符号2" viewBox="49967 35708 67 67">
+ <path class="fil5 str5" d="M50024 35741c0,-13 -11,-24 -24,-24 -13,0 -24,11 -24,24 0,13 11,24 24,24 13,0 24,-11 24,-24z"/>
+</symbol>
+<symbol id="符号17" viewBox="49876 35618 247 247">
+ <path class="fil0 str3" d="M50114 35741c0,-63 -51,-114 -114,-114 -63,0 -114,51 -114,114 0,63 51,114 114,114 63,0 114,-51 114,-114z"/>
+</symbol>
+<symbol id="符号13" viewBox="49885 35626 230 230">
+ <circle class="fil0 str0" cx="50000" cy="35741" r="108"/>
+ <circle class="fil1 str0" cx="50000" cy="35741" r="38"/>
+</symbol>
+<symbol id="符号35" viewBox="49876 35618 247 247">
+ <path class="fil0 str3" d="M50114 35741c0,-63 -51,-114 -114,-114 -63,0 -114,51 -114,114 0,63 51,114 114,114 63,0 114,-51 114,-114z"/>
+</symbol>
+<symbol id="符号9" viewBox="49924 35627 152 228">
+ <polygon class="fil2" points="49926,35856 49999,35627 50076,35856 49924,35856 "/>
+</symbol>
+<symbol id="符号7" viewBox="49879 35621 242 242">
+ <line class="fil1 str4" x1="49886" y1="35627" x2="50114" y2= "35856" />
+ <line class="fil1 str4" x1="49886" y1="35856" x2="50114" y2= "35627" />
+</symbol>
+<symbol id="符号50" viewBox="49879 35620 243 243">
+ <circle class="fil0 str0" cx="50000" cy="35741" r="114"/>
+ <circle class="fil1 str0" cx="50000" cy="35741" r="43"/>
+</symbol>
+<symbol id="符号11" viewBox="49784 35525 433 433">
+ <circle class="fil0 str0" cx="50000" cy="35741" r="209"/>
+ <circle class="fil3 str0" cx="50000" cy="35741" r="124"/>
+</symbol>
+<symbol id="符号36" viewBox="49898 35639 205 205">
+ <circle class="fil0 str0" cx="50000" cy="35741" r="95"/>
+ <circle class="fil1 str0" cx="50000" cy="35741" r="36"/>
+</symbol>
+ <g id="底图">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image id="底图.png" x="7535" y="14826" width="67903" height="39115" xlink:href="114-115_ImgID1.png"/>
+  </g>
+ </g>
+ <g id="zhuji">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <g id="_489855472">
+   <g>
+    <circle class="fil0 str4" cx="49780" cy="44315" r="80"/>
+    <circle class="fil1 str4" cx="49780" cy="44315" r="28"/>
+   </g>
+   <g transform="matrix(1 0 0 1 681.379 -141.084)">
+    <text x="50000" y="35741"  class="fil3 fnt0">那曲</text>
+   </g>
+   <g transform="matrix(1 0 0 1 -585.978 8313.1)">
+    <text x="50000" y="35741"  class="fil3 fnt0">乃东</text>
+   </g>
+   <g transform="matrix(1 0 0 1 -10906.3 8129.03)">
+    <text x="50000" y="35741"  class="fil3 fnt0">日喀则市</text>
+   </g>
+   <g>
+    <path class="fil6 str6" d="M12118 27745l0 365 28 0 0 -65 70 0 0 13 28 0 0 -313 -11 0 -17 0 -70 0 -17 0 -11 0zm98 278l-70 0 0 -256 70 0 0 256zm70 35l0 124 13 0 0 4c110,0 172,1 185,4l17 4 0 -41c-25,7 -62,11 -111,11l-76 0c0,-62 0,-94 0,-96l2 -11 -30 0zm76 -365c0,4 1,9 2,15 3,13 4,22 4,26l0 11c-46,0 -76,-2 -89,-7l-22 -4 0 39c38,-4 64,-6 78,-6l33 0 0 30 28 0 0 -30 70 0 0 30 28 0 0 -30c41,0 70,1 87,4l24 2 0 -39c-33,7 -59,11 -78,11l-33 0c0,-19 0,-30 0,-35l0 -11 -28 0 0 46 -70 0 0 -52 -35 0zm-70 122l0 139 11 0 0 4 30 0c-10,20 -20,34 -28,41 -3,4 -7,9 -13,15 -7,7 -12,13 -15,17 -3,3 -7,7 -13,13 -10,9 -17,15 -22,20l-20 17 28 17c10,-14 21,-28 33,-41 4,-4 8,-8 11,-11 14,-16 22,-24 22,-24l2 -2 106 0c-10,16 -18,28 -24,35 -6,9 -14,19 -26,30 -9,10 -17,19 -26,26l-11 9 24 13c22,-17 35,-30 39,-39 4,-4 9,-9 13,-13 1,-3 2,-4 2,-4l4 -4c10,7 25,17 43,30 9,7 15,12 20,15l35 26 11 -17c-32,-25 -56,-43 -74,-57l-24 -15c4,-9 9,-14 15,-17l9 -9 -11 -9 126 0c-10,120 -15,174 -15,161 -1,4 -4,7 -9,9 -4,3 -9,5 -13,7 -3,1 -6,2 -11,2 -6,1 -10,2 -13,2 -3,0 -6,1 -11,2 -6,1 -9,2 -11,2l-4 0 11 24c10,-3 14,-4 11,-2 20,-4 33,-8 39,-11l15 -4c12,-19 18,-34 20,-46 1,-12 2,-24 2,-37 1,-14 2,-27 2,-37 3,-39 5,-65 6,-78l4 -20c-13,1 -30,3 -52,4 -16,0 -49,0 -98,0l-111 0 33 -41 180 0 0 -4 17 0 0 -139 -11 0 -17 0 -215 0 -17 0 -11 0zm243 59l-215 0 0 -37 215 0 0 37zm0 63l-215 0 0 -41 215 0 0 41z"/>
+   </g>
+   <g>
+    <path id="1" class="fil6 str6" d="M12830 27693c-7,16 -15,31 -24,46 1,-1 1,0 -2,4 -4,4 -9,11 -15,20 -6,9 -11,15 -15,20 -3,4 -7,11 -13,20 -7,9 -12,15 -15,20 -9,12 -18,22 -28,30 -4,4 -9,9 -15,15 -7,6 -13,11 -17,15l-17 13 24 17c25,-25 40,-41 46,-48 4,-6 9,-12 15,-20 4,-6 7,-9 9,-11l9 -9 319 0c-3,7 -8,18 -15,33 -9,13 -15,24 -20,33l-9 11 28 11c13,-32 22,-52 28,-61 4,-6 9,-14 15,-24 3,-6 5,-10 6,-13l9 -17c-29,4 -93,7 -191,7l-154 0c3,-4 7,-11 13,-20 6,-9 11,-16 15,-22 14,-19 26,-33 35,-41l15 -11 -35 -17zm63 185c0,15 1,25 2,33 1,6 2,22 2,48 1,26 2,57 2,93l0 126c-7,4 -14,8 -22,11 -1,1 -3,2 -4,2 -6,3 -7,4 -4,2 -6,1 -9,2 -11,2 -4,0 -9,-1 -13,-2 4,1 2,1 -6,-2l-15 -2 6 28c13,0 25,-1 37,-2 13,-1 23,-4 30,-6 4,-1 9,-4 13,-9 4,-3 8,-6 11,-11l7 -7c0,-198 0,-293 0,-282l0 -22 -35 0zm-98 83c-13,23 -23,41 -30,52 -6,12 -15,24 -26,37 -3,4 -9,12 -17,22 -6,9 -10,15 -13,20 -4,4 -11,11 -20,20 -7,9 -12,14 -15,17l-17 17 24 15c10,-10 20,-22 30,-37 9,-10 14,-17 17,-20 9,-12 15,-20 20,-26 6,-7 10,-13 13,-17 3,-4 7,-11 13,-20 9,-13 15,-22 17,-28 1,-3 4,-6 7,-9 9,-12 15,-19 17,-22l9 -4 -28 -17zm219 0l-17 17c4,6 6,8 4,6 20,23 35,39 43,48 12,13 24,28 37,43 13,16 25,33 37,50l17 26 24 -17c-12,-13 -25,-28 -39,-46 -9,-10 -15,-17 -19,-22 -15,-17 -28,-34 -39,-50 -13,-16 -24,-29 -33,-39l-15 -17z"/>
+   </g>
+   <g transform="matrix(1 0 0 1 -37923.8 -7587.95)">
+    <text x="50000" y="35741" id="1" class="fil7 fnt1">噶尔</text>
+   </g>
+   <g transform="matrix(1 0 0 1 17118.2 -61.2928)">
+    <text x="50000" y="35741"  class="fil3 fnt0">昌都</text>
+   </g>
+   <g>
+    <line class="fil1 str7" x1="12130" y1="28271" x2="13136" y2= "28266" />
+   </g>
+   <line class="fil1 str8" x1="39188" y1="43996" x2="40812" y2= "43996" />
+   <line class="fil1 str9" x1="50609" y1="35735" x2="51628" y2= "35732" />
+   <line class="fil1 str9" x1="49348" y1="44164" x2="50387" y2= "44165" />
+   <line class="fil1 str9" x1="58573" y1="42419" x2="59518" y2= "42419" />
+   <line class="fil1 str9" x1="67128" y1="35794" x2="68092" y2= "35794" />
+   <g>
+    <circle class="fil0 str4" cx="47616" cy="42714" r="113"/>
+    <circle class="fil3 str0" cx="47616" cy="42714" r="67"/>
+   </g>
+   <g transform="matrix(1 0 0 1 -2947.69 6698.65)">
+    <text x="50000" y="35741"  class="fil3 fnt2">拉萨</text>
+   </g>
+   <g transform="matrix(1 0 0 1 8586.74 6553)">
+    <text x="50000" y="35741"  class="fil3 fnt0">林芝</text>
+   </g>
+   <g>
+    <circle class="fil0 str4" cx="39885" cy="44275" r="80"/>
+    <circle class="fil1 str4" cx="39885" cy="44275" r="28"/>
+   </g>
+   <g>
+    <circle class="fil0 str4" cx="50436" cy="35522" r="80"/>
+    <circle class="fil1 str4" cx="50436" cy="35522" r="28"/>
+   </g>
+   <g>
+    <circle class="fil0 str4" cx="67549" cy="35969" r="80"/>
+    <circle class="fil1 str4" cx="67549" cy="35969" r="28"/>
+   </g>
+   <g>
+    <circle class="fil0 str4" cx="58393" cy="42227" r="80"/>
+    <circle class="fil1 str4" cx="58393" cy="42227" r="28"/>
+   </g>
+  </g>
+ </g>
+ 
+ <g id="cirs">
+  <metadata id="CorelCorpID_3Corel-Layer"/>
+  <polygon id="cir1"  onclick="Showimg(1)" class="fil12" points="19528,19181 18723,23809 20534,26374 20685,29644 18924,30323 20182,31555 20081,32712 20006,33668 20911,34322 20483,35152 19452,34171 18924,35102 18421,35831 17742,35529 15956,36711 13265,37214 8713,33568 7535,25670 11630,21546 16510,19735 18295,19232 "/>
+  <polygon id="cir2"  onclick="Showimg(2)" class="fil12" points="61353,32436 58939,36259 56625,39076 52249,40434 48526,38723 46212,37365 43798,41339 33788,39126 30820,37365 30016,39277 28909,41490 27199,42043 25941,37365 25287,34800 20911,34322 19311,30174 21012,27104 18723,23809 18912,19207 29160,21571 36404,18251 40830,19257 42842,27003 43848,30021 52500,31430 58737,32335 "/>
+  <polygon id="cir3"  onclick="Showimg(3)" class="fil12" points="58486,49136 56524,45917 52299,45564 53858,42748 51142,41742 52249,40434 49615,39224 47520,37164 45559,37667 45206,40031 43798,41339 42205,40987 39573,40685 37661,40333 35120,39420 34039,39181 33134,37919 31826,39478 29965,37214 29462,40383 28054,42345 25136,39226 25727,36525 25287,34800 21388,34374 18924,35102 16937,36661 16334,40484 27350,47275 32983,48532 37158,48532 45357,47727 52903,51399 "/>
+  <path id="cir4"  onclick="Showimg(4)" class="fil12" d="M70156 46520l-5181 -3320 -7445 3219 -5030 -352 1358 -3320 -2716 -1006 2163 -2767 3823 704 -1408 -2163c0,0 2816,257 2565,50 -251,-206 873,-1654 873,-1654l137 -3556 9554 -675 5231 2364 -1358 6086 -553 4879 -2012 1509z"/>
+ </g>
+ <g id="rect1" style="visibility:hidden" >
+  <metadata id="CorelCorpID_4Corel-Layer"/>
+  <g style="clip-path:url(#id1)">
+   <image id="rect1_0" x="4420" y="10443" width="14897" height="20209" xlink:href="114-115_ImgID2.png"/>
+  </g>
+ </g>
+ <g id="rect2" style="visibility:hidden" >
+  <metadata id="CorelCorpID_5Corel-Layer"/>
+  <g style="clip-path:url(#id2)">
+   <image id="rect2_1" x="26997" y="8908" width="31750" height="22792" xlink:href="114-115_ImgID3.png"/>
+  </g>
+ </g>
+ <g id="rect3" style="visibility:hidden" >
+  <metadata id="CorelCorpID_6Corel-Layer"/>
+  <g style="clip-path:url(#id3)">
+   <image id="rect3_2" x="9276" y="46095" width="41673" height="19654" xlink:href="114-115_ImgID4.png"/>
+  </g>
+ </g>
+ <g id="rect4" style="visibility:hidden" >
+  <metadata id="CorelCorpID_7Corel-Layer"/>
+  <g style="clip-path:url(#id4)">
+   <image id="rect4_3" x="57453" y="33633" width="24289" height="20306" xlink:href="114-115_ImgID5.png"/>
+  </g>
+ </g>
+ <g id="infotip1">
+  <metadata id="CorelCorpID_8Corel-Layer"/>
+  <path class="fil13 str12" d="M9132 33179c0,0 -3,329 174,325 177,-4 6529,-7 6529,-7 0,0 137,11 140,-356 3,-367 1,-1563 1,-1563 0,0 13,-224 -247,-224 -260,0 -3043,7 -3043,7l-415 -709 -3 702 -1324 3 -1638 4c0,0 -171,27 -170,265 1,238 -4,1553 -4,1553z"/>
+  <g transform="matrix(0.732267 0 0 1 -27051.3 -3313.14)">
+   <text x="50000" y="35741"  class="fil14 fnt12">点击查看阿里高原</text>
+  </g>
+  <g transform="matrix(0.732267 0 0 1 -27051.3 -3313.14)">
+  </g>
+  <g transform="matrix(0.732267 0 0 1 -27051.3 -3313.14)">
+   <text x="50000" y="36680"  class="fil14 fnt12">沙漠化发展情况</text>
+  </g>
+  <g transform="matrix(0.732267 0 0 1 -27051.3 -3313.14)">
+  </g>
+  <line class="fil1 str12" x1="15634" y1="32572" x2="15205" y2= "33253" />
+  <line class="fil1 str12" x1="15205" y1="32572" x2="15634" y2= "33253" />
+  <path id="close1"  onclick="closeinfotip(1)" class="fil15" d="M14947 32436l733 0c80,0 146,66 146,146l0 639c0,80 -66,146 -146,146l-733 0c-80,0 -146,-66 -146,-146l0 -639c0,-80 66,-146 146,-146z"/>
+ </g>
+ <g id="infotip2">
+  <metadata id="CorelCorpID_9Corel-Layer"/>
+  <path class="fil13 str12" d="M30010 46166c0,0 -3,328 169,324 172,-4 6347,-7 6347,-7 0,0 133,11 136,-355 3,-366 1,-1559 1,-1559 0,0 12,-224 -240,-224 -252,0 -2958,7 -2958,7l-404 -708 -3 701 -1288 3 -1593 4c0,0 -166,27 -165,264 1,237 -4,1550 -4,1550z"/>
+  <g transform="matrix(0.655808 0 0 1 -2531.74 9542.98)">
+   <text x="50000" y="35741"  class="fil14 fnt12">点击查看藏南高原河谷</text>
+  </g>
+  <g transform="matrix(0.655808 0 0 1 -2531.74 9542.98)">
+  </g>
+  <g transform="matrix(0.655808 0 0 1 -2531.74 9542.98)">
+   <text x="50000" y="36680"  class="fil14 fnt12">湖盆区沙漠化情况</text>
+  </g>
+  <g transform="matrix(0.655808 0 0 1 -2531.74 9542.98)">
+  </g>
+  <line class="fil1 str12" x1="36238" y1="45529" x2="35854" y2= "46207" />
+  <line class="fil1 str12" x1="35854" y1="45529" x2="36238" y2= "46207" />
+  <path id="close2"  onclick="closeinfotip(2)" class="fil15" d="M35690 45358l586 0c73,0 133,60 133,133l0 733c0,73 -60,133 -133,133l-586 0c-73,0 -133,-60 -133,-133l0 -733c0,-73 60,-133 133,-133z"/>
+ </g>
+ <g id="infotip3">
+  <metadata id="CorelCorpID_10Corel-Layer"/>
+  <path class="fil13 str12" d="M38760 34506c0,0 -3,318 174,314 177,-4 6529,-6 6529,-6 0,0 137,11 140,-344 3,-355 1,-1511 1,-1511 0,0 13,-217 -247,-217 -260,0 -3043,6 -3043,6l-415 -686 -3 679 -1324 3 -1638 4c0,0 -171,26 -170,256 1,230 -4,1502 -4,1502z"/>
+  <g transform="matrix(0.757136 0 0 1 1020.51 -2044.46)">
+   <text x="50000" y="35741"  class="fil14 fnt12">点击查看藏北高原区</text>
+  </g>
+  <g transform="matrix(0.757136 0 0 1 1020.51 -2044.46)">
+  </g>
+  <g transform="matrix(0.757136 0 0 1 1020.51 -2044.46)">
+   <text x="50000" y="36680"  class="fil14 fnt12">沙漠化发展情况</text>
+  </g>
+  <g transform="matrix(0.757136 0 0 1 1020.51 -2044.46)">
+  </g>
+  <line class="fil1 str12" x1="45301" y1="33975" x2="44871" y2= "34633" />
+  <line class="fil1 str12" x1="44871" y1="33975" x2="45301" y2= "34633" />
+  <path id="close3"  onclick="closeinfotip(3)" class="fil15" d="M44450 33785l863 0c83,0 150,67 150,150l0 659c0,83 -68,150 -150,150l-863 0c-83,0 -150,-67 -150,-150l0 -659c0,-83 67,-150 150,-150z"/>
+ </g>
+ <g id="infotip4">
+  <metadata id="CorelCorpID_11Corel-Layer"/>
+  <path class="fil13 str12" d="M56609 39690c0,0 -3,326 179,321 182,-4 6704,-7 6704,-7 0,0 140,11 143,-352 3,-363 1,-1547 1,-1547 0,0 13,-222 -254,-222 -267,0 -3124,7 -3124,7l-427 -702 -3 696 -1360 3 -1682 4c0,0 -176,26 -174,262 1,236 -4,1538 -4,1538z"/>
+  <g transform="matrix(0.732254 0 0 1 20000.7 3076.42)">
+   <text x="50000" y="35741"  class="fil14 fnt13">点击查看藏东南三江河</text>
+  </g>
+  <g transform="matrix(0.732254 0 0 1 20000.7 3076.42)">
+  </g>
+  <g transform="matrix(0.732254 0 0 1 20000.7 3076.42)">
+   <text x="50000" y="36622"  class="fil14 fnt13">谷区沙漠化发展情况</text>
+  </g>
+  <g transform="matrix(0.732254 0 0 1 20000.7 3076.42)">
+  </g>
+  <line class="fil1 str12" x1="63152" y1="39080" x2="62722" y2= "39760" />
+  <line class="fil1 str12" x1="62722" y1="39080" x2="63152" y2= "39760" />
+  <path id="close4"  onclick="closeinfotip(4)" class="fil16" d="M62684 38919l736 0c84,0 153,69 153,153l0 674c0,84 -69,153 -153,153l-736 0c-84,0 -153,-69 -153,-153l0 -674c0,-84 69,-153 153,-153z"/>
+ </g>
+ </g>
+</svg>

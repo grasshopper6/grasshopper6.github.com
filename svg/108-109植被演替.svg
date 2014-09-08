@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1000px" height="918px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 100000 91837"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:31.102}
+    .str6 {stroke:#00A2E9;stroke-width:32.6531;stroke-linejoin:round}
+    .str4 {stroke:#332C2B;stroke-width:40.8163}
+    .str2 {stroke:#332C2B;stroke-width:40.8163;stroke-linejoin:round}
+    .str5 {stroke:#6D583D;stroke-width:40.8163;stroke-linejoin:round}
+    .str1 {stroke:#823520;stroke-width:40.8163;stroke-linejoin:round}
+    .str3 {stroke:#FEFEFE;stroke-width:204.082}
+    .fil3 {fill:none}
+    .fil4 {fill:#332C2B}
+    .fil5 {fill:#B6B49E}
+    .fil2 {fill:#FEFEFE}
+    .fil6 {fill:#00A2E9}
+    .fil0 {fill:#6D583D}
+    .fil1 {fill:#823520}
+    .fil10 {fill:#85AFDA}
+    .fil9 {fill:#E5ECF0}
+    .fil7 {fill:#F4FAFD}
+    .fil11 {fill:#ABACAC;fill-rule:nonzero}
+    .fil8 {fill:#C9CACA;fill-rule:nonzero}
+    .fnt16 {font-weight:normal;font-size:615.551px;font-family:'Times New Roman'}
+    .fnt5 {font-weight:normal;font-size:719.959px;font-family:'Times New Roman'}
+    .fnt6 {font-weight:normal;font-size:719.959px;font-family:'幼圆'}
+    .fnt13 {font-weight:normal;font-size:791.959px;font-family:'Batang'}
+    .fnt11 {font-weight:normal;font-size:791.959px;font-family:'Times New Roman'}
+    .fnt12 {font-weight:normal;font-size:791.959px;font-family:'幼圆'}
+    .fnt15 {font-weight:normal;font-size:979.592px;font-family:'@方正黑体简体'}
+    .fnt4 {font-weight:normal;font-size:979.592px;font-family:'方正书宋简体'}
+    .fnt0 {font-weight:normal;font-size:979.592px;font-family:'方正黑体简体'}
+    .fnt9 {font-weight:normal;font-size:1007.92px;font-family:'Arial'}
+    .fnt8 {font-weight:normal;font-size:1007.92px;font-family:'宋体'}
+    .fnt10 {font-weight:normal;font-size:1007.92px;font-family:'幼圆'}
+    .fnt7 {font-weight:normal;font-size:1007.92px;font-family:'方正黑体简体'}
+    .fnt3 {font-weight:normal;font-size:1151.92px;font-family:'Arial'}
+    .fnt2 {font-weight:normal;font-size:1439.92px;font-family:'方正准圆简体'}
+    .fnt1 {font-weight:normal;font-size:3455.8px;font-family:'Arial'}
+    .fnt14 {font-style:italic;font-weight:normal;font-size:791.959px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+<symbol id="符号28" viewBox="49837 45673 327 490">
+ <polygon class="fil0" points="49841,46163 49998,45673 50163,46163 49837,46163 "/>
+</symbol>
+<symbol id="符号1" viewBox="49837 45673 327 490">
+ <polygon class="fil1" points="49841,46163 49998,45673 50163,46163 49837,46163 "/>
+</symbol>
+<symbol id="符号26" viewBox="49740 45658 521 521">
+ <circle class="fil2 str0" cx="50000" cy="45918" r="245"/>
+ <circle class="fil3 str0" cx="50000" cy="45918" r="92"/>
+</symbol>
+<symbol id="符号19" viewBox="49906 45824 188 188">
+ <path class="fil1 str1" d="M50073 45918c0,-41 -33,-73 -73,-73 -41,0 -74,33 -74,73 0,41 33,73 74,73 41,0 73,-33 73,-73z"/>
+</symbol>
+<symbol id="符号13" viewBox="49740 45658 521 521">
+ <circle class="fil2 str0" cx="50000" cy="45918" r="245"/>
+ <circle class="fil3 str0" cx="50000" cy="45918" r="92"/>
+</symbol>
+<symbol id="符号14" viewBox="49735 45653 531 531">
+ <path class="fil2 str2" d="M50245 45918c0,-135 -110,-245 -245,-245 -135,0 -245,110 -245,245 0,135 110,245 245,245 135,0 245,-110 245,-245z"/>
+</symbol>
+<symbol id="符号2" viewBox="49918 45837 163 163">
+ <path class="fil1 str1" d="M50061 45918c0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,34 27,61 61,61 34,0 61,-27 61,-61z"/>
+</symbol>
+<symbol id="符号24" viewBox="49535 45454 929 929">
+ <circle class="fil2 str0" cx="50000" cy="45918" r="449"/>
+ <circle class="fil4 str0" cx="50000" cy="45918" r="265"/>
+</symbol>
+<symbol id="符号11" viewBox="49535 45454 929 929">
+ <circle class="fil2 str0" cx="50000" cy="45918" r="449"/>
+ <circle class="fil4 str0" cx="50000" cy="45918" r="265"/>
+</symbol>
+<symbol id="符号20" viewBox="49714 45388 571 1061">
+ <polygon class="fil1" points="49721,46449 49996,45388 50286,46449 49714,46449 "/>
+</symbol>
+<symbol id="符号22" viewBox="45931 42922 8032 5991">
+ <polygon class="fil3 str3" points="51055,43168 51055,44551 46181,44551 47563,45933 46181,47286 51055,47286 51055,48668 53819,45933 "/>
+ <polygon id="1" class="fil5" points="51055,43168 51055,44551 46181,44551 47563,45933 46181,47286 51055,47286 51055,48668 53819,45933 "/>
+</symbol>
+<symbol id="符号23" viewBox="44369 42922 11304 5991">
+ <polygon class="fil3 str3" points="52764,43168 52764,44551 46199,44551 46199,47286 52764,47286 52764,48668 55529,45933 "/>
+ <polygon id="1" class="fil5" points="52764,43168 52764,44551 46199,44551 46199,47286 52764,47286 52764,48668 55529,45933 "/>
+ <polygon class="fil3 str3" points="45162,44551 45162,47286 45854,47286 45854,44551 "/>
+ <polygon id="1" class="fil5" points="45162,44551 45162,47286 45854,47286 45854,44551 "/>
+ <polygon class="fil3 str3" points="44471,44551 44471,47286 44817,47286 44817,44551 "/>
+ <polygon id="1" class="fil5" points="44471,44551 44471,47286 44817,47286 44817,44551 "/>
+</symbol>
+<symbol id="符号21" viewBox="49808 45629 384 580">
+ <polygon class="fil1" points="49813,46208 49998,45629 50192,46208 49808,46208 "/>
+</symbol>
+<symbol id="符号18" viewBox="49618 45537 764 764">
+ <rect class="fil2" x="49633" y="45551" width="735" height="735"/>
+ <line class="fil3 str4" x1="49633" y1="45551" x2="50367" y2= "46286" />
+ <line class="fil3 str4" x1="49633" y1="46286" x2="50367" y2= "45551" />
+</symbol>
+<symbol id="符号7" viewBox="49535 45454 929 929">
+ <circle class="fil2 str0" cx="50000" cy="45918" r="449"/>
+ <circle class="fil4 str0" cx="50000" cy="45918" r="265"/>
+</symbol>
+<symbol id="符号5" viewBox="49735 45653 531 531">
+ <path class="fil2 str2" d="M50245 45918c0,-135 -110,-245 -245,-245 -135,0 -245,110 -245,245 0,135 110,245 245,245 135,0 245,-110 245,-245z"/>
+</symbol>
+<symbol id="符号6" viewBox="49740 45658 521 521">
+ <circle class="fil2 str0" cx="50000" cy="45918" r="245"/>
+ <circle class="fil3 str0" cx="50000" cy="45918" r="92"/>
+</symbol>
+<symbol id="符号27" viewBox="49918 45837 163 163">
+ <path class="fil0 str5" d="M50061 45918c0,-34 -27,-61 -61,-61 -34,0 -61,27 -61,61 0,34 27,61 61,61 34,0 61,-27 61,-61z"/>
+</symbol>
+<symbol id="符号16" viewBox="49535 45454 929 929">
+ <circle class="fil2 str0" cx="50000" cy="45918" r="449"/>
+ <circle class="fil4 str0" cx="50000" cy="45918" r="265"/>
+</symbol>
+<symbol id="符号15" viewBox="49454 45372 1092 1092">
+ <circle class="fil2 str0" cx="50000" cy="45918" r="531"/>
+ <circle class="fil3 str0" cx="50000" cy="45918" r="199"/>
+</symbol>
+<symbol id="符号25" viewBox="49741 45659 519 519">
+ <line class="fil3 str4" x1="49755" y1="45673" x2="50245" y2= "46163" />
+ <line class="fil3 str4" x1="49755" y1="46163" x2="50245" y2= "45673" />
+</symbol>
+<symbol id="符号12" viewBox="49735 45653 531 531">
+ <path class="fil2 str2" d="M50245 45918c0,-135 -110,-245 -245,-245 -135,0 -245,110 -245,245 0,135 110,245 245,245 135,0 245,-110 245,-245z"/>
+</symbol>
+<symbol id="符号10" viewBox="49535 45454 929 929">
+ <circle class="fil2 str0" cx="50000" cy="45918" r="449"/>
+ <circle class="fil4 str0" cx="50000" cy="45918" r="265"/>
+</symbol>
+<symbol id="符号17" viewBox="49657 45771 669 294">
+ <polygon class="fil6" points="49906,45878 49908,45878 49914,45878 49923,45878 49935,45878 49949,45878 49965,45878 49982,45877 50001,45876 50020,45874 50040,45872 50060,45869 50079,45865 50097,45860 50114,45855 50129,45848 50142,45840 50153,45832 50165,45825 50176,45818 50187,45812 50199,45806 50210,45802 50221,45798 50232,45795 50244,45793 50255,45792 50267,45793 50278,45795 50290,45798 50301,45802 50326,45822 50327,45822 50323,45822 50316,45822 50308,45820 50298,45819 50287,45818 50275,45818 50262,45819 50248,45820 50234,45823 50219,45828 50205,45834 50191,45842 50177,45852 50165,45865 50145,45878 50125,45891 50105,45902 50085,45911 50065,45920 50046,45927 50028,45933 50010,45939 49994,45943 49979,45947 49955,45954 49945,45955 49935,45957 49928,45958 "/>
+ <path class="fil6 str6" d="M49937 45918c0,-72 -59,-131 -132,-131 -73,0 -132,58 -132,131 0,72 59,131 132,131 73,0 132,-58 132,-131z"/>
+</symbol>
+<symbol id="符号3" viewBox="49741 45659 519 519">
+ <rect class="fil2" x="49755" y="45673" width="490" height="490"/>
+ <line class="fil3 str4" x1="49755" y1="45673" x2="50245" y2= "46163" />
+ <line class="fil3 str4" x1="49755" y1="46163" x2="50245" y2= "45673" />
+</symbol>
+<symbol id="符号4" viewBox="49657 45771 669 294">
+ <polygon class="fil6" points="49906,45878 49908,45878 49914,45878 49923,45878 49935,45878 49949,45878 49965,45878 49982,45877 50001,45876 50020,45874 50040,45872 50060,45869 50079,45865 50097,45860 50114,45855 50129,45848 50142,45840 50153,45832 50165,45825 50176,45818 50187,45812 50199,45806 50210,45802 50221,45798 50232,45795 50244,45793 50255,45792 50267,45793 50278,45795 50290,45798 50301,45802 50326,45822 50327,45822 50323,45822 50316,45822 50308,45820 50298,45819 50287,45818 50275,45818 50262,45819 50248,45820 50234,45823 50219,45828 50205,45834 50191,45842 50177,45852 50165,45865 50145,45878 50125,45891 50105,45902 50085,45911 50065,45920 50046,45927 50028,45933 50010,45939 49994,45943 49979,45947 49955,45954 49945,45955 49935,45957 49928,45958 "/>
+ <path class="fil6 str6" d="M49937 45918c0,-72 -59,-131 -132,-131 -73,0 -132,58 -132,131 0,72 59,131 132,131 73,0 132,-58 132,-131z"/>
+</symbol>
+<symbol id="符号9" viewBox="49740 45658 521 521">
+ <circle class="fil2 str0" cx="50000" cy="45918" r="245"/>
+ <circle class="fil3 str0" cx="50000" cy="45918" r="92"/>
+</symbol>
+<symbol id="符号8" viewBox="49735 45653 531 531">
+ <path class="fil2 str2" d="M50245 45918c0,-135 -110,-245 -245,-245 -135,0 -245,110 -245,245 0,135 110,245 245,245 135,0 245,-110 245,-245z"/>
+</symbol>
+ <g id="图层_x0020_3">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_748172544">
+   <g>
+    <rect class="fil7" x="22540" y="13527" width="6142" height="4082"/>
+    <rect class="fil7" x="22540" y="20438" width="6142" height="2449"/>
+    <g>
+     <path class="fil8" d="M14522 9336l3 1990 -204 0 -3 -1990 102 -102 102 102zm-204 0l0 -102 102 0 -102 102zm21674 109l-21572 -7 0 -204 21572 7 102 103 -102 101zm0 -204l103 0 -1 103 -102 -103zm-114 1207l11 -1106 204 2 -11 1106 -204 -2zm636 -78l-543 964 -523 -975 1067 11z"/>
+    </g>
+    <g>
+     <path class="fil8" d="M14621 16015l-102 0 0 0 0 -1 0 -1 0 -2 0 -3 0 -5 0 -6 0 -8 0 -10 0 -12 0 -15 0 -17 0 -20 0 -23 0 -27 0 -30 0 -34 0 -38 0 -42 0 -47 0 -51 0 -56 0 -61 0 -67 0 -72 0 -78 0 -84 0 -90 0 -97 0 -103 0 -110 204 0 0 110 0 103 0 97 0 90 0 84 0 78 0 72 0 67 0 61 0 56 0 51 0 47 0 42 0 38 0 34 0 30 0 27 0 23 0 20 0 17 0 15 0 12 0 10 0 8 0 6 0 5 0 3 0 2 0 1 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+    </g>
+    <g>
+     <path class="fil8" d="M14621 22063l-102 0 0 0 0 -1 0 -2 0 -3 0 -5 0 -7 0 -9 0 -11 0 -14 0 -17 0 -21 0 -25 0 -29 0 -33 0 -38 0 -43 0 -48 0 -54 0 -60 0 -66 0 -73 0 -80 0 -87 0 -95 0 -103 0 -111 0 -119 0 -128 0 -137 0 -147 0 -156 204 0 0 156 0 147 0 137 0 128 0 119 0 111 0 103 0 95 0 87 0 80 0 73 0 66 0 60 0 54 0 48 0 43 0 38 0 33 0 29 0 25 0 21 0 17 0 14 0 11 0 9 0 7 0 5 0 3 0 2 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+    </g>
+    <g>
+     <path class="fil8" d="M36015 15991l-102 0 0 0 0 -1 0 -1 0 -2 0 -3 0 -5 0 -6 0 -8 0 -10 0 -12 0 -15 0 -17 0 -20 0 -23 0 -26 0 -30 0 -34 0 -38 0 -42 0 -46 0 -51 0 -56 0 -61 0 -66 0 -72 0 -77 0 -83 0 -89 0 -96 0 -102 0 -109 204 0 0 109 0 102 0 96 0 89 0 83 0 77 0 72 0 66 0 61 0 56 0 51 0 46 0 42 0 38 0 34 0 30 0 26 0 23 0 20 0 17 0 15 0 12 0 10 0 8 0 6 0 5 0 3 0 2 0 1 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+    </g>
+    <g>
+     <path class="fil8" d="M36015 22063l-102 0 0 0 0 -1 0 -2 0 -3 0 -5 0 -7 0 -9 0 -11 0 -14 0 -17 0 -21 0 -25 0 -29 0 -33 0 -38 0 -43 0 -48 0 -54 0 -60 0 -66 0 -73 0 -80 0 -87 0 -95 0 -103 0 -111 0 -119 0 -128 0 -137 0 -147 0 -156 204 0 0 156 0 147 0 137 0 128 0 119 0 111 0 103 0 95 0 87 0 80 0 73 0 66 0 60 0 54 0 48 0 43 0 38 0 33 0 29 0 25 0 21 0 17 0 14 0 11 0 9 0 7 0 5 0 3 0 2 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+    </g>
+    <g>
+     <path class="fil8" d="M25356 12256l-102 0 0 0 0 -1 0 -1 0 -2 0 -3 0 -5 0 -6 0 -8 0 -10 0 -13 0 -15 0 -18 0 -21 0 -24 0 -27 0 -31 0 -35 0 -39 0 -43 0 -48 0 -53 0 -58 0 -63 0 -68 0 -74 0 -80 0 -86 0 -92 0 -99 0 -106 0 -113 204 0 0 113 0 106 0 99 0 92 0 86 0 80 0 74 0 68 0 63 0 58 0 53 0 48 0 43 0 39 0 35 0 31 0 27 0 24 0 21 0 18 0 15 0 13 0 10 0 8 0 6 0 5 0 3 0 2 0 1 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+    </g>
+    <g>
+     <path class="fil8" d="M25356 19244l-102 0 0 0 0 -1 0 -2 0 -3 0 -5 0 -6 0 -8 0 -11 0 -13 0 -16 0 -20 0 -23 0 -27 0 -31 0 -36 0 -40 0 -45 0 -51 0 -56 0 -62 0 -69 0 -75 0 -82 0 -89 0 -96 0 -104 0 -112 0 -120 0 -129 0 -138 0 -147 204 0 0 147 0 138 0 129 0 120 0 112 0 104 0 96 0 89 0 82 0 75 0 69 0 62 0 56 0 51 0 45 0 40 0 36 0 31 0 27 0 23 0 20 0 16 0 13 0 11 0 8 0 6 0 5 0 3 0 2 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+    </g>
+    <g>
+     <path class="fil8" d="M25356 24527l-102 0 0 0 0 -1 0 -2 0 -3 0 -4 0 -6 0 -8 0 -11 0 -13 0 -16 0 -20 0 -23 0 -27 0 -31 0 -36 0 -40 0 -45 0 -51 0 -56 0 -62 0 -69 0 -75 0 -82 0 -89 0 -97 0 -104 0 -112 0 -121 0 -129 0 -138 0 -147 204 0 0 147 0 138 0 129 0 121 0 112 0 104 0 97 0 89 0 82 0 75 0 69 0 62 0 56 0 51 0 45 0 40 0 36 0 31 0 27 0 23 0 20 0 16 0 13 0 11 0 8 0 6 0 4 0 3 0 2 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+    </g>
+    <g>
+     <path class="fil8" d="M25356 29737l-102 0 0 0 0 -1 0 -2 0 -3 0 -4 0 -6 0 -8 0 -10 0 -13 0 -16 0 -19 0 -22 0 -26 0 -30 0 -34 0 -39 0 -44 0 -49 0 -55 0 -60 0 -66 0 -73 0 -79 0 -86 0 -93 0 -101 0 -109 0 -117 0 -125 0 -134 0 -142 204 0 0 142 0 134 0 125 0 117 0 109 0 101 0 93 0 86 0 79 0 73 0 66 0 60 0 55 0 49 0 44 0 39 0 34 0 30 0 26 0 22 0 19 0 16 0 13 0 10 0 8 0 6 0 4 0 3 0 2 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+    </g>
+    <polygon class="fil9" points="22089,13139 28459,13139 28459,17221 22089,17221 "/>
+    <rect class="fil9" x="22210" y="20050" width="6142" height="2449"/>
+    <rect class="fil9" x="22210" y="25329" width="6142" height="2449"/>
+    <rect class="fil9" x="22210" y="30608" width="6142" height="2449"/>
+    <polygon class="fil9" points="30767,11342 41299,11342 41299,14318 30767,14318 "/>
+    <polygon class="fil9" points="30887,16893 41572,16893 41572,19869 30887,19869 "/>
+    <rect class="fil9" x="31935" y="22912" width="8163" height="2449"/>
+    <polygon class="fil9" points="8757,11342 20345,11363 20345,14340 8757,14318 "/>
+    <polygon class="fil9" points="9212,16893 19920,16893 19920,19869 9212,19869 "/>
+    <rect class="fil9" x="10500" y="22912" width="8163" height="2449"/>
+    <polygon class="fil9" points="4922,16697 4922,10875 7535,10875 7535,16697 "/>
+    <polygon class="fil9" points="43181,16642 43181,10847 45719,10847 45719,16642 "/>
+    <polygon class="fil9" points="43182,24557 43213,17649 45739,17649 45708,24557 "/>
+    <g transform="matrix(0.999999 0 0 0.999999 -27250.8 -24613.9)">
+     <text x="50000" y="45918"  class="fil4 fnt0">半固定沙丘</text>
+    </g>
+    <g transform="matrix(2.64845E-014 -0.999999 0.999999 2.64845E-014 -40594.3 65612.9)">
+     <text x="50000" y="45918"  class="fil4 fnt0"><tspan rotate="90">载超度轻</tspan></text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 -27716.9 -31586.5)">
+     <text x="50000" y="45918"  class="fil4 fnt1"> </text>
+     <text x="50960" y="45918"  class="fil4 fnt0">风</text>
+     <text x="51994" y="45918"  class="fil4 fnt0">蚀</text>
+     <text x="53028" y="45918"  class="fil4 fnt0">沙</text>
+     <text x="54062" y="45918"  class="fil4 fnt0">地</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 -27247.6 -30536.9)">
+     <text x="50000" y="45918"  class="fil4 fnt0">或</text>
+     <text x="51034" y="45918"  class="fil4 fnt0">固</text>
+     <text x="52068" y="45918"  class="fil4 fnt0">定</text>
+     <text x="53102" y="45918"  class="fil4 fnt0">沙</text>
+     <text x="54136" y="45918"  class="fil4 fnt0">丘</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 -36865.3 -21670.6)">
+     <text x="50000" y="45918"  class="fil4 fnt0">固沙草</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 -27250.8 -19341.6)">
+     <text x="50000" y="45918"  class="fil4 fnt0">半流动沙丘</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 -26736.9 -14041.1)">
+     <text x="50000" y="45918"  class="fil4 fnt0">流动沙丘</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 -15472 -21732.3)">
+     <text x="50000" y="45918"  class="fil4 fnt0">固沙草</text>
+    </g>
+    <g>
+     <g transform="matrix(0.999999 0 0 0.999999 -40293.8 -33399.5)">
+      <text x="50000" y="45918"  class="fil4 fnt0">沙</text>
+      <text x="51034" y="45918"  class="fil4 fnt0">生</text>
+      <text x="52068" y="45918"  class="fil4 fnt0">槐   藏</text>
+      <text x="54896" y="45918"  class="fil4 fnt0">沙</text>
+      <text x="55930" y="45918"  class="fil4 fnt0">蒿   白</text>
+      <text x="58759" y="45918"  class="fil4 fnt0">草</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 -37206.4 -33367.1)">
+      <text x="50000" y="45918"  class="fil4 fnt0">+</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 -33362 -33367.1)">
+      <text x="50000" y="45918"  class="fil4 fnt0">+</text>
+     </g>
+    </g>
+    <g>
+     <g transform="matrix(0.999999 0 0 0.999999 -36402.5 -27777.2)">
+      <text x="50000" y="45918"  class="fil4 fnt0">白</text>
+      <text x="51034" y="45918"  class="fil4 fnt0">草</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 -37008.3 -27901)">
+      <text x="50000" y="45918"  class="fil4 fnt0">+</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 -33761.1 -27777.2)">
+      <text x="50000" y="45918"  class="fil4 fnt0">固</text>
+      <text x="51034" y="45918"  class="fil4 fnt0">沙</text>
+      <text x="52068" y="45918"  class="fil4 fnt0">草</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 -34257.9 -27942.2)">
+      <text x="50000" y="45918"  class="fil4 fnt0">+</text>
+     </g>
+     <text x="9946" y="18128"  class="fil4 fnt0">藏</text>
+     <text x="10980" y="18128"  class="fil4 fnt0">沙</text>
+     <text x="12013" y="18128"  class="fil4 fnt0">蒿</text>
+    </g>
+    <g>
+     <g transform="matrix(0.999999 0 0 0.999999 -13132.2 -33340.4)">
+      <text x="50000" y="45918"  class="fil4 fnt0">白</text>
+      <text x="51034" y="45918"  class="fil4 fnt0">草</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 -13772.9 -33334.9)">
+      <text x="50000" y="45918"  class="fil4 fnt0">+</text>
+     </g>
+     <text x="33198" y="12597"  class="fil4 fnt0">藏</text>
+     <text x="34232" y="12597"  class="fil4 fnt0">沙</text>
+     <text x="35266" y="12597"  class="fil4 fnt0">蒿</text>
+    </g>
+    <g>
+     <g transform="matrix(0.999999 0 0 0.999999 -14894.3 -27690.1)">
+      <text x="50000" y="45918"  class="fil4 fnt0">白</text>
+      <text x="51034" y="45918"  class="fil4 fnt0">草</text>
+     </g>
+     <text x="31651" y="18243"  class="fil4 fnt0">藏</text>
+     <text x="32685" y="18243"  class="fil4 fnt0">沙</text>
+     <text x="33719" y="18243"  class="fil4 fnt0">蒿</text>
+     <g transform="matrix(0.999999 0 0 0.999999 -15390.8 -27805.7)">
+      <text x="50000" y="45918"  class="fil4 fnt0">+</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 -12846.1 -27822.2)">
+      <text x="50000" y="45918"  class="fil4 fnt0">+</text>
+     </g>
+     <text x="37767" y="18193"  class="fil4 fnt0">固</text>
+     <text x="38801" y="18193"  class="fil4 fnt0">沙</text>
+     <text x="39835" y="18193"  class="fil4 fnt0">草</text>
+    </g>
+    <g transform="matrix(2.64845E-014 -0.999999 0.999999 2.64845E-014 -2332.87 65585.1)">
+     <text x="50000" y="45918"  class="fil4 fnt0"><tspan rotate="90">载超度轻</tspan></text>
+    </g>
+    <g transform="matrix(2.64845E-014 -0.999999 0.999999 2.64845E-014 -2327.16 72947.9)">
+     <text x="50000" y="45918"  class="fil4 fnt0"><tspan rotate="90">载超度重</tspan></text>
+    </g>
+    <g transform="matrix(1.2 0 0 1 -49183.4 -43305.3)">
+     <text x="50000" y="45918"  class="fil4 fnt2">温性草原区砂生槐群系沙化过程植被演替</text>
+    </g>
+    <text x="13062" y="4242"  class="fil4 fnt3">Vegetation succession of Sophora moocroftiana and</text>
+    <text x="13865" y="5400"  class="fil4 fnt3"> desertification processes in temperate grassland</text>
+    <g transform="matrix(0.999999 0 0 0.999999 -32027.3 -32659.9)">
+     <text x="50000" y="45918"  class="fil4 fnt4"> </text>
+    </g>
+    <polygon class="fil9" points="19558,8163 31004,8163 31004,10612 19558,10612 "/>
+    <text x="22883" y="9525"  class="fil4 fnt0">沙生槐群系</text>
+    <polygon class="fil9" points="4931,24573 4931,17647 7522,17647 7522,24573 "/>
+    <g transform="matrix(2.64845E-014 -0.999999 0.999999 2.64845E-014 -40588.6 72947.9)">
+     <text x="50000" y="45918"  class="fil4 fnt0"><tspan rotate="90">载超度重</tspan></text>
+    </g>
+    <g transform="matrix(2.64845E-014 -1 1 2.64845E-014 -38946.7 66293.4)">
+     <text x="50000" y="45918"  class="fil4 fnt5">Mild overgrazing</text>
+    </g>
+    <g transform="matrix(2.64845E-014 -1 1 2.64845E-014 -776.408 74199.2)">
+     <text x="50000" y="45918"  class="fil4 fnt5">Severely overgrazing</text>
+    </g>
+    <text x="9156" y="13271"  class="fil4 fnt5">Sophora moorcroftiana , sand Alhagi </text>
+    <text x="9156" y="13988"  class="fil4 fnt5">pseudalhagi the song and Pennisetum</text>
+    <g transform="matrix(2.64845E-014 -1 1 2.64845E-014 -776.408 66265.6)">
+     <text x="50000" y="45918"  class="fil4 fnt5">Mild overgrazing</text>
+    </g>
+    <text x="22642" y="27273"  class="fil4 fnt5">Semi-mobile dune</text>
+    <text x="23440" y="32634"  class="fil4 fnt5">Mobile dune</text>
+    <text x="22902" y="22026"  class="fil4 fnt5">Semi-fixed dune</text>
+    <text x="12280" y="24982"  class="fil4 fnt5">Orinus thoroldii</text>
+    <text x="33716" y="24906"  class="fil4 fnt5">Orinus thoroldii</text>
+    <text x="31144" y="13349"  class="fil4 fnt5">Sand Alhagi pseudalhagi the song </text>
+    <text x="31144" y="14066"  class="fil4 fnt6">     </text>
+    <text x="32944" y="14066"  class="fil4 fnt5">and Pennisetum</text>
+    <text x="31262" y="18888"  class="fil4 fnt5">Sand Alhagi pseudalhagi the song</text>
+    <text x="41020" y="18888"  class="fil4 fnt6">,</text>
+    <text x="31262" y="19606"  class="fil4 fnt5">Pennisetum and Orinus thoroldii </text>
+    <text x="9604" y="18822"  class="fil4 fnt5">Sand Alhagi pseudalhagi the song</text>
+    <text x="19363" y="18822"  class="fil4 fnt6">,</text>
+    <text x="9604" y="19540"  class="fil4 fnt5">Pennisetum and Orinus thoroldii </text>
+    <text x="22501" y="16084"  class="fil4 fnt5">Aeolation sand and </text>
+    <text x="22501" y="16802"  class="fil4 fnt6">   </text>
+    <text x="23581" y="16802"  class="fil4 fnt5">fixed dune</text>
+    <text x="19984" y="10246"  class="fil4 fnt5">Formation of Sophora moorcroftiana</text>
+    <g transform="matrix(2.64845E-014 -1 1 2.64845E-014 -38946.7 74199.2)">
+     <text x="50000" y="45918"  class="fil4 fnt5">Severely overgrazing</text>
+    </g>
+   </g>
+   <g>
+    <g>
+     <path class="fil8" d="M65399 12802l1067 -1 -533 970 -534 -969zm633 -3351l2 3435 -204 0 -2 -3435 102 -102 102 102zm-204 0l0 -102 102 0 -102 102zm23553 119l-23451 -17 0 -204 23451 17 102 103 -102 101zm0 -204l103 0 -1 103 -102 -103zm-121 3561l19 -3459 204 1 -19 3459 -204 -1zm636 -81l-539 967 -528 -973 1067 6z"/>
+    </g>
+    <g>
+     <path class="fil8" d="M65994 18513l-102 0 0 0 0 -1 0 -2 0 -4 0 -5 0 -7 0 -10 0 -13 0 -16 0 -19 0 -23 0 -28 0 -32 0 -37 0 -42 0 -48 0 -54 0 -60 0 -67 0 -74 0 -81 0 -89 0 -97 0 -106 0 -114 0 -123 0 -133 0 -143 0 -153 0 -164 0 -174 204 0 0 174 0 164 0 153 0 143 0 133 0 123 0 114 0 106 0 97 0 89 0 81 0 74 0 67 0 60 0 54 0 48 0 42 0 37 0 32 0 28 0 23 0 19 0 16 0 13 0 10 0 7 0 5 0 4 0 2 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+    </g>
+    <g>
+     <path class="fil8" d="M65994 24145l-102 0 0 0 0 -1 0 -2 0 -4 0 -5 0 -7 0 -10 0 -13 0 -16 0 -19 0 -23 0 -27 0 -32 0 -37 0 -42 0 -48 0 -54 0 -60 0 -67 0 -73 0 -81 0 -89 0 -97 0 -105 0 -114 0 -123 0 -132 0 -142 0 -152 0 -163 0 -174 204 0 0 174 0 163 0 152 0 142 0 132 0 123 0 114 0 105 0 97 0 89 0 81 0 73 0 67 0 60 0 54 0 48 0 42 0 37 0 32 0 27 0 23 0 19 0 16 0 13 0 10 0 7 0 5 0 4 0 2 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+    </g>
+    <g>
+     <path class="fil8" d="M65994 29776l-102 0 0 0 0 -1 0 -2 0 -4 0 -5 0 -7 0 -10 0 -13 0 -16 0 -19 0 -23 0 -27 0 -32 0 -37 0 -42 0 -47 0 -53 0 -59 0 -66 0 -73 0 -80 0 -88 0 -96 0 -104 0 -113 0 -122 0 -131 0 -141 0 -151 0 -162 0 -172 204 0 0 172 0 162 0 151 0 141 0 131 0 122 0 113 0 104 0 96 0 88 0 80 0 73 0 66 0 59 0 53 0 47 0 42 0 37 0 32 0 27 0 23 0 19 0 16 0 13 0 10 0 7 0 5 0 4 0 2 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+    </g>
+    <g>
+     <path class="fil8" d="M89384 18462l-102 0 0 0 0 -1 0 -2 0 -4 0 -5 0 -7 0 -10 0 -12 0 -15 0 -19 0 -23 0 -27 0 -31 0 -36 0 -41 0 -47 0 -52 0 -59 0 -65 0 -72 0 -79 0 -87 0 -94 0 -103 0 -111 0 -120 0 -129 0 -139 0 -149 0 -159 0 -170 204 0 0 170 0 159 0 149 0 139 0 129 0 120 0 111 0 103 0 94 0 87 0 79 0 72 0 65 0 59 0 52 0 47 0 41 0 36 0 31 0 27 0 23 0 19 0 15 0 12 0 10 0 7 0 5 0 4 0 2 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+    </g>
+    <g>
+     <path class="fil8" d="M89384 24124l-102 0 0 0 0 -1 0 -2 0 -4 0 -5 0 -7 0 -10 0 -13 0 -16 0 -19 0 -23 0 -27 0 -32 0 -36 0 -42 0 -47 0 -53 0 -59 0 -66 0 -73 0 -80 0 -88 0 -96 0 -104 0 -113 0 -122 0 -131 0 -141 0 -151 0 -161 0 -172 204 0 0 172 0 161 0 151 0 141 0 131 0 122 0 113 0 104 0 96 0 88 0 80 0 73 0 66 0 59 0 53 0 47 0 42 0 36 0 32 0 27 0 23 0 19 0 16 0 13 0 10 0 7 0 5 0 4 0 2 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+    </g>
+    <g>
+     <path class="fil8" d="M89384 29709l-102 0 0 0 0 -1 0 -2 0 -3 0 -5 0 -7 0 -9 0 -12 0 -15 0 -18 0 -22 0 -26 0 -30 0 -35 0 -40 0 -45 0 -51 0 -57 0 -63 0 -70 0 -77 0 -84 0 -92 0 -100 0 -108 0 -117 0 -126 0 -135 0 -145 0 -155 0 -165 204 0 0 165 0 155 0 145 0 135 0 126 0 117 0 108 0 100 0 92 0 84 0 77 0 70 0 63 0 57 0 51 0 45 0 40 0 35 0 30 0 26 0 22 0 18 0 15 0 12 0 9 0 7 0 5 0 3 0 2 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+    </g>
+    <g>
+     <path class="fil8" d="M78278 12153l-102 0 0 0 0 -1 0 -1 0 -2 0 -3 0 -4 0 -6 0 -7 0 -9 0 -11 0 -13 0 -15 0 -18 0 -21 0 -24 0 -27 0 -30 0 -34 0 -38 0 -42 0 -46 0 -50 0 -55 0 -59 0 -64 0 -70 0 -75 0 -80 0 -86 0 -92 0 -98 204 0 0 98 0 92 0 86 0 80 0 75 0 70 0 64 0 59 0 55 0 50 0 46 0 42 0 38 0 34 0 30 0 27 0 24 0 21 0 18 0 15 0 13 0 11 0 9 0 7 0 6 0 4 0 3 0 2 0 1 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+    </g>
+    <g>
+     <path class="fil8" d="M78278 18533l-102 0 0 0 0 -1 0 -1 0 -2 0 -3 0 -4 0 -5 0 -7 0 -9 0 -11 0 -13 0 -15 0 -18 0 -20 0 -23 0 -26 0 -30 0 -33 0 -37 0 -41 0 -45 0 -49 0 -54 0 -58 0 -63 0 -68 0 -73 0 -79 0 -84 0 -90 0 -96 204 0 0 96 0 90 0 84 0 79 0 73 0 68 0 63 0 58 0 54 0 49 0 45 0 41 0 37 0 33 0 30 0 26 0 23 0 20 0 18 0 15 0 13 0 11 0 9 0 7 0 5 0 4 0 3 0 2 0 1 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+    </g>
+    <g>
+     <path class="fil8" d="M78278 24155l-102 0 0 0 0 -1 0 -2 0 -4 0 -5 0 -7 0 -10 0 -13 0 -16 0 -19 0 -23 0 -27 0 -32 0 -37 0 -42 0 -47 0 -53 0 -60 0 -66 0 -73 0 -81 0 -88 0 -96 0 -105 0 -113 0 -122 0 -132 0 -142 0 -152 0 -162 0 -173 204 0 0 173 0 162 0 152 0 142 0 132 0 122 0 113 0 105 0 96 0 88 0 81 0 73 0 66 0 60 0 53 0 47 0 42 0 37 0 32 0 27 0 23 0 19 0 16 0 13 0 10 0 7 0 5 0 4 0 2 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+    </g>
+    <g>
+     <path class="fil8" d="M78278 29788l-102 0 0 0 0 -1 0 -2 0 -4 0 -5 0 -7 0 -10 0 -13 0 -16 0 -19 0 -23 0 -27 0 -32 0 -37 0 -42 0 -47 0 -53 0 -60 0 -66 0 -73 0 -80 0 -88 0 -96 0 -104 0 -113 0 -122 0 -131 0 -141 0 -151 0 -162 0 -172 204 0 0 172 0 162 0 151 0 141 0 131 0 122 0 113 0 104 0 96 0 88 0 80 0 73 0 66 0 60 0 53 0 47 0 42 0 37 0 32 0 27 0 23 0 19 0 16 0 13 0 10 0 7 0 5 0 4 0 2 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+    </g>
+    <polygon class="fil9" points="74733,12995 81672,12995 81672,17077 74733,17077 "/>
+    <polygon class="fil9" points="74733,19404 81672,19404 81672,22009 74733,22009 "/>
+    <polygon class="fil9" points="74733,25036 81672,25036 81672,27720 74733,27720 "/>
+    <polygon class="fil9" points="74733,30669 81672,30669 81672,33118 74733,33118 "/>
+    <polygon class="fil9" points="83457,13745 95146,13745 95146,16390 83457,16390 "/>
+    <polygon class="fil9" points="83410,19392 95146,19392 95146,22037 83410,22037 "/>
+    <polygon class="fil9" points="83410,25038 95146,25038 95146,27722 83410,27722 "/>
+    <polygon class="fil9" points="83410,30684 95146,30684 95146,33133 83410,33133 "/>
+    <polygon class="fil9" points="60759,13745 71025,13745 71025,16194 60759,16194 "/>
+    <polygon class="fil9" points="59285,19422 73264,19422 73264,22033 59285,22033 "/>
+    <polygon class="fil9" points="59260,25038 73216,25038 73216,27722 59260,27722 "/>
+    <polygon class="fil9" points="60828,30684 71131,30684 71131,33133 60828,33133 "/>
+    <polygon class="fil9" points="96382,19242 96382,12548 99157,12548 99157,19242 "/>
+    <polygon class="fil9" points="55567,19216 55567,12566 58036,12566 58036,19216 "/>
+    <g transform="matrix(0.999999 0 0 0.999999 25670.8 -25148.1)">
+     <text x="50000" y="45918"  class="fil4 fnt0">半固定沙丘</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 13141.5 -31008.5)">
+     <text x="50000" y="45918"  class="fil4 fnt0">白草</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 15377.2 -30999.1)">
+     <text x="50000" y="45918"  class="fil4 fnt0">+</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 16196.7 -31008.5)">
+     <text x="50000" y="45918"  class="fil4 fnt0">固沙草</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 36303.2 -30801.3)">
+     <text x="50000" y="45918"  class="fil4 fnt0">白草</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 38605 -30828.9)">
+     <text x="50000" y="45918"  class="fil4 fnt0">+</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 39366.2 -30801.3)">
+     <text x="50000" y="45918"  class="fil4 fnt0">劲直黄芪</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 12237 -25337)">
+     <text x="50000" y="45918"  class="fil4 fnt0">白草</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 14179 -25460.8)">
+     <text x="50000" y="45918"  class="fil4 fnt0">+</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 14662.5 -25337)">
+     <text x="50000" y="45918"  class="fil4 fnt0">固沙草</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 17728.3 -25502.1)">
+     <text x="50000" y="45918"  class="fil4 fnt0">+</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 18266 -25337)">
+     <text x="50000" y="45918"  class="fil4 fnt0">狼毒</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 35810.1 -25113.1)">
+     <text x="50000" y="45918"  class="fil4 fnt0">劲直黄芪</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 40142 -25269.5)">
+     <text x="50000" y="45918"  class="fil4 fnt0">+</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 40871 -25153.9)">
+     <text x="50000" y="45918"  class="fil4 fnt0">白草</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 25204.7 -31781.6)">
+     <text x="50000" y="45918"  class="fil4 fnt1"> </text>
+     <text x="50960" y="45918"  class="fil4 fnt0">风蚀沙地</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 25782.7 -30690.3)">
+     <text x="50000" y="45918"  class="fil4 fnt0">或固定沙丘</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 12352.6 -19507.2)">
+     <text x="50000" y="45918"  class="fil4 fnt0">固沙草</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 15448 -19631)">
+     <text x="50000" y="45918"  class="fil4 fnt0">+</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 16083.1 -19538.6)">
+     <text x="50000" y="45918"  class="fil4 fnt0">毛瓣棘豆</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 35248.5 -19454.3)">
+     <text x="50000" y="45918"  class="fil4 fnt0">劲直黄芪</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 39619 -19550.6)">
+     <text x="50000" y="45918"  class="fil4 fnt0">+</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 40309.4 -19454.3)">
+     <text x="50000" y="45918"  class="fil4 fnt0">固沙草</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 25670.8 -19515.5)">
+     <text x="50000" y="45918"  class="fil4 fnt0">半流动沙丘</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 26184.8 -13884.8)">
+     <text x="50000" y="45918"  class="fil4 fnt0">流动沙丘</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 37702.5 -13867.7)">
+     <text x="50000" y="45918"  class="fil4 fnt0">固沙草</text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 14213.7 -14071.7)">
+     <text x="50000" y="45918"  class="fil4 fnt0">毛瓣棘豆</text>
+    </g>
+    <g transform="matrix(1.2 0 0 1 4213.12 -43305.3)">
+     <text x="50000" y="45918"  class="fil4 fnt2">温性草原区白草群系沙化过程植被演替</text>
+    </g>
+    <text x="64411" y="4240"  class="fil4 fnt3">Vegetation succession of pennisetum centrasiaticum and</text>
+    <text x="66397" y="5270"  class="fil4 fnt3"> desertification processes in temperate grassland</text>
+    <g transform="matrix(2.64845E-014 -0.999999 0.999999 2.64845E-014 10019 67710.9)">
+     <text x="50000" y="45918"  class="fil4 fnt0"><tspan rotate="90">载超度轻</tspan></text>
+    </g>
+    <g transform="matrix(2.64845E-014 -0.999999 0.999999 2.64845E-014 50965.5 67710.9)">
+     <text x="50000" y="45918"  class="fil4 fnt0"><tspan rotate="90">载超度轻</tspan></text>
+    </g>
+    <g transform="matrix(0.999999 0 0 0.999999 39927.5 -14641.3)">
+     <text x="50000" y="45918"  class="fil4 fnt4"> </text>
+    </g>
+    <polygon class="fil9" points="74403,8220 81969,8220 81969,10669 74403,10669 "/>
+    <g transform="matrix(0.999999 0 0 0.999999 25029.1 -36537.7)">
+     <text x="50000" y="45918"  class="fil4 fnt0"> </text>
+     <text x="54268" y="45918"  class="fil4 fnt0">系</text>
+     <text x="51251" y="45918"  class="fil4 fnt0">白草群</text>
+    </g>
+    <polygon class="fil9" points="96391,27829 96391,20769 99167,20769 99167,27829 "/>
+    <g transform="matrix(2.64845E-014 -0.999999 0.999999 2.64845E-014 50965.4 76103.1)">
+     <text x="50000" y="45918"  class="fil4 fnt0"><tspan rotate="90">载超度重</tspan></text>
+    </g>
+    <polygon class="fil9" points="55522,27738 55522,20781 58011,20781 58011,27738 "/>
+    <g transform="matrix(2.64845E-014 -0.999999 0.999999 2.64845E-014 10019 76104.7)">
+     <text x="50000" y="45918"  class="fil4 fnt0"><tspan rotate="90">载超度重</tspan></text>
+    </g>
+    <g transform="matrix(0.942115 0 0 1 14244.6 -30264.4)">
+     <text x="50000" y="45918"  class="fil4 fnt5">Pennissetum and Orinus thoroldii</text>
+    </g>
+    <text x="59619" y="21300"  class="fil4 fnt5">Pennissetum , Orinus thoroldii and Torikabuto</text>
+    <text x="59980" y="27078"  class="fil4 fnt5">Orinus thoroldii and Oxytropis sericopetala</text>
+    <text x="63008" y="32591"  class="fil4 fnt5">Oxytropis sericopetala</text>
+    <text x="76033" y="15929"  class="fil4 fnt5">Aeolation sand </text>
+    <text x="76033" y="16646"  class="fil4 fnt5">and fixed dune</text>
+    <text x="75824" y="21460"  class="fil4 fnt5">Semi-fixed dune</text>
+    <text x="75564" y="27129"  class="fil4 fnt5">Semi-mobile dune</text>
+    <text x="76383" y="32746"  class="fil4 fnt5">Mobile dune</text>
+    <text x="84847" y="15837"  class="fil4 fnt5">Pennisetum and Astragalus strictus</text>
+    <text x="83621" y="27142"  class="fil4 fnt5">Astragalus strictus and Orinus thoroldii</text>
+    <text x="86848" y="32761"  class="fil4 fnt5">Orinus thoroldii</text>
+    <text x="84292" y="21537"  class="fil4 fnt5">Astragalus strictus and Pennisetum</text>
+    <g transform="matrix(2.64845E-014 -1 1 2.64845E-014 11539.5 68391.5)">
+     <text x="50000" y="45918"  class="fil4 fnt5">Mild overgrazing</text>
+    </g>
+    <g transform="matrix(2.64845E-014 -1 1 2.64845E-014 52512.5 68391.5)">
+     <text x="50000" y="45918"  class="fil4 fnt5">Mild overgrazing</text>
+    </g>
+    <text x="74998" y="10146"  class="fil4 fnt5">Pennisetum formation</text>
+    <g transform="matrix(2.64845E-014 -1 1 2.64845E-014 52512.5 77354.4)">
+     <text x="50000" y="45918"  class="fil4 fnt5">Severely overgrazing</text>
+    </g>
+    <g transform="matrix(2.64845E-014 -1 1 2.64845E-014 11539.5 77356.1)">
+     <text x="50000" y="45918"  class="fil4 fnt5">Severely overgrazing</text>
+    </g>
+   </g>
+   <g>
+    <g>
+     <rect class="fil10" x="40305" y="48915" width="12722" height="3215"/>
+     <rect class="fil10" x="8046" y="49641" width="5664" height="3159"/>
+     <polygon class="fil10" points="1755,55328 15620,55328 15620,58476 1755,58476 "/>
+     <polygon class="fil10" points="17599,55113 30234,55113 30234,58327 17599,58327 "/>
+     <rect class="fil10" x="22508" y="49464" width="5653" height="3150"/>
+     <rect class="fil10" x="40275" y="55123" width="13413" height="3212"/>
+     <rect class="fil10" x="39853" y="59632" width="14443" height="6093"/>
+     <rect class="fil10" x="11416" y="61901" width="21248" height="3316"/>
+     <rect class="fil10" x="11448" y="66760" width="22220" height="3261"/>
+     <rect class="fil10" x="11277" y="71487" width="32846" height="3259"/>
+     <rect class="fil10" x="11457" y="77394" width="30218" height="3141"/>
+     <rect class="fil10" x="11469" y="82356" width="30463" height="3146"/>
+     <rect class="fil10" x="11364" y="87301" width="41954" height="3142"/>
+     <rect class="fil9" x="7646" y="49126" width="5664" height="3159"/>
+     <polygon class="fil9" points="1353,54803 15208,54803 15208,57951 1353,57951 "/>
+     <polygon class="fil9" points="17192,54653 29748,54653 29748,57867 17192,57867 "/>
+     <rect class="fil9" x="22100" y="48941" width="5653" height="3150"/>
+     <rect class="fil9" x="39923" y="54662" width="13351" height="3212"/>
+     <rect class="fil9" x="39845" y="59194" width="14017" height="6093"/>
+     <rect class="fil9" x="10987" y="61543" width="21262" height="3214"/>
+     <rect class="fil9" x="10987" y="66347" width="22276" height="3261"/>
+     <rect class="fil9" x="10987" y="71073" width="32706" height="3259"/>
+     <rect class="fil9" x="10987" y="76862" width="30281" height="3140"/>
+     <rect class="fil9" x="10987" y="81828" width="30533" height="3146"/>
+     <rect class="fil9" x="10987" y="86769" width="41923" height="3142"/>
+     <text x="8492" y="50894"  class="fil4 fnt7">流动沙丘</text>
+     <text x="4509" y="56449"  class="fil4 fnt7"> 虫实、毛瓣棘豆</text>
+     <text x="14793" y="49030"  class="fil4 fnt8">草方格固定</text>
+     <text x="14063" y="51970"  class="fil4 fnt8">播种或栽植籽蒿</text>
+     <text x="22940" y="50706"  class="fil4 fnt7">固定沙丘</text>
+     <text x="18754" y="55882"  class="fil4 fnt7">虫实、毛瓣棘豆+籽</text>
+     <text x="27404" y="55882"  class="fil4 fnt7">嵩</text>
+     <text x="32955" y="49710"  class="fil4 fnt8">沙丘</text>
+     <text x="35823" y="49701"  class="fil4 fnt8">上部</text>
+     <text x="41859" y="55890"  class="fil4 fnt7">虫实、毛瓣棘豆+籽</text>
+     <text x="50509" y="55890"  class="fil4 fnt7">嵩</text>
+     <text x="35823" y="55995"  class="fil4 fnt8">中部</text>
+     <text x="35823" y="61919"  class="fil4 fnt8">下部</text>
+     <text x="41326" y="60393"  class="fil4 fnt7">  虫实、毛瓣棘豆+籽</text>
+     <text x="51543" y="60393"  class="fil4 fnt7">+</text>
+     <text x="50535" y="60393"  class="fil4 fnt7">嵩</text>
+     <text x="41326" y="61531"  class="fil4 fnt7">菊叶香藜+小画眉草+白草</text>
+     <text x="12181" y="63211"  class="fil4 fnt7">籽</text>
+     <text x="14196" y="63211"  class="fil4 fnt7">+沙生槐</text>
+     <text x="13188" y="63211"  class="fil4 fnt7">嵩</text>
+     <text x="11733" y="68038"  class="fil4 fnt7">虫实、毛瓣棘豆+沙生槐</text>
+     <text x="11978" y="72262"  class="fil4 fnt7">毛瓣棘豆+籽</text>
+     <text x="18612" y="72262"  class="fil4 fnt7">+菊叶香藜+小画眉草+沙生槐+固沙草+白草</text>
+     <text x="17604" y="72262"  class="fil4 fnt7">嵩</text>
+     <text x="11729" y="78092"  class="fil4 fnt7">毛瓣棘豆+籽</text>
+     <text x="18363" y="78092"  class="fil4 fnt7">+菊叶香藜+沙生槐</text>
+     <text x="17355" y="78092"  class="fil4 fnt7">嵩</text>
+     <text x="11723" y="82972"  class="fil4 fnt7">籽</text>
+     <text x="13739" y="82972"  class="fil4 fnt7">+菊叶香藜+沙生槐+毛瓣棘豆</text>
+     <text x="12731" y="82972"  class="fil4 fnt7">嵩</text>
+     <text x="11714" y="87954"  class="fil4 fnt7">籽</text>
+     <text x="13730" y="87954"  class="fil4 fnt7">+菊叶香藜+沙生槐+白草+小画眉草+毛瓣棘豆</text>
+     <text x="12722" y="87954"  class="fil4 fnt7">嵩</text>
+     <text x="2288" y="66762"  class="fil4 fnt8">第</text>
+     <text x="3856" y="66762"  class="fil4 fnt8">年</text>
+     <text x="3296" y="66762"  class="fil4 fnt9">6</text>
+     <text x="2315" y="82088"  class="fil4 fnt8">第</text>
+     <text x="3883" y="82088"  class="fil4 fnt8">年</text>
+     <text x="3323" y="82088"  class="fil4 fnt9">7</text>
+     <text x="30946" y="55995"  class="fil4 fnt8">第</text>
+     <text x="33466" y="55995"  class="fil4 fnt8">年</text>
+     <text x="31954" y="55995"  class="fil4 fnt8">2-5</text>
+     <rect class="fil9" x="39952" y="48456" width="12639" height="3215"/>
+     <g>
+      <path class="fil11" d="M10169 53841l-102 0 0 0 0 -1 0 -1 0 -2 0 -3 0 -5 0 -6 0 -8 0 -10 0 -12 0 -15 0 -17 0 -20 0 -23 0 -27 0 -30 0 -34 0 -38 0 -42 0 -47 0 -52 0 -56 0 -62 0 -67 0 -72 0 -78 0 -84 0 -90 0 -97 0 -104 0 -111 204 0 0 111 0 104 0 97 0 90 0 84 0 78 0 72 0 67 0 62 0 56 0 52 0 47 0 42 0 38 0 34 0 30 0 27 0 23 0 20 0 17 0 15 0 12 0 10 0 8 0 6 0 5 0 3 0 2 0 1 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+     </g>
+     <g>
+      <path class="fil11" d="M10079 68080l-9240 60 -1 -204 9240 -60 1 204zm-88 -635l973 527 -966 540 -7 -1067z"/>
+     </g>
+     <g>
+      <path class="fil11" d="M9999 73433l-6 -1067 973 528 -967 539zm-4017 -615l4098 -21 1 204 -4098 21 -103 -102 102 -102zm1 204l-102 1 0 -102 103 102zm92 -10084l10 9981 -204 0 -10 -9981 102 -102 102 102zm-204 0l0 -102 102 0 -102 102zm4225 87l-4123 15 -1 -204 4123 -15 1 204zm-86 -635l972 530 -968 537 -4 -1067z"/>
+     </g>
+     <g>
+      <path class="fil11" d="M16460 56548l-847 0 0 -204 847 0 0 204zm-84 -636l970 534 -970 533 0 -1067z"/>
+     </g>
+     <g>
+      <path class="fil11" d="M21216 50645l-7545 95 -3 -204 7545 -95 3 204zm-92 -634l976 521 -963 546 -13 -1067z"/>
+     </g>
+     <g>
+      <path class="fil11" d="M24897 53596l3 -1163 204 0 -3 1163 -204 0zm636 -83l-536 968 -531 -971 1067 3z"/>
+     </g>
+     <g>
+      <path class="fil11" d="M39014 56426l-8753 16 0 -204 8753 -16 0 204zm-85 -635l971 532 -969 535 -2 -1067z"/>
+     </g>
+     <g>
+      <path class="fil11" d="M38971 50563l9 -1067 965 542 -974 525zm-3433 -664l3522 30 -2 204 -3522 -30 -101 -102 103 -102zm-103 102l0 -103 103 1 -103 102zm-29 12211l29 -12211 204 0 -29 12211 -104 102 -100 -102zm100 102l-100 -2 0 -101 100 102zm3464 60l-3464 -60 4 -204 3464 60 -4 204zm-73 -637l961 550 -979 517 19 -1067z"/>
+     </g>
+     <g>
+      <path class="fil11" d="M10078 83401l-9245 0 0 -204 9245 0 0 204zm-84 -636l970 533 -970 533 0 -1067z"/>
+     </g>
+     <g>
+      <path class="fil11" d="M9986 88871l20 -1067 960 551 -980 516zm-3457 -700l3553 66 -4 204 -3553 -66 -100 -102 104 -102zm-4 204l-100 -2 0 -100 100 102zm94 -10020l10 9918 -204 0 -10 -9918 104 -102 100 102zm-204 0l0 -104 104 2 -104 102zm3677 172l-3577 -70 4 -204 3577 70 -4 204zm-72 -637l959 553 -980 514 21 -1067z"/>
+     </g>
+     <g transform="matrix(1.2 0 0 1 -44620.6 -3927.71)">
+      <text x="50000" y="45918"  class="fil4 fnt2">日喀则宽谷流动沙丘固定后的植被演替</text>
+     </g>
+     <text x="13286" y="43580"  class="fil4 fnt3">Vegetation succession on the fixed dune in wide valleys of Xigaze</text>
+     <text x="45300" y="50075"  class="fil4 fnt7">籽</text>
+     <text x="46308" y="50075"  class="fil4 fnt7">嵩</text>
+     <text x="6255" y="62564"  class="fil4 fnt8">上部</text>
+     <text x="6255" y="67561"  class="fil4 fnt8">中部</text>
+     <text x="6255" y="72451"  class="fil4 fnt8">下部</text>
+     <text x="6782" y="78011"  class="fil4 fnt8">上部</text>
+     <text x="6782" y="82934"  class="fil4 fnt8">中部</text>
+     <text x="6782" y="87979"  class="fil4 fnt8">下部</text>
+     <g transform="matrix(-1.68618 -0 -0 -1 131215 88163.5)">
+      <text x="50000" y="45918"  class="fil4 fnt10">ˇ</text>
+     </g>
+     <text x="14860" y="49908"  class="fil4 fnt11">Grass pane fixed</text>
+     <text x="14470" y="52906"  class="fil4 fnt11">Sowing or planting </text>
+     <text x="14470" y="53739"  class="fil4 fnt11">seed artemisia</text>
+     <text x="41041" y="50947"  class="fil4 fnt11">Artemisia sphaerocephala krasch</text>
+     <text x="1760" y="57307"  class="fil4 fnt11">Corispermum and Oxytropis sericopetala</text>
+     <text x="33276" y="50599"  class="fil4 fnt11">Dune</text>
+     <text x="30668" y="57208"  class="fil4 fnt11">The second to </text>
+     <text x="30668" y="58041"  class="fil4 fnt11">fifth year</text>
+     <text x="36290" y="50962"  class="fil4 fnt11">Top</text>
+     <text x="35856" y="57541"  class="fil4 fnt11">Middle part</text>
+     <text x="35569" y="63192"  class="fil4 fnt11">Underpart</text>
+     <text x="1208" y="67543"  class="fil4 fnt11">The sixth year</text>
+     <text x="850" y="82859"  class="fil4 fnt11">The seventh year</text>
+     <text x="8477" y="51762"  class="fil4 fnt11">Mobile dune</text>
+     <text x="23167" y="51536"  class="fil4 fnt11">Fixed dune</text>
+     <text x="17599" y="56703"  class="fil4 fnt11">Corispermum</text>
+     <text x="22350" y="56703"  class="fil4 fnt11">Oxytropis sericopetala </text>
+     <text x="21954" y="56703"  class="fil4 fnt12">,</text>
+     <text x="17599" y="57536"  class="fil4 fnt11">and Artemisia sphaerocephala krasch</text>
+     <text x="40704" y="56706"  class="fil4 fnt11">Corispermum</text>
+     <text x="45455" y="56706"  class="fil4 fnt11">Oxytropis sericopetala </text>
+     <text x="45059" y="56706"  class="fil4 fnt12">,</text>
+     <text x="40704" y="57496"  class="fil4 fnt11">and Artemisia sphaerocephala krasch</text>
+     <text x="40598" y="62527"  class="fil4 fnt11">Corispermum</text>
+     <text x="45350" y="62527"  class="fil4 fnt11">Oxytropis sericopetala</text>
+     <text x="44954" y="62527"  class="fil4 fnt12">,</text>
+     <text x="52497" y="62527"  class="fil4 fnt12">,</text>
+     <text x="51065" y="63317"  class="fil4 fnt12">,</text>
+     <text x="40598" y="63317"  class="fil4 fnt11">Artemisia sphaerocephala krasch</text>
+     <text x="40598" y="64106"  class="fil4 fnt11">Chenopoium foetium Chrad , Eragrostis </text>
+     <text x="40598" y="64895"  class="fil4 fnt11">poaeoides and Pennisetum </text>
+     <text x="6502" y="63895"  class="fil4 fnt11">Top</text>
+     <text x="6244" y="68950"  class="fil4 fnt11">Middle part</text>
+     <text x="6174" y="73794"  class="fil4 fnt11">Underpart</text>
+     <text x="6826" y="79184"  class="fil4 fnt11">Top</text>
+     <text x="6721" y="84329"  class="fil4 fnt11">Middle part</text>
+     <text x="6634" y="89228"  class="fil4 fnt11">Underpart</text>
+     <text x="12150" y="64012"  class="fil4 fnt11">Artemisia sphaerocephala krasch and Sophora moorcroftiana</text>
+     <text x="11729" y="68873"  class="fil4 fnt11">Corispermum</text>
+     <text x="16480" y="68873"  class="fil4 fnt11">Oxytropis sericopetala and Sophora moorcroftiana</text>
+     <text x="16084" y="68873"  class="fil4 fnt12">,</text>
+     <text x="11724" y="73068"  class="fil4 fnt11">Oxytropis sericopetala</text>
+     <text x="19102" y="73068"  class="fil4 fnt11"> Artemisia sphaerocephala krasch</text>
+     <text x="29955" y="73068"  class="fil4 fnt11">Chenopoium foetium Chrad , Eragrostis</text>
+     <text x="18871" y="73068"  class="fil4 fnt13">,</text>
+     <text x="29723" y="73068"  class="fil4 fnt13">,</text>
+     <text x="11724" y="73902"  class="fil4 fnt11"> poaeoides</text>
+     <text x="15320" y="73902"  class="fil4 fnt11">Sophora moorcroftiana</text>
+     <text x="22874" y="73902"  class="fil4 fnt11">Orinus thoroldii and Pennisetum </text>
+     <text x="15088" y="73902"  class="fil4 fnt13">,</text>
+     <text x="22643" y="73902"  class="fil4 fnt13">,</text>
+     <text x="11729" y="78918"  class="fil4 fnt11">Oxytropis sericopetala</text>
+     <text x="19107" y="78918"  class="fil4 fnt11"> Artemisia sphaerocephala krasch</text>
+     <text x="29959" y="78918"  class="fil4 fnt11">Chenopoium foetium Chrad and </text>
+     <text x="18876" y="78918"  class="fil4 fnt13">,</text>
+     <text x="29728" y="78918"  class="fil4 fnt13">,</text>
+     <text x="11729" y="79751"  class="fil4 fnt11">Sophora moorcroftiana</text>
+     <text x="11765" y="83786"  class="fil4 fnt14">Artemisia sphaerocephala</text>
+     <text x="22568" y="83786"  class="fil4 fnt14">Chenopoium foetium</text>
+     <text x="31916" y="83786"  class="fil4 fnt14">Sophora moorcroftiana</text>
+     <text x="20072" y="83786"  class="fil4 fnt11"> krasch</text>
+     <text x="29189" y="83786"  class="fil4 fnt11"> Chrad , </text>
+     <text x="39315" y="83786"  class="fil4 fnt11"> and </text>
+     <text x="22336" y="83786"  class="fil4 fnt13">,</text>
+     <text x="11765" y="84619"  class="fil4 fnt14">Oxytropis sericopetala</text>
+     <text x="11714" y="88789"  class="fil4 fnt14">Artemisia sphaerocephala</text>
+     <text x="22518" y="88789"  class="fil4 fnt14">Chenopoium foetium</text>
+     <text x="31866" y="88789"  class="fil4 fnt14">Sophora moorcroftiana</text>
+     <text x="39694" y="88789"  class="fil4 fnt14">Pennisetum</text>
+     <text x="43818" y="88789"  class="fil4 fnt14">Eragrostis poaeoides </text>
+     <text x="20021" y="88789"  class="fil4 fnt11"> krasch</text>
+     <text x="29138" y="88789"  class="fil4 fnt11"> Chrad , </text>
+     <text x="39496" y="88789"  class="fil4 fnt11"> </text>
+     <text x="43620" y="88789"  class="fil4 fnt11"> </text>
+     <text x="50740" y="88789"  class="fil4 fnt11">and </text>
+     <text x="22286" y="88789"  class="fil4 fnt13">,</text>
+     <text x="39265" y="88789"  class="fil4 fnt13">,</text>
+     <text x="43389" y="88789"  class="fil4 fnt13">,</text>
+     <text x="11714" y="89622"  class="fil4 fnt14"> Oxytropis sericopetala</text>
+    </g>
+    <g>
+     <g>
+      <path class="fil11" d="M62803 53860l1067 0 -533 970 -534 -970zm633 -5654l3 5738 -204 0 -3 -5738 102 -102 102 102zm-204 0l0 -102 102 0 -102 102zm25950 112l-25848 -10 0 -204 25848 10 102 103 -102 102zm0 -204l102 0 0 102 -102 -103zm-122 4325l20 -4223 204 1 -20 4223 -204 -1zm636 -81l-538 967 -529 -972 1067 5z"/>
+     </g>
+     <g>
+      <path class="fil11" d="M74371 69304l-102 0 0 0 0 -1 0 -1 0 -2 0 -2 0 -4 0 -5 0 -6 0 -7 0 -9 0 -11 0 -13 0 -15 0 -17 0 -20 0 -23 0 -25 0 -28 0 -32 0 -35 0 -38 0 -42 0 -46 0 -50 0 -54 0 -58 0 -63 0 -67 0 -72 0 -77 0 -82 204 0 0 82 0 77 0 72 0 67 0 63 0 58 0 54 0 50 0 46 0 42 0 38 0 35 0 32 0 28 0 25 0 23 0 20 0 17 0 15 0 13 0 11 0 9 0 7 0 6 0 5 0 4 0 2 0 2 0 1 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+     </g>
+     <g>
+      <path class="fil11" d="M89289 57603l-102 0 0 0 0 0 0 -1 0 -2 0 -2 0 -3 0 -4 0 -6 0 -7 0 -8 0 -10 0 -12 0 -14 0 -16 0 -18 0 -21 0 -24 0 -26 0 -29 0 -32 0 -36 0 -39 0 -42 0 -46 0 -50 0 -54 0 -58 0 -62 0 -67 0 -72 0 -76 204 0 0 76 0 72 0 67 0 62 0 58 0 54 0 50 0 46 0 42 0 39 0 36 0 32 0 29 0 26 0 24 0 21 0 18 0 16 0 14 0 12 0 10 0 8 0 7 0 6 0 4 0 3 0 2 0 2 0 1 0 0 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+     </g>
+     <g>
+      <path class="fil11" d="M89289 63535l-102 0 0 0 0 0 0 -1 0 -1 0 -2 0 -2 0 -3 0 -4 0 -5 0 -6 0 -7 0 -9 0 -10 0 -12 0 -13 0 -15 0 -17 0 -19 0 -21 0 -23 0 -25 0 -28 0 -30 0 -33 0 -36 0 -39 0 -42 0 -45 0 -48 0 -51 0 -55 204 0 0 55 0 51 0 48 0 45 0 42 0 39 0 36 0 33 0 30 0 28 0 25 0 23 0 21 0 19 0 17 0 15 0 13 0 12 0 10 0 9 0 7 0 6 0 5 0 4 0 3 0 2 0 2 0 1 0 1 0 0 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+     </g>
+     <g>
+      <path class="fil11" d="M89289 69384l-102 0 0 0 0 0 0 -1 0 -1 0 -1 0 -2 0 -3 0 -3 0 -4 0 -5 0 -6 0 -7 0 -9 0 -10 0 -11 0 -13 0 -14 0 -16 0 -18 0 -20 0 -22 0 -24 0 -26 0 -28 0 -31 0 -33 0 -36 0 -39 0 -41 0 -44 0 -47 204 0 0 47 0 44 0 41 0 39 0 36 0 33 0 31 0 28 0 26 0 24 0 22 0 20 0 18 0 16 0 14 0 13 0 11 0 10 0 9 0 7 0 6 0 5 0 4 0 3 0 3 0 2 0 1 0 1 0 1 0 0 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+     </g>
+     <polygon class="fil9" points="59467,52931 59467,47372 61869,47372 61869,52931 "/>
+     <polygon class="fil9" points="69527,51730 79250,51730 79250,54179 69527,54179 "/>
+     <polygon class="fil9" points="69551,56383 79216,56383 79216,58832 69551,58832 "/>
+     <polygon class="fil9" points="69503,60909 79247,60909 79247,63358 69503,63358 "/>
+     <polygon class="fil9" points="69548,65526 79249,65526 79249,67975 69548,67975 "/>
+     <polygon class="fil9" points="69548,70160 79249,70160 79249,72609 69548,72609 "/>
+     <polygon class="fil9" points="80510,53422 97821,53422 97821,56257 80510,56257 "/>
+     <polygon class="fil9" points="80496,58425 97821,58425 97821,62506 80496,62506 "/>
+     <polygon class="fil9" points="80510,64344 97821,64344 97821,68426 80510,68426 "/>
+     <polygon class="fil9" points="80510,70233 97821,70233 97821,72682 80510,72682 "/>
+     <polygon class="fil9" points="59373,54842 66490,54842 66490,57291 59373,57291 "/>
+     <polygon class="fil9" points="90544,52657 90544,47759 92972,47759 92972,52657 "/>
+     <g>
+      <path class="fil11" d="M74371 64705l-102 0 0 0 0 -1 0 -1 0 -2 0 -3 0 -4 0 -5 0 -6 0 -8 0 -9 0 -11 0 -13 0 -15 0 -18 0 -20 0 -23 0 -26 0 -29 0 -32 0 -36 0 -39 0 -43 0 -47 0 -51 0 -55 0 -59 0 -64 0 -69 0 -74 0 -79 0 -84 204 0 0 84 0 79 0 74 0 69 0 64 0 59 0 55 0 51 0 47 0 43 0 39 0 36 0 32 0 29 0 26 0 23 0 20 0 18 0 15 0 13 0 11 0 9 0 8 0 6 0 5 0 4 0 3 0 2 0 1 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+     </g>
+     <g>
+      <path class="fil11" d="M74371 55547l-102 0 0 0 0 -1 0 -1 0 -2 0 -3 0 -4 0 -5 0 -6 0 -8 0 -9 0 -11 0 -13 0 -16 0 -18 0 -20 0 -23 0 -26 0 -29 0 -32 0 -36 0 -39 0 -43 0 -47 0 -51 0 -56 0 -60 0 -65 0 -69 0 -74 0 -79 0 -85 204 0 0 85 0 79 0 74 0 69 0 65 0 60 0 56 0 51 0 47 0 43 0 39 0 36 0 32 0 29 0 26 0 23 0 20 0 18 0 16 0 13 0 11 0 9 0 8 0 6 0 5 0 4 0 3 0 2 0 1 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+     </g>
+     <g>
+      <path class="fil11" d="M74371 50918l-102 0 0 0 0 -1 0 -1 0 -2 0 -4 0 -5 0 -7 0 -9 0 -11 0 -13 0 -16 0 -19 0 -22 0 -25 0 -29 0 -33 0 -37 0 -41 0 -46 0 -51 0 -56 0 -61 0 -67 0 -72 0 -78 0 -85 0 -91 0 -98 0 -105 0 -112 0 -120 204 0 0 120 0 112 0 105 0 98 0 91 0 85 0 78 0 72 0 67 0 61 0 56 0 51 0 46 0 41 0 37 0 33 0 29 0 25 0 22 0 19 0 16 0 13 0 11 0 9 0 7 0 5 0 4 0 2 0 1 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+     </g>
+     <g>
+      <path class="fil11" d="M74371 60128l-102 0 0 0 0 -1 0 -1 0 -2 0 -2 0 -3 0 -5 0 -6 0 -7 0 -9 0 -11 0 -13 0 -15 0 -17 0 -19 0 -22 0 -25 0 -28 0 -31 0 -34 0 -37 0 -41 0 -44 0 -48 0 -52 0 -56 0 -61 0 -65 0 -70 0 -75 0 -80 204 0 0 80 0 75 0 70 0 65 0 61 0 56 0 52 0 48 0 44 0 41 0 37 0 34 0 31 0 28 0 25 0 22 0 19 0 17 0 15 0 13 0 11 0 9 0 7 0 6 0 5 0 3 0 2 0 2 0 1 0 1 0 0 -102 0zm533 -84l-533 970 -533 -970 1067 0z"/>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 9909.07 10290.2)">
+      <text x="50000" y="45918"  class="fil4 fnt0">沙</text>
+      <text x="51034" y="45918"  class="fil4 fnt0">生</text>
+      <text x="52068" y="45918"  class="fil4 fnt0">针</text>
+      <text x="53102" y="45918"  class="fil4 fnt0">茅</text>
+      <text x="54136" y="45918"  class="fil4 fnt0">群</text>
+      <text x="55170" y="45918"  class="fil4 fnt0">系</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 21372.8 7179.83)">
+      <text x="50000" y="45918"  class="fil4 fnt0">强</text>
+      <text x="51034" y="45918"  class="fil4 fnt0">烈</text>
+      <text x="52068" y="45918"  class="fil4 fnt0">风</text>
+      <text x="53102" y="45918"  class="fil4 fnt0">蚀</text>
+      <text x="54136" y="45918"  class="fil4 fnt0">地</text>
+      <text x="55170" y="45918"  class="fil4 fnt0">带</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 22401 11829.7)">
+      <text x="50000" y="45918"  class="fil4 fnt0">固</text>
+      <text x="51034" y="45918"  class="fil4 fnt0">定</text>
+      <text x="52068" y="45918"  class="fil4 fnt0">沙</text>
+      <text x="53102" y="45918"  class="fil4 fnt0">丘</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 21942.6 16357.7)">
+      <text x="50000" y="45918"  class="fil4 fnt0">半</text>
+      <text x="51034" y="45918"  class="fil4 fnt0">固</text>
+      <text x="52068" y="45918"  class="fil4 fnt0">定</text>
+      <text x="53102" y="45918"  class="fil4 fnt0">沙</text>
+      <text x="54136" y="45918"  class="fil4 fnt0">丘</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 22401 25606.4)">
+      <text x="50000" y="45918"  class="fil4 fnt0">流</text>
+      <text x="51034" y="45918"  class="fil4 fnt0">动</text>
+      <text x="52068" y="45918"  class="fil4 fnt0">沙</text>
+      <text x="53102" y="45918"  class="fil4 fnt0">丘</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 40996.4 2182.82)">
+      <text x="50000" y="45918"  class="fil4 fnt15"><tspan rotate="90">风</tspan></text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 40996.4 2182.82)">
+      <text x="50000" y="47024"  class="fil4 fnt15"><tspan rotate="90">沙</tspan></text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 40996.4 2182.82)">
+      <text x="50000" y="48130"  class="fil4 fnt15"><tspan rotate="90">堆</tspan></text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 40996.4 2182.82)">
+      <text x="50000" y="49236"  class="fil4 fnt15"><tspan rotate="90">积</tspan></text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 37660.7 25629)">
+      <text x="50000" y="45918"  class="fil4 fnt0">雾</text>
+      <text x="51034" y="45918"  class="fil4 fnt0">冰</text>
+      <text x="52068" y="45918"  class="fil4 fnt0">藜</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 21884 20974.5)">
+      <text x="50000" y="45918"  class="fil4 fnt0">半</text>
+      <text x="51034" y="45918"  class="fil4 fnt0">流</text>
+      <text x="52068" y="45918"  class="fil4 fnt0">动</text>
+      <text x="53102" y="45918"  class="fil4 fnt0">沙</text>
+      <text x="54136" y="45918"  class="fil4 fnt0">丘</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 33723.2 13717.8)">
+      <text x="50000" y="45918"  class="fil4 fnt0">秀</text>
+      <text x="51034" y="45918"  class="fil4 fnt0">丽</text>
+      <text x="52068" y="45918"  class="fil4 fnt0">水</text>
+      <text x="53102" y="45918"  class="fil4 fnt0">柏</text>
+      <text x="54136" y="45918"  class="fil4 fnt0">枝</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 39308 13717.9)">
+      <text x="50000" y="45918"  class="fil4 fnt0">白</text>
+      <text x="51034" y="45918"  class="fil4 fnt0">草</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 41972.7 13715.9)">
+      <text x="50000" y="45918"  class="fil4 fnt0">固</text>
+      <text x="51034" y="45918"  class="fil4 fnt0">沙</text>
+      <text x="52068" y="45918"  class="fil4 fnt0">草</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 35345.5 14819.8)">
+      <text x="50000" y="45918"  class="fil4 fnt0">雾</text>
+      <text x="51034" y="45918"  class="fil4 fnt0">冰</text>
+      <text x="52068" y="45918"  class="fil4 fnt0">藜</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 38949.9 14817.8)">
+      <text x="50000" y="45918"  class="fil4 fnt0">单</text>
+      <text x="51034" y="45918"  class="fil4 fnt0">翅</text>
+      <text x="52068" y="45918"  class="fil4 fnt0">猪</text>
+      <text x="53102" y="45918"  class="fil4 fnt0">毛</text>
+      <text x="54136" y="45918"  class="fil4 fnt0">菜</text>
+     </g>
+     <g transform="matrix(2.64845E-014 -0.999999 0.999999 2.64845E-014 13928.7 101890)">
+      <text x="50000" y="45918"  class="fil4 fnt0"><tspan rotate="90">采</tspan></text>
+     </g>
+     <g transform="matrix(2.64845E-014 -0.999999 0.999999 2.64845E-014 13919.1 99155.5)">
+      <text x="50000" y="45918"  class="fil4 fnt0"><tspan rotate="90">樵</tspan></text>
+     </g>
+     <g>
+      <g>
+       <g transform="matrix(0.999999 0 0 0.999999 36749 19641.7)">
+        <text x="50000" y="45918"  class="fil4 fnt0">秀</text>
+        <text x="51034" y="45918"  class="fil4 fnt0">丽</text>
+        <text x="52068" y="45918"  class="fil4 fnt0">水</text>
+        <text x="53102" y="45918"  class="fil4 fnt0">柏</text>
+        <text x="54136" y="45918"  class="fil4 fnt0">枝</text>
+       </g>
+       <g transform="matrix(0.999999 0 0 0.999999 35180.5 20836.1)">
+        <text x="50000" y="45918"  class="fil4 fnt0">单</text>
+        <text x="51034" y="45918"  class="fil4 fnt0">翅</text>
+        <text x="52068" y="45918"  class="fil4 fnt0">猪</text>
+        <text x="53102" y="45918"  class="fil4 fnt0">毛</text>
+        <text x="54136" y="45918"  class="fil4 fnt0">菜</text>
+       </g>
+       <g transform="matrix(0.999999 0 0 0.999999 34508.1 20727)">
+        <text x="50000" y="45918"  class="fil4 fnt0">+</text>
+       </g>
+       <g transform="matrix(0.999999 0 0 0.999999 40178.2 20727)">
+        <text x="50000" y="45918"  class="fil4 fnt0">+</text>
+       </g>
+      </g>
+      <g transform="matrix(0.999999 0 0 0.999999 40813.2 20838.1)">
+       <text x="50000" y="45918"  class="fil4 fnt0">雾</text>
+       <text x="51034" y="45918"  class="fil4 fnt0">冰</text>
+       <text x="52068" y="45918"  class="fil4 fnt0">藜</text>
+      </g>
+     </g>
+     <g transform="matrix(1.2 0 0 1 167.646 -3935.14)">
+      <text x="50000" y="45918"  class="fil4 fnt2">阿里狮泉河谷秀丽水柏枝群系在沙化过程中的演替</text>
+     </g>
+     <text x="63291" y="43611"  class="fil4 fnt3">Succession of Myricaria elegans and desertification processes </text>
+     <text x="70846" y="44769"  class="fil4 fnt3">in Shiquan River valleys of Ngari</text>
+     <g transform="matrix(0.999999 0 0 0.999999 38701 13621.8)">
+      <text x="50000" y="45918"  class="fil4 fnt4">+</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 41251.1 13621.8)">
+      <text x="50000" y="45918"  class="fil4 fnt4">+</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 34642 14723.7)">
+      <text x="50000" y="45918"  class="fil4 fnt4">+</text>
+     </g>
+     <g transform="matrix(0.999999 0 0 0.999999 38338.3 14723.7)">
+      <text x="50000" y="45918"  class="fil4 fnt4">+</text>
+     </g>
+     <polygon class="fil9" points="69516,47002 79277,47002 79277,49451 69516,49451 "/>
+     <g transform="matrix(0.999999 0 0 0.999999 20580.7 2450.33)">
+      <text x="50000" y="45918"  class="fil4 fnt0"> 秀</text>
+      <text x="51306" y="45918"  class="fil4 fnt0">丽</text>
+      <text x="52340" y="45918"  class="fil4 fnt0">水</text>
+      <text x="53373" y="45918"  class="fil4 fnt0">柏</text>
+      <text x="54407" y="45918"  class="fil4 fnt0">枝</text>
+      <text x="55441" y="45918"  class="fil4 fnt0">群</text>
+      <text x="56475" y="45918"  class="fil4 fnt0">系</text>
+     </g>
+     <g>
+      <g transform="matrix(0.999999 0 0 0.999999 33540.1 8666.4)">
+       <text x="50000" y="45918"  class="fil4 fnt0">秀</text>
+       <text x="51034" y="45918"  class="fil4 fnt0">丽</text>
+       <text x="52068" y="45918"  class="fil4 fnt0">水</text>
+       <text x="53102" y="45918"  class="fil4 fnt0">柏</text>
+       <text x="54136" y="45918"  class="fil4 fnt0">枝</text>
+      </g>
+      <g transform="matrix(0.999999 0 0 0.999999 39057.5 8666.48)">
+       <text x="50000" y="45918"  class="fil4 fnt0">白</text>
+       <text x="51034" y="45918"  class="fil4 fnt0">草</text>
+      </g>
+      <g transform="matrix(0.999999 0 0 0.999999 41815.9 8664.52)">
+       <text x="50000" y="45918"  class="fil4 fnt0">固</text>
+       <text x="51034" y="45918"  class="fil4 fnt0">沙</text>
+       <text x="52068" y="45918"  class="fil4 fnt0">草</text>
+      </g>
+      <g transform="matrix(0.999999 0 0 0.999999 38563 8573.98)">
+       <text x="50000" y="45918"  class="fil4 fnt4">+</text>
+      </g>
+      <g transform="matrix(0.999999 0 0 0.999999 41133.9 8492.35)">
+       <text x="50000" y="45918"  class="fil4 fnt4">+</text>
+      </g>
+     </g>
+     <g transform="matrix(2.1995E-014 -1 1.16951 3.54636E-014 7777.22 102548)">
+      <text x="50000" y="45918"  class="fil4 fnt16">Firewood collected</text>
+     </g>
+     <text x="59805" y="56944"  class="fil4 fnt5">Sand formations stipa</text>
+     <g transform="matrix(0.95 0 0 1 23363.2 7890.98)">
+      <text x="50000" y="45918"  class="fil4 fnt5">Strong wind erosion areas</text>
+     </g>
+     <text x="72813" y="58462"  class="fil4 fnt5">Fixed dune</text>
+     <text x="83009" y="55306"  class="fil4 fnt5">Beautiful formation myricaria, pennisetum </text>
+     <text x="83009" y="56024"  class="fil4 fnt5">                    and orinus thoroldii</text>
+     <text x="83698" y="67479"  class="fil4 fnt5">Beautiful formation myricaria,Salaola </text>
+     <text x="83698" y="68196"  class="fil4 fnt5">   monoptera and Bassia dasyphylla</text>
+     <text x="72092" y="62938"  class="fil4 fnt5">Semi-fixed dune</text>
+     <text x="71774" y="67628"  class="fil4 fnt5">Semi-mobile dune</text>
+     <text x="72593" y="72290"  class="fil4 fnt5">Mobile dune</text>
+     <g transform="matrix(0.940532 0 0 1 35180.9 15599)">
+      <text x="50000" y="45918"  class="fil4 fnt5">Beautiful formation myricaria , pennisetum, orinus </text>
+     </g>
+     <g transform="matrix(0.940532 0 0 1 35180.9 15599)">
+      <text x="50000" y="46636"  class="fil4 fnt5">thoroldii, Bassia dasyphylla and Salaola monoptera</text>
+     </g>
+     <text x="86576" y="72292"  class="fil4 fnt5">Bassia dasyphylla</text>
+     <text x="69946" y="49073"  class="fil4 fnt5">Beautiful formations myricaria</text>
+     <g transform="matrix(2.1995E-014 -1 1.16951 3.54636E-014 38852.5 102257)">
+      <text x="50000" y="45918"  class="fil4 fnt16">Aeolian deposits</text>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

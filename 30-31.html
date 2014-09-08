@@ -10,6 +10,12 @@
         <script Language="JavaScript" src="js/jiemians.js">
 
         </script>
+		<style type="text/css">
+		.map{height:1050px}
+				.main{height:1050px}
+		.mapcontroll{height:1050px}
+		.box{height:1230px}
+		</style>
         <script type="text/javascript">
             //<![CDATA[
             window.onload = function() {
@@ -89,7 +95,7 @@ function on_hide()
 			
             <div class="title" style="background-color: #D7F29C">
                 <p style="color:#325E84">
-                    综合环境
+                     <a href="page2.html" title="单击查看目录" target="_blank">   综合环境</a>
                 </p>
             </div>
             <div class="title" style="float:left; width:300px">
@@ -105,10 +111,10 @@ function on_hide()
                 />
             </div>
             <div class="col" style="background-color: #EAF1DD;color:#516524">
-                自然环境
+                 <a href="page2.html" title="单击查看目录" target="_blank">  自然环境</a>
             </div>
             <div class="col" style="background-color: #87A93E;color:#FFFFFF">
-                社会经济环境
+                <a href="page2.html" title="单击查看目录" target="_blank">   社会经济环境</a>
             </div>
              <div class="col" style="width:598px;border: 1px solid #FFFFFF;background-color:#DCE6F2E; color:#325E84">
                  <div class="shulibox">
@@ -275,13 +281,13 @@ function on_hide()
                           >  
                         </li>
                         <li>
-                            <a href="28-29.html" target="new">
+                            <a href="28-29.html" target="_blank">
                                 气候
                             </a>
 							<ul>
-								<li><a href="28-29.html" title="ali" target="new">气候</a></li>
-							 <li><a href="30-31c.html" title="ali" target="new">降水</a></li>
-							  <li><a href="32-33.html" title="ali" target="new">其他</a></li>
+								<li><a href="28-29.html"   target="_blank">气候</a></li>
+							 <li><a href="30-31c.html"   target="_blank">降水</a></li>
+							  <li><a href="32-33.html"   target="_blank">其他</a></li>
                                                           
 							<li> &nbsp </li>
 							</ul>
@@ -290,14 +296,14 @@ function on_hide()
                           >  
                         </li>
                         <li>
-                            <a href="30-31b.html" target="new">
+                            <a href="30-31b.html" target="_blank">
                                 气温
                             </a>
 							
                        
 							<ul>
 							
-							 <li><a href="30-31b.html" title="ali" target="new">年平均气温</a></li>
+							 <li><a href="30-31b.html"   target="_blank">年平均气温</a></li>
 							  
 							<li> &nbsp </li>
 							</ul>
@@ -306,7 +312,7 @@ function on_hide()
                           >  
                         </li>
                         <li>
-                            <a href="30-31.html" title="ali" target="new">
+                            <a href="30-31.html"   target="_blank">
                                 气温日较差
                             </a>
 							
@@ -330,7 +336,7 @@ function on_hide()
                             <div class="content" style="overflow:auto ">
 							<div  style="height:150px;overflow:auto ">
                               
-							    <img alt="图例"  src="supplement/30-31图例.png"/>
+							    <img alt="图例" style="width:150px" src="supplement/30-31图例.png"/>
                             </div>
 							</div>
                         </li>
@@ -340,7 +346,7 @@ function on_hide()
                     </ul>
                 </div>
 				<div class="map" style="overflow:scroll">
-			    <div id="FloatDiv" style="position:fixed; width:250px; height:40px; visibility:visible; right: 250px; top: 210px">
+			    <div id="FloatDiv" style="position:absolute; width:250px; height:40px; visibility:visible; right: 250px; top: 210px">
 				<div class="tool" style="background-image: url('images/fangda.gif')" onclick="zoomIn()"></div>
 				<div class="kx"> </div>
                 <div class="tool" style=";background-image: url('images/suoxiao.gif')" onclick="zoomOut()"></div>

@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg onload="Init(evt)" x="0px" y="0px"  xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1000px" height="600px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 100000 60000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+  <script  xlink:href="../js/Map.js"></script>
+ <script language="Javascript">
+      <![CDATA[
+	
+function ProgressBar(info) {
+    var stem = {}; // 此函数最后返回的代表进度条的对象。
+    var done = 0,
+    length, outline, bar; // 声明内部变量。
+    bar = document.getElementById('done'); // 进度条中绿色的变化部分。
+    length = 33600;
+
+    // 重置进度到零。
+    function reset() {
+        return to(0);
+    }
+    // 设置进度到某个值。
+    function to(value) {
+        if (value >= 33600) {
+            done = 33600;
+            bar.setAttribute('width', length);
+        } else {
+            done = value;
+            bar.setAttribute('width', Math.round(done * length / 33600));
+        }
+        return stem;
+    }
+    // 进度变化某个值。
+    function advance(step) {
+        return to(done + step);
+    }
+    // 以下给进度条对象添加方法。
+    // 获得当前进度值。
+    stem.getDone = function() {
+        return done
+    };
+    stem.reset = reset;
+    stem.to = to;
+    stem.advance = advance;
+    return stem; // 返回可供脚本使用的进度条对象。
+}
+// 测试进度条对象。
+function testBar() {
+    var bar = ProgressBar();
+    // 此内部函数每运行一次，增加进度值 1，直到进度值为 100。
+    function test() {
+        if (bar.getDone() === 33600) {
+            clearInterval(id);
+        } else {
+            bar.advance(100);
+
+            if (bar.getDone() === 0) {
+
+                
+                document.getElementById("layer_1").style.display = "block";
+                document.getElementById("layer_2").style.display = "none";
+                document.getElementById("layer_3").style.display = "none";
+                document.getElementById("layer_4").style.display = "none";
+            } else if (bar.getDone() === 11200) {
+
+                document.getElementById('layer_1').style.display = "none";
+                document.getElementById("layer_2").style.display = "block";
+                document.getElementById("layer_3").style.display = "none";
+                document.getElementById("layer_4").style.display = "none";
+            } else if (bar.getDone() === 22400) {
+                document.getElementById('layer_3').style.display = "block";
+                document.getElementById("layer_2").style.display = "none";
+                document.getElementById("layer_1").style.display = "none";
+                document.getElementById("layer_4").style.display = "none";
+            } else if (bar.getDone() === 33600) {
+                document.getElementById('layer_4').style.display = "block";
+                document.getElementById("layer_2").style.display = "none";
+                document.getElementById("layer_3").style.display = "none";
+                document.getElementById("layer_1").style.display = "none";
+            } 
+        }
+    }
+    // 每十分之一秒改变一次进度。
+    var id = setInterval(test, 100);
+}
+// 页面载入后开始测试。
+window.addEventListener('load', testBar, true);
+function SetLength(length) {
+    document.getElementById('done').setAttribute('width', length);
+    if (length == 0) {
+       
+        document.getElementById("layer_1").style.display = "block";
+        document.getElementById("layer_2").style.display = "none";
+        document.getElementById("layer_3").style.display = "none";
+        document.getElementById("layer_4").style.display = "none";
+    } else if (length == 11200) {
+        document.getElementById('layer_2').style.display = "none";
+        document.getElementById("layer_1").style.display = "block";
+        document.getElementById("layer_3").style.display = "none";
+        document.getElementById("layer_4").style.display = "none";
+    } else if (length == 22400) {
+        document.getElementById('layer_3').style.display = "block";
+        document.getElementById("layer_2").style.display = "none";
+        document.getElementById("layer_1").style.display = "none";
+        document.getElementById("layer_4").style.display = "none";
+    } else if (length == 33600) {
+        document.getElementById('layer_4').style.display = "block";
+        document.getElementById("layer_2").style.display = "none";
+        document.getElementById("layer_3").style.display = "none";
+        document.getElementById("layer_1").style.display = "none";
+    } 
+}
+	   ]]>  
+    </script>
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:38.1}
+    .str4 {stroke:#00A2E9;stroke-width:40;stroke-linejoin:round}
+    .str3 {stroke:#332C2B;stroke-width:50}
+    .str1 {stroke:#332C2B;stroke-width:50;stroke-linejoin:round}
+    .str6 {stroke:#6D583D;stroke-width:50;stroke-linejoin:round}
+    .str2 {stroke:#823520;stroke-width:50;stroke-linejoin:round}
+    .str8 {stroke:#332C2B;stroke-width:60}
+    .str5 {stroke:#FEFEFE;stroke-width:100}
+    .str7 {stroke:#FEFEFE;stroke-width:100;stroke-linejoin:round}
+    .fil1 {fill:none}
+    .fil2 {fill:#332C2B}
+    .fil0 {fill:#FEFEFE}
+    .fil5 {fill:#00A2E9}
+    .fil4 {fill:#6D583D}
+    .fil3 {fill:#823520}
+    .fil6 {fill:#C7D2E1}
+    .fnt2 {font-weight:normal;font-size:1058.35px;font-family:'Times New Roman'}
+    .fnt1 {font-weight:normal;font-size:1411.1px;font-family:'Arial'}
+    .fnt0 {font-weight:normal;font-size:1763.9px;font-family:'方正准圆简体'}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="16086" y="5953" width="69469" height="38312"/>
+   </clipPath>
+   <clipPath id="id1">
+    <rect x="16491" y="5953" width="68665" height="38312"/>
+   </clipPath>
+   <clipPath id="id2">
+    <rect x="16491" y="5953" width="68665" height="38312"/>
+   </clipPath>
+   <clipPath id="id3">
+    <rect x="16491" y="5953" width="68665" height="38312"/>
+   </clipPath>
+   <clipPath id="id4">
+    <rect x="21597" y="31611" width="3133" height="7578"/>
+   </clipPath>
+ </defs>
+ <g id="map">
+<symbol id="符号44" viewBox="49698 29698 605 605">
+ <circle class="fil0 str0" cx="50000" cy="30000" r="283"/>
+ <circle class="fil1 str0" cx="50000" cy="30000" r="101"/>
+</symbol>
+<symbol id="符号40" viewBox="49675 29675 650 650">
+ <path class="fil0 str1" d="M50300 30000c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+</symbol>
+<symbol id="符号29" viewBox="49431 29431 1138 1138">
+ <circle class="fil0 str0" cx="50000" cy="30000" r="550"/>
+ <circle class="fil2 str0" cx="50000" cy="30000" r="325"/>
+</symbol>
+<symbol id="符号19" viewBox="49913 29913 175 175">
+ <path class="fil3 str2" d="M50063 30000c0,-35 -28,-63 -62,-63 -35,0 -63,28 -63,63 0,35 28,63 63,63 35,0 62,-28 62,-63z"/>
+</symbol>
+<symbol id="符号7" viewBox="49431 29431 1138 1138">
+ <circle class="fil0 str0" cx="50000" cy="30000" r="550"/>
+ <circle class="fil2 str0" cx="50000" cy="30000" r="325"/>
+</symbol>
+<symbol id="符号8" viewBox="49675 29675 650 650">
+ <path class="fil0 str1" d="M50300 30000c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+</symbol>
+<symbol id="符号32" viewBox="49800 29700 400 600">
+ <polygon class="fil4" points="49805,30300 49997,29700 50200,30300 49800,30300 "/>
+</symbol>
+<symbol id="符号24" viewBox="49682 29682 635 635">
+ <rect class="fil0" x="49700" y="29700" width="600" height="600"/>
+ <line class="fil1 str3" x1="49700" y1="29700" x2="50300" y2= "30300" />
+ <line class="fil1 str3" x1="49700" y1="30300" x2="50300" y2= "29700" />
+</symbol>
+<symbol id="符号43" viewBox="49675 29675 650 650">
+ <path class="fil0 str1" d="M50300 30000c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+</symbol>
+<symbol id="符号10" viewBox="49431 29431 1138 1138">
+ <circle class="fil0 str0" cx="50000" cy="30000" r="550"/>
+ <circle class="fil2 str0" cx="50000" cy="30000" r="325"/>
+</symbol>
+<symbol id="符号36" viewBox="49532 29532 935 935">
+ <rect class="fil0" x="49550" y="29550" width="900" height="900"/>
+ <line class="fil1 str3" x1="49550" y1="29550" x2="50450" y2= "30450" />
+ <line class="fil1 str3" x1="49550" y1="30450" x2="50450" y2= "29550" />
+</symbol>
+<symbol id="符号26" viewBox="49765 29645 470 710">
+ <polygon class="fil4" points="49771,30355 49997,29645 50235,30355 49765,30355 "/>
+</symbol>
+<symbol id="符号6" viewBox="49681 29681 638 638">
+ <circle class="fil0 str0" cx="50000" cy="30000" r="300"/>
+ <circle class="fil1 str0" cx="50000" cy="30000" r="113"/>
+</symbol>
+<symbol id="符号12" viewBox="49675 29675 650 650">
+ <path class="fil0 str1" d="M50300 30000c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+</symbol>
+<symbol id="符号35" viewBox="49425 29425 1150 1150">
+ <circle class="fil0 str3" cx="50000" cy="30000" r="550"/>
+ <circle class="fil2 str3" cx="50000" cy="30000" r="325"/>
+</symbol>
+<symbol id="符号17" viewBox="49626 29839 728 323">
+ <polygon class="fil5" points="49899,29956 49901,29956 49907,29956 49916,29956 49929,29956 49944,29956 49962,29956 49981,29955 50001,29954 50022,29952 50044,29950 50065,29946 50086,29942 50105,29937 50124,29931 50140,29924 50154,29916 50166,29907 50178,29899 50191,29891 50203,29885 50215,29879 50227,29874 50240,29870 50252,29866 50264,29865 50276,29864 50289,29864 50301,29866 50314,29870 50327,29875 50353,29895 50354,29896 50350,29896 50343,29895 50334,29894 50323,29893 50311,29892 50298,29892 50283,29892 50268,29894 50253,29897 50238,29902 50222,29908 50207,29917 50192,29928 50178,29942 50157,29957 50136,29970 50114,29982 50092,29992 50071,30001 50050,30009 50030,30016 50011,30022 49994,30027 49978,30031 49951,30038 49941,30040 49930,30042 49922,30043 "/>
+ <path class="fil5 str4" d="M49931 30000c0,-78 -64,-141 -143,-141 -79,0 -143,63 -143,141 0,78 64,141 143,141 79,0 143,-63 143,-141z"/>
+</symbol>
+<symbol id="符号48" viewBox="49779 29572 468 746">
+ <polygon class="fil1 str5" points="49827,30268 49998,29733 50178,30268 49823,30268 "/>
+ <polygon id="1" class="fil4" points="49827,30268 49998,29733 50178,30268 49823,30268 "/>
+</symbol>
+<symbol id="符号38" viewBox="49596 29250 808 1500">
+ <polygon class="fil4" points="49606,30750 49995,29250 50404,30750 49596,30750 "/>
+</symbol>
+<symbol id="符号30" viewBox="49682 29682 635 635">
+ <line class="fil1 str3" x1="49700" y1="29700" x2="50300" y2= "30300" />
+ <line class="fil1 str3" x1="49700" y1="30300" x2="50300" y2= "29700" />
+</symbol>
+<symbol id="符号18" viewBox="49794 29794 411 411">
+ <rect class="fil0" x="49812" y="29812" width="376" height="376"/>
+ <line class="fil1 str3" x1="49812" y1="29812" x2="50188" y2= "30188" />
+ <line class="fil1 str3" x1="49812" y1="30188" x2="50188" y2= "29812" />
+</symbol>
+<symbol id="符号41" viewBox="49600 29600 800 800">
+ <circle class="fil0 str3" cx="50000" cy="30000" r="375"/>
+ <circle class="fil1 str3" cx="50000" cy="30000" r="141"/>
+</symbol>
+<symbol id="符号31" viewBox="49900 29900 200 200">
+ <path class="fil4 str6" d="M50075 30000c0,-41 -34,-75 -75,-75 -42,0 -75,34 -75,75 0,41 34,75 75,75 41,0 75,-34 75,-75z"/>
+</symbol>
+<symbol id="符号2" viewBox="49900 29900 200 200">
+ <path class="fil3 str2" d="M50075 30000c0,-41 -34,-75 -75,-75 -42,0 -75,34 -75,75 0,41 34,75 75,75 41,0 75,-34 75,-75z"/>
+</symbol>
+<symbol id="符号34" viewBox="49225 29225 1550 1550">
+ <circle class="fil0 str3" cx="50000" cy="30000" r="750"/>
+ <circle class="fil1 str3" cx="50000" cy="30000" r="281"/>
+</symbol>
+<symbol id="符号46" viewBox="49794 29794 411 411">
+ <line class="fil1 str3" x1="49812" y1="29812" x2="50188" y2= "30188" />
+ <line class="fil1 str3" x1="49812" y1="30188" x2="50188" y2= "29812" />
+</symbol>
+<symbol id="符号20" viewBox="49823 29733 355 535">
+ <polygon class="fil3" points="49827,30268 49998,29733 50178,30268 49823,30268 "/>
+</symbol>
+<symbol id="符号16" viewBox="49431 29431 1138 1138">
+ <circle class="fil0 str0" cx="50000" cy="30000" r="550"/>
+ <circle class="fil2 str0" cx="50000" cy="30000" r="325"/>
+</symbol>
+<symbol id="符号13" viewBox="49681 29681 638 638">
+ <circle class="fil0 str0" cx="50000" cy="30000" r="300"/>
+ <circle class="fil1 str0" cx="50000" cy="30000" r="113"/>
+</symbol>
+<symbol id="符号14" viewBox="49675 29675 650 650">
+ <path class="fil0 str1" d="M50300 30000c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+</symbol>
+<symbol id="符号45" viewBox="49431 29431 1138 1138">
+ <circle class="fil0 str0" cx="50000" cy="30000" r="550"/>
+ <circle class="fil2 str0" cx="50000" cy="30000" r="325"/>
+</symbol>
+<symbol id="符号22" viewBox="49626 29626 748 748">
+ <circle class="fil0 str0" cx="50000" cy="30000" r="355"/>
+ <circle class="fil1 str0" cx="50000" cy="30000" r="133"/>
+</symbol>
+<symbol id="符号11" viewBox="49431 29431 1138 1138">
+ <circle class="fil0 str0" cx="50000" cy="30000" r="550"/>
+ <circle class="fil2 str0" cx="50000" cy="30000" r="325"/>
+</symbol>
+<symbol id="符号42" viewBox="49425 29425 1150 1150">
+ <circle class="fil0 str3" cx="50000" cy="30000" r="550"/>
+ <circle class="fil2 str3" cx="50000" cy="30000" r="325"/>
+</symbol>
+<symbol id="符号21" viewBox="49675 29675 650 650">
+ <path class="fil0 str1" d="M50300 30000c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+</symbol>
+<symbol id="符号15" viewBox="49698 29698 605 605">
+ <circle class="fil0 str0" cx="50000" cy="30000" r="283"/>
+ <circle class="fil1 str0" cx="50000" cy="30000" r="101"/>
+</symbol>
+<symbol id="符号5" viewBox="49675 29675 650 650">
+ <path class="fil0 str1" d="M50300 30000c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+</symbol>
+<symbol id="符号1" viewBox="49800 29700 400 600">
+ <polygon class="fil3" points="49805,30300 49997,29700 50200,30300 49800,30300 "/>
+</symbol>
+<symbol id="符号47" viewBox="49888 29888 225 225">
+ <path class="fil1 str7" d="M50063 30000c0,-35 -28,-63 -62,-63 -35,0 -63,28 -63,63 0,35 28,63 63,63 35,0 62,-28 62,-63z"/>
+ <path id="1" class="fil4" d="M50063 30000c0,-35 -28,-63 -62,-63 -35,0 -63,28 -63,63 0,35 28,63 63,63 35,0 62,-28 62,-63z"/>
+</symbol>
+<symbol id="符号39" viewBox="49765 29645 470 710">
+ <polygon class="fil4" points="49771,30355 49997,29645 50235,30355 49765,30355 "/>
+</symbol>
+<symbol id="符号37" viewBox="49788 29788 425 425">
+ <path class="fil4 str6" d="M50188 30000c0,-104 -84,-188 -187,-188 -104,0 -188,84 -188,188 0,104 84,187 188,187 104,0 187,-84 187,-187z"/>
+</symbol>
+<symbol id="符号33" viewBox="49675 29675 650 650">
+ <path class="fil0 str1" d="M50300 30000c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+</symbol>
+<symbol id="符号23" viewBox="49431 29431 1138 1138">
+ <circle class="fil0 str0" cx="50000" cy="30000" r="550"/>
+ <circle class="fil2 str0" cx="50000" cy="30000" r="325"/>
+</symbol>
+<symbol id="符号28" viewBox="49681 29681 638 638">
+ <circle class="fil0 str0" cx="50000" cy="30000" r="300"/>
+ <circle class="fil1 str0" cx="50000" cy="30000" r="113"/>
+</symbol>
+<symbol id="符号27" viewBox="49675 29675 650 650">
+ <path class="fil0 str1" d="M50300 30000c0,-166 -134,-300 -300,-300 -166,0 -300,134 -300,300 0,166 134,300 300,300 166,0 300,-134 300,-300z"/>
+</symbol>
+<symbol id="符号9" viewBox="49681 29681 638 638">
+ <circle class="fil0 str0" cx="50000" cy="30000" r="300"/>
+ <circle class="fil1 str0" cx="50000" cy="30000" r="112"/>
+</symbol>
+<symbol id="符号4" viewBox="49580 29820 820 360">
+ <polygon class="fil5" points="49885,29950 49888,29950 49895,29950 49906,29951 49920,29951 49937,29951 49957,29950 49978,29949 50001,29948 50025,29946 50049,29943 50073,29939 50097,29935 50119,29929 50140,29922 50158,29914 50174,29905 50188,29895 50202,29886 50216,29877 50229,29869 50243,29863 50257,29857 50271,29852 50285,29849 50298,29847 50312,29846 50327,29846 50341,29849 50355,29852 50369,29858 50400,29881 50400,29882 50395,29882 50388,29881 50377,29880 50365,29878 50352,29877 50337,29877 50320,29878 50303,29880 50286,29883 50269,29889 50251,29896 50234,29906 50217,29919 50202,29935 50178,29951 50153,29966 50129,29979 50104,29991 50080,30002 50057,30011 50034,30018 50013,30025 49993,30030 49975,30035 49945,30043 49933,30045 49921,30048 49912,30049 "/>
+ <path class="fil5 str4" d="M49922 30000c0,-88 -72,-160 -161,-160 -89,0 -161,72 -161,160 0,88 72,160 161,160 89,0 161,-72 161,-160z"/>
+</symbol>
+<symbol id="符号25" viewBox="49885 29885 230 230">
+ <path class="fil4 str6" d="M50090 30000c0,-50 -40,-90 -90,-90 -50,0 -90,40 -90,90 0,50 40,90 90,90 50,0 90,-40 90,-90z"/>
+</symbol>
+<symbol id="符号3" viewBox="49682 29682 635 635">
+ <rect class="fil0" x="49700" y="29700" width="600" height="600"/>
+ <line class="fil1 str3" x1="49700" y1="29700" x2="50300" y2= "30300" />
+ <line class="fil1 str3" x1="49700" y1="30300" x2="50300" y2= "29700" />
+</symbol>
+ <g id="layer_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image id="_92-93NDVI200101.png" x="16086" y="5953" width="69469" height="38312" xlink:href="92-93_ImgID1.png"/>
+  </g>
+  <g transform="matrix(1.2 0 0 1 1681 -20882.9)">
+   <text x="50000" y="30000"  class="fil2 fnt0">2001</text>
+   <text x="55216" y="30000"  class="fil2 fnt0">1</text>
+   <text x="57600" y="30000"  class="fil2 fnt0">NDVI</text>
+   <text x="53452" y="30000"  class="fil2 fnt0">年</text>
+   <text x="55836" y="30000"  class="fil2 fnt0">月</text>
+   <text x="61224" y="30000"  class="fil2 fnt0">最大值</text>
+  </g>
+  <text x="59677" y="11043"  class="fil2 fnt1">Maximum NDVI value in January 2001</text>
+  <text x="80871" y="14106"  class="fil2 fnt2">k</text>
+  <text x="81453" y="14106"  class="fil2 fnt2">m</text>
+  <text x="69497" y="14094"  class="fil2 fnt2">0</text>
+  <g transform="matrix(1.05226 0 0 1 22943.6 -15976.6)">
+   <text x="48413" y="30000"  class="fil2 fnt2">150</text>
+  </g>
+  <text x="78845" y="14094"  class="fil2 fnt2">3</text>
+  <text x="79427" y="14094"  class="fil2 fnt2">0</text>
+  <text x="80009" y="14094"  class="fil2 fnt2">0</text>
+  <rect class="fil6 str8" x="69660" y="14426" width="5000" height="400"/>
+  <rect class="fil0 str8" x="74660" y="14426" width="5000" height="400"/>
+ </g>
+ <g id="layer_2">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <g style="clip-path:url(#id1)">
+   <image id="_92-93NDVI200104.png" x="16491" y="5953" width="68665" height="38312" xlink:href="92-93_ImgID2.png"/>
+  </g>
+  <g transform="matrix(1.2 0 0 1 1354.3 -20864.9)">
+   <text x="50000" y="30000"  class="fil2 fnt0">2001</text>
+   <text x="55216" y="30000"  class="fil2 fnt0">4</text>
+   <text x="57924" y="30000"  class="fil2 fnt0">NDVI</text>
+   <text x="53452" y="30000"  class="fil2 fnt0">年</text>
+   <text x="56160" y="30000"  class="fil2 fnt0">月</text>
+   <text x="61548" y="30000"  class="fil2 fnt0">最大值</text>
+  </g>
+  <text x="59556" y="11043"  class="fil2 fnt1">Maximum NDVI value in April 2001</text>
+  <text x="80738" y="14124"  class="fil2 fnt2">k</text>
+  <text x="81320" y="14124"  class="fil2 fnt2">m</text>
+  <text x="69365" y="14112"  class="fil2 fnt2">0</text>
+  <g transform="matrix(1.05226 0 0 1 22811.3 -15958.6)">
+   <text x="48413" y="30000"  class="fil2 fnt2">150</text>
+  </g>
+  <text x="78712" y="14112"  class="fil2 fnt2">3</text>
+  <text x="79295" y="14112"  class="fil2 fnt2">0</text>
+  <text x="79877" y="14112"  class="fil2 fnt2">0</text>
+  <rect class="fil6 str8" x="69528" y="14444" width="5000" height="400"/>
+  <rect class="fil0 str8" x="74528" y="14444" width="5000" height="400"/>
+ </g>
+ <g id="layer_3">
+  <metadata id="CorelCorpID_2Corel-Layer"/>
+  <g style="clip-path:url(#id2)">
+   <image id="_92-93NDVI200107.png" x="16491" y="5953" width="68665" height="38312" xlink:href="92-93_ImgID3.png"/>
+  </g>
+  <g transform="matrix(1.2 0 0 1 1325.41 -20858.9)">
+   <text x="50000" y="30000"  class="fil2 fnt0">2001</text>
+   <text x="55216" y="30000"  class="fil2 fnt0">7</text>
+   <text x="57862" y="30000"  class="fil2 fnt0">NDVI</text>
+   <text x="53452" y="30000"  class="fil2 fnt0">年</text>
+   <text x="56098" y="30000"  class="fil2 fnt0">月</text>
+   <text x="61486" y="30000"  class="fil2 fnt0">最大值</text>
+  </g>
+  <text x="60734" y="11065"  class="fil2 fnt1">Maximum NDVI value in July 2001</text>
+  <text x="80672" y="14091"  class="fil2 fnt2">k</text>
+  <text x="81254" y="14091"  class="fil2 fnt2">m</text>
+  <text x="69298" y="14079"  class="fil2 fnt2">0</text>
+  <g transform="matrix(1.05226 0 0 1 22745.1 -15991.7)">
+   <text x="48413" y="30000"  class="fil2 fnt2">150</text>
+  </g>
+  <text x="78646" y="14079"  class="fil2 fnt2">3</text>
+  <text x="79228" y="14079"  class="fil2 fnt2">0</text>
+  <text x="79810" y="14079"  class="fil2 fnt2">0</text>
+  <rect class="fil6 str8" x="69462" y="14411" width="5000" height="400"/>
+  <rect class="fil0 str8" x="74462" y="14411" width="5000" height="400"/>
+ </g>
+ <g id="layer_4">
+  <metadata id="CorelCorpID_3Corel-Layer"/>
+  <g style="clip-path:url(#id3)">
+   <image id="_92-93NDVI200110.png" x="16491" y="5953" width="68665" height="38312" xlink:href="92-93_ImgID4.png"/>
+  </g>
+  <g transform="matrix(1.2 0 0 1 1010.3 -20818.2)">
+   <text x="50000" y="30000"  class="fil2 fnt0">2001</text>
+   <text x="55216" y="30000"  class="fil2 fnt0">10</text>
+   <text x="58544" y="30000"  class="fil2 fnt0">NDVI</text>
+   <text x="53452" y="30000"  class="fil2 fnt0">年</text>
+   <text x="56780" y="30000"  class="fil2 fnt0">月</text>
+   <text x="62168" y="30000"  class="fil2 fnt0">最大值</text>
+  </g>
+  <text x="59573" y="11251"  class="fil2 fnt1">Maximum NDVI value in October 2001</text>
+  <text x="80766" y="14131"  class="fil2 fnt2">k</text>
+  <text x="81348" y="14131"  class="fil2 fnt2">m</text>
+  <text x="69393" y="14120"  class="fil2 fnt2">0</text>
+  <g transform="matrix(1.05226 0 0 1 22839.3 -15951)">
+   <text x="48413" y="30000"  class="fil2 fnt2">150</text>
+  </g>
+  <text x="78740" y="14120"  class="fil2 fnt2">3</text>
+  <text x="79323" y="14120"  class="fil2 fnt2">0</text>
+  <text x="79905" y="14120"  class="fil2 fnt2">0</text>
+  <rect class="fil6 str8" x="69556" y="14452" width="5000" height="400"/>
+  <rect class="fil0 str8" x="74556" y="14452" width="5000" height="400"/>
+ </g>
+ 
+ <g id='progBar' transform ="translate(18000,0)"> 
+    <rect x='12000' y='51000' width='33600' height='600' stroke='grey' fill='white' stroke-width='250' ry="300" rx="300"/> 
+	<rect id='done' x='12000' y='51000' width='0' height='600' fill='grey' fill-opacity="0.5" ry="300" rx="300"/>
+	<circle onclick="SetLength(0)" style="cursor:pointer;" r="500" cx="12000" cy="51300" fill='grey' ></circle>
+	<text x="12000" y="53000"  font-family="黑体" font-size="800" fill="#000000" stroke="none" stroke-opacity="0" >
+   1月</text>
+   
+    <circle onclick="SetLength(11200)" style="cursor:pointer;" r="500" cx="23200" cy="51300" fill='grey' ></circle>
+	<text x="23200" y="53000"  font-family="黑体" font-size="800" fill="#000000" stroke="none" stroke-opacity="0" >
+    4月</text>
+	
+	<circle onclick="SetLength(22400)" style="cursor:pointer;" r="500" cx="34400" cy="51300" fill='grey' ></circle>
+	<text x="34400" y="53000"  font-family="黑体" font-size="800" fill="#000000" stroke="none" stroke-opacity="0" >
+    7月</text>
+	
+	<circle onclick="SetLength(33600)" style="cursor:pointer;" r="500" cx="45600" cy="51300" fill='grey' ></circle>
+	<text x="45600" y="53000"  font-family="黑体" font-size="800" fill="#000000" stroke="none" stroke-opacity="0" >
+    10月</text>
+	
+	
+	
+	<text x="22000" y="50000" font-family="黑体" font-size="1200" fill="#000000" stroke="none" stroke-opacity="0" >
+	2001年不同季度NDVI值</text>
+	</g> 
+	</g> 
+</svg>

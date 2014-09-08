@@ -1,9 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW X6 -->
-<svg onload="Init(evt)" xmlns:attrib="http://www.carto.net/attrib" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1000px" height="500px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+<svg onload="Init(evt)" xmlns:attrib="http://www.carto.net/attrib" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1100px" height="500px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
 viewBox="0 0 100000 50000"
  xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+   <clipPath id="id1">
+    <rect x="20813" y="24034" width="7953" height="8004"/>
+   </clipPath>
+   <clipPath id="id2">
+    <rect x="20887" y="17370" width="8000" height="5622"/>
+   </clipPath>
+ </defs>
   <script  xlink:href="../js/Map.js"></script>
    <script  type="text/javascript" xlink:href="../js/mapApp.js"></script>
    <script  type="text/javascript" xlink:href="../js/helper_functions.js"></script>
@@ -62,6 +70,10 @@ viewBox="0 0 100000 50000"
          var obj = evt.target;
          obj.setAttribute("style", "fill: #FEFEFE");
          objectMap.setAttribute("fill-opacity", "0");
+	}
+	 function closeinfotip(n)
+	{
+	document.getElementById('infotip'+n).setAttribute("style","visibility:hidden");
 	}
       ]]>
 	  
@@ -141,6 +153,7 @@ viewBox="0 0 100000 50000"
     .fil15 {fill:#FDECE0}
     .fil11 {fill:#FFFCDB}
     .fil23 {fill:#FFFEF6}
+	.fil100 {fill:#E62129}
     .fil25 {fill:#E40082;fill-rule:nonzero}
     .fil24 {fill:#FEFEFE;fill-rule:nonzero}
     .fil22 {fill:#00A2E9;fill-rule:nonzero}
@@ -422,6 +435,7 @@ viewBox="0 0 100000 50000"
    <text x="42500" y="21250"  class="fil4 fnt0">5</text>
   </g>
  </g>
+ 
  <g id="年平均气温地理底图">
   <metadata id="CorelCorpID_4Corel-Layer"/>
   <path class="fil17" d="M72298 31269c-11,-7 -29,77 -26,99 4,22 15,66 26,88 11,22 51,121 51,121l-29 -219c0,0 -11,-80 -22,-88z"/>
@@ -1964,27 +1978,7 @@ viewBox="0 0 100000 50000"
    <path id="1" class="fil22" d="M43941 33643c32,4 50,6 55,5 4,-1 5,-4 3,-11l-67 -252 -136 0c-14,0 -26,2 -36,5l-18 -14 211 0 15 -18 34 27 -50 0 70 263c2,9 2,16 0,22 -3,6 -10,10 -21,14 -11,-16 -30,-28 -58,-35l-2 -6zm-113 -42c-4,-18 -11,-46 -21,-84 -10,-38 -18,-64 -23,-79l27 12 58 0 12 -15 26 20 -11 11c16,59 27,97 32,113l-17 11 -7 -26 -62 0 8 29 -19 9zm-16 -142l25 95 62 0 -25 -95 -62 0zm-55 -47c-3,99 -4,154 -4,167 0,13 2,28 8,46 5,18 9,31 12,38 2,7 -3,9 -17,5 -14,-4 -20,-16 -19,-37 1,-21 -3,-34 -11,-39 -8,-6 -20,-10 -37,-14l-2 -6c19,2 31,3 36,2 5,0 9,-5 12,-14 3,-9 9,-58 16,-149l7 1zm-110 11c36,16 56,29 60,40 4,11 4,19 -1,24 -5,6 -12,1 -21,-15 -9,-16 -22,-30 -38,-44l0 -5zm13 -74c32,14 51,26 58,35 7,9 8,18 3,26 -5,8 -11,5 -19,-8 -8,-14 -23,-30 -44,-49l2 -3z"/>
   </g>
  </g>
- <g id="图例">
-  <metadata id="CorelCorpID_6Corel-Layer"/>
-  <polygon class="fil23" points="14152,38523 16136,38523 16136,39656 14152,39656 "/>
-  <polygon class="fil14 str4" points="14152,37387 16136,37387 16136,38520 14152,38520 "/>
-  <polygon class="fil16 str4" points="14152,36250 16136,36250 16136,37384 14152,37384 "/>
-  <polygon class="fil12 str4" points="14152,35115 16136,35115 16136,36249 14152,36249 "/>
-  <polygon class="fil11 str4" points="14152,33980 16136,33980 16136,35113 14152,35113 "/>
-  <polygon class="fil10 str4" points="14152,32848 16136,32848 16136,33981 14152,33981 "/>
-  <polygon class="fil8 str4" points="14152,31716 16136,31716 16136,32850 14152,32850 "/>
-  <polygon class="fil7 str4" points="14153,30576 16136,30576 16136,31710 14153,31710 "/>
-  <text x="16426" y="38190"  class="fil4 fnt12">-1</text>
-  <text x="16426" y="37053"  class="fil4 fnt12">1</text>
-  <text x="16426" y="35914"  class="fil4 fnt12">3</text>
-  <text x="16426" y="34774"  class="fil4 fnt12">5</text>
-  <text x="16426" y="33641"  class="fil4 fnt12">7</text>
-  <text x="16426" y="32515"  class="fil4 fnt12">9</text>
-  <text x="16426" y="31379"  class="fil4 fnt12">11</text>
-  <text x="15415" y="30250"  class="fil4 fnt13">（℃）</text>
-  <path class="fil1 str4" d="M14153 38528c661,0 1322,0 1983,0"/>
-  <line class="fil1 str7" x1="14153" y1="39664" x2="16136" y2= "39664" />
- </g>
+ 
  <g id="图名">
   <metadata id="CorelCorpID_7Corel-Layer"/>
   <g transform="matrix(1.2 0 0 1 2631.32 -15809.4)">
@@ -2083,25 +2077,25 @@ viewBox="0 0 100000 50000"
   <text x="76382" y="9118"  class="fil4 fnt16">低</text>
   <text x="77300" y="9118"  class="fil4 fnt16">，</text>
   <text x="78217" y="9118"  class="fil4 fnt16">除</text>
-  <text x="49762" y="10510"  class="fil4 fnt16">藏</text>
-  <text x="50680" y="10510"  class="fil4 fnt16">东</text>
-  <text x="51599" y="10510"  class="fil4 fnt16">南</text>
-  <text x="52517" y="10510"  class="fil4 fnt16">一</text>
-  <text x="53436" y="10510"  class="fil4 fnt16">隅</text>
-  <text x="54354" y="10510"  class="fil4 fnt16">与</text>
-  <text x="55273" y="10510"  class="fil4 fnt16">喜</text>
-  <text x="56191" y="10510"  class="fil4 fnt16">马</text>
-  <text x="57110" y="10510"  class="fil4 fnt16">拉</text>
-  <text x="58028" y="10510"  class="fil4 fnt16">雅</text>
-  <text x="58947" y="10510"  class="fil4 fnt16">山</text>
-  <text x="59865" y="10510"  class="fil4 fnt16">南</text>
-  <text x="60784" y="10510"  class="fil4 fnt16">坡</text>
-  <text x="61702" y="10510"  class="fil4 fnt16">深</text>
-  <text x="62621" y="10510"  class="fil4 fnt16">切</text>
-  <text x="63539" y="10510"  class="fil4 fnt16">河</text>
-  <text x="64458" y="10510"  class="fil4 fnt16">谷</text>
-  <text x="65376" y="10510"  class="fil4 fnt16">地</text>
-  <text x="66295" y="10510"  class="fil4 fnt16">区</text>
+  <text x="49762" y="10510"  class="fil100 fnt16">藏</text>
+  <text x="50680" y="10510"  class="fil100 fnt16">东</text>
+  <text x="51599" y="10510"  class="fil100 fnt16">南</text>
+  <text x="52517" y="10510"  class="fil100 fnt16">一</text>
+  <text x="53436" y="10510"  class="fil100 fnt16">隅</text>
+  <text x="54354" y="10510"  class="fil100 fnt16">与</text>
+  <text x="55273" y="10510"  class="fil100 fnt16">喜</text>
+  <text x="56191" y="10510"  class="fil100 fnt16">马</text>
+  <text x="57110" y="10510"  class="fil100 fnt16">拉</text>
+  <text x="58028" y="10510"  class="fil100 fnt16">雅</text>
+  <text x="58947" y="10510"  class="fil100 fnt16">山</text>
+  <text x="59865" y="10510"  class="fil100 fnt16">南</text>
+  <text x="60784" y="10510"  class="fil100 fnt16">坡</text>
+  <text x="61702" y="10510"  class="fil100 fnt16">深</text>
+  <text x="62621" y="10510"  class="fil100 fnt16">切</text>
+  <text x="63539" y="10510"  class="fil100 fnt16">河</text>
+  <text x="64458" y="10510"  class="fil100 fnt16">谷</text>
+  <text x="65376" y="10510"  class="fil100 fnt16">地</text>
+  <text x="66295" y="10510"  class="fil100 fnt16">区</text>
   <text x="67213" y="10510"  class="fil4 fnt16">，</text>
   <text x="68132" y="10510"  class="fil4 fnt16">年</text>
   <text x="69050" y="10510"  class="fil4 fnt16">平</text>
@@ -2116,22 +2110,22 @@ viewBox="0 0 100000 50000"
   <text x="78216" y="10510"  class="fil4 fnt16">藏</text>
   <text x="74561" y="10510"  class="fil4 fnt17">10</text>
   <text x="49762" y="11962"  class="fil4 fnt16">东</text>
-  <text x="50665" y="11962"  class="fil4 fnt16">“</text>
-  <text x="51569" y="11962"  class="fil4 fnt16">三</text>
-  <text x="52472" y="11962"  class="fil4 fnt16">江</text>
-  <text x="53376" y="11962"  class="fil4 fnt16">”</text>
-  <text x="54279" y="11962"  class="fil4 fnt16">(怒</text>
-  <text x="55633" y="11962"  class="fil4 fnt16">江</text>
-  <text x="56536" y="11962"  class="fil4 fnt16">、</text>
-  <text x="57440" y="11962"  class="fil4 fnt16">澜</text>
-  <text x="58343" y="11962"  class="fil4 fnt16">沧</text>
-  <text x="59247" y="11962"  class="fil4 fnt16">江</text>
-  <text x="60150" y="11962"  class="fil4 fnt16">、</text>
-  <text x="61054" y="11962"  class="fil4 fnt16">金</text>
-  <text x="61957" y="11962"  class="fil4 fnt16">沙</text>
-  <text x="62861" y="11962"  class="fil4 fnt16">江</text>
-  <text x="63764" y="11962"  class="fil4 fnt16">)流</text>
-  <text x="65118" y="11962"  class="fil4 fnt16">域</text>
+  <text x="50665" y="11962"  class="fil100 fnt16">“</text>
+  <text x="51569" y="11962"  class="fil100 fnt16">三</text>
+  <text x="52472" y="11962"  class="fil100 fnt16">江</text>
+  <text x="53376" y="11962"  class="fil100 fnt16">”</text>
+  <text x="54279" y="11962"  class="fil100 fnt16">(怒</text>
+  <text x="55633" y="11962"  class="fil100 fnt16">江</text>
+  <text x="56536" y="11962"  class="fil100 fnt16">、</text>
+  <text x="57440" y="11962"  class="fil100 fnt16">澜</text>
+  <text x="58343" y="11962"  class="fil100 fnt16">沧</text>
+  <text x="59247" y="11962"  class="fil100 fnt16">江</text>
+  <text x="60150" y="11962"  class="fil100 fnt16">、</text>
+  <text x="61054" y="11962"  class="fil100 fnt16">金</text>
+  <text x="61957" y="11962"  class="fil100 fnt16">沙</text>
+  <text x="62861" y="11962"  class="fil100 fnt16">江</text>
+  <text x="63764" y="11962"  class="fil100 fnt16">)流</text>
+  <text x="65118" y="11962"  class="fil100 fnt16">域</text>
   <text x="66021" y="11962"  class="fil4 fnt16">的</text>
   <text x="66925" y="11962"  class="fil4 fnt16">大</text>
   <text x="67828" y="11962"  class="fil4 fnt16">部</text>
@@ -2140,10 +2134,10 @@ viewBox="0 0 100000 50000"
   <text x="70539" y="11962"  class="fil4 fnt16">区</text>
   <text x="71442" y="11962"  class="fil4 fnt16">和</text>
   <text x="72346" y="11962"  class="fil4 fnt16">“</text>
-  <text x="73249" y="11962"  class="fil4 fnt16">一</text>
-  <text x="74153" y="11962"  class="fil4 fnt16">江</text>
-  <text x="75056" y="11962"  class="fil4 fnt16">两</text>
-  <text x="75960" y="11962"  class="fil4 fnt16">河</text>
+  <text x="73249" y="11962"  class="fil100 fnt16">一</text>
+  <text x="74153" y="11962"  class="fil100 fnt16">江</text>
+  <text x="75056" y="11962"  class="fil100 fnt16">两</text>
+  <text x="75960" y="11962"  class="fil100 fnt16">河</text>
   <text x="76863" y="11962"  class="fil4 fnt16">”</text>
   <text x="77767" y="11962"  class="fil4 fnt16">(雅</text>
   <text x="49762" y="13354"  class="fil4 fnt16">鲁</text>
@@ -2183,6 +2177,19 @@ viewBox="0 0 100000 50000"
   <text x="57408" y="14849"  class="fil4 fnt16">℃。</text>
   <text x="56958" y="14849"  class="fil4 fnt17">0</text>
  </g>
+ <g id="bilichi">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path fill="#332C2B" fill-rule="nonzero" d="M4271 1035c0,-3 0,-6 1,-8 1,-2 2,-4 4,-5 1,-1 2,-1 4,-1 2,0 4,1 6,3 2,3 3,6 3,11 0,3 0,6 -1,8 -1,2 -2,4 -4,5 -1,1 -3,2 -4,2 -3,0 -5,-2 -7,-5 -1,-3 -2,-6 -2,-9zm4 0c0,4 0,7 1,9 1,2 2,3 3,3 1,0 1,0 2,-1 1,-1 1,-2 2,-3 1,-2 1,-6 1,-10 0,-3 0,-6 -1,-8 0,-2 -1,-3 -2,-3 -1,0 -1,-1 -2,-1 -1,0 -2,0 -2,1 -1,1 -2,3 -2,5 0,2 -1,5 -1,7z"/>
+  <path fill="#332C2B" fill-rule="nonzero" d="M4428 1033c-2,-2 -4,-3 -4,-4 -1,-1 -1,-2 -1,-3 0,-2 1,-3 2,-5 1,-1 3,-2 6,-2 2,0 4,1 6,2 1,1 2,3 2,4 0,1 0,2 -1,3 -1,1 -2,2 -5,4 3,2 4,3 5,4 1,1 2,3 2,4 0,2 -1,4 -2,5 -2,1 -4,2 -6,2 -3,0 -5,-1 -6,-2 -1,-1 -2,-3 -2,-4 0,-1 0,-2 1,-4 1,-1 2,-3 4,-4zm3 -2c2,-1 3,-3 3,-3 0,-1 1,-2 1,-3 0,-1 0,-3 -1,-3 -1,-1 -2,-1 -3,-1 -1,0 -3,0 -4,1 -1,1 -1,2 -1,3 0,1 0,1 1,2 0,1 1,1 2,2l4 3zm-2 3c-1,1 -2,2 -3,3 -1,1 -1,2 -1,4 0,2 1,3 2,4 1,1 2,2 4,2 2,0 3,0 4,-1 1,-1 1,-2 1,-3 0,-1 0,-2 -1,-3 -1,-1 -3,-3 -6,-6z"/>
+  <path id="1" fill="#332C2B" fill-rule="nonzero" d="M4460 1019l-2 3 -9 0 -2 4c4,1 7,2 9,4 2,2 3,4 3,6 0,1 0,3 -1,4 -1,1 -1,2 -2,3 -1,1 -2,2 -3,2 -2,1 -3,1 -5,1 -2,0 -3,0 -4,-1 -1,-1 -1,-1 -1,-2 0,0 0,-1 0,-1 0,0 1,0 1,0 0,0 1,0 1,0 0,0 1,0 1,1 1,1 2,1 3,1 2,0 3,-1 4,-2 1,-1 2,-3 2,-4 0,-2 -1,-3 -2,-5 -1,-1 -3,-3 -5,-3 -2,-1 -4,-1 -6,-1l6 -11 10 0z"/>
+  <path fill="#332C2B" fill-rule="nonzero" d="M4579 1024l7 -3 1 0 0 23c0,2 0,3 0,3 0,0 0,1 1,1 0,0 1,0 2,0l0 1 -10 0 0 -1c1,0 2,0 3,0 0,0 1,0 1,-1 0,0 0,-1 0,-3l0 -15c0,-2 0,-3 0,-4 0,0 0,-1 -1,-1 0,0 -1,0 -1,0 -1,0 -1,0 -2,1l0 -1z"/>
+  <path id="1" fill="#332C2B" fill-rule="nonzero" d="M4600 1021l15 0 0 1 -9 27 -2 0 8 -25 -8 0c-2,0 -3,0 -3,1 -1,1 -2,2 -3,3l-1 0 3 -7z"/>
+  <path id="2" fill="#332C2B" fill-rule="nonzero" d="M4618 1035c0,-3 0,-6 1,-8 1,-2 2,-4 4,-5 1,-1 2,-1 4,-1 2,0 4,1 6,3 2,3 3,6 3,11 0,3 0,6 -1,8 -1,2 -2,4 -4,5 -1,1 -3,2 -4,2 -3,0 -5,-2 -7,-5 -1,-3 -2,-6 -2,-9zm4 0c0,4 0,7 1,9 1,2 2,3 3,3 1,0 1,0 2,-1 1,-1 1,-2 2,-3 1,-2 1,-6 1,-10 0,-3 0,-6 -1,-8 0,-2 -1,-3 -2,-3 -1,0 -1,-1 -2,-1 -1,0 -2,0 -2,1 -1,1 -2,3 -2,5 0,2 -1,5 -1,7z"/>
+  <rect fill="#C7D2E1" stroke="#332C2B" stroke-width="2.0202" x="4268" y="1060" width="168.35" height="13.4663"/>
+  <rect fill="#FEFEFE" stroke="#332C2B" stroke-width="2.0202" x="4436" y="1060" width="168.35" height="13.4663"/>
+  <path fill="#332C2B" fill-rule="nonzero" d="M4655 1017l0 19 5 -4c1,-1 2,-2 2,-2 0,0 0,0 0,0 0,0 0,0 0,-1 0,0 -1,0 -1,0l0 -1 8 0 0 1c-1,0 -2,0 -3,1 -1,0 -2,1 -2,2l-5 4 5 6c1,2 2,3 3,3 1,1 1,1 2,1 0,0 1,0 2,0l0 1 -9 0 0 -1c1,0 1,0 1,0 0,0 0,0 0,-1 0,0 0,-1 -1,-1l-6 -7 0 6c0,1 0,2 0,2 0,0 0,1 1,1 0,0 1,0 2,0l0 1 -9 0 0 -1c1,0 2,0 2,0 0,0 0,0 1,-1 0,0 0,-1 0,-2l0 -17c0,-2 0,-3 0,-4 0,0 0,-1 0,-1 0,0 0,0 -1,0 0,0 -1,0 -1,0l0 -1 6 -2 1 0z"/>
+  <path id="1" fill="#332C2B" fill-rule="nonzero" d="M4676 1030c1,-1 2,-2 2,-2 1,-1 1,-1 2,-1 1,0 1,0 2,0 1,0 2,0 3,1 1,1 1,2 2,3 1,-2 3,-3 4,-3 1,-1 2,-1 3,-1 1,0 2,0 3,1 1,1 1,1 2,2 0,1 0,2 0,4l0 8c0,1 0,2 0,2 0,0 0,1 1,1 0,0 1,0 2,0l0 1 -9 0 0 -1 0 0c1,0 1,0 2,0 0,0 1,-1 1,-1 0,0 0,-1 0,-2l0 -8c0,-2 0,-3 -1,-3 -1,-1 -1,-1 -3,-1 -1,0 -1,0 -2,1 -1,0 -2,1 -3,2l0 0 0 1 0 9c0,1 0,2 0,2 0,0 0,1 1,1 0,0 1,0 2,0l0 1 -9 0 0 -1c1,0 2,0 2,0 0,0 1,-1 1,-1 0,0 0,-1 0,-2l0 -8c0,-2 0,-3 -1,-3 -1,-1 -1,-1 -2,-1 -1,0 -1,0 -2,1 -1,1 -2,1 -3,2l0 10c0,1 0,2 0,2 0,0 0,1 1,1 0,0 1,0 2,0l0 1 -9 0 0 -1c1,0 1,0 2,0 0,0 1,0 1,-1 0,0 0,-1 0,-2l0 -7c0,-2 0,-3 0,-4 0,0 0,-1 0,-1 0,0 0,0 -1,0 0,0 -1,0 -1,0l0 -1 6 -2 1 0 0 4z"/>
+ </g>
  <g id="lunkuo" attrib:tooltipAttrib="name" attrib:tooltipParent="true" attrib:tooltip="Tooltip">
   <metadata id="CorelCorpID_10Corel-Layer"/>
   <path  class="_11" fill-opacity="0"  fill="#FFFFFF" attrib:name="11摄氏度" onmouseover="Hightlight(evt)" onmouseout="Recover(evt)"  d="M65693 35352c0,-53 -2,-123 -3,-192 -3,-150 -6,-299 0,-383 5,-60 15,-107 28,-145 -25,-37 -57,-85 -91,-135 -127,-187 -268,-396 -280,-523 -11,-118 109,-351 274,-536 105,-117 234,-239 352,-315 199,-127 436,-187 620,-233 55,-14 104,-26 128,-34 6,-2 25,-9 56,-19l1 0c175,-60 305,-104 535,2 82,38 152,67 225,98 226,95 483,203 683,336 202,134 252,246 301,358 6,13 11,25 15,31l-567 423c-46,-62 -70,-114 -93,-166 -8,-18 -16,-35 -47,-56 -151,-100 -372,-193 -567,-275 -97,-41 -190,-80 -248,-106 -27,-12 9,17 -10,25l0 0c-11,4 -25,8 -78,25 -58,18 -108,31 -163,45 -138,35 -315,80 -413,142 -60,38 -137,114 -206,190 -49,55 -103,-57 -97,-1 5,57 84,75 164,194 60,89 116,172 156,241l1 0c157,268 105,374 23,513 -3,72 -1,182 1,292 1,67 3,135 3,203l-706 3z"/>
@@ -2215,6 +2222,70 @@ viewBox="0 0 100000 50000"
   <rect onclick="Closecircle(2)" style="cursor:pointer;" onmouseover="tip(evt)" onmouseout="tipclose(evt)"  fill="#FEFEFE" id="rect2" fill-opacity="0" x="50930" y="11110" width="15180" height="1274"/>
   <rect onclick="Closecircle(3)" style="cursor:pointer;" onmouseover="tip(evt)" onmouseout="tipclose(evt)"  fill="#FEFEFE" id="rect3" fill-opacity="0" x="72501" y="11091" width="5229" height="1050"/>
  </g>
+ 
+<g id="infotip1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path fill="#FEFEFE" stroke="#00A2E9" stroke-width="236.221" d="M44736 17538c0,0 11,-1427 -637,-1392 -648,35 -23919,52 -23919,52 0,0 -245,-13 -378,384 -40,120 -70,280 -105,490 -69,413 -26,1014 -29,1917 -10,2878 -5,12261 -5,12261 0,0 -220,1754 731,1754 951,0 11320,-45 11320,-45l1037 52 5348 -24 6001 -29c62,85 715,-90 622,-2076 -93,-1986 13,-13344 13,-13344z"/>
+  <g transform="matrix(0.837363 0 0 1 -12717.4 -4818.71)">
+   <text x="50000" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">当</text>
+   <text x="51372" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">鼠</text>
+   <text x="52744" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">标</text>
+   <text x="54116" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">在</text>
+   <text x="55487" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">地</text>
+   <text x="56859" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">图</text>
+   <text x="58231" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">符</text>
+   <text x="59603" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">号</text>
+   <text x="60975" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">上</text>
+   <text x="62347" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">悬</text>
+   <text x="63719" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">停</text>
+   <text x="65090" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">时</text>
+   <text x="66462" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">，</text>
+  </g>
+  <g transform="matrix(0.837363 0 0 1 -12717.4 -4818.71)">
+   <text x="50000" y="26247"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">查</text>
+   <text x="51372" y="26247"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">看</text>
+   <text x="52744" y="26247"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">该</text>
+   <text x="54116" y="26247"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">符</text>
+   <text x="55487" y="26247"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">号</text>
+   <text x="56859" y="26247"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">所</text>
+   <text x="58231" y="26247"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">表</text>
+   <text x="59603" y="26247"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">示</text>
+   <text x="60975" y="26247"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">的</text>
+   <text x="62347" y="26247"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">含</text>
+   <text x="63719" y="26247"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">义</text>
+   <text x="65090" y="26247"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">。</text>
+  </g>
+  <line fill="none" stroke="#00A2E9" stroke-width="236.221" x1="42546" y1="18463" x2="43649" y2= "17361" />
+  <line fill="none" stroke="#00A2E9" stroke-width="236.221" x1="43649" y1="18463" x2="42546" y2= "17361" />
+  <path id="close" onclick="closeinfotip(1)" fill="#FEFEFE" fill-opacity="0.000000" stroke="#00A2E9" stroke-width="236.221" stroke-opacity="0.000000" d="M43815 18956l-1435 0c-180,0 -327,-147 -327,-327l0 -1435c0,-180 147,-327 327,-327l1435 0c180,0 327,147 327,327l0 1435c0,180 -147,327 -327,327z"/>
+  <g transform="matrix(0.837363 0 0 1 -12618.6 3224.18)">
+   <text x="50000" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">鼠</text>
+   <text x="51372" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">标</text>
+   <text x="52744" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">单</text>
+   <text x="54116" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">击</text>
+   <text x="55487" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">关</text>
+   <text x="56859" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">键</text>
+   <text x="58231" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">词</text>
+   <text x="59603" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">，</text>
+   <text x="60975" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">查</text>
+   <text x="62347" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">看</text>
+   <text x="63719" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">图</text>
+   <text x="65090" y="25000"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">示</text>
+  </g>
+  <g transform="matrix(0.837363 0 0 1 -12618.6 3224.18)">
+   <text x="50000" y="26247"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">及</text>
+   <text x="51372" y="26247"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">说</text>
+   <text x="52744" y="26247"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">明</text>
+   <text x="54116" y="26247"  fill="#332C2B" font-weight="normal" font-size="1247.13px" font-family="黑体">。</text>
+  </g>
+  <g clip-path="url(#id1)">
+   <image id="_30-31b.png" x="20813" y="24034" width="7953" height="8004" xlink:href="30-31binfotiplian_ImgID1.png"/>
+  </g>
+  <g clip-path="url(#id2)">
+   <image id="_30-31b2.png" x="20887" y="17370" width="8000" height="5622" xlink:href="30-31binfotiplian_ImgID2.png"/>
+  </g>
+ </g>
+ 
  <g id="toolTip">
 		
 	</g>

@@ -1,0 +1,253 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>
+        2000-2004年植被变化
+        </title>
+        <link href="css/jiemiancssb.css" rel="stylesheet" type="text/css">
+        <script Language="JavaScript" src="js/jiemian.js">
+        </script>
+			<style type="text/css">
+		.map{height:650px}
+				.main{height:650px}
+		.mapcontroll{height:650px}
+		.box{height:830}
+		</style>	<style type="text/css">
+		.map{height:650px}
+				.main{height:650px}
+		.mapcontroll{height:650px}
+		.box{height:830}
+		</style>
+       <script type="text/javascript">
+            //<![CDATA[
+            window.onload = function() {
+                rolinTab("rolin");
+                var oWin = document.getElementById("win");
+                var oLay = document.getElementById("overlay");
+                var oBtn = document.getElementById("button");
+                var oClose = document.getElementById("close");
+                var oH2 = oWin.getElementsByTagName("h2")[0];
+                var bDrag = false;
+                var disX = disY = 0;
+                oBtn.onclick = function() {
+                    oLay.style.display = "block";
+                    oWin.style.display = "block"
+                };
+                oClose.onclick = function() {
+                    oLay.style.display = "none";
+                    oWin.style.display = "none"
+                };
+                oClose.onmousedown = function(event) { (event || window.event).cancelBubble = true;
+                };
+                oH2.onmousedown = function(event) {
+                    var event = event || window.event;
+                    bDrag = true;
+                    disX = event.clientX - oWin.offsetLeft;
+                    disY = event.clientY - oWin.offsetTop;
+                    this.setCapture && this.setCapture();
+                    return false
+                };
+                document.onmousemove = function(event) {
+                    if (!bDrag) return;
+                    var event = event || window.event;
+                    var iL = event.clientX - disX;
+                    var iT = event.clientY - disY;
+                    var maxL = document.documentElement.clientWidth - oWin.offsetWidth;
+                    var maxT = document.documentElement.clientHeight - oWin.offsetHeight;
+                    iL = iL < 0 ? 0 : iL;
+                    iL = iL > maxL ? maxL: iL;
+                    iT = iT < 0 ? 0 : iT;
+                    iT = iT > maxT ? maxT: iT;
+                    oWin.style.marginTop = oWin.style.marginLeft = 0;
+                    oWin.style.left = iL + "px";
+                    oWin.style.top = iT + "px";
+                    return false
+                };
+                document.onmouseup = window.onblur = oH2.onlosecapture = function() {
+                    bDrag = false;
+                    oH2.releaseCapture && oH2.releaseCapture();
+                };
+            }
+			function on_hide(n)
+		{
+        var svgViewer = document.getElementById("svgEmbed");
+		var SVGDoc = svgViewer.getSVGDocument();
+		var SVGRoot = SVGDoc.documentElement;
+		var rect = SVGDoc.getElementById("layer_"+n);
+		rect.style.display = (document.getElementById("checkbox_"+n).checked == true) ? "block" : "none";
+		
+		}
+            //]]>
+            
+        </script>
+    </head>
+    
+    <body>
+        <div class="box" style="height: 715px">
+		 <div id="overlay">
+            </div>
+		<div id="win" style ="overflow:scroll" >
+                <h2>
+				植被概况
+                    <span id="close">
+                        ×
+                    </span>
+                </h2>&nbsp &nbsp植被是生态环境的重要组成部分，植被的动态变化可以从一定程度上反映生态环境质量的变化趋势。对植被退化的遥感监测也是土地沙漠化监测的重要手段之一。遥感方法提取的NDVI（归一化植被指数）植被信息，常用于以定性定量的评价植被覆盖、生长活力及生物量等的植被特征。利用差值法对西藏2000年到2004年NDVI变化的检测表明，5年间大量出现的植被退化现象说明近年来西藏土地整体退化的总趋势。根据变化特征的不同，全区可分为6个区域：
+				<br />&nbsp &nbspⅠ区：植被改善的地区基本分布在林芝地区，但也在局部地段存在轻度退化。 
+				<br />&nbsp &nbsp Ⅱ区：雅鲁藏布江沿线属轻度退化区，中游地区大部分属于中度退化，局部区域甚至为重度退化。
+				<br />&nbsp &nbsp Ⅲ区：阿里高原中部和南部为轻度退化，个别河谷为中度退化、局部零星地段为重度退化，北部基本为稳定区。
+				<br />&nbsp &nbspⅣ区：藏北高原东南部的那曲地区基本属于中度退化区域，尤其是那曲北部安多附近出现了重度退化现象。 
+				<br />&nbsp &nbsp Ⅴ区：昌都三江流域有部分区域出现中度退化，其余都为轻度退化，山区植被基本属于稳定状态。
+				<br />&nbsp &nbsp Ⅵ区：藏北无人区，NDVI值基本没有变化，植被处于稳定状态，只在局部出现零星的比较明显的植被退化现象。
+
+			</div>
+            <div class="title" style="background-color: #FFD54F">
+                <p>
+                      <a href="page2.html" title="单击查看目录"  target="_blank"> 土地沙漠化 </a>
+                </p>
+            </div>
+            <div class="title" >
+                <img alt="西藏综合自然与沙漠化地图集" style="width:300px;height:70px" src="images/4.png"
+                />
+            </div>
+            <div class="title" >
+                <img alt="西藏综合自然与沙漠化地图集" style="width:300px;height:70px" src="images/5.png"
+                />
+            </div>
+            <div class="title" >
+                <img alt="西藏综合自然与沙漠化地图集" style="width:300px;height:70px" src="images/6.png"
+                />
+            </div>
+            <div class="col" style="background-color: #fff6d7; color:#574301">
+                   <a href="page2.html" title="单击查看目录"  target="_blank">现状与变化 </a>
+            </div>
+            <div class="col" style="background-color: #EDAC09">
+                   <a href="page2.html" title="单击查看目录"  target="_blank">过程与成因 </a>
+            </div>
+            <div class="col" style="font-size:17px;">
+                <ul class="test_ul">
+                    <li class="anw">
+                        <a href="62-63.html"  target="_blank">
+                            现状
+                        </a>
+                    </li>
+                    <li class="color">
+                        <a href="88-89.html"  target="_blank">
+                             <strong>  变化</strong> 
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col" style="background-color: #B9CDE5;font-size:17px;">
+                <ul class="test_ul">
+                    <li>
+                        <a href="98-99.html"  target="_blank">
+                            地质历史时期
+                        </a>
+                    </li>
+                    <li>
+                        <a href="100-101.html"  target="_blank">
+                            现代过程
+                        </a>
+					 </li>
+                        <li>
+                            <a href="108-109.html"  target="_blank">
+                                成因分析
+                            </a>
+                        </li>
+                        <li >
+                            <a href="114-115.html"  target="_blank">
+                                趋势预测
+                            </a>
+                        </li>
+                </ul>
+            </div>
+            <div class="menu">
+                <div id="nav">
+                    <ul>
+                        
+                        <li>
+                            <a href="88-89.html"  target="_blank">
+                             变化  
+                            </a>
+							<ul style="font-size:8px;">
+							
+                            <li><a href="88-89.html"  target="_blank" >土地退化度变化</a></li>
+							 <li><a href="90-91.html"  target="_blank">分区沙漠化土地变化</a></li>
+                            <li> <a href="90-91b.html"  target="_blank">典型区土地变化</a></li>
+                              <li> <a href="88-89概况.html"  target="_blank">沙漠化土地变化概况</a></li>
+                           
+							</ul>
+                        </li>
+                        <li class="vline">
+                            >
+                        </li>
+                        <li>
+                            <a href="92-93.html"  target="_blank" >植被变化</a>
+							<ul style="font-size:8px;">
+						 	 <li><a href="92-93b.html"  target="_blank"> 不同季节NDVI最大值 </a> 
+							 <li><a href="94-95.html"  target="_blank">西藏NDVI最大值  </a>
+							  
+                        </li>
+                           
+							</ul>
+                        </li>
+                         <li class="vline">
+                            >
+                        </li>
+						 <li>
+                            <li><a href="92-93.html"  target="_blank"> 2000-2004植被变化 </a>
+							
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="main">
+                <div class="mapcontroll">
+                    <ul class="rolinList" id="rolin">
+                        <li>
+                            <h2>
+                             图例
+                            </h2>
+                            <div class="content" style="overflow:auto ">
+							<div  style="height:150px;overflow:auto ">
+                              
+							    <img alt="图例"  src="supplement/92-93图例.png"/>
+                            </div>
+							</div>
+                        </li>
+						<li>
+                            <h2 id="button">
+                                
+                                   植被概况
+                               
+                            </h2>
+                            <div class="content">
+							
+							
+							</div>
+                        </li>
+						
+                    </ul>
+                </div>
+				<div class="map" style="overflow:scroll">
+				<embed id="svgEmbed"  pluginspage=http://www.adobe.com/svg/viewer/install/  src="svg/92-93.svg"  type="image/svg+xml"/>
+				</div>
+				<div class="copybottom" style="background-color: #FFD54F">
+				copyright
+				</div>
+				</div>
+				</div>
+				<div id="FloatDiv" style="position:absolute; width:250px; height:40px; visibility:visible; right: 250px; top: 150px">
+				<div class="tool" style="background-image: url('images/fangda.gif')" onclick="zoomIn()"></div>
+				<div class="kx"> </div>
+				 <div class="tool" style=";background-image: url('images/suoxiao.gif')" onclick="zoomOut()"></div>
+				<div class="kx"> </div>
+				 <div class="tool" style=";background-image: url('images/manyou.gif')"onclick="mapPan()"></div>
+				<div class="kx"> </div>
+				 <div class="tool" style=";background-image: url('images/quantu.gif')"onclick="fullscreen()"></div>
+				<div class="kx"> </div>
+				</div>
+    </body>

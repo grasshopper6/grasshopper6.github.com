@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1000px" height="724px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 100000 72414"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str3 {stroke:#332C2B;stroke-width:52.5517}
+    .str6 {stroke:#00A2E9;stroke-width:55.1724;stroke-linejoin:round}
+    .str0 {stroke:#332C2B;stroke-width:68.9655}
+    .str1 {stroke:#332C2B;stroke-width:68.9655;stroke-linejoin:round}
+    .str2 {stroke:#6D583D;stroke-width:68.9655;stroke-linejoin:round}
+    .str5 {stroke:#823520;stroke-width:68.9655;stroke-linejoin:round}
+    .str8 {stroke:#332C2B;stroke-width:82.7586}
+    .str7 {stroke:#332C2B;stroke-width:103.448}
+    .str4 {stroke:#FEFEFE;stroke-width:344.828}
+    .fil1 {fill:none}
+    .fil3 {fill:#332C2B}
+    .fil4 {fill:#B6B49E}
+    .fil0 {fill:#FEFEFE}
+    .fil6 {fill:#00A2E9}
+    .fil2 {fill:#6D583D}
+    .fil5 {fill:#823520}
+    .fil8 {fill:#FDEBD2}
+    .fil7 {fill:#FEF5E9}
+    .fil9 {fill:#332C2B;fill-rule:nonzero}
+    .fnt9 {font-weight:normal;font-size:1172.41px;font-family:'Times New Roman'}
+    .fnt8 {font-weight:normal;font-size:1338.14px;font-family:'Times New Roman'}
+    .fnt7 {font-weight:normal;font-size:1459.79px;font-family:'Times New Roman'}
+    .fnt0 {font-weight:normal;font-size:1459.79px;font-family:'方正书宋简体'}
+    .fnt6 {font-weight:normal;font-size:1703.03px;font-family:'Times New Roman'}
+    .fnt1 {font-weight:normal;font-size:1703.03px;font-family:'方正书宋简体'}
+    .fnt5 {font-weight:normal;font-size:1824.69px;font-family:'黑体'}
+    .fnt4 {font-weight:normal;font-size:1946.34px;font-family:'Arial'}
+    .fnt3 {font-weight:normal;font-size:2432.97px;font-family:'方正准圆简体'}
+    .fnt2 {font-style:italic;font-weight:normal;font-size:1703.03px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+<symbol id="符号18" viewBox="49355 35562 1290 1290">
+ <rect class="fil0" x="49379" y="35586" width="1241" height="1241"/>
+ <line class="fil1 str0" x1="49379" y1="35586" x2="50621" y2= "36828" />
+ <line class="fil1 str0" x1="49379" y1="36828" x2="50621" y2= "35586" />
+</symbol>
+<symbol id="符号12" viewBox="49552 35759 897 896">
+ <path class="fil0 str1" d="M50414 36207c0,-229 -185,-414 -414,-414 -229,0 -414,185 -414,414 0,229 185,414 414,414 229,0 414,-185 414,-414z"/>
+</symbol>
+<symbol id="符号27" viewBox="49862 36069 276 276">
+ <path class="fil2 str2" d="M50103 36207c0,-57 -46,-103 -103,-103 -57,0 -104,46 -104,103 0,57 46,103 104,103 57,0 103,-46 103,-103z"/>
+</symbol>
+<symbol id="符号15" viewBox="49077 35284 1846 1846">
+ <circle class="fil0 str3" cx="50000" cy="36207" r="897"/>
+ <circle class="fil1 str3" cx="50000" cy="36207" r="336"/>
+</symbol>
+<symbol id="符号10" viewBox="49215 35422 1570 1570">
+ <circle class="fil0 str3" cx="50000" cy="36207" r="759"/>
+ <circle class="fil3 str3" cx="50000" cy="36207" r="448"/>
+</symbol>
+<symbol id="符号23" viewBox="40486 31144 19100 10122">
+ <polygon class="fil1 str4" points="54671,31561 54671,33896 43578,33896 43578,38518 54671,38518 54671,40853 59341,36231 "/>
+ <polygon id="1" class="fil4" points="54671,31561 54671,33896 43578,33896 43578,38518 54671,38518 54671,40853 59341,36231 "/>
+ <polygon class="fil1 str4" points="41826,33896 41826,38518 42994,38518 42994,33896 "/>
+ <polygon id="1" class="fil4" points="41826,33896 41826,38518 42994,38518 42994,33896 "/>
+ <polygon class="fil1 str4" points="40659,33896 40659,38518 41242,38518 41242,33896 "/>
+ <polygon id="1" class="fil4" points="40659,33896 40659,38518 41242,38518 41242,33896 "/>
+</symbol>
+<symbol id="符号21" viewBox="49676 35717 648 979">
+ <polygon class="fil5" points="49684,36697 49996,35717 50324,36697 49676,36697 "/>
+</symbol>
+<symbol id="符号19" viewBox="49841 36048 317 317">
+ <path class="fil5 str5" d="M50124 36207c0,-69 -56,-124 -124,-124 -69,0 -124,56 -124,124 0,68 56,124 124,124 69,0 124,-56 124,-124z"/>
+</symbol>
+<symbol id="符号3" viewBox="49562 35769 876 876">
+ <rect class="fil0" x="49586" y="35793" width="828" height="828"/>
+ <line class="fil1 str0" x1="49586" y1="35793" x2="50414" y2= "36621" />
+ <line class="fil1 str0" x1="49586" y1="36621" x2="50414" y2= "35793" />
+</symbol>
+<symbol id="符号1" viewBox="49724 35793 552 828">
+ <polygon class="fil5" points="49731,36621 49996,35793 50276,36621 49724,36621 "/>
+</symbol>
+<symbol id="符号11" viewBox="49215 35422 1570 1570">
+ <circle class="fil0 str3" cx="50000" cy="36207" r="759"/>
+ <circle class="fil3 str3" cx="50000" cy="36207" r="448"/>
+</symbol>
+<symbol id="符号24" viewBox="49215 35422 1570 1570">
+ <circle class="fil0 str3" cx="50000" cy="36207" r="759"/>
+ <circle class="fil3 str3" cx="50000" cy="36207" r="448"/>
+</symbol>
+<symbol id="符号2" viewBox="49862 36069 276 276">
+ <path class="fil5 str5" d="M50103 36207c0,-57 -46,-103 -103,-103 -57,0 -104,46 -104,103 0,57 46,103 104,103 57,0 103,-46 103,-103z"/>
+</symbol>
+<symbol id="符号28" viewBox="49724 35793 552 828">
+ <polygon class="fil2" points="49731,36621 49996,35793 50276,36621 49724,36621 "/>
+</symbol>
+<symbol id="符号7" viewBox="49215 35422 1570 1570">
+ <circle class="fil0 str3" cx="50000" cy="36207" r="759"/>
+ <circle class="fil3 str3" cx="50000" cy="36207" r="448"/>
+</symbol>
+<symbol id="符号20" viewBox="49517 35310 966 1793">
+ <polygon class="fil5" points="49529,37103 49994,35310 50483,37103 49517,37103 "/>
+</symbol>
+<symbol id="符号8" viewBox="49552 35759 897 896">
+ <path class="fil0 str1" d="M50414 36207c0,-229 -185,-414 -414,-414 -229,0 -414,185 -414,414 0,229 185,414 414,414 229,0 414,-185 414,-414z"/>
+</symbol>
+<symbol id="符号6" viewBox="49560 35767 880 880">
+ <circle class="fil0 str3" cx="50000" cy="36207" r="414"/>
+ <circle class="fil1 str3" cx="50000" cy="36207" r="155"/>
+</symbol>
+<symbol id="符号26" viewBox="49560 35767 880 880">
+ <circle class="fil0 str3" cx="50000" cy="36207" r="414"/>
+ <circle class="fil1 str3" cx="50000" cy="36207" r="155"/>
+</symbol>
+<symbol id="符号9" viewBox="49560 35767 880 880">
+ <circle class="fil0 str3" cx="50000" cy="36207" r="414"/>
+ <circle class="fil1 str3" cx="50000" cy="36207" r="155"/>
+</symbol>
+<symbol id="符号4" viewBox="49421 35959 1131 497">
+ <polygon class="fil6" points="49842,36138 49845,36138 49855,36139 49870,36139 49889,36139 49913,36139 49940,36138 49970,36137 50002,36135 50035,36132 50068,36128 50101,36123 50134,36117 50164,36109 50193,36100 50218,36088 50240,36075 50259,36062 50278,36049 50297,36037 50316,36027 50335,36017 50354,36009 50374,36003 50393,35998 50412,35995 50431,35994 50450,35995 50470,35998 50489,36003 50509,36011 50551,36043 50552,36045 50545,36044 50535,36043 50520,36041 50504,36039 50485,36038 50464,36037 50442,36038 50419,36041 50395,36046 50370,36053 50346,36064 50323,36077 50300,36095 50278,36117 50245,36139 50211,36160 50178,36178 50144,36195 50110,36209 50078,36221 50047,36232 50017,36241 49990,36249 49965,36255 49924,36266 49908,36270 49890,36273 49879,36274 "/>
+ <path class="fil6 str6" d="M49893 36207c0,-122 -99,-221 -222,-221 -123,0 -222,99 -222,221 0,122 100,221 222,221 123,0 222,-99 222,-221z"/>
+</symbol>
+<symbol id="符号25" viewBox="49562 35769 876 876">
+ <line class="fil1 str0" x1="49586" y1="35793" x2="50414" y2= "36621" />
+ <line class="fil1 str0" x1="49586" y1="36621" x2="50414" y2= "35793" />
+</symbol>
+<symbol id="符号16" viewBox="49215 35422 1570 1570">
+ <circle class="fil0 str3" cx="50000" cy="36207" r="759"/>
+ <circle class="fil3 str3" cx="50000" cy="36207" r="448"/>
+</symbol>
+<symbol id="符号5" viewBox="49552 35759 897 896">
+ <path class="fil0 str1" d="M50414 36207c0,-229 -185,-414 -414,-414 -229,0 -414,185 -414,414 0,229 185,414 414,414 229,0 414,-185 414,-414z"/>
+</symbol>
+<symbol id="符号13" viewBox="49560 35767 880 880">
+ <circle class="fil0 str3" cx="50000" cy="36207" r="414"/>
+ <circle class="fil1 str3" cx="50000" cy="36207" r="155"/>
+</symbol>
+<symbol id="符号22" viewBox="43125 31144 13572 10122">
+ <polygon class="fil1 str4" points="51782,31561 51782,33896 43547,33896 45883,36231 43547,38518 51782,38518 51782,40853 56453,36231 "/>
+ <polygon id="1" class="fil4" points="51782,31561 51782,33896 43547,33896 45883,36231 43547,38518 51782,38518 51782,40853 56453,36231 "/>
+</symbol>
+<symbol id="符号14" viewBox="49552 35759 897 896">
+ <path class="fil0 str1" d="M50414 36207c0,-229 -185,-414 -414,-414 -229,0 -414,185 -414,414 0,229 185,414 414,414 229,0 414,-185 414,-414z"/>
+</symbol>
+<symbol id="符号17" viewBox="49421 35959 1131 497">
+ <polygon class="fil6" points="49842,36138 49845,36138 49855,36139 49870,36139 49889,36139 49913,36139 49940,36138 49970,36137 50002,36135 50035,36132 50068,36128 50101,36123 50134,36117 50164,36109 50193,36100 50218,36088 50240,36075 50259,36062 50278,36049 50297,36037 50316,36027 50335,36017 50354,36009 50374,36003 50393,35998 50412,35995 50431,35994 50450,35995 50470,35998 50489,36003 50509,36011 50551,36043 50552,36045 50545,36044 50535,36043 50520,36041 50504,36039 50485,36038 50464,36037 50442,36038 50419,36041 50395,36046 50370,36053 50346,36064 50323,36077 50300,36095 50278,36117 50245,36139 50211,36160 50178,36178 50144,36195 50110,36209 50078,36221 50047,36232 50017,36241 49990,36249 49965,36255 49924,36266 49908,36270 49890,36273 49879,36274 "/>
+ <path class="fil6 str6" d="M49893 36207c0,-122 -99,-221 -222,-221 -123,0 -222,99 -222,221 0,122 100,221 222,221 123,0 222,-99 222,-221z"/>
+</symbol>
+ <g id="图层_x0020_3">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_748480752">
+   <rect class="fil0" x="61923" y="20584" width="15862" height="49282"/>
+   <rect class="fil0" x="37167" y="20584" width="16661" height="49282"/>
+   <rect class="fil7" x="55225" y="20584" width="10718" height="49282"/>
+   <rect class="fil7" x="76472" y="20514" width="10645" height="49328"/>
+   <rect class="fil8" x="2237" y="20584" width="12868" height="49353"/>
+   <g>
+    <path class="fil9" d="M28631 37004l0 116 263 0 0 -226c8,4 18,8 30,12l104 37c-4,8 -19,24 -43,49l0 128 128 0 61 -74 128 98 -6 12 -312 0 0 141c-49,24 -80,35 -92,31l0 -171 -263 0 0 147c-28,28 -59,43 -91,43l0 -190 -135 0 -80 19 -30 -55 245 0 -6 -232c90,33 138,51 147,55 -33,37 -49,57 -49,61zm691 629l12 18c-86,12 -135,39 -147,79 -188,-73 -324,-202 -409,-385 -40,57 -447,521 -513,422 175,-122 328,-301 458,-538 36,20 75,41 116,61 0,4 -4,8 -12,12 -12,4 -18,8 -18,12 69,163 240,269 513,318zm-361 -12l98 86 -6 6 -428 0 -85 18 -37 -49 391 0 67 -61zm-513 189l116 61 385 0c28,-37 47,-57 55,-61 57,45 96,75 116,92 -4,8 -22,24 -55,49l12 348c-28,29 -63,43 -104,43l0 -141 -440 0 0 98c-25,20 -57,37 -98,49l12 -538zm86 165l0 196 440 0 0 -263 -367 0c-53,0 -77,22 -73,67z"/>
+    <path class="fil9" d="M28006 37005l18 -24c114,45 183,83 208,116 33,41 35,81 6,122 -16,28 -35,34 -55,18 -8,0 -14,-8 -18,-24 -20,-65 -73,-134 -159,-208zm-116 348l6 -18c102,45 169,77 202,98 45,49 51,94 18,134 -45,28 -73,20 -86,-24 -4,-12 -6,-22 -6,-31 -37,-65 -81,-118 -134,-159zm397 55l24 0c-122,371 -183,560 -183,568 -4,90 -2,169 6,238 8,57 12,98 12,122 -69,20 -112,2 -128,-55 0,-12 0,-24 0,-37 33,-147 43,-234 30,-263 -16,-24 -61,-47 -135,-67l0 -18c61,8 98,12 110,12 20,0 37,-6 49,-18 8,-8 57,-118 147,-330 20,-45 43,-96 67,-153z"/>
+   </g>
+   <text x="14176" y="38252"  class="fil3 fnt0">                    </text>
+   <text x="21364" y="38252"  class="fil3 fnt0">             </text>
+   <text x="26036" y="38252"  class="fil3 fnt1">银</text>
+   <text x="27739" y="38252"  class="fil3 fnt1">    草(</text>
+   <text x="43960" y="38252"  class="fil3 fnt1">) </text>
+   <text x="31584" y="38252"  class="fil3 fnt2">Koeleria argentea</text>
+   <rect class="fil8" x="2237" y="10907" width="95421" height="9722"/>
+   <path class="fil1 str0" d="M55240 16096c42425,0 42425,0 42425,0"/>
+   <path class="fil1 str7" d="M2248 20617c95446,0 95446,0 95446,0"/>
+   <path class="fil1 str0" d="M15073 24411c82607,0 82607,0 82607,0"/>
+   <path class="fil1 str0" d="M15103 28204c82577,0 82577,0 82577,0"/>
+   <path class="fil1 str7" d="M2180 31997c95501,0 95501,0 95501,0"/>
+   <path class="fil1 str0" d="M15166 35790c82655,0 82655,0 82655,0"/>
+   <path class="fil1 str0" d="M15108 39583c82572,0 82572,0 82572,0"/>
+   <path class="fil1 str0" d="M15120 43376c82560,0 82560,0 82560,0"/>
+   <path class="fil1 str0" d="M15082 47169c82599,0 82599,0 82599,0"/>
+   <path class="fil1 str0" d="M15108 50962c82572,0 82572,0 82572,0"/>
+   <path class="fil1 str7" d="M2298 54755c95382,0 95382,0 95382,0"/>
+   <path class="fil1 str0" d="M2240 58548c95440,0 95440,0 95440,0"/>
+   <path class="fil1 str0" d="M2240 62342c95440,0 95440,0 95440,0"/>
+   <path class="fil1 str0" d="M2240 66135c95440,0 95440,0 95440,0"/>
+   <rect class="fil1 str7" x="2237" y="10944" width="95427" height="59006"/>
+   <line class="fil1 str8" x1="55271" y1="10961" x2="55271" y2= "69915" />
+   <line class="fil1 str8" x1="65874" y1="16104" x2="65874" y2= "69915" />
+   <line class="fil1 str8" x1="76478" y1="16104" x2="76478" y2= "69915" />
+   <line class="fil1 str8" x1="87081" y1="16104" x2="87081" y2= "69915" />
+   <line class="fil1 str8" x1="15126" y1="10982" x2="15126" y2= "69915" />
+   <g transform="matrix(1.2 0 0 1 -42122.5 -31683.4)">
+    <text x="50000" y="36207"  class="fil3 fnt3">高山嵩草草甸沙漠化过程中植物种和科重要值变化</text>
+   </g>
+   <text x="2625" y="7220"  class="fil3 fnt4">Changes of plant species and family importance value in desertification processes of alpine Kobresia meadow</text>
+   <text x="58934" y="18413"  class="fil3 fnt1">轻度              </text>
+   <text x="68209" y="18413"  class="fil3 fnt1">          </text>
+   <text x="69535" y="18413"  class="fil3 fnt1">中度       </text>
+   <text x="75876" y="18413"  class="fil3 fnt1">              </text>
+   <text x="80117" y="18413"  class="fil3 fnt1">重度       </text>
+   <text x="86458" y="18413"  class="fil3 fnt1">              </text>
+   <text x="89881" y="18413"  class="fil3 fnt1">极重度</text>
+   <text x="8086" y="16677"  class="fil3 fnt5">科</text>
+   <text x="9911" y="16677"  class="fil3 fnt5">                             </text>
+   <text x="33753" y="16677"  class="fil3 fnt5">种</text>
+   <text x="6431" y="22617"  class="fil3 fnt1">莎草科        </text>
+   <text x="14894" y="22617"  class="fil3 fnt1">             </text>
+   <text x="24981" y="23077"  class="fil3 fnt1">高山</text>
+   <text x="30090" y="23077"  class="fil3 fnt1">草(</text>
+   <text x="45014" y="23077"  class="fil3 fnt1">)</text>
+   <text x="28387" y="23077"  class="fil3 fnt1">嵩</text>
+   <text x="32259" y="23077"  class="fil3 fnt2">Kobresia pygmaea</text>
+   <text x="13421" y="26878"  class="fil3 fnt0">                   </text>
+   <text x="20609" y="26878"  class="fil3 fnt0">             </text>
+   <text x="20250" y="26878"  class="fil3 fnt0"> </text>
+   <text x="25281" y="26878"  class="fil3 fnt1">青藏苔草(</text>
+   <text x="44715" y="26878"  class="fil3 fnt1">)</text>
+   <text x="32559" y="26878"  class="fil3 fnt2">Carex moorcroftii</text>
+   <text x="7249" y="29990"  class="fil3 fnt1">总计</text>
+   <text x="6431" y="34137"  class="fil3 fnt1">禾本科        </text>
+   <text x="14894" y="34137"  class="fil3 fnt1">             </text>
+   <text x="26314" y="34482"  class="fil3 fnt0">高原早熟禾</text>
+   <text x="33613" y="34482"  class="fil3 fnt1">(</text>
+   <text x="43681" y="34482"  class="fil3 fnt1">) </text>
+   <text x="34079" y="34482"  class="fil3 fnt2">Poe calliopsis</text>
+   <text x="16259" y="42086"  class="fil3 fnt0">                                 </text>
+   <text x="28119" y="42086"  class="fil3 fnt1">异针茅(</text>
+   <text x="41877" y="42086"  class="fil3 fnt1">) </text>
+   <text x="33694" y="42086"  class="fil3 fnt2">Stipa aliena</text>
+   <text x="4479" y="45887"  class="fil3 fnt0">                                 </text>
+   <text x="16338" y="45887"  class="fil3 fnt1">蒙古三毛草(</text>
+   <text x="53657" y="45887"  class="fil3 fnt1">) </text>
+   <text x="25319" y="45887"  class="fil3 fnt2">Trisetum spicatum </text>
+   <text x="42588" y="45887"  class="fil3 fnt2">mongolica</text>
+   <text x="38283" y="45887"  class="fil3 fnt6">subsp.</text>
+   <text x="49778" y="45887"  class="fil3 fnt6">. Hult</text>
+   <text x="14509" y="49689"  class="fil3 fnt0">                    </text>
+   <text x="21697" y="49689"  class="fil3 fnt0">             </text>
+   <text x="26369" y="49689"  class="fil3 fnt1">紫花针茅(</text>
+   <text x="43849" y="49689"  class="fil3 fnt1">)  </text>
+   <text x="33647" y="49689"  class="fil3 fnt2">Stipa purpurea</text>
+   <text x="7249" y="52801"  class="fil3 fnt1">总计</text>
+   <text x="6431" y="56603"  class="fil3 fnt1">蔷薇科        </text>
+   <text x="14894" y="56603"  class="fil3 fnt1">             </text>
+   <text x="24588" y="57293"  class="fil3 fnt1">二裂委陵菜(</text>
+   <text x="45630" y="57293"  class="fil3 fnt1">)  </text>
+   <text x="33568" y="57293"  class="fil3 fnt2">Potentilla bifurac</text>
+   <text x="7259" y="60405"  class="fil3 fnt1">菊科</text>
+   <text x="10665" y="60405"  class="fil3 fnt1">                         </text>
+   <text x="24255" y="61094"  class="fil3 fnt1">火绒草(</text>
+   <text x="45963" y="61094"  class="fil3 fnt1">)  </text>
+   <text x="29830" y="61094"  class="fil3 fnt2">Leontopodium pusillum</text>
+   <text x="6431" y="64551"  class="fil3 fnt1">玄参科        </text>
+   <text x="14894" y="64551"  class="fil3 fnt1">             </text>
+   <text x="27048" y="64896"  class="fil3 fnt1">肉果草(</text>
+   <text x="43170" y="64896"  class="fil3 fnt1">)</text>
+   <text x="32623" y="64896"  class="fil3 fnt2">Lancea tibetica</text>
+   <text x="6431" y="68283"  class="fil3 fnt1">唇</text>
+   <text x="14894" y="68283"  class="fil3 fnt1">             </text>
+   <text x="8134" y="68283"  class="fil3 fnt1">形科        </text>
+   <text x="25185" y="68698"  class="fil3 fnt1">独一味(</text>
+   <text x="45033" y="68698"  class="fil3 fnt1">) </text>
+   <text x="30760" y="68698"  class="fil3 fnt2">Lamiophlomis rotata</text>
+   <text x="58969" y="23006"  class="fil3 fnt7">21.45</text>
+   <text x="66566" y="23006"  class="fil3 fnt7">  </text>
+   <text x="62253" y="23006"  class="fil3 fnt0">            </text>
+   <text x="67296" y="23006"  class="fil3 fnt0"> </text>
+   <text x="59336" y="26777"  class="fil3 fnt7">26.4                  </text>
+   <text x="59006" y="30584"  class="fil3 fnt7">28.73                </text>
+   <text x="59034" y="34367"  class="fil3 fnt7">23.51                </text>
+   <text x="59201" y="38726"  class="fil3 fnt7">4.29                    </text>
+   <text x="59371" y="41945"  class="fil3 fnt7">3.73                    </text>
+   <text x="59336" y="45776"  class="fil3 fnt7">9.90                       </text>
+   <text x="59371" y="49559"  class="fil3 fnt7">3.03                   </text>
+   <text x="58973" y="53342"  class="fil3 fnt7">44.46                  </text>
+   <text x="59336" y="57148"  class="fil3 fnt7">4.44                    </text>
+   <text x="59358" y="60932"  class="fil3 fnt7">15.5                    </text>
+   <text x="59336" y="64738"  class="fil3 fnt7">3.74                      </text>
+   <text x="59352" y="68545"  class="fil3 fnt7">3.18                         </text>
+   <text x="69907" y="22996"  class="fil3 fnt7">7.77                </text>
+   <text x="69538" y="26789"  class="fil3 fnt7">17.86              </text>
+   <text x="69570" y="30572"  class="fil3 fnt7">25.63              </text>
+   <text x="69570" y="34379"  class="fil3 fnt7">20.03                  </text>
+   <text x="69922" y="38162"  class="fil3 fnt7">5.45               </text>
+   <text x="69916" y="41945"  class="fil3 fnt7">5.18                   </text>
+   <text x="70813" y="45753"  class="fil3 fnt7">0                     </text>
+   <text x="69541" y="49559"  class="fil3 fnt7">14.49                  </text>
+   <text x="69558" y="53342"  class="fil3 fnt7">25.15              </text>
+   <text x="69599" y="57125"  class="fil3 fnt7">10.81              </text>
+   <text x="69552" y="60932"  class="fil3 fnt7">12.18                  </text>
+   <text x="69935" y="64715"  class="fil3 fnt7">6.23               </text>
+   <text x="70860" y="68547"  class="fil3 fnt7">0                 </text>
+   <text x="80547" y="23006"  class="fil3 fnt7">4.03                     </text>
+   <text x="80163" y="26765"  class="fil3 fnt7">30.48                   </text>
+   <text x="80210" y="30572"  class="fil3 fnt7">34.51                   </text>
+   <text x="81424" y="34404"  class="fil3 fnt7">0                      </text>
+   <text x="80163" y="38186"  class="fil3 fnt7">15.38                  </text>
+   <text x="81424" y="41970"  class="fil3 fnt7">0                     </text>
+   <text x="81424" y="45753"  class="fil3 fnt7">0                     </text>
+   <text x="81424" y="49560"  class="fil3 fnt7">0                     </text>
+   <text x="80163" y="53342"  class="fil3 fnt7">15.38                 </text>
+   <text x="80128" y="57148"  class="fil3 fnt7">13.52                 </text>
+   <text x="81401" y="60933"  class="fil3 fnt7">0                    </text>
+   <text x="80130" y="64738"  class="fil3 fnt7">31.47                </text>
+   <text x="80488" y="68545"  class="fil3 fnt7">5.10                  </text>
+   <text x="92012" y="23007"  class="fil3 fnt7">0</text>
+   <text x="92012" y="26790"  class="fil3 fnt7">0</text>
+   <text x="92012" y="30597"  class="fil3 fnt7">0</text>
+   <text x="92012" y="34380"  class="fil3 fnt7">0</text>
+   <text x="92012" y="38163"  class="fil3 fnt7">0</text>
+   <text x="92012" y="41970"  class="fil3 fnt7">0</text>
+   <text x="92012" y="45729"  class="fil3 fnt7">0</text>
+   <text x="92012" y="49560"  class="fil3 fnt7">0</text>
+   <text x="92012" y="53319"  class="fil3 fnt7">0</text>
+   <text x="92012" y="57126"  class="fil3 fnt7">0</text>
+   <text x="92012" y="60933"  class="fil3 fnt7">0</text>
+   <text x="92012" y="64716"  class="fil3 fnt7">0</text>
+   <text x="92012" y="68547"  class="fil3 fnt7">0</text>
+   <text x="63639" y="13877"  class="fil3 fnt5">不同沙漠化程度群落物种重要值</text>
+   <text x="88730" y="19694"  class="fil3 fnt8">Very severely</text>
+   <text x="79433" y="19694"  class="fil3 fnt8">Severely</text>
+   <text x="68108" y="19694"  class="fil3 fnt8">Moderately</text>
+   <text x="58471" y="19694"  class="fil3 fnt8">Slightly</text>
+   <text x="56177" y="15421"  class="fil3 fnt7">Importance value of species in different-degree desertification region</text>
+   <text x="7397" y="18056"  class="fil3 fnt7">Family</text>
+   <text x="32838" y="17997"  class="fil3 fnt7">Species</text>
+   <text x="6115" y="23971"  class="fil3 fnt8">Cyperaceae</text>
+   <text x="7707" y="31271"  class="fil3 fnt9">Total</text>
+   <text x="6364" y="35506"  class="fil3 fnt8">Gramineae</text>
+   <text x="6799" y="57960"  class="fil3 fnt8">Rosaceae</text>
+   <text x="6322" y="61779"  class="fil3 fnt8">Asteraceae</text>
+   <text x="5016" y="65883"  class="fil3 fnt8">Scrophulariaceae</text>
+   <text x="6912" y="69578"  class="fil3 fnt8">Labiatae</text>
+   <text x="7707" y="54127"  class="fil3 fnt8">Total</text>
+  </g>
+ </g>
+</svg>
