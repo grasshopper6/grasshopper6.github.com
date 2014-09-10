@@ -32,9 +32,25 @@ viewBox="0 0 100100 54108"
         myMapApp.initTooltips("toolTip",tooltipTextStyles,tooltipRectStyles,10,20,3);
         //add tooltip to element
 		myMapApp.addTooltip("zt",undefined,true,false,"target","name");
+		var zt=document.getElementById("zt");
+		var child = zt.firstChild;
+		while (child != null) {
+				child.addEventListener("mouseover", Highlight, false);
+				child.addEventListener("mouseout", HighlightRecover, false);	
+				child = child.nextSibling;
+			}
 		
 	}
-	
+	function Highlight(evt) {
+			var obj = evt.target;
+			obc=obj.getAttributeNS(null,"class");
+	        obj.setAttributeNS(null,"class", "fil100");
+	}
+	function HighlightRecover(evt) {
+			var obj = evt.target;		
+			obj.class=obc;
+			obj.setAttributeNS(null,"class", obc);
+	}
 	
 	function Newlegend1(){
 	 document.getElementById('legend1').setAttribute("style", "visibility: visible");
@@ -100,6 +116,7 @@ viewBox="0 0 100100 54108"
     .str14 {stroke:#AF5C33;stroke-width:27.0541;stroke-linejoin:round;stroke-dasharray:27.054054 81.162162}
     .str9 {stroke:#E40082;stroke-width:40.5811;stroke-dasharray:284.067568 202.905405}
     .str27 {stroke:#332C2B;stroke-width:67.6351;stroke-dasharray:67.635135 67.635135}
+	.fil100{fill:#00ffff}
     .fil3 {fill:none}
     .fil66 {fill:none;fill-rule:nonzero}
     .fil2 {fill:#332C2B}

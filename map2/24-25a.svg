@@ -10,7 +10,7 @@ viewBox="0 0 104000 71875"
     <rect x="32049" y="23720" width="10778" height="4420"/>
    </clipPath>
  </defs>
- <script  xlink:href="../js/Map.js"></script>
+ <script  xlink:href="../js/Map_3.js"></script>
 <script  type="text/javascript" xlink:href="../js/mapApp.js"></script>
 <script  type="text/javascript" xlink:href="../js/helper_functions.js"></script>
 <script  type="text/javascript" xlink:href="../js/timer.js"></script>
