@@ -239,11 +239,11 @@ mapApp.prototype.initTooltips = function(groupId,tooltipTextAttribs,tooltipRectA
 		this.xOffset = xOffset;
 		this.yOffset = yOffset;
 		this.padding = padding;
-	//	if (!this.toolTipGroup) {
+		if (!this.toolTipGroup) {
 			//alert("Error: could not find tooltip group with id '"+groupId+"'. Please specify a correct tooltip parent group id!");
-			//alert("请按F5刷新网页");
-	//	}
-	//	else {
+			alert("请按F5刷新网页");
+		}
+		else {
 			//set tooltip group to invisible
 			this.toolTipGroup.setAttributeNS(null,"visibility","hidden");
 			this.toolTipGroup.setAttributeNS(null,"pointer-events","none");
@@ -271,7 +271,7 @@ mapApp.prototype.initTooltips = function(groupId,tooltipTextAttribs,tooltipRectA
 				this.tooltipRect.setAttributeNS(null,attrib,this.tooltipRectAttribs[attrib]);
 			}
 			this.toolTipGroup.insertBefore(this.tooltipRect,this.tooltipText);
-		//}
+		}
 	}
 	else {
 			alert("Error in method 'initTooltips': wrong nr of arguments! You have to pass over "+nrArguments+" parameters.");			
