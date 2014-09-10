@@ -11,10 +11,10 @@ viewBox="0 0 100100 54108"
    </clipPath>
  </defs>
  <script  xlink:href="../js/Map_3.js"></script>
-<script  type="text/javascript" xlink:href="../js/mapApp.js"></script>
-<script  type="text/javascript" xlink:href="../js/helper_functions.js"></script>
-<script  type="text/javascript" xlink:href="../js/timer.js"></script>
-<script  type="text/javascript">
+<script  type="text/ecmascript" xlink:href="../js/mapApp.js"></script>
+<script  type="text/ecmascript" xlink:href="../js/helper_functions.js"></script>
+<script  type="text/ecmascript" xlink:href="../js/timer.js"></script>
+<script  type="text/ecmascript">
 	var myMapApp = new mapApp(false,undefined);//与tooltip相关
 	var obc;//
 	
