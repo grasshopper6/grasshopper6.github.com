@@ -16,9 +16,14 @@ viewBox="0 0 100100 66733"
 	window.onSVGLoad=initLater();
 	function initLater() {
      //this timeout is because of the bbox bug in Firefox which prevents to have access to bbox in onload scripts
-         window.setTimeout("init()",100);
+    	//	window.setTimeout("init1()",0);
+
+     	window.setTimeout("init2()",3000);
+		window.setTimeout("init2()",7000);
+		window.setTimeout("init2()",10000);
     }
-	function init() {
+	
+	function init2() {
 		  
 	    /* 添加tooltip*/
         //tooltip styles

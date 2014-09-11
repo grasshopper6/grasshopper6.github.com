@@ -10,9 +10,7 @@ viewBox="0 0 100100 57200"
    </clipPath>
  </defs>
   <script  xlink:href="../js/Map.js"></script>
-<script  type="text/javascript" xlink:href="../js/mapApp.js"></script>
-<script  type="text/javascript" xlink:href="../js/helper_functions.js"></script>
-<script  type="text/javascript" xlink:href="../js/timer.js"></script>
+
 
   <script language="Javascript">
     <![CDATA[

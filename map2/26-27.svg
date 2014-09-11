@@ -20,7 +20,9 @@ viewBox="0 0 100000 60000"
     window.onSVGLoad = initLater();
     function initLater() {
         //this timeout is because of the bbox bug in Firefox which prevents to have access to bbox in onload scripts
-        window.setTimeout("init()", 100);
+        window.setTimeout("init()", 3000);
+		window.setTimeout("init()",5000);
+		window.setTimeout("init()",9000);
     }
     function init() {
 

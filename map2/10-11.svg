@@ -12,9 +12,7 @@ viewBox="0 0 8500 6051"
   
  <script  xlink:href="../js/Map0_1.js"></script>
 
- <script  type="text/javascript" xlink:href="../js/mapApp.js"></script>
-<script  type="text/javascript" xlink:href="../js/helper_functions.js"></script>
-<script  type="text/javascript" xlink:href="../js/timer.js"></script>
+
 <script  type="text/javascript">
 	var myMapApp = new mapApp(false,undefined);//与tooltip相关
 	var obc;//

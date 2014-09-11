@@ -23,9 +23,24 @@ viewBox="0 0 104000 71875"
 	window.onload=initLater();
 	function initLater() {
      	//this timeout is because of the bbox bug in Firefox which prevents to have access to bbox in onload scripts
-     	window.setTimeout("init()",0);
+		window.setTimeout("init1()",0);
+
+     	window.setTimeout("init2()",3000);
+		window.setTimeout("init2()",7000);
+		window.setTimeout("init2()",10000);
     }
-	function init() {
+
+	
+	function init1(){
+	var zt=document.getElementById("zt");
+		var child = zt.firstChild;
+		while (child != null) {
+				child.addEventListener("mouseover", Highlight, false);
+				child.addEventListener("mouseout", HighlightRecover, false);	
+				child = child.nextSibling;
+			}
+	}
+	function init2() {
 		
 	    /* 添加tooltip*/
         //tooltip styles
@@ -34,13 +49,8 @@ viewBox="0 0 104000 71875"
         myMapApp.initTooltips("toolTip",tooltipTextStyles,tooltipRectStyles,10,20,3);
         //add tooltip to element
 		myMapApp.addTooltip("zt",undefined,true,false,"target","name");
-		var zt=document.getElementById("zt");
-		var child = zt.firstChild;
-		while (child != null) {
-				child.addEventListener("mouseover", Highlight, false);
-				child.addEventListener("mouseout", HighlightRecover, false);	
-				child = child.nextSibling;
-			}
+		
+		
 	}
 	function Highlight(evt) {
 			var obj = evt.target;
