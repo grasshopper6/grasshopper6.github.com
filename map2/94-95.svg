@@ -7,26 +7,26 @@ viewBox="0 0 100000 72000"
  <script  xlink:href="../js/Map.js"></script>
  <script language="Javascript">
       <![CDATA[
-	
+	var id;
+var bar;
+ var done = 0;
 function ProgressBar(info) {
     var stem = {}; // 此函数最后返回的代表进度条的对象。
-    var done = 0,
-    length, outline, bar; // 声明内部变量。
-    bar = document.getElementById('done'); // 进度条中绿色的变化部分。
-    length = 44800;
-
-    // 重置进度到零。
+    var length, outline, barr; // 声明内部变量。
+    barr = document.getElementById('done'); // 进度条中绿色的变化部分。
+    length = 50400;
+    var ll=barr.getAttribute("width");
     function reset() {
         return to(0);
     }
     // 设置进度到某个值。
     function to(value) {
-        if (value >= 44800) {
-            done = 44800;
-            bar.setAttribute('width', length);
+        if (value >= 50400) {
+            done = 50400;
+            barr.setAttribute('width', length);
         } else {
             done = value;
-            bar.setAttribute('width', Math.round(done * length / 44800));
+            barr.setAttribute('width', Math.round(done * length / 50400));
         }
         return stem;
     }
@@ -46,7 +46,7 @@ function ProgressBar(info) {
 }
 // 测试进度条对象。
 function testBar() {
-    var bar = ProgressBar();
+     bar = ProgressBar();
     // 此内部函数每运行一次，增加进度值 1，直到进度值为 100。
     function test() {
         if (bar.getDone() === 44800) {
@@ -90,10 +90,10 @@ function testBar() {
         }
     }
     // 每十分之一秒改变一次进度。
-    var id = setInterval(test, 100);
+     id = setInterval(test, 100);
 }
 // 页面载入后开始测试。
-window.addEventListener('load', testBar, true);
+//window.addEventListener('load', testBar, true);
 function SetLength(length) {
     document.getElementById('done').setAttribute('width', length);
     if (length == 0) {
@@ -128,6 +128,11 @@ function SetLength(length) {
         document.getElementById("layer_4").style.display = "none";
     }
 }
+ function play()
+	  {
+	 
+	  testBar();
+	  }
 	   ]]>  
     </script>
  <defs>
@@ -494,7 +499,17 @@ function SetLength(length) {
   <rect class="fil6 str8" x="69435" y="18869" width="4000" height="320"/>
   <rect class="fil0 str8" x="73435" y="18869" width="4000" height="320"/>
  </g>
- 
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_5Corel-Layer"/>
+  <g id="_382351656">
+   <g style="clip-path:url(#id5)">
+    <image x="18447" y="41149" width="2080" height="7800" xlink:href="94-95_ImgID6.png"/>
+   </g>
+   <rect class="fil1 str3" x="18435" y="41165" width="2080" height="7800"/>
+   <text x="21039" y="42345"  class="fil2 fnt3">1</text>
+   <text x="21033" y="48393"  class="fil2 fnt3">0</text>
+  </g>
+ </g>
  <g id="图名例">
   <metadata id="CorelCorpID_6Corel-Layer"/>
   <text x="35741" y="9199"  class="fil2 fnt4">Maximum NDVI value of Tibet during 2000</text>
@@ -510,6 +525,11 @@ function SetLength(length) {
    <text x="64884" y="36000"  class="fil2 fnt7">2004</text>
   </g>
  </g>
+ <g transform ="translate(5500,-1000)">
+	<circle fill="#B6B6B7" onclick="play()" cx="24614" cy="54880" r="982"/>
+    <polygon fill="#FEFEFE" onclick="play()" points="25171,54871 24746,55103 24321,55336 24321,54871 24321,54405 24746,54638 "/>
+	
+  </g>
   <g id='progBar' transform ="translate(18000,5000)"> 
     <rect x='12000' y='51000' width='44800' height='600' stroke='grey' fill='white' stroke-width='250' ry="300" rx="300"/> 
 	<rect id='done' x='12000' y='51000' width='0' height='600' fill='grey' fill-opacity="0.5" ry="300" rx="300"/>
