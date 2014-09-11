@@ -21,7 +21,7 @@ viewBox="0 0 100100 54108"
 	window.onload=initLater();
 	function initLater() {
      	//this timeout is because of the bbox bug in Firefox which prevents to have access to bbox in onload scripts
-     	window.setTimeout("init()",0);
+     	window.setTimeout("init()",4000);
     }
 	function init() {
 		
@@ -6913,6 +6913,7 @@ viewBox="0 0 100100 54108"
   <path id="close" onclick="closeinfotip(1)" fill="#FEFEFE" fill-opacity="0.000000" stroke="#00A2E9" stroke-width="236.221" stroke-opacity="0.000000" d="M58659 24246l-1318 0c-165,0 -300,-135 -300,-300l0 -1318c0,-165 135,-300 300,-300l1318 0c165,0 300,135 300,300l0 1318c0,165 -135,300 -300,300z"/>
   <g clip-path="url(#id0)">
    <image id="_22-23.png" x="34815" y="20745" width="8058" height="4894" xlink:href="22-23infotiplian_ImgID1.png"/>
+
   </g>
  </g>
  
