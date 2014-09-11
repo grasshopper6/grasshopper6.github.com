@@ -14,11 +14,7 @@ viewBox="0 0 104000 71875"
 <script  type="text/javascript" xlink:href="../js/mapApp.js"></script>
 <script  type="text/ecmascript" xlink:href="../js/helper_functions.js"></script>
 <script  type="text/ecmascript" xlink:href="../js/timer.js"></script>
-<script  type="text/ecmascript">
-<![CDATA[
 
-      ]]>	
-</script>
 <script  type="text/ecmascript">
 <![CDATA[
 	var myMapApp = new mapApp(false,undefined);//与tooltip相关

@@ -242,7 +242,7 @@ mapApp.prototype.initTooltips = function(groupId,tooltipTextAttribs,tooltipRectA
 		if (!this.toolTipGroup) {
 			//alert("Error: could not find tooltip group with id '"+groupId+"'. Please specify a correct tooltip parent group id!");
 			alert("请按F5刷新网页");
-			//window.location.reload();
+			window.location.reload();
 		}
 		else {
 			//set tooltip group to invisible
