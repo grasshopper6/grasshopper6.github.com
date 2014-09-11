@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW X6 -->
-<svg  onload="Init(evt)" xmlns="http://www.w3.org/2000/svg" xml:space="preserve"  x="0px" y="0px" width="1001px" height="800px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+<svg  onload="Init(evt)" xmlns="http://www.w3.org/2000/svg" xml:space="preserve"  x="0px" y="0px" width="1001px" height="900px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
 viewBox="0 0 100100 92011"
  xmlns:xlink="http://www.w3.org/1999/xlink">
   <script  xlink:href="../js/Map.js"></script>
@@ -11,9 +11,9 @@ viewBox="0 0 100100 92011"
 	  window.onSVGLoad=initLater();
 		function initLater() {
      	//this timeout is because of the bbox bug in Firefox which prevents to have access to bbox in onload scripts
-     	     window.setTimeout("init()", 2000);
-		window.setTimeout("init()",5000);
-		window.setTimeout("init()",9000);
+     	window.setTimeout("init()",5000);
+		window.setTimeout("init()",8000);
+		window.setTimeout("init()",10000);
     }
 	function init() {
 		
@@ -24,7 +24,6 @@ viewBox="0 0 100100 92011"
 				child.addEventListener("mouseout", HighlightRecover, false);	
 				child.addEventListener("click",changecolora,false);
 				child = child.nextSibling;
-			}
 			}
 			var ztb=document.getElementById("ztb");
 /*	var child = ztb.firstChild;
@@ -2354,7 +2353,6 @@ viewBox="0 0 100100 92011"
    <stop offset="1" style="stop-color:#A0D9F6"/>
   </linearGradient>
  </defs>
-   <g id="map">
 <symbol id="符号29" viewBox="49926 27620 247 371">
  <polygon class="fil0" points="49929,27991 50048,27620 50174,27991 49926,27991 "/>
 </symbol>
@@ -11712,5 +11710,5 @@ viewBox="0 0 100100 92011"
   <line fill="none" stroke="#00A2E9" stroke-width="236.221" x1="17394" y1="51006" x2="18294" y2= "51906" />
   <path id="close"    onclick="closeinfotip(1)"  fill="#FEFEFE" fill-opacity="0.000000" stroke="#00A2E9" stroke-width="236.221" stroke-opacity="0.000000" d="M17259 50604l1170 0c147,0 266,120 266,266l0 1170c0,147 -120,266 -266,266l-1170 0c-147,0 -266,-120 -266,-266l0 -1170c0,-147 120,-266 266,-266z"/>
  </g>
- </g></g>
+ </g>
 </svg>
