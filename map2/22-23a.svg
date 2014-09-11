@@ -24,8 +24,8 @@ viewBox="0 0 100100 54108"
      	//this timeout is because of the bbox bug in Firefox which prevents to have access to bbox in onload scripts
 		window.setTimeout("init1()",0);
 
-     	//window.setTimeout("init2()",4000);
-		window.setTimeout("init3()",8000);
+     	window.setTimeout("init2()",4000);
+		window.setTimeout("init2()",8000);
     }
 
 	
