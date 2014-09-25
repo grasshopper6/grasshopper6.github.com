@@ -37,7 +37,7 @@ viewBox="0 0 100000 100000"
          var tooltipTextStyles = {
              "font-family": "Arial,Helvetica",
             "fill": "dimgray",
-            "font-size": 130
+            "font-size": 1300
         };
         var tooltipRectStyles = {
              "fill": "white",
